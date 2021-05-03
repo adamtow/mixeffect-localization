@@ -618,6 +618,7 @@
 "connect"                       = "Connect";
 "connecting"                    = "Connecting";
 "connection-help"               = "Connection Help";
+"default-section"               = "Default Section";
 "disconnect"                    = "Disconnect";
 "edit-switcher"                 = "Edit Switcher";
 "new-atem-switcher"             = "New ATEM Switcher";
