@@ -398,6 +398,7 @@
 "set-preset"                    = "Set Preset Layout";
 "supersource-macro-pause"       = "Add Pause Steps When Recording Macros";
 "show-box-controls"             = "Show Box Controls";
+"show-box-colors"               = "Differentiate Boxes with Colors";
 "show-descriptions"             = "Show Descriptions";
 "speed-extra-slow"              = "Extra Slow";
 "speed-extra-fast"              = "Extra Fast";
