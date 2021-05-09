@@ -127,8 +127,9 @@
 "select"                        = "Select";
 "server"                        = "Server";
 "service"                       = "Service";
-"set-default"                   = "Set Default                                                              ";
+"set-default"                   = "Set Default";
 "set-timecode"                  = "Set Timecode";
+"set-timecode-device"           = "Set to Device Time";
 "set"                           = "Set";
 "show-timecode"                 = "Show Timecode";
 "sort-ascending"                = "Sort Ascending";
@@ -394,6 +395,7 @@
 "new-layout"                    = "New Layout";
 "new-layout-title"              = "New SuperSource Layout";
 "new-layout-description"        = "Enter a name for the new SuperSource preset layout.";
+"save-preset-icon"              = "Save Preset Icon";
 "search-presets"                = "Search Presets";
 "set-preset"                    = "Set Preset Layout";
 "supersource-macro-pause"       = "Add Pause Steps When Recording Macros";
@@ -411,6 +413,12 @@
 "supersource"                   = "SuperSource";
 "supersource-layouts"           = "SuperSource Layouts";
 "swap-boxes"                    = "Swap Boxes";
+"thumbnail-companion"           = "Companion (72 x 40.5)";
+"thumbnail-small"               = "Small (96 x 54)";
+"thumbnail-big"                 = "Big (144 x 81)";
+"thumbnail-sd"                  = "SD (640 x 360)";
+"thumbnail-hd720"               = "720p (1280 x 720)";
+"thumbnail-hd1080"              = "1080p (1920 x 1080)";
 "to-all-boxes"                  = "To All Boxes";
 "to"                            = "To";
 "transition-speed"              = "Transition Speed";
@@ -843,6 +851,8 @@
 "enable-atem-simulator"         = "Enable ATEM Simulator";
 "enable-automations"            = "Enable Automations";
 "enable-hot-keys"               = "Enable Switcher Hot Keys";
+"enable-osc"                    = "Enable OSC";
+"enable-osc-server"             = "Enable OSC Server";
 "enable-shortcuts"              = "Enable Shortcuts";
 "enable-video-follows-audio"    = "Enable Video Follows Audio";
 "experimental-settings"         = "Experimental Settings";
@@ -862,7 +872,10 @@
 "microphone-plug-in-power"      = "Microphone + Plug in power (normal)";
 "microphone"                    = "Microphone";
 "minimize-off-audio"            = "Minimize Disabled Audio Sources";
+"osc"                           = "OSC";
+"osc-port"                      = "OSC Port";
 "panel-titles"                  = "Show Panel Titles";
+"port"                          = "Port";
 "pro-line"                      = "Pro Line";
 "protocol-reload"               = "Reconnect When Missing Procotol Detected";
 "protocol-reload-description"   = "Automatically reconnect when an incomplete connection is detected.";
@@ -1108,6 +1121,8 @@
 "get-shortcut"                          = "Get";
 "mixeffect-helper-description"          = "Run this shortcut at the start of your MixEffect shortcuts.";
 "mixeffect-helper"                      = "MixEffect Helper";
+"more-shortcuts"                        = "More Shortcuts";
+"more-shortcuts-description"            = "Get more shortcuts from MixEffect.app/shortcuts";
 "sample-shortcuts"                      = "Sample Shortcuts";
 "shortcut-auto-phrase"                  = "Perform Auto Transition";
 "shortcut-auto"                         = "Auto";
@@ -1129,8 +1144,6 @@
 "shortcut-preview-transition"           = "Preview Transition";
 "shortcut-run-macro-phrase"             = "Run Macro";
 "shortcut-run-macro"                    = "Run Macro";
-"ssrc-transition-helper"                = "SSRC Transition Helper";
-"ssrc-transition-helper-description"    = "Create animated transitions between SuperSource layouts.";
 
 // In-App Purchases
 
