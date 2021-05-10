@@ -20,18 +20,18 @@
 
 // General
 
-"add"                           = "Add";
-"all"                           = "All";
-"ascending"                     = "Ascending";
+"add"                           = "Adicionar";
+"all"                           = "Tudo";
+"ascending"                     = "Ascendente";
 "atem-switcher"                 = "ATEM Switcher";
 "atem"                          = "ATEM";
-"audio-follows-video"           = "Audio Follows Video";    // Audio Follows Video
+"audio-follows-video"           = "Audio Segue Video";    // Audio Follows Video
 "auto-reconnect"                = "Auto-Reconnect";         // Auto-Reconnect toggle
 "auto"                          = "Auto";                   // Auto button
 "aux %lld"                      = "AUX %lld";               // AUX +index
 "aux-view-style"                = "AUX View Style";
 "aux%lld"                       = "AUX%lld";                // AUX +index
-"back"                          = "Back";
+"back"                          = "Atrás";
 "bkgd"                          = "Bkgd";
 "button"                        = "Button";
 "buttons"                       = "Buttons";
