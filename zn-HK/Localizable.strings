@@ -399,8 +399,9 @@
 "search-presets"                = "Search Presets";
 "set-preset"                    = "Set Preset Layout";
 "supersource-macro-pause"       = "Add Pause Steps When Recording Macros";
-"show-box-controls"             = "Show Box Controls";
+"show-box-controls"             = "Box Controls";
 "show-box-colors"               = "Differentiate Boxes with Colors";
+"show-box-sources"              = "Box Sources";
 "show-descriptions"             = "Show Descriptions";
 "speed-extra-slow"              = "Extra Slow";
 "speed-extra-fast"              = "Extra Fast";
@@ -411,9 +412,10 @@
 "ssrc %lld"                     = "SSRC %lld";
 "ssrc"                          = "SSRC";
 "supersource"                   = "SuperSource";
+"supersource-boxes"             = "SuperSource Boxes";
 "supersource-layouts"           = "SuperSource Layouts";
 "swap-boxes"                    = "Swap Boxes";
-"thumbnail-companion"           = "Companion (72 x 40.5)";
+"thumbnail-companion"           = "Companion (72 x 41)";
 "thumbnail-small"               = "Small (96 x 54)";
 "thumbnail-big"                 = "Big (144 x 81)";
 "thumbnail-sd"                  = "SD (640 x 360)";
