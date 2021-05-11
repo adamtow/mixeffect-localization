@@ -281,7 +281,7 @@
 "add-default-presets"           = "Add Default Presets";
 "add-favorite"                  = "Add Favorite";
 "animation"                     = "Animation";
-"animation-speed"               = "Animation Speed";
+"animation-speed"               = "Speed";
 "auto-supersource"              = "Auto to SuperSource";
 "art"                           = "Art";
 "background"                    = "Background";
@@ -399,9 +399,9 @@
 "search-presets"                = "Search Presets";
 "set-preset"                    = "Set Preset Layout";
 "supersource-macro-pause"       = "Add Pause Steps When Recording Macros";
-"show-box-controls"             = "Box Controls";
+"show-box-controls"             = "Show Box Controls";
 "show-box-colors"               = "Differentiate Boxes with Colors";
-"show-box-sources"              = "Box Sources";
+"show-box-sources"              = "Show Box Sources";
 "show-descriptions"             = "Show Descriptions";
 "speed-extra-slow"              = "Extra Slow";
 "speed-extra-fast"              = "Extra Fast";
@@ -427,6 +427,16 @@
 "update-preset"                 = "Update Preset";
 "view-all"                      = "View All";
 "with-box %lld"                 = "With Box %lld";
+
+"interpolation-linear"          = "Linear";
+"interpolation-smooth"          = "Smooth";
+"interpolation-smoother"        = "Smoother";
+"interpolation-squared"         = "Squared";
+"interpolation-inverse-squared" = "Inverse Squared";
+"interpolation-cubed"           = "Cubed";
+"interpolation-inverse-cubed"   = "Inverse Cubed";
+"interpolation-sine"            = "Sine";
+"interpolation-cosine"          = "Cosine";
 
 // Macros
 
