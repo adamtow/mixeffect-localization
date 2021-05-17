@@ -13,9 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>Hold for %lld sec</string>
+			<string>Für %lld sek gedrückt halten</string>
 			<key>other</key>
-			<string>Hold for %lld secs</string>
+			<string>Für %lld sek gedrückt halten</string>
 		</dict>
 	</dict>
 	<key>%lld frames-delay</key>
@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld Frame Delay</string>
+			<string>%lld Frame Verzögerung</string>
 			<key>other</key>
-			<string>%lld Frames Delay</string>
+			<string>%lld Frames Verzögerung</string>
 		</dict>
 	</dict>
 	<key>%lld days</key>

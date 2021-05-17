@@ -10,79 +10,79 @@
 // Parameterized localizations
 "app-name"                      = "MixEffect";
 "app-name-pro"                  = "MixEffect Pro";
-"app-name-trial"                = "MixEffect Trial";
+"app-name-trial"                = "MixEffect Test";
 
-"tagline"                       = "Professional Control Over Your ATEM Switchers!";
-"take-the-tour"                 = "Take the Tour";
-"tour"                          = "Tour";
-"welcome"                       = "Welcome to MixEffect";
-"welcome-tagline"               = "Professional Control Over Your ATEM Switchers!";
+"tagline"                       = "Die professionelle Steuerungfür deinen  ATEM Switcher!";
+"take-the-tour"                 = "Jetzt kennenlernen";
+"tour"                          = "Kennenlernen";
+"welcome"                       = "Willkommen bei MixEffect";
+"welcome-tagline"               = "Die professionelle Steuerungfür deinen  ATEM Switcher!";
 
 // General
 
-"add"                           = "Add";
-"all"                           = "All";
-"ascending"                     = "Ascending";
+"add"                           = "Hinzufügen";
+"all"                           = "Alle";
+"ascending"                     = "Aufsteigend";
 "atem-switcher"                 = "ATEM Switcher";
 "atem"                          = "ATEM";
-"audio-follows-video"           = "Audio Follows Video";    // Audio Follows Video
-"auto-reconnect"                = "Auto-Reconnect";         // Auto-Reconnect toggle
-"auto"                          = "Auto";                   // Auto button
-"aux %lld"                      = "AUX %lld";               // AUX +index
+"audio-follows-video"           = "Audio folgt Video";          // Audio Follows Video
+"auto-reconnect"                = "Automatisch neu verbinden";  // Auto-Reconnect toggle
+"auto"                          = "Auto";                       // Auto button
+"aux %lld"                      = "AUX %lld";                   // AUX +index
 "aux-view-style"                = "AUX View Style";
-"aux%lld"                       = "AUX%lld";                // AUX +index
-"back"                          = "Back";
-"bkgd"                          = "Bkgd";
-"button"                        = "Button";
-"buttons"                       = "Buttons";
-"cancel"                        = "Cancel";
-"change-rate"                   = "Change Rate";
-"change"                        = "Change";
-"choose"                        = "Choose";
-"close"                         = "Close";
-"color %lld"                    = "Color %lld";             // Color Generator
-"color"                         = "Color";                  // Cut button
-"compact-controls"              = "Compact Controls";
-"crosspoint-selector"           = "Crosspoint Selector";
-"cut"                           = "Cut";                    // Cut button
-"delete"                        = "Delete";                 //
-"descending"                    = "Descending";
-"description"                   = "Description";            //
-"dip-source"                    = "Dip Source";             //
-"dip"                           = "Dip";                    //
-"display-status"                = "Display Status";
+"aux%lld"                       = "AUX%lld";                    // AUX +index
+"back"                          = "Zurück";
+"bkgd"                          = "Hintergrund";
+"button"                        = "Taste";
+"buttons"                       = "Tasten";
+"cancel"                        = "Abbrechen";
+"change-rate"                   = "Rate ändern";
+"change"                        = "Ändern";
+"choose"                        = "Auswählen";
+"close"                         = "Schließen";
+"color %lld"                    = "Farbe %lld";             // Color Generator
+"color"                         = "Farbe";                  // Cut button
+"compact-controls"              = "Vereinfachte Bedienung";
+"crosspoint-selector"           = "Übergangspunkt setzen";
+"cut"                           = "CUT";                    // Cut button
+"delete"                        = "Löschen";                //
+"descending"                    = "Absteigend";
+"description"                   = "Beschreibung";           //
+"dip-source"                    = "DIP Quelle";             //
+"dip"                           = "DIP";                    //
+"display-status"                = "Anzeige Status";
 "display"                       = "Display";                // Display section header
-"done"                          = "Done";                   // Done button
-"dont-change"                   = "Don't Change";
-"dont-show-again"               = "Don't Show Again";
+"done"                          = "Fertig";                 // Done button
+"dont-change"                   = "Nicht ändern";
+"dont-show-again"               = "Nicht wieder anzeigen";
 "dsk %lld"                      = "DSK %lld";               // Downstream Keyer +index
-"dsk"                           = "DSK";
-"dve-full"                      = "DVE Full";               //
-"dve-picture-in-picture"        = "DVE Picture-in-Picture";
-"dve-pip"                       = "DVE PIP";
-"dve"                           = "DVE";                    //
-"edit-name"                     = "Edit Name";
-"edit"                          = "Edit";
-"fade-to-black"                 = "Fade to Black";          // Fade to Black section title
-"fader-bar"                     = "Fader Bar";
-"fill-source"                   = "Fill Source";            //
-"fill"                          = "Fill";                   //
+"dsk"                           = "DSK";                    // DSK is commonly known in de-DE also
+"dve-full"                      = "DVE Vollbild";           // DVE is commonly known in de-DE also
+"dve-picture-in-picture"        = "DVE Bild-in-Bild";
+"dve-pip"                       = "DVE PIP";                // PIP is commonly known in de-DE also
+"dve"                           = "DVE";
+"edit-name"                     = "Name bearbeiten";
+"edit"                          = "Bearbeiten";
+"fade-to-black"                 = "Schwarzblende";          // Fade to Black section title
+"fader-bar"                     = "Überblender";
+"fill-source"                   = "Fill Quelle";           //
+"fill"                          = "Fill";                  //
 "free-run"                      = "Free Run";
-"ftb"                           = "FTB";                    // Fade to Black button
-"grid"                          = "Grid";
-"hour"                          = "Hour";
-"hours"                         = "Hours";
-"icon"                          = "Icon";
-"icons"                         = "Icons";
+"ftb"                           = "FTB";                   // FTP is commonly known in de-DE also
+"grid"                          = "Raster";
+"hour"                          = "Stunde";
+"hours"                         = "Stunden";
+"icon"                          = "Symbol";
+"icons"                         = "Symbole";
 "index"                         = "Index";
-"ip-address-example"            = "e.g. 10.0.1.100";
-"ip-address"                    = "IP Address";
+"ip-address-example"            = "z.B. 10.0.1.100";
+"ip-address"                    = "IP Adresse";
 "key %lld"                      = "Key %lld";               // Keyer +index
-"key-source"                    = "Key Source";             //
+"key-source"                    = "Key Quelle";             //
 "key"                           = "Key";
-"key"                           = "Key";                    //
-"list"                          = "List";                   //
-"mask"                          = "Mask";
+"key"                           = "Key"; 
+"list"                          = "Liste";
+"mask"                          = "Maske";
 "media-pool-split"              = "Changing the Media Pool split will erase all clip frames in the Media Pool.\n\nThis operation cannot be undone.";
 "media-pool"                    = "Media Pool";
 "mediaplayer %lld"              = "MP%lld";                 // Media Player with index
@@ -949,21 +949,21 @@
 
 // More Settings
 
-"about"                         = "About MixEffect";
-"app-icon"                      = "App Icon";
-"appearance"                    = "Appearance";
-"contact"                       = "Contact";
-"dark"                          = "Dark";
-"default"                       = "Default";
-"documentation"                 = "Documentation";
+"about"                         = "Über MixEffect";
+"app-icon"                      = "App-Symbol";
+"appearance"                    = "Darstellung";
+"contact"                       = "Kontakt";
+"dark"                          = "Dunkel";
+"default"                       = "Standard";
+"documentation"                 = "Dokumentation";
 "feedback"                      = "Feedback";
-"licenses"                      = "Licenses";
-"mailing-list"                  = "MixEffect Mailing List";
-"privacy-policy"                = "Privacy Policy";
-"review"                        = "Rate MixEffect";
-"tip-jar"                       = "Tip Jar";
+"licenses"                      = "Lizenzen";
+"mailing-list"                  = "MixEffect Mailing-Liste";
+"privacy-policy"                = "Datenschutzrichtlinie";
+"review"                        = "MixEffect bewerten";
+"tip-jar"                       = "Kaffeekasse";
 "twitter"                       = "Twitter";
-"version-history"               = "Version History";
+"version-history"               = "Versionshistorie";
 "website"                       = "Website";
 
 // Reset Settings
@@ -975,17 +975,17 @@
 "erase-content"                 = "Erase Content and Settings";
 "erase-title"                   = "Erase Content and Settings";
 "reset-alert"                   = "This will reset all MixEffect settings on this device.\n\nYour ATEM Switcher settings will be unaffected.";
-"reset-settings"                = "Reset Settings";
-"reset-title"                   = "Reset All Settings";
-"reset-warnings"                = "Reset Warnings";
-"reset"                         = "Reset";
+"reset-settings"                = "Einstellungen zurücksetzen";
+"reset-title"                   = "Alle Einstellungen zurücksetzen";
+"reset-warnings"                = "Warnungen zurücksetzen";
+"reset"                         = "Zurücksetzen";
 
 // Navigation Buttons
 
 "audio"                         = "Audio";
 "keyers"                        = "Keyers";
-"transitions"                   = "Transitions";
-"macros"                        = "Macros";
+"transitions"                   = "Übergänge";
+"macros"                        = "Makros";
 "media"                         = "Media";
 "aux"                           = "AUX";
 "auxiliary"                     = "Auxiliary";
@@ -994,27 +994,27 @@
 
 // Transition Duration Context Menu
 
-"0.5-seconds"                   = "0.5 seconds";
-"1.0-seconds"                   = "1.0 seconds";
-"1.5-seconds"                   = "1.5 seconds";
-"2.0-seconds"                   = "2.0 seconds";
-"custom-rate"                   = "Custom Rate…";
+"0.5-seconds"                   = "0.5 Sekunden";
+"1.0-seconds"                   = "1.0 Sekunden";
+"1.5-seconds"                   = "1.5 Sekunden";
+"2.0-seconds"                   = "2.0 Sekunden";
+"custom-rate"                   = "Benutzerdefinierte Rate…";
 
 // Text
 
 // Color Scheme and Appearance
-"color-scheme"                  = "Color Scheme";
+"color-scheme"                  = "Farbschema";
 "color-scheme-system"           = "System";
-"color-scheme-dark"             = "Dark";
-"color-scheme-light"            = "Light";
-"accent-color"                  = "Accent Color";
-"reset-accent-color"            = "Reset Accent Color";
+"color-scheme-dark"             = "Dunkel";
+"color-scheme-light"            = "Hell";
+"accent-color"                  = "Akzentfarbe";
+"reset-accent-color"            = "Akzentfarbe zurücksetzen";
 
 // Feature
 
-"feature-not-available"         = "Feature not available on this switcher.";
-"legacy-audio-unsupported"      = "Legacy Audio is currently unsupported.";
-"unsupported-feature"           = "This feature is not supported by this switcher.";
+"feature-not-available"         = "Funktion ist in diesem Switcher nicht verfügbar.";
+"legacy-audio-unsupported"      = "Legacy Audio wird derzeit nicht unterstützt.";
+"unsupported-feature"           = "Funktion ist in diesem Switcher nicht verfügbar.";
 
 // Audio
 
@@ -1109,102 +1109,102 @@
 
 // Error Messages
 
-"error.default"                 = "An error has occurred.";
-"error.defaultTitle"            = "Error";
-"error.fileNotFound"            = "The file could not be found.";
-"error.fileNotReadable"         = "The file could not be read.";
-"error.importFailed"                = "The file could not be imported.";
-"error.importFileNotValid"          = "The file is not a valid Streaming.xml file";
-"error.intent.automationsDisabled"  = "Automations are disabled.";
-"error.intent.empty"                = "Name cannot be empty.";
-"error.intent.failure"              = "The action could not be completed.";
-"error.intent.notConnected"         = "There is no active switcher connection.";
-"error.intent.notFound"             = "Switcher not found.";
-"error.intent.requiresPro"          = "MixEffect Pro is required to run automations.";
-"error.intent.title"                = "Could Not Run Action";
-"error.intent.viewOnlyMode"         = "Automations are disabled in View Only Mode.";
-"error.saveFailed"                  = "The file could not be saved.";
+"error.default"                     = "Ein Fehler ist aufgetreten.";
+"error.defaultTitle"                = "Fehler";
+"error.fileNotFound"                = "Die Datei konnte nicht gefunden werden.";
+"error.fileNotReadable"             = "Die Datei konnte nicht gelesen werden.";
+"error.importFailed"                = "Die Datei konnte nicht importiert werden.";
+"error.importFileNotValid"          = "Diese Datei hat kein gültiges Streaming.xml Format.";
+"error.intent.automationsDisabled"  = "Sie Automationen sind deakktivert.";
+"error.intent.empty"                = "Der Name darf nicht leer sein.";
+"error.intent.failure"              = "Die Aktion konnte nicht vollständig ausgeführt werden.";
+"error.intent.notConnected"         = "Keine aktive Switcher-verbindung gefunden.";
+"error.intent.notFound"             = "Switcher nicht gefunden.";
+"error.intent.requiresPro"          = "Zum ausführen von Automationen ist MixEffect Pro erforderlich.";
+"error.intent.title"                = "Aktion konnte nicht ausgeührt werden";
+"error.intent.viewOnlyMode"         = "Automationen sind deaktiviert und werden nur angezeigt.";
+"error.saveFailed"                  = "Fehler beim speichern der Datei.";
 
 // Shortcuts
 
-"add-to-siri"                           = "Add to Siri";
-"chroma-title-helper-description"       = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
-"chroma-title-helper"                   = "Chroma Title Helper";
-"get-shortcut"                          = "Get";
-"mixeffect-helper-description"          = "Run this shortcut at the start of your MixEffect shortcuts.";
+"add-to-siri"                           = "Zu Siri hinzufügen";
+"chroma-title-helper-description"       = "Erstellen Sie dynamische Titel und Bauchbinden (lower-thirds) zur Verwendung mit dem Chroma-Upstream-Keyer.";
+"chroma-title-helper"                   = "Chroma Titelhilfe";
+"get-shortcut"                          = "Laden";
+"mixeffect-helper-description"          = "Diesen Kurzbefehl beim starten der MixEffect Kurzbefehle ausführen.";
 "mixeffect-helper"                      = "MixEffect Helper";
-"more-shortcuts"                        = "More Shortcuts";
-"more-shortcuts-description"            = "Get more shortcuts from MixEffect.app/shortcuts";
-"sample-shortcuts"                      = "Sample Shortcuts";
-"shortcut-auto-phrase"                  = "Perform Auto Transition";
+"more-shortcuts"                        = "Weitere Kurzbefehle";
+"more-shortcuts-description"            = "Finden Sie weitere Kurzbefehle unter MixEffect.app/shortcuts";
+"sample-shortcuts"                      = "Besipiele für Kurzbefehle";
+"shortcut-auto-phrase"                  = "Automatischer Übergang";
 "shortcut-auto"                         = "Auto";
-"shortcut-change-layout-phrase"         = "Change Layout";
-"shortcut-change-layout"                = "Change Switcher Page Layout";
-"shortcut-change-section-phrase"        = "Change Section";
-"shortcut-change-section"               = "Change Switcher Section";
-"shortcut-change-transition-phrase"     = "Change Transition Style to Mix";
-"shortcut-change-transition"            = "Change Transition Style";
-"shortcut-connect-description"          = "Connect to one of your switchers in MixEffect.";
-"shortcut-connect"                      = "Connect to MixEffect";
-"shortcut-cut-phrase"                   = "Perform Cut";
-"shortcut-cut"                          = "Cut";
-"shortcut-export-streaming-description" = "Export all or a subset of your streaming services.";
-"shortcut-export-streaming"             = "Export Streaming XML";
-"shortcut-fade-to-black-phrase"         = "Fade to Black";
-"shortcut-fade-to-black"                = "Fade to Black";
-"shortcut-preview-transition-phrase"    = "Toggle Preview Transition Mode";
-"shortcut-preview-transition"           = "Preview Transition";
-"shortcut-run-macro-phrase"             = "Run Macro";
-"shortcut-run-macro"                    = "Run Macro";
+"shortcut-change-layout-phrase"         = "Layout wechseln";
+"shortcut-change-layout"                = "Switcher Seiten-Layout wechseln";
+"shortcut-change-section-phrase"        = "Bereich wechseln";
+"shortcut-change-section"               = "Switcher-Bereich wechseln";
+"shortcut-change-transition-phrase"     = "Art des Übergangs zu Mix einstellen";
+"shortcut-change-transition"            = "Art des Übergangs einstellen";
+"shortcut-connect-description"          = "Mit einem Switcher in MixEffect verbinden.";
+"shortcut-connect"                      = "Mit MixEffect verbinden";
+"shortcut-cut-phrase"                   = "Schnitt ausführen";
+"shortcut-cut"                          = "Schnitt";
+"shortcut-export-streaming-description" = "Einstellungen der Streaming-Services ganz oder teilweise exportieren.";
+"shortcut-export-streaming"             = "Streaming XML Datei exportieren";
+"shortcut-fade-to-black-phrase"         = "Schwarzblende";
+"shortcut-fade-to-black"                = "Schwarzblende";
+"shortcut-preview-transition-phrase"    = "Vorschau-Modus für Übergang wechseln";
+"shortcut-preview-transition"           = "Vorschau für Übergang";
+"shortcut-run-macro-phrase"             = "Makro ausführen";
+"shortcut-run-macro"                    = "Makro ausführen";
 
 // In-App Purchases
 
-"%lld days-remaining"           = "%lld Days Remaining in Trial";
-"buy-later"                     = "Buy Later";
-"pro-about-no-trial"            = "Unlock the following MixEffect Pro features now.";
-"pro-about"                     = "Unlock the following MixEffect Pro features now or start a 30-day free trial.";
+"%lld days-remaining"           = "Noch %lld Tage im Testzeitraum";
+"buy-later"                     = "Später kaufen";
+"pro-about-no-trial"            = "Schalten Sie folgende MixEffect Pro Funktionen jetzt frei.";
+"pro-about"                     = "Schalten Sie folgende MixEffect Pro Funktionen jetzt für einen Testzeitraum von 30 Tagen frei.";
 "pro-feature-audio-title"       = "Audio";
-"pro-feature-audio"             = "See and control every audio input into your ATEM switcher.";
-"pro-feature-automation-title"  = "Automations";
-"pro-feature-automation"        = "Control your switcher using Siri and Shortcuts. Automatically switch inputs based on audio levels.";
-"pro-feature-edit-title"        = "Editing Palettes";
-"pro-feature-edit"              = "Conveniently edit your Transitions, Downstream Keyers, Upstream Keyers, and Color Generators.";
-"pro-feature-general-title"     = "ATEM Control";
-"pro-feature-general"           = "Get total control of your ATEM switcher from the palm of your hand.";
-"pro-feature-macros-title"      = "Macros";
-"pro-feature-macros"            = "Quickly run your macros and record new ones. Filter and sort your macros by index, name, color, or icon.";
-"pro-feature-output-title"      = "Output";
-"pro-feature-output"            = "Update your streaming destinations and recording settings.";
-"pro-feature-pages-title"       = "Customization";
-"pro-feature-pages"                 = "Create customized Switcher pages to fit your personal workflow.";
-"pro-feature-supersource-title"     = "SuperSource";
-"pro-feature-supersource"           = "Take SuperSource to the next level with presets, transition animations and box highlighting.";
+"pro-feature-audio"             = "Jeden Audio-Kanal im ATEM Switcher anzeigen und steuern.";
+"pro-feature-automation-title"  = "Automationen";
+"pro-feature-automation"        = "Steuern Sie Ihren Switcher mit Siri und Kurzbefehlen. Schalten Sie, abhängig von der Lautstärke des Audiosignals, automatisch zwischen Eingängen um.";
+"pro-feature-edit-title"        = "Paletten bearbeiten";
+"pro-feature-edit"              = "Bequemes bearbeiten von Übergängen, Downstream- und Upstream-Keyern sowie Farbpaletten.";
+"pro-feature-general-title"     = "ATEM Steuerung";
+"pro-feature-general"           = "Kontrollieren Sie alle Funktionen Ihres ATEM Switcher einfach mit einer Hand.";
+"pro-feature-macros-title"      = "Makros";
+"pro-feature-macros"            = "Führen Sie bequem Makros aus oder erstellen einfach neue. Filtern und sortieren Sie Ihre Makros nach Index, Name, Folor oder Symbol.";
+"pro-feature-output-title"      = "Ausgabe";
+"pro-feature-output"            = "Erweitern Sie Ihre Konfigugation für Streaming-Ziele and Aufnahmeeinstellungen.";
+"pro-feature-pages-title"       = "Individuelle Anpassung";
+"pro-feature-pages"             = "Erstellen Sie eigene Switcher-Seiten für Ihren persönlichen Arbeitsablauf.";
+"pro-feature-supersource-title" = "SuperSource";
+"pro-feature-supersource"       = "Erweitern Sie SuperSource mit individuellen Voreinstellungen, Animationen für Übergänge und der Markierung von Quellen.";
 "pro"                           = "Pro";
-"purchase-title"                = "Go Pro";
-"purchase"                      = "Purchase";
-"restore-purchases"             = "Restore Purchases";
-"start-trial"                   = "30-Day Trial";
-"start-trial"                   = "Start Trial";
-"trial-expired"                 = "Trial Expired";
-"upgrade-to-pro"                = "Get MixEffect Pro";
+"purchase-title"                = "Zur Pro-Version wechseln";
+"purchase"                      = "Einkauf";
+"restore-purchases"             = "Einkauf wiederherstellen";
+"start-trial"                   = "30-Tage testen";
+"start-trial"                   = "Testzeitraum starten";
+"trial-expired"                 = "Testzeitraum abgelaufen";
+"upgrade-to-pro"                = "Jetzt zu MixEffect Pro wechseln";
 
 // In-App Purchase StoreKit Messages
 
-"store-pro-failure-title"       = "Purchase Error";
-"store-pro-failure"             = "An error occurred during purchase. Please try again";
-"store-pro-success-title"       = "Premium Unlocked";
-"store-pro-success"             = "Thank you for purchasing MixEffect Pro. All features of the application have been unlocked.";
-"store-restore-failure-title"   = "Restore Error";
-"store-restore-failure"         = "There was an error trying to restore your purchase. Please try again later.";
-"store-restore-none-title"      = "Restore Error";
-"store-restore-none"            = "No purchases to restore.";
-"store-restore-success-title"   = "Restore Success";
-"store-restore-success"         = "Your purchase has been restored.";
-"store-tip-failure-title"       = "Purchase Error";
-"store-tip-failure"             = "An error occurred during purchase. Please try again";
-"store-tip-success-title"       = "Thank You";
-"store-tip-success"             = "Your tip is greatly appreciated.";
-"store-trial-expired-title"     = "Trial Expired";
-"store-trial-expired"           = "Your trial of MixEffect Pro has expired.";
-"store-trial-start-title"       = "Trial Begins";
-"store-trial-start"             = "MixEffect Pro features are now unlocked for the next 30 days.";
+"store-pro-failure-title"       = "Fehler beim Einkauf";
+"store-pro-failure"             = "Während des Einkaufs ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+"store-pro-success-title"       = "Premium freigeschaltet";
+"store-pro-success"             = "Danke dass Sie sich für MixEffect Pro entschieden haben. In der Anwendung sind jetzt alle Funktionen freigeschaltet.";
+"store-restore-failure-title"   = "Fehler beim Wiederherstellen";
+"store-restore-failure"         = "Beim Weiderherstellen Ihres Einkaufs ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.";
+"store-restore-none-title"      = "Fehler beim Wiederherstellen";
+"store-restore-none"            = "Es gibt keinen Einkauf, der wiederhergestellt werden könnte.";
+"store-restore-success-title"   = "Erfolgreich wiederhergestellt";
+"store-restore-success"         = "Ihr Einkauf wurde wiederhergestellt.";
+"store-tip-failure-title"       = "Fehler beim Einkauf";
+"store-tip-failure"             = "Während des Einkaufs ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+"store-tip-success-title"       = "Vielen Dank!";
+"store-tip-success"             = "Ihre Spende ist sehr willkommen.";
+"store-trial-expired-title"     = "Testzeitraum abgelaufen";
+"store-trial-expired"           = "Ihr Testzeitraum für MixEffect Pro ist abgelaufen.";
+"store-trial-start-title"       = "Testzeitraum gestartet";
+"store-trial-start"             = "Alle MixEffect Pro Funktionen sind jetzt für 30 Tage freigeschaltet.";
