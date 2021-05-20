@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   AtemController
 
@@ -45,11 +45,11 @@
 "compact-controls"              = "Vereinfachte Bedienung";
 "crosspoint-selector"           = "Übergangspunkt setzen";
 "cut"                           = "CUT";                        // Cut button
-"delete"                        = "Löschen";                
+"delete"                        = "Löschen";
 "descending"                    = "Absteigend";
-"description"                   = "Beschreibung";           
-"dip-source"                    = "DIP Quelle";             
-"dip"                           = "DIP";                    
+"description"                   = "Beschreibung";
+"dip-source"                    = "DIP Quelle";
+"dip"                           = "DIP";
 "display-status"                = "Display Status";
 "display"                       = "Display";                    // Display section header
 "done"                          = "Fertig";                     // Done button
@@ -65,8 +65,8 @@
 "edit"                          = "Bearbeiten";
 "fade-to-black"                 = "Schwarzblende";              // Fade to Black section title
 "fader-bar"                     = "Blendenhebel";
-"fill-source"                   = "Fill Source";          
-"fill"                          = "Fill";                  
+"fill-source"                   = "Fill Source";
+"fill"                          = "Fill";
 "free-run"                      = "Free Run";
 "ftb"                           = "FTB";                        // FTP is commonly known in de-DE also
 "grid"                          = "Raster";
@@ -78,9 +78,9 @@
 "ip-address-example"            = "z.B. 10.0.1.100";
 "ip-address"                    = "IP Adresse";
 "key %lld"                      = "Key %lld";                   // Keyer +index
-"key-source"                    = "Key Source"; 
+"key-source"                    = "Key Source";
 "key"                           = "Key";
-"key"                           = "Key"; 
+"key"                           = "Key";
 "list"                          = "Liste";
 "mask"                          = "Maske";
 "media-pool-split"              = "Wenn Sie die Aufteilung des Medien-Pools ändern, werden alle enthaltenen Bildsequenzen gelöscht.\n\nDieser Vorgang kann nicht rückgängig gemacht werden.";
@@ -92,7 +92,7 @@
 "minute"                        = "Minute";
 "minutes"                       = "Minuten";
 "mix-effects-bus"               = "Mix Effekt Bus";
-"mix"                           = "Mix";                    
+"mix"                           = "Mix";
 "mixeffect %lld"                = "M/E %lld";                   // M/E
 "more"                          = "Mehr";
 "mp"                            = "MP";                         // Media Player mit index
@@ -105,13 +105,17 @@
 "on-air"                        = "On Air";                     // On Air button for DSK and USK
 "on"                            = "An";
 "output"                        = "Ausgang";
+"panel-cut-auto"				= "Cut / Auto";
 "preset"                        = "Vorsinstelung";
 "preview-button"                = "Prev";
 "preview-transition"            = "Prev Trans";                 // Preview Übergang button
 "preview"                       = "Vorschau";                   // Preview Bus section title
+"preview-wide"					= "Preview Wide Input";
 "program-button"                = "Prog";
 "program"                       = "Programm";                   // Program Bus section title
 "program-preview"               = "Programm / Vorschau";
+"program-preview-wide"			= "Program / Preview Wide";
+"program-wide"					= "Program Wide Input";
 "quality"                       = "Qualität";
 "rate"                          = "Rate";                       // Rate title
 "record"                        = "Aufnahme";                   // Record
@@ -280,6 +284,7 @@
 
 "add-default-presets"           = "Standard-Voreinstellung hinzufügen";
 "add-favorite"                  = "Favoriten hinzufügen";
+"add-tags"						= "Add Tags";
 "animation"                     = "Animation";
 "animation-speed"               = "Geschwindigkeit";
 "auto-supersource"              = "Auto nach SuperSource";
@@ -298,17 +303,22 @@
 "box-count"                     = "Anzahl der Felder";
 "box"                           = "Feld";
 "boxes"                         = "Felder";
+"constrain"						= "Constrain";
+"constrain-horizontally"		= "Constrain Horizontally";
+"constrain-vertically"			= "Constrain Vertically";
 "control"                       = "Steuerung";
 "copy-from"                     = "Feld kopieren von";
 "copy"                          = "Kopieren";
 "count-selected %lld"           = "Ausgewählte Voreinstellungen: %lld";
 "crop"                          = "Beschneiden";
+"current-preset"				= "Current Preset";
 "cut-supersource"               = "Cut nach SuperSource";
 "delete-layout"                 = "Layout löschen";
 "delete-layout-description"     = "Layout wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!";
 "delete-layouts"                = "Layouts löschen";
 "delete-layouts-description"    = "Augewählte Layouts wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!";
 "dismiss-on-tap"                = "Beim Antippen verwerfen";
+"duplicate"						= "Duplicate";
 "edit-description"              = "Beschreibung ändern";
 "enable-box"                    = "Feld aktivieren";
 "enable-crop"                   = "Beschnitt aktivieren";
@@ -318,6 +328,8 @@
 "foreground"                    = "Vordergrund";
 "from"                          = "Von";
 "go-to-switcher"                = "Zu Mischer wechseln";
+"grid-off"						= "Grid Off";
+"grid-on"						= "Grid On";
 "hide-descriptions"             = "Beschreibung ausblenden";
 "highlight"                     = "Markierung";
 "highlight-by"                  = "Markierte Box vergrößern";
@@ -383,6 +395,7 @@
 
 "presets"                       = "Voreinstellungen";
 "remove-favorite"               = "Favorit entfernen";
+"remove-tags"					= "Remove Tags";
 "rename"                        = "Umbenennen";
 "rename-layout-title"           = "SuperSource Layout umbenennen";
 "rename-layout-description"     = "Beschreibung für Layout ändern";
@@ -397,12 +410,14 @@
 "new-layout-description"        = "Geben Sie einen Namen für das neue SuperSource Layout an.";
 "save-preset-icon"              = "Symbol für Voreinstellung speichern";
 "search-presets"                = "Voreinstellungen suchen";
+"set-grid-size"					= "Set Grid Size";
 "set-preset"                    = "Voreingestelltes Layout übernehmen";
 "supersource-macro-pause"       = "Pausen beim Aufnehmen von Makros hinzufügen";
 "show-box-controls"             = "Box Steuerung anzeigen";
 "show-box-colors"               = "Boxen mit unterschiedlichen Farben darstellen";
 "show-box-sources"              = "Quellen der Box anzeigen";
 "show-descriptions"             = "Beschreibung anzeigen";
+"show-transition-speed-menu"	= "Show Transition Speed Menu";
 "speed-extra-slow"              = "Extra langsam";
 "speed-extra-fast"              = "Extra scnhell";
 "speed-fast"                    = "Schnell";
@@ -411,6 +426,7 @@
 "speed-slow"                    = "Langsam";
 "ssrc %lld"                     = "SSRC %lld";
 "ssrc"                          = "SSRC";
+"sticky-current-preset"			= "Sticky Current Preset";
 "supersource"                   = "SuperSource";
 "supersource-boxes"             = "SuperSource Boxen";
 "supersource-layouts"           = "SuperSource Layouts";
@@ -426,7 +442,7 @@
 "transition-speed"              = "Geschwindigkeit des Übergangs";
 "update-preset"                 = "Voreinstellung aktualisieren";
 "view-all"                      = "Alle anzeigen";
-"with-box %lld"                  = "mit Box %lld";
+"with-box %lld"                 = "mit Box %lld";
 
 "interpolation-linear"          = "Linear";
 "interpolation-smooth"          = "Weich";
@@ -437,6 +453,32 @@
 "interpolation-inverse-cubed"   = "Umgekehrt würfelartig";
 "interpolation-sine"            = "Sinus";
 "interpolation-cosine"          = "Cosinus";
+
+// Aspect Ratios
+
+"1:1"							= "Square (1:1)";
+"16:9"							= "HD (16:9)";
+"3:2"							= "35mm (3:2)";
+"2:3"							= "35mm (2:3)";
+"4:3"							= "SD (4:3)";
+"3:4"							= "SD (3:4)";
+"5:4"							= "5:4";
+"4:5"							= "4:5";
+"5:7"							= "5:7";
+"7:5"							= "7:5";
+"9:16"							= "9:16";
+"1.33:1"						= "Super 35 (1.33:1)";
+"1.37:1"						= "Academy (1.37:1)";
+"1.43:1"						= "IMAX (1.43:1)";
+"1.66:1"						= "VistaVision (1.66:1)";
+"1.85:1"						= "Anamorphic Widescreen (1.85:1)";
+"1.90:1"						= "IMAX (1.90:1)";
+"2:1"							= "VistaVision (2:1)";
+"2.35:1"						= "Super 35 (2.35:1)";
+"2.59:1"						= "Cinerama (2.59:1)";
+"2.65:1"						= "Cinerama (2.65:1)";
+"2.66:1"						= "Cinemascope (2.66:1)";
+"2.76:1"						= "70mm (2.76:1)";
 
 // Macros
 
@@ -926,7 +968,7 @@
 "current-mixeffect"               = "Aktueller M/E";
 "do-nothing"                      = "Keine Aktion";
 "enable-for-source"               = "Video-folgt-Audio aktivieren";
-"greater-than"                    = "Größer als;
+"greater-than"                    = "Größer als";
 "hold-for"                        = "Einfrieren Sekunden";
 "hold"                            = "Halten";
 "less-than"                       = "Weniger als";
@@ -973,6 +1015,9 @@
 "erase-confirm"                   = "Sind Sie wirklich sicher, dass Sie alle MixEffect Inhalte und Einstellungen löschen wollen?\n\nAlle Inhalte, auf allen mit diesem iCloud-Konto verbundenen Geräten, erden gelöscht!\n\nDie ATEM Mischer-Einstellungen bleiben erhalten.\n\nDieser Vorgang kann nicht rückgängig gemacht werden.";
 "erase-content"                   = "Inhalte und Einstellungen löschen";
 "erase-title"                     = "Löschen der Inhalte und Einstellungen";
+"repair"						  = "Repair";
+"repair-supersource"			  = "Repair SuperSource";
+"repair-supersource-alert"		  = "This will attempt to repair any problems with your SuperSource layouts.";
 "reset-alert"                     = "Dieser Vorgang setzt alle MixEffect-Einstellungen auf diesem Gerät zurück.\n\nDie ATEM Mischer-Einstellungen bleiben erhalten.";
 "reset-settings"                  = "Einstellungen zurücksetzen";
 "reset-title"                     = "Alle Einstellungen zurücksetzen";
