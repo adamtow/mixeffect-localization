@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   AtemController
 
@@ -437,6 +437,32 @@
 "interpolation-inverse-cubed"   = "Do odwrotności sześcianu";
 "interpolation-sine"            = "Do sinusa";
 "interpolation-cosine"          = "Do cosinusa";
+
+// Aspect Ratios
+
+"1:1"                           = "Square (1:1)";
+"16:9"                          = "HD (16:9)";
+"3:2"                           = "35mm (3:2)";
+"2:3"                           = "35mm (2:3)";
+"4:3"                           = "SD (4:3)";
+"3:4"                           = "SD (3:4)";
+"5:4"                           = "5:4";
+"4:5"                           = "4:5";
+"5:7"                           = "5:7";
+"7:5"                           = "7:5";
+"9:16"                          = "9:16";
+"1.33:1"                        = "Super 35 (1.33:1)";
+"1.37:1"                        = "Academy (1.37:1)";
+"1.43:1"                        = "IMAX (1.43:1)";
+"1.66:1"                        = "VistaVision (1.66:1)";
+"1.85:1"                        = "Anamorphic Widescreen (1.85:1)";
+"1.90:1"                        = "IMAX (1.90:1)";
+"2:1"                           = "VistaVision (2:1)";
+"2.35:1"                        = "Super 35 (2.35:1)";
+"2.59:1"                        = "Cinerama (2.59:1)";
+"2.65:1"                        = "Cinerama (2.65:1)";
+"2.66:1"                        = "Cinemascope (2.66:1)";
+"2.76:1"                        = "70mm (2.76:1)";
 
 // Macros
 
