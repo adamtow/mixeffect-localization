@@ -1,1210 +1,2283 @@
-/* 
-  Localizable.strings
-  AtemController
+"%lld days-remaining" = "Pozostało %lld dni okresu próbnego";
 
-  Created by Adam Tow on 1/28/21.
-  
-*/
+"0.5-seconds" = "0.5 sekundy";
 
+"1.0-seconds" = "1.0 sekunda";
 
-// Parameterized localizations
-"app-name"                      = "MixEffect";
-"app-name-pro"                  = "MixEffect Pro";
-"app-name-trial"                = "MixEffect Trial";
+"1.33:1" = "Super 35 (1.33:1)";
 
-"tagline"                       = "Professional Control Over Your ATEM Switchers!";
-"take-the-tour"                 = "Take the Tour";
-"tour"                          = "Tour";
-"welcome"                       = "Welcome to MixEffect";
-"welcome-tagline"               = "Professional Control Over Your ATEM Switchers!";
+"1.37:1" = "Academy (1.37:1)";
 
-// General
+"1.43:1" = "IMAX (1.43:1)";
 
-"add"                           = "Add";
-"all"                           = "All";
-"ascending"                     = "Ascending";
-"atem-switcher"                 = "ATEM Switcher";
-"atem"                          = "ATEM";
-"audio-follows-video"           = "Audio Follows Video";    // Audio Follows Video
-"auto-reconnect"                = "Auto-Reconnect";         // Auto-Reconnect toggle
+"1.5-seconds" = "1.5 sekundy";
+
+"1.66:1" = "VistaVision (1.66:1)";
+
+"1.85:1" = "Anamorphic Widescreen (1.85:1)";
+
+"1.90:1" = "IMAX (1.90:1)";
+
+"16:9" = "HD (16:9)";
+
+"1:1" = "Square (1:1)";
+
+"2.0-seconds" = "2.0 sekundy";
+
+"2.35:1" = "Super 35 (2.35:1)";
+
+"2.59:1" = "Cinerama (2.59:1)";
+
+"2.65:1" = "Cinerama (2.65:1)";
+
+"2.66:1" = "Cinemascope (2.66:1)";
+
+"2.76:1" = "70mm (2.76:1)";
+
+"2:1" = "VistaVision (2:1)";
+
+"2:3" = "35mm (2:3)";
+
+"3:2" = "35mm (3:2)";
+
+"3:4" = "SD (3:4)";
+
+"4:3" = "SD (4:3)";
+
+"4:5" = "4:5";
+
+"5:4" = "5:4";
+
+"5:7" = "5:7";
+
+"7:5" = "7:5";
+
+"9:16" = "9:16";
+
+"a" = "A";
+
+"about" = "O aplikacji MixEffect";
+
+"accent-color" = "Kolor akcentu";
+
+"action" = "Akcja";
+
+"add" = "Dodaj";
+
+"add-default-presets" = "Dodaj domyślne szablony";
+
+"add-favorite" = "Dodaj do ulubionych";
+
+"add-panel" = "Dodaj panel";
+
+"add-panel-to %@" = "Dodaj panel do %@";
+
+"add-to-siri" = "Dodaj do Siri";
+
+"advanced" = "Zaawansowane";
+
+"aesbu" = "AES/EBU";
+
+"af-on" = "Autofokus";
+
+"after-running-action" = "Po akcji";
+
+"afv" = "AFV";
+
+"all" = "Wszystkie";
+
+"all-off" = "Wyłącz wszystko";
+
+"all-on" = "Włącz wszystko";
+
+"analog-audio-inputs" = "Wejścia analogowe";
+
+"animate-supersource" = "Animuj przejścia układów SuperŹródła";
+
+"animate-supersource-short" = "Animuj przejścia układów";
+
+"animation" = "Animacja";
+
+"animation-speed" = "Szybkość";
+
+"aperture" = "Przesłona";
+
+"app-icon" = "Ikona aplikacji";
+
+"app-name" = "MixEffect";
+
+"app-name-pro" = "MixEffect Pro";
+
+"app-name-trial" = "MixEffect Wersja Próbna";
+
+"appearance" = "Wygląd";
+
+"are-greater-than" = "Większe od";
+
+"are-less-than" = "Mniejsze od";
+
+"art" = "Grafika";
+
+"ascending" = "Rosnąco";
+
+"atem" = "ATEM";
+
+"atem-switcher" = "Przełącznik ATEM";
+
+"attack" = "Atak";
+
+"audio" = "Dźwięk";
+
+"audio %lld" = "Audio %lld";
+
+"audio-bitrate" = "Próbkowanie audio";
+
+"audio-bitrate1" = "Próbkowanie audio 1";
+
+"audio-bitrate2" = "Próbkowanie audio 2";
+
+"audio-bitrates" = "Próbkowanie audios";
+
+"audio-clips" = "Klipy audio";
+
+"audio-delay" = "Opóźnienie";
+
+"audio-delete %lld" = "Usuń audio %lld";
+
+"audio-follows-video" = "Audio podąża za wideo (AFV)";    // Audio Follows Video
+"auto-reconnect"                = "Automatycznie wznawiaj połączenie";         // Auto-Reconnect toggle
 "auto"                          = "Auto";                   // Auto button
 "aux %lld"                      = "AUX %lld";               // AUX +index
-"aux-view-style"                = "AUX View Style";
-"aux%lld"                       = "AUX%lld";                // AUX +index
-"back"                          = "Back";
-"bkgd"                          = "Bkgd";
-"button"                        = "Button";
-"buttons"                       = "Buttons";
-"cancel"                        = "Cancel";
-"change-rate"                   = "Change Rate";
-"change"                        = "Change";
-"choose"                        = "Choose";
-"close"                         = "Close";
-"color %lld"                    = "Color %lld";             // Color Generator
-"color"                         = "Color";                  // Cut button
-"compact-controls"              = "Compact Controls";
-"crosspoint-selector"           = "Crosspoint Selector";
-"cut"                           = "Cut";                    // Cut button
-"delete"                        = "Delete";                 //
-"descending"                    = "Descending";
-"description"                   = "Description";            //
-"dip-source"                    = "Dip Source";             //
-"dip"                           = "Dip";                    //
-"display-status"                = "Display Status";
-"display"                       = "Display";                // Display section header
-"done"                          = "Done";                   // Done button
-"dont-change"                   = "Don't Change";
-"dont-show-again"               = "Don't Show Again";
-"dsk %lld"                      = "DSK %lld";               // Downstream Keyer +index
-"dsk"                           = "DSK";
-"dve-full"                      = "DVE Full";               //
-"dve-picture-in-picture"        = "DVE Picture-in-Picture";
-"dve-pip"                       = "DVE PIP";
-"dve"                           = "DVE";                    //
-"edit-name"                     = "Edit Name";
-"edit"                          = "Edit";
-"fade-to-black"                 = "Fade to Black";          // Fade to Black section title
-"fader-bar"                     = "Fader Bar";
-"fill-source"                   = "Fill Source";            //
-"fill"                          = "Fill";                   //
-"free-run"                      = "Free Run";
-"ftb"                           = "FTB";                    // Fade to Black button
-"grid"                          = "Grid";
-"hour"                          = "Hour";
-"hours"                         = "Hours";
-"icon"                          = "Icon";
-"icons"                         = "Icons";
-"index"                         = "Index";
-"ip-address-example"            = "e.g. 10.0.1.100";
-"ip-address"                    = "IP Address";
-"key %lld"                      = "Key %lld";               // Keyer +index
-"key-source"                    = "Key Source";             //
-"key"                           = "Key";
-"key"                           = "Key";                    //
-"list"                          = "List";                   //
-"mask"                          = "Mask";
-"media-pool-split"              = "Changing the Media Pool split will erase all clip frames in the Media Pool.\n\nThis operation cannot be undone.";
-"media-pool"                    = "Media Pool";
-"mediaplayer %lld"              = "MP%lld";                 // Media Player with index
-"mediaplayer-set"               = "Set MP";                 // Media Player with index
-"mediaplayer"                   = "Media Player";           // Media Player
-"mediaplayers"                  = "Media Players";
-"minute"                        = "Minute";
-"minutes"                       = "Minutes";
-"mix-effects-bus"               = "Mix Effects Bus";
-"mix"                           = "Mix";                    //
+"aux-view-style"                = "Styl widoku AUX";
+
+"audio-follows-video-hard-cut" = "Przełączaj audio natychmiast";
+
+"audio-follows-video-transition" = "Dodaj wyciszanie przy przełączaniu źródeł";
+
+"audio-meters" = "Poziom dźwięku";
+
+"audio-upload" = "Wyślij audio";
+
+"authentication" = "Uwierzytelnienie";
+
+"auto-supersource" = "Automatycznie do SuperŹródła";
+
+"auto-video-standard" = "Automatyczny standard wideo";
+
+"automations" = "Automatyzacje";
+
+"aux" = "AUX";
+
+"aux%lld" = "AUX%lld";                // AUX +index
+"back"                          = "Wstecz";
+
+"auxiliary" = "Zewnętrzne";
+
+"available-panels" = "Dostępne panele";
+
+"b" = "B";
+
+"background" = "Tło";
+
+"balance" = "Balans";
+
+"band %lld" = "Pasmo %lld";
+
+"bevel-in" = "Ramka Wejście";
+
+"bevel-in-out" = "Ramka We/Wy";
+
+"bevel-none" = "Bez ramki";
+
+"bevel-out" = "Ramka Wyjście";
+
+"bevel-position" = "Pozycja ramki";
+
+"bevel-soften" = "Zmiękczenie ramki";
+
+"bitrate" = "Próbkowanie";
+
+"bitrate1" = "Próbkowanie 1";
+
+"bitrate2" = "Próbkowanie 2";
+
+"bitrates" = "Próbkowanies";
+
+"bkgd" = "Tło";
+
+"black" = "Czarny";
+
+"blue" = "Niebieski";
+
+"border" = "Ramka";
+
+"border-opacity" = "Przezroczystość ramki";
+
+"bottom" = "Dół";
+
+"bottom-center" = "Środek-dół";
+
+"bottom-left" = "Lewo-dół";
+
+"bottom-right" = "Prawo-dół";
+
+"box" = "Pole";
+
+"box %lld" = "Pole %lld";
+
+"box-1" = "Pole 1";
+
+"box-2" = "Pole 2";
+
+"box-3" = "Pole 3";
+
+"box-4" = "Pole 4";
+
+"box-control" = "Ustawienia pola";
+
+"box-count" = "Liczba pól";
+
+"boxes" = "Pola";
+
+"brightness" = "Jasność";
+
+"button" = "Przycisk";
+
+"buttons" = "Przyciski";
+
+"buy-later" = "Zakup później";
+
+"cache" = "Bufor";
+
+"cam" = "KAM";
+
+"cam %lld" = "KAM%lld";
+
+"camera" = "Kamera";
+
+"camera-control" = "Sterowanie kamerami";
+
+"camera-control-monitoring" = "Użyj monitorowania kamer";
+
+"camera-control-view-style" = "Styl widoku monitorowania kamer";
+
+"cancel" = "Anuluj";
+
+"capture-still" = "Zrzut ekranu";
+
+"capture-still-no-slots" = "Brak wolnych miejsc, usuń coś z Biblioteki Mediów aby utworzyć nowy zrzut ekranu.";
+
+"capture-still-short" = "Zrzut";
+
+"capture-video" = "Przechwyć wideo";
+
+"capture-video-short" = "Wideo";
+
+"center" = "Środek";
+
+"center-of-key" = "Centrum klucza";
+
+"change" = "Zmień";
+
+"change-program-source" = "Zmień źródło na";
+
+"change-rate" = "Zmień klatkaż";
+
+"chat" = "Czat";
+
+"choose" = "Wybierz";
+
+"chroma" = "Chromatyczny";
+
+"chroma-correction" = "Korekcja chromatyczna";
+
+"chroma-sample" = "Próbnik chromatyczny";
+
+"chroma-title-helper" = "Generator podpisów";
+
+"chroma-title-helper-description" = "Utwórz dynamiczne tytuły i podpisy do użycia z kluczowaniem w górę.";
+
+"clear" = "Wyczyść";
+
+"clear-macro" = "Usuń makro";
+
+"clear-source" = "Usuń źródło";
+
+"clear-supersource" = "Usuń szablon SuperŹródła";
+
+"clip" = "Klip";
+
+"clip %lld" = "Klip %lld";
+
+"clip-delete %lld" = "Usuń klip %lld";
+
+"clip-duration" = "Długość Klipu";
+
+"clip-length %lld" = "Długość klipu %lld";
+
+"clip-upload" = "Wyślij klip";
+
+"clipboard-streaming-xml" = "Zapisz Streaming.xml do schowka";
+
+"clips" = "Klipy";
+
+"close" = "Zamknij";
+
+"coarse" = "Ogólnie";
+
+"color" = "Kolor";
+
+"color %lld" = "Kolor %lld";             // Color Generator
+"color"                         = "Kolor";                  // Cut button
+"compact-controls"              = "Zagęszczenie elementów";
+
+"color-adjustments" = "Korekcja kolorów";
+
+"color-bars" = "Kolorowe pasy";
+
+"color-correction" = "Korekcja koloru";
+
+"color-generators" = "Generatory kolorów";
+
+"color-scheme" = "Schemat kolorów";
+
+"color-scheme-dark" = "Ciemny";
+
+"color-scheme-light" = "Jasny";
+
+"color-scheme-system" = "Systemowy";
+
+"compressor" = "Kompresor";
+
+"connect" = "Połącz";
+
+"connecting" = "Łączę";
+
+"connection" = "Połączenie";
+
+"connection-help" = "Pomoc w połączeniu";
+
+"constrain-size" = "Ogranicz rozmiar";
+
+"contact" = "Kontakt";
+
+"contrast" = "Kontrast";
+
+"control" = "Ustawienia";
+
+"copy" = "Kopiuj";
+
+"copy-from" = "Kopiuj pole z";
+
+"count-selected %lld" = "Wybrany szablon: %lld";
+
+"crop" = "Przytnij";
+
+"crosspoint-selector" = "Wybór krzyżowy";
+
+"current-mixeffect" = "Bieżący M/E";
+
+"cursor-size" = "Wielkość kursora";
+
+"custom" = "Ustawienie użytkownika";
+
+"custom-rate" = "Własny czas…";
+
+"cut" = "Cięcie";                    // Cut button
+"delete"                        = "Usuń";                 //
+"descending"                    = "Malejąco";
+
+"cut-supersource" = "Cięcie do SuperŹródła";
+
+"dark" = "Tryb ciemny";
+
+"data-rate" = "Prędkość wysyłania Mb/s";
+
+"db" = "db";
+
+"default" = "Domyślny";
+
+"default-detail" = "Detal domyślny";
+
+"default-page" = "Strona główna";
+
+"default-profile" = "Domyślny profil";
+
+"default-section" = "Domyślna sekcja";
+
+"default-server" = "Domyślny serwer";
+
+"delay" = "Opóźnienie";
+
+"delete-all-macros" = "Usuń wszystkie makra";
+
+"delete-all-macros-confirm" = "Czy na pewno chcesz usunąć WSZYSTKIE makra z tego przełącznika? Tej operacji nie można cofnąć.";
+
+"delete-all-macros-message %lld" = "Masz %lld zdefiniowanych makr i wszystkie one zostaną usunięte z przełącznika. Tej operacji nie można cofnąć.";
+
+"delete-audio" = "Usuń klip audio";
+
+"delete-clip" = "Usuń klip";
+
+"delete-layout" = "Skasuj układ";
+
+"delete-layout-description" = "Skasować ten układ? Tej operacji nie można cofnąć.";
+
+"delete-layouts" = "Skasuj układy";
+
+"delete-layouts-description" = "Skasować zaznaczone układy? Tej operacji nie można cofnąć.";
+
+"delete-page" = "Usuń stronę";
+
+"delete-page %@" = "Usuń %@";
+
+"delete-page-message" = "Ta strona zostanie usunięta z preferencji przełącznika w MixEffect. Tej operacji nie można cofnąć.";
+
+"delete-page-named %@" = "Usunąć stronę \"%@\"?";
+
+"delete-still" = "Usuń obraz";
+
+"description" = "Opis";            //
+"dip-source"                    = "Zanikanie źródła";             //
+"dip"                           = "Zanikanie";                    //
+"display-status"                = "Status wyświetlania";
+
+"detail-off" = "Detal wyłączony";
+
+"dip-source" = "Zanurz do źródła";
+
+"direction" = "Kierunek";
+
+"disable-sleep" = "Pozostaw aktywne";
+
+"disable-sleep-alert" = "Urządzenie nie będzie wygaszać ekranu kiedy aplikacja MixEffect jest aktywna.";
+
+"disconnect" = "Rozłącz";
+
+"dismiss-on-tap" = "Usuń po dotknięciu";
+
+"display" = "Wyświetlanie";                // Display section header
+"done"                          = "Gotowe";                   // Done button
+"dont-change"                   = "Nie zmieniaj";
+
+"distribute" = "Rozłóż równomiernie";
+
+"do-nothing" = "Nic nie rób";
+
+"documentation" = "Dokumentacja (EN)";
+
+"dont-show-again" = "Nie pokazuj ponownie";
+
+"downstream-keyers" = "Kluczowanie w dół";
+
+"drive1" = "Dysk 1";
+
+"drive2" = "Dysk 2";
+
+"dsk %lld" = "DÓŁ %lld";               // Downstream Keyer +index
+"dsk"                           = "DÓŁ";
+
+"dve" = "DVE";                    //
+"edit-name"                     = "Edytuj nazwę";
+
+"dve-full" = "DVE Pełny ekran";               //
+"dve-picture-in-picture"        = "DVE Okno w oknie (PIP)";
+
+"dve-pip" = "DVE PIP";
+
+"dve-source-wipe" = "Wymaż źródło";
+
+"dynamics" = "Dynamika";
+
+"edit" = "Edytuj";
+
+"edit %@" = "Edytuj %@";
+
+"edit-description" = "Edytuj opis";
+
+"edit-page" = "Edytuj stronę";
+
+"edit-server" = "Edytuj serwer";
+
+"edit-service" = "Edytuj usługę";
+
+"edit-streaming-services" = "Edytuj usługi strumieniowania";
+
+"edit-switcher" = "Edytuj przełącznik";
+
+"edit-this-page" = "Edytuj bieżącą stronę";
+
+"effect-graphicCCWSpin" = "Obrót grafiki odwrotnie do wskazówek zegara";
+
+"effect-graphicCWSpin" = "Obrót grafiki zgodnie ze wskazówkami zegara";
+
+"effect-graphicLogoWipe" = "Wygasanie do grafiki (logo)";
+
+"effect-pushBottom" = "Wypchnij w dół";
+
+"effect-pushBottomLeft" = "Wypchnij lewo-dół";
+
+"effect-pushBottomRight" = "Wypchnij prawo-dół";
+
+"effect-pushLeft" = "Wypchnij do lewej";
+
+"effect-pushRight" = "Wypchnij do prawej";
+
+"effect-pushTop" = "Wypchnij do góry";
+
+"effect-pushTopLeft" = "Wypchnij lewo-góra";
+
+"effect-pushTopRight" = "Wypchnij prawo-góra";
+
+"effect-spinCCWBottomLeft" = "Obrót odwrotnie do wskazówek zegara lewo-dół";
+
+"effect-spinCCWBottomRight" = "Obrót odwrotnie do wskazówek zegara prawo-dół";
+
+"effect-spinCCWTopLeft" = "Obrót odwrotnie do wskazówek zegara lewo-góra";
+
+"effect-spinCCWTopRight" = "Obrót odwrotnie do wskazówek zegara prawo-góra";
+
+"effect-spinCWBottomLeft" = "Obrót zgodnie ze wskazówkami zegara lewo-dół";
+
+"effect-spinCWBottomRight" = "Obrót zgodnie ze wskazówkami zegara prawo-dół";
+
+"effect-spinCWTopLeft" = "Obrót zgodnie ze wskazówkami zegara lewo-góra";
+
+"effect-spinCWTopRight" = "Obrót zgodnie ze wskazówkami zegara prawo-góra";
+
+"effect-squeezeBottom" = "Ściśnij z dołu";
+
+"effect-squeezeBottomLeft" = "Ściśnij lewo-dół";
+
+"effect-squeezeBottomRight" = "Ściśnij prawo-dół";
+
+"effect-squeezeLeft" = "Ściśnij z lewej";
+
+"effect-squeezeRight" = "Ściśnij z prawej";
+
+"effect-squeezeTop" = "Ściśnij z góry";
+
+"effect-squeezeTopLeft" = "Ściśnij lewo-góra";
+
+"effect-squeezeTopRight" = "Ściśnij prawo-góra";
+
+"effect-swooshBottom" = "Maziaj dół";
+
+"effect-swooshBottomLeft" = "Maziaj lewo-dół";
+
+"effect-swooshBottomRight" = "Maziaj prawo-dół";
+
+"effect-swooshLeft" = "Maziaj z lewej";
+
+"effect-swooshRight" = "Maziaj z prawej";
+
+"effect-swooshTop" = "Maziaj z góry";
+
+"effect-swooshTopLeft" = "Maziaj lewo-góra";
+
+"effect-swooshTopRight" = "Maziaj prawo-góra";
+
+"effects" = "Efekty";
+
+"enable-atem-simulator" = "Włącz symulację przełącznika ATEM";
+
+"enable-automations" = "Włącz automatyzacje";
+
+"enable-border" = "Włącz ramkę";
+
+"enable-box" = "Włącz pole";
+
+"enable-crop" = "Włącz przycinanie";
+
+"enable-flying-key" = "Włącz klucz pływający";
+
+"enable-for-source" = "Włącz wideo podąża za audio (VFA)";
+
+"enable-hot-keys" = "Włącz obsługę skrótów klawiatury";
+
+"enable-key" = "Włącz kluczowanie";
+
+"enable-mask" = "Włącz maskę";
+
+"enable-osc" = "Włącz OSC";
+
+"enable-osc-server" = "Włącz serwer OSC";
+
+"enable-safe-areas" = "Włącz granice bezpieczeństwa";
+
+"enable-shadow" = "Włącz cień";
+
+"enable-shortcuts" = "Włącz skróty";
+
+"enable-video-follows-audio" = "Włącz wideo podąża za audio (VFA)";
+
+"enable-visual-editor" = "Włącz edytor wizualny";
+
+"equalizer" = "Korektor (EQ)";
+
+"equalizer-enabled" = "Włącz korektor (EQ)";
+
+"equalizer-gain" = "Wzmocnienie korektora (EQ)";
+
+"erase-alert" = "Czy na pewno chcesz usunąć wszystkie ustawienia i wprowadzone dane?\n\nWszystkie dane będą usunięte na wszystkich urządzeniach podłączonych do tego konta iCloud.\n\nUstawienia twojego przełącznika ATEM pozostaną bez zmian.";
+
+"erase-cancel" = "Nie kasuj";
+
+"erase-confirm" = "Czy masz ABSOLUTNĄ PEWNOŚĆ, że chcesz usunąć wszystkie ustawienia i wprowadzone dane?\n\nWszystkie dane będą usunięte na wszystkich urządzeniach podłączonych do tego konta iCloud.\n\nTej operacji nie można cofnąć.";
+
+"erase-content" = "Wykasuj wszystko";
+
+"erase-title" = "Wykasuj wszystko";
+
+"error-audio-bitrate-invalid" = "Nieprawidłowe próbkowanie audio.";
+
+"error-bitrate-invalid" = "Nieprawidłowe próbkowanie.";
+
+"error-fps-invalid" = "Nieprawidłowa liczba klatek (FPS).";
+
+"error-keyframe-interval-invalid" = "Nieprawidłowy interwał klatek kluczowych.";
+
+"error-resolution-invalid" = "Nieprawidłowa rozdzielczość.";
+
+"error.default" = "Wystąpił błąd.";
+
+"error.defaultTitle" = "Błąd";
+
+"error.fileNotFound" = "Nie można znaleźć pliku.";
+
+"error.fileNotReadable" = "Nie można odczytać pliku.";
+
+"error.importFailed" = "Nie można zaimportować pliku.";
+
+"error.importFileNotValid" = "To nie jest poprawny format pliku Streaming.xml";
+
+"error.intent.automationsDisabled" = "Automatyzacje są wyłączone";
+
+"error.intent.empty" = "Nazwa nie może być pusta.";
+
+"error.intent.failure" = "Ta akcja nie może być wykonana.";
+
+"error.intent.notConnected" = "Nie ma aktywnego połączenia do przełącznika.";
+
+"error.intent.notFound" = "Nie znaleziono przełącznika.";
+
+"error.intent.requiresPro" = "Wersja MixEffect Pro (płatna) jest wymagana aby uruchamiać automatyzacje.";
+
+"error.intent.title" = "Nie można wykonać akcji";
+
+"error.intent.viewOnlyMode" = "Automatyzacje są wyłączone w trybie tylko do odczytu.";
+
+"error.saveFailed" = "Nie można zapisać pliku.";
+
+"expander" = "Ekspander";
+
+"experimental-settings" = "Ustawienia eksperymentalne";
+
+"export-all-presets" = "Wyeksportuj wszystkie szablony";
+
+"export-presets" = "Wyeksportuj szablony";
+
+"export-streaming-xml" = "Eksportuj Streaming.xml";
+
+"faceid" = "Face ID";
+
+"fade-to-black" = "Wygaszenie do czerni (FTB)";
+
+"fader" = "Dźwignia";
+
+"fader-gain" = "Dźwignia wzmocnienia";
+
+"fairlight-audio" = "Ustawienia dźwięku Fairlight";
+
+"favorite" = "Ulubiony";
+
+"feature-not-available" = "Funkcja niedostępna na tym przełączniku.";
+
+"feedback" = "Przekaż opinię";
+
+"filename" = "Plik";
+
+"fill-source" = "Źródło wypełnienia";
+
+"filter" = "Filtr";
+
+"flare-suppression" = "Minimalizacja błysków";
+
+"flip-flop" = "Ping-pong";
+
+"flying-key" = "Klucz pływający";
+
+"flying-key-run" = "Idź do klucza";
+
+"flying-key-run-a" = "Idź do A";
+
+"flying-key-run-b" = "Idź do B";
+
+"flying-key-run-full" = "Pełny";
+
+"foreground" = "Pierwszy plan";
+
+"fps" = "FPS";
+
+"frames" = "klatek";
+
+"frames-delay" = "Opóźnienie w klatkach";
+
+"frames-remaining" = "Pozostało klatek: ";
+
+"frequency" = "częstotliwość";
+
+"from" = "Od";
+
+"ftb" = "FTB";                    // Fade to Black button
+"grid"                          = "Siatka";
+
+"full" = "Pełny";
+
+"gain" = "Wzmocnienie";
+
+"gain-reduction" = "Redukcja wzmocnienia";
+
+"gamma" = "Gamma";
+
+"gate" = "Bramka";
+
+"gestures-and-haptics" = "Gesty i funkcje haptyczne";
+
+"get-shortcut" = "Pobierz";
+
+"go-to-switcher" = "Idź do przełącznika";
+
+"greater-than" = "Większy od";
+
+"green" = "Zielony";
+
+"h" = "H";
+
+"haptic-feedback" = "Potwierdzanie haptyczne";
+
+"headphones" = "Słuchawki";
+
+"hide-descriptions" = "Ukryj opisy";
+
+"high-detail" = "Detal wysoki";
+
+"highlight" = "Podświetl";
+
+"highlight-by" = "Powiększ podświetlone pole";
+
+"hold" = "Wstrzymaj";
+
+"hold-for" = "Sekundy pauzy";
+
+"hour" = "Godzina";
+
+"hours" = "Godziny";
+
+"hue" = "Odcień";
+
+"hyperdeck-high" = "Wysoka jakość nagrywania";
+
+"hyperdeck-low" = "Niska jakość nagrywania";
+
+"hyperdeck-medium" = "Średnia jakość nagrywania";
+
+"hz" = "Hz";
+
+"icon" = "Ikona";
+
+"icons" = "Ikony";
+
+"import" = "Importuj";
+
+"import-error" = "Ten plik nie wydaje się być właściwym plikiem XML (Streaming.xml).";
+
+"import-error-title" = "Nie można zaimportować";
+
+"import-export" = "Import / Eksport";
+
+"import-presets" = "Importuj szablony";
+
+"import-presets-description" = "Szablony z tym samym identifikatorem zostaną nadpisane. Tej operacji nie można cofnąć.";
+
+"import-replace" = "Czy zastąpić istniejące usługi strumieniowania, serwery i profile wartościami wczytanymi z pliku?\n\nTej operacji nie można cofnąć.";
+
+"import-replace-title" = "Import";
+
+"import-streaming-xml" = "Importuj Streaming.xml";
+
+"import-success" = "Plik ustawień strumieniowania został pomyślnie zaimportowany do MixEffect.";
+
+"import-success-title" = "Import zakończony";
+
+"index" = "Indeks";
+
+"inf" = "-∞";
+
+"inner-softness" = "Zmiękczenie środka";
+
+"inner-width" = "Szerokość środka";
+
+"input" = "Wejście";
+
+"input-gain" = "Wzmocnienie wejścia";
+
+"input-master-gain" = "Wzmocnienie kanału master";
+
+"input-settings" = "Ustawienia wejścia";
+
+"input-sidetone-gain" = "Wzmocnienie samosłyszalności";
+
+"input-talkback-gain" = "Wzmocnienie kanału zwrotnego";
+
+"input1" = "Wejście 1";
+
+"input10" = "Wejście 10";
+
+"input11" = "Wejście 11";
+
+"input12" = "Wejście 12";
+
+"input13" = "Wejście 13";
+
+"input14" = "Wejście 14";
+
+"input15" = "Wejście 15";
+
+"input16" = "Wejście 16";
+
+"input17" = "Wejście 17";
+
+"input18" = "Wejście 18";
+
+"input19" = "Wejście 19";
+
+"input2" = "Wejście 2";
+
+"input20" = "Wejście 20";
+
+"input3" = "Wejście 3";
+
+"input4" = "Wejście 4";
+
+"input5" = "Wejście 5";
+
+"input6" = "Wejście 6";
+
+"input7" = "Wejście 7";
+
+"input8" = "Wejście 8";
+
+"input9" = "Wejście 9";
+
+"interpolation-cosine" = "Do cosinusa";
+
+"interpolation-cubed" = "Do sześcianu";
+
+"interpolation-inverse-cubed" = "Do odwrotności sześcianu";
+
+"interpolation-inverse-squared" = "Do odwrotności kwadratu";
+
+"interpolation-linear" = "Liniowo";
+
+"interpolation-sine" = "Do sinusa";
+
+"interpolation-smooth" = "Gładko";
+
+"interpolation-smoother" = "Gładziutko";
+
+"interpolation-squared" = "Do kwadratu";
+
+"invert-key" = "Odwróć klucz";
+
+"invert-pattern" = "Odwróć wzór";
+
+"ip-address" = "Adres IP";
+
+"ip-address-example" = "np. 10.0.1.100";
+
+"iso-rec" = "ISO Nagrywa";
+
+"iso-record-all-inputs" = "Nagrywaj wszystkie kanały ISO";
+
+"iso-stop" = "ISO Stop";
+
+"key %lld" = "Klucz %lld";               // Keyer +index
+"key-source"                    = "Źródło kluczowania";             //
+"key"                           = "Klucz";
+
+"key-adjustments" = "Dostosuj klucz";
+
+"key-edge" = "Krawędź klucza";
+
+"key-source" = "Źródło klucza";
+
+"keyer-type" = "Typ klucza";
+
+"keyers" = "Kluczowanie";
+
+"keyframe" = "Ramka kluczowa";
+
+"keyframe-interval" = "Interwał klatek kluczowych";
+
+"l" = "L";
+
+"label-longname" = "Nazwa";
+
+"label-shortname" = "Etykieta";
+
+"labels" = "Etykiety";
+
+"layout" = "Rozkład";
+
+"layout-ipad" = "iPad";
+
+"layout-landscape" = "Poziomo";
+
+"layout-portrait" = "Pionowo";
+
+"layout-type" = "Układ";
+
+"left" = "Lewo";
+
+"legacy-audio-unsupported" = "Starszy model dźwięku nie jest obsługiwany.";
+
+"less-than" = "Mniejszy od";
+
+"licenses" = "Licencje";
+
+"lift" = "Podniesienie";
+
+"light-source" = "Źródło światła";
+
+"light-source-altitude" = "Wysokość";
+
+"light-source-direction" = "Kąt";
+
+"limiter" = "Limiter";
+
+"line" = "Linia";
+
+"live-stream" = "Na Żywo";
+
+"live-stream-short" = "Strumień";
+
+"lock-with-faceid" = "Blokada przez Face ID i kod";
+
+"lock-with-faceid-footer" = "MixEffect zostanie zablokowany kiedy zamkniesz aplikację. Przy ponownym uruchomieniu wymagane będzie Face ID albo wpisanie kodu.";
+
+"locked" = "Zablokuj";
+
+"luma" = "Luma";
+
+"luminance" = "Jasność";
+
+"macro" = "Makro";
+
+"macro %lld" = "Makro %lld";
+
+"macro-button-edit" = "Edytuj makro";
+
+"macro-button-menu" = "Pokaż opcje";
+
+"macro-button-none" = "Nic nie rób";
+
+"macro-button-plays" = "Odtwórz makro";
+
+"macro-choose-index" = "Przypisz nowe makro";
+
+"macro-color" = "Kolor makra";
+
+"macro-delete" = "Skasuj makro";
+
+"macro-delete %lld" = "Skasuj makro %lld";
+
+"macro-display" = "Pokaż makra jako";
+
+"macro-display-buttons" = "Pokaż jako przyciski";
+
+"macro-display-grid" = "Pokaż jako siatkę";
+
+"macro-display-list" = "Pokaż jako listę";
+
+"macro-edit" = "Edytuj makro";
+
+"macro-edit %lld" = "Edytuj makro %lld";
+
+"macro-icon-color" = "Kolor ikony";
+
+"macro-insert-pause" = "Dodaj pauzę";
+
+"macro-label" = "Etykieta";
+
+"macro-loop" = "Pętla";
+
+"macro-name" = "Nazwa makra";
+
+"macro-new" = "Nowe makro";
+
+"macro-new-with-details" = "Nowe makro ze szczegółami";
+
+"macro-pause" = "Pauza w makro";
+
+"macro-record" = "Zarejestruj makro";
+
+"macro-recording" = "Rejestruję:";
+
+"macro-recording-stop" = "Zatrzymaj rejestrację makra";
+
+"macro-replace" = "Zastąp makro";
+
+"macro-rerecord" = "Ponownie zarejestruj makro";
+
+"macro-rerecord %lld" = "Ponownie zarejestruj makro%lld";
+
+"macro-run" = "Uruchom makro";
+
+"macro-running" = "Uruchomione:";
+
+"macro-settings" = "Makra";
+
+"macro-sort" = "Sortuj makra wg.";
+
+"macro-sort-color" = "Sortuj wg. koloru";
+
+"macro-sort-direction" = "Sortuj wg. kierunku";
+
+"macro-sort-icon" = "Sortuj wg. ikony";
+
+"macro-sort-index" = "Sortuj wg. identyfikatora";
+
+"macro-sort-name" = "Sortuj wg. nazwy";
+
+"macro-stop" = "Zatrzymaj makro";
+
+"macro-text-color" = "Kolor tekstu";
+
+"macro-unknown" = "Nie zdefiniowano makra";
+
+"macro-unknown-record" = "Dla tego identyfikatora nie zdefiniowano żadnego makra.";
+
+"macro-view-options" = "Opcje widoku makra";
+
+"macro-wait-for-user-input" = "Poczekaj na wprowadzenie danych";
+
+"macro-waiting" = "Czekanie:";
+
+"macros" = "Makra";
+
+"mailing-list" = "Lista mailingowa MixEffect";
+
+"make-up" = "Podnieś";
+
+"make-up-gain" = "Podnieś wzmocnienie";
+
+"master" = "Master";
+
+"max" = "Maks";
+
+"media" = "Media";
+
+"media-open" = "Otwórz bibliotekę";
+
+"media-pool" = "Biblioteka Mediów";
+
+"media-pool-split" = "Zmiana podziału Biblioteki Mediów spowoduje usunięcie wszystkich klipów.\n\nTa operacja jest nieodwracalna.";
+
+"mediaplayer %lld" = "ODTW%lld";                 // Media Player with index
+"mediaplayer-set"               = "Ustaw ODTW";                 // Media Player with index
+"mediaplayer"                   = "Odtwarzacz";           // Media Player
+"mediaplayers"                  = "Odtwarzacze";
+
+"medium-detail" = "Detal średni";
+
+"merge" = "Scal";
+
+"mh" = "MH";
+
+"mic1" = "MIKR1";
+
+"mic2" = "MIKR2";
+
+"microphone" = "Mikrofon";
+
+"microphone-plug-in-power" = "Mikrofon + napięcie (ustawienie normalne)";
+
+"middle-center" = "Środek-centrum";
+
+"middle-left" = "Lewo-centrum";
+
+"middle-right" = "Prawo-centrum";
+
+"min" = "Min";
+
+"minimize" = "Minimalizuj";
+
+"minimize-by" = "Zmniejsz pozostałe pola";
+
+"minimize-off-audio" = "Zminimalizuj nieaktywne wejścia audio";
+
+"minute" = "Minuta";
+
+"minutes" = "Minuty";
+
+"mix" = "Mix";                    //
 "mixeffect %lld"                = "M/E %lld";               // M/E
-"more"                          = "More";
-"mp"                            = "MP";                     // Media Player with index
-"name"                          = "Name";
-"next-transition"               = "Next Transition";        // Next Transition section title
-"none"                          = "None";
-"notes"                         = "Notes";
-"off"                           = "Off";
-"ok"                            = "OK";
-"on-air"                        = "On Air";                 // On Air button for DSK and USK
-"on"                            = "On";
-"output"                        = "Output";
-"preset"                        = "Preset";
-"preview-button"                = "Prev";
-"preview-transition"            = "Prev Trans";             // Preview Transition button
-"preview"                       = "Preview";                // Preview Bus section title
-"program-button"                = "Prog";
-"program"                       = "Program";                // Program Bus section title
-"program-preview"               = "Program / Preview";
-"quality"                       = "Quality";
-"rate"                          = "Rate";                   // Rate title
-"record"                        = "Record";                 // Record
-"reset-mask"                    = "Reset Mask";
-"run-mode"                      = "Run Mode";
-"run"                           = "Run";                    // Run Macro
-"save"                          = "Save";                   // Save
-"search"                        = "Search";
-"search-macros"                 = "Search Macros";          // Macros search bar
-"second"                        = "Second";
-"seconds"                       = "Seconds";
-"select-bus"                    = "Select Bus";
-"select"                        = "Select";
-"server"                        = "Server";
-"service"                       = "Service";
-"set-default"                   = "Set Default";
-"set-timecode"                  = "Set Timecode";
-"set-timecode-device"           = "Set to Device Time";
-"set"                           = "Set";
-"show-timecode"                 = "Show Timecode";
-"sort-ascending"                = "Sort Ascending";
-"sort-descending"               = "Sort Descending";
-"source"                        = "Source";
-"sting"                         = "Sting";
-"stinger"                       = "Stinger";
-"stopping"                      = "Stopping";
-"streaming"                     = "Live Stream";
-"switch-to"                     = "Switch To";
-"switcher-not-connected"        = "No Switcher Connected";
-"tie"                           = "Tie";                    // Tie button for DSK
-"time-of-day"                   = "Time of Day";
-"timecode-generator"            = "Timecode Generator";
-"timecode"                      = "Timecode";
-"transition-button"             = "Trans";                  // Transitions button
-"transition-options"            = "Transition Options…";    // Transition Settings
-"transition-style"              = "Transition Style";       // Transition Style section title
-"transition-type"               = "Transition Type";        // Transition Type picker
-"turn-off"                      = "Turn Off";
-"turn-on"                       = "Turn On";
-"ukwn"                          = "Ukwn";                   // Unknown source button
-"unassigned-frames"             = "Unassigned Frames";
-"unknown"                       = "Unknown";                // Unknown source button
-"user-interface"                = "User Interface";
-"video-out"                     = "Vid Out";
-"wipe"                          = "Wipe";
-
-
-// Camera Control
-
-"af-on"                         = "AF ON";
-"aperture"                      = "Aperture";
-"balance"                       = "Balance";
-"cam %lld"                      = "CAM%lld";
-"cam"                           = "CAM";
-"camera-control-monitoring"     = "Use for camera control monitoring";
-"camera-control-view-style"     = "Camera Control View Style";
-"camera-control"                = "Camera Control";
-"camera"                        = "Camera";
-"coarse"                        = "Coarse";
-"color-correction"              = "Color Correction";
-"default-detail"                = "Default Detail";
-"detail-off"                    = "Detail Off";
-"filter"                        = "Filter";
-"gamma"                         = "Gamma";
-"high-detail"                   = "High Detail";
-"medium-detail"                 = "Medium Detail";
-"paste-to-all"                  = "Paste to All…";
-"paste"                         = "Paste";
-"reset-contrast"                = "Reset Contrast";
-"reset-gain"                    = "Reset Gain";
-"reset-gamma"                   = "Reset Gamma";
-"reset-hue"                     = "Reset Hue";
-"reset-lift"                    = "Reset Lift";
-"reset-luminance"               = "Reset Luminance";
-"reset-saturation"              = "Reset Saturation";
-"rgb"                           = "RGB";
-"show-color-bars"               = "Show Color Bars";
-"shutter"                       = "Shutter";
-"telephoto"                     = "Telephoto";
-"wb"                            = "WB";
-"white-balance"                 = "White Balance";
-"wide"                          = "Wide";
-"zoom"                          = "Zoom";
-
-
-// Upstream Keys
-
-"a"                             = "A";
-"b"                             = "B";
-"background"                    = "Background";
-"bevel-position"                = "Bevel Position";
-"bevel-soften"                  = "Bevel Soften";
-"blue"                          = "Blue";
-"border-opacity"                = "Border Opacity";
-"bottom-center"                 = "Bottom Center";
-"bottom-left"                   = "Bottom Left";
-"bottom-right"                  = "Bottom Right";
-"brightness"                    = "Brightness";
-"center-of-key"                 = "Center of Key";
-"chroma-correction"             = "Chroma Correction";
-"chroma-sample"                 = "Chroma Sample";
-"chroma"                        = "Chroma";
-"color-adjustments"             = "Color Adjustments";
-"contrast"                      = "Contrast";
-"cursor-size"                   = "Cursor Size";
-"downstream-keyers"             = "Downstream Keyers";
-"enable-border"                 = "Enable Border";
-"enable-flying-key"             = "Enable Flying Key";
-"enable-mask"                   = "Enable Mask";
-"enable-shadow"                 = "Enable Shadow";
-"flare-suppression"             = "Flare Suppression";
-"flying-key-run-a"              = "Run To A";
-"flying-key-run-b"              = "Run To B";
-"flying-key-run-full"           = "Full";
-"flying-key-run"                = "Run Flying Key";
-"flying-key"                    = "Flying Key";
-"foreground"                    = "Foreground";
-"full"                          = "Full";
-"green"                         = "Green";
-"inner-softness"                = "Inner Soften";
-"inner-width"                   = "Inner Width";
-"invert-pattern"                = "Invert Pattern";
-"key-adjustments"               = "Key Adjustments";
-"key-edge"                      = "Key Edge";
-"keyer-type"                    = "Keyer Type";
-"keyframe"                      = "Keyframe";
-"lift"                          = "Lift";
-"light-source-altitude"         = "Altitude";
-"light-source-direction"        = "Angle";
-"locked"                        = "Locked";
-"luma"                          = "Luma";
-"middle-center"                 = "Middle Center";
-"middle-left"                   = "Middle Left";
-"middle-right"                  = "Middle Right";
-"narrow-chroma-key-range"       = "Narrow Chroma Key Range";
-"outer-softness"                = "Outer Soften";
-"outer-width"                   = "Outer Width";
-"red"                           = "Red";
-"reset-all"                     = "Reset All";
-"rotation"                      = "Rotation";
-"run-to-infinite"               = "Run To Infinite";
-"run-to"                        = "Run To";
-"saturation"                    = "Saturation";
-"set-a"                         = "Set A";
-"set-b"                         = "Set B";
-"shadow"                        = "Shadow";
-"size-x"                        = "Size X";
-"size-y"                        = "Size Y";
-"size"                          = "Size";
-"spill-suppression"             = "Spill Suppression";
-"top-center"                    = "Top Center";
-"top-left"                      = "Top Left";
-"top-right"                     = "Top Right";
-"upstream-key"                  = "Upstream Key";
-"upstream-keyers"               = "Upstream Keyers";
-"upstream-keys"                 = "Upstream Keys";
-"usk %lld"                      = "USK %lld";
-"usk-settings"                  = "USK Settings";
-"usk"                           = "USK";
-"visual-editor"                 = "Visual Editor";
-"x"                             = "X";
-"y-suppress"                    = "Y Suppress";
-"y"                             = "Y";
-
-// SuperSource
-
-"add-default-presets"           = "Add Default Presets";
-"add-favorite"                  = "Add Favorite";
-"animation"                     = "Animation";
-"animation-speed"               = "Speed";
-"auto-supersource"              = "Auto to SuperSource";
-"art"                           = "Art";
-"background"                    = "Background";
-"bevel-in-out"                  = "Bevel In Out";
-"bevel-in"                      = "Bevel In";
-"bevel-none"                    = "No Bevel";
-"bevel-out"                     = "Bevel Out";
-"box %lld"                      = "Box %lld";
-"box-1"                         = "Box 1";
-"box-2"                         = "Box 2";
-"box-3"                         = "Box 3";
-"box-4"                         = "Box 4";
-"box-control"                   = "Box Control";
-"box-count"                     = "Box Count";
-"box"                           = "Box";
-"boxes"                         = "Boxes";
-"control"                       = "Control";
-"copy-from"                     = "Copy Box From";
-"copy"                          = "Copy";
-"count-selected %lld"           = "Presets Selected: %lld";
-"crop"                          = "Crop";
-"cut-supersource"               = "Cut to SuperSource";
-"delete-layout"                 = "Delete Layout";
-"delete-layout-description"     = "Delete this layout? This operation cannot be undone.";
-"delete-layouts"                = "Delete Layouts";
-"delete-layouts-description"    = "Delete the selected layouts? This operation cannot be undone.";
-"dismiss-on-tap"                = "Dismiss On Tap";
-"edit-description"              = "Edit Description";
-"enable-box"                    = "Enable Box";
-"enable-crop"                   = "Enable Crop";
-"export-presets"                = "Export Presets";
-"export-all-presets"            = "Export All Presets";
-"favorite"                      = "Favorite";
-"foreground"                    = "Foreground";
-"from"                          = "From";
-"go-to-switcher"                = "Go to Switcher";
-"hide-descriptions"             = "Hide Descriptions";
-"highlight"                     = "Highlight";
-"highlight-by"                  = "Grow Highlighted Box";
-"import"                        = "Import";
-"import-presets"                = "Import Presets";
-"import-presets-description"    = "Presets with the same ID will be replaced. This operation cannot be undone.";
-"layout"                        = "Layout";
-"light-source"                  = "Light Source";
-"minimize"                      = "Minimize";
-"minimize-by"                   = "Shrink Others Boxes";
-"open-supersource"              = "Open SuperSource";
-"place-in"                      = "Place In";
-
-"preset-pip-under"              = "PIP Under";
-"preset-pip-over"               = "USK - PIP Over";
-"preset-pip-over-note"          = "Enable DVE USK1 to Input 2 with posX: -9.5, posY: 5.0, size: 0.35, and crop: false";
-"preset-pip-over-two"           = "USK - PIP Over Two";
-"preset-pip-over-two-note"      = "Enable DVE USK1 to Input 2 with posX: -9.5, posY: -5.0, size: 0.35, and crop: false / USK2 to Input 3 with posX: 9.5, posY: 5.0, size: 0.35, and crop: false";
-"preset-four-horizontal-crop"   = "Four Horizontal";
-"preset-four-grid"              = "Four Grid";
-"preset-four-grid-full"         = "Four Grid Full";
-"preset-four-grid-alt"          = "Four Grid Alternate";
-"preset-four-horizontal-crop"   = "Four Horizontal Crop";
-"preset-four-horizontal-fill"   = "Four Horizontal Fill";
-"preset-three-left-crop"        = "Three Left Crop";
-"preset-three-left"             = "Three Left";
-"preset-three-horizontal-crop"  = "Three Horizontal Crop";
-"preset-three-horizontal-fill"  = "Three Horizontal Fill";
-"preset-three-top"              = "Three Top";
-"preset-two-horizontal"         = "Two Horizontal";
-"preset-two-horizontal-crop"    = "Two Horizontal Crop";
-"preset-two-horizontal-fill"    = "Two Horizontal Fill";
-"preset-two-vertical"           = "Two Vertical";
-"preset-two-vertical-fill"      = "Two Vertical Fill";
-"preset-two-left"               = "Two Left";
-"preset-two-right"              = "Two Right";
-"preset-two-top"                = "Two Top";
-"preset-two-bottom"             = "Two Bottom";
-"preset-four-left"              = "Four Left";
-"preset-four-left-full"         = "Four Left Full";
-"preset-five-left"              = "USK - Five Left";
-"preset-five-left-notes"        = "Enable DVE USK1 to Input 5 with posX: 12.00, posY: -6.5, and size: 0.2, and crop: false";
-"preset-five-grid-crop"         = "USK - Five Grid Crop";
-"preset-five-grid-crop-notes"   = "Enable DVE USK1 to Input 5 with posX: 10.70, posY: -4.5, size: 0.64, cropTop: 2.0, cropBottom: 2.0, cropLeft: 7.75, and cropRight: 7.75";
-"preset-two-diagonal"           = "Two Diagonal";
-"preset-standard-one"           = "Standard - 1";
-"preset-standard-two"           = "Standard - 2";
-"preset-standard-three"         = "Standard - 3";
-"preset-standard-four"          = "Standard - 4";
-"preset-pad-mini-right"         = "iPad Mini Right";
-"preset-pad-mini-left"          = "iPad Mini Left";
-"preset-pad-mini-pip"           = "iPad Mini PIP";
-"preset-phone-pro-max-pip"      = "iPhone Pro Max PIP";
-"preset-pad-pro-left"           = "iPad Pro 12.9 Left";
-"preset-pad-pro-right"          = "iPad Pro 12.9 Right";
-"preset-pad-pro-pip"            = "iPad Pro 12.9 PIP";
-"preset-six-grid"               = "USK - Six Grid";
-"preset-six-grid-notes"         = "Enable DVE USK1 to Input 5 with posX: 0, posY: -3.25, size: 0.3 / USK2 to Input 6 with posX: 10.5, posY: -3.25, size: 0.3, and crop: false";
-"preset-six-grid-crop"          = "USK - Six Grid Crop";
-"preset-six-grid-crop-notes"    = "Enable DVE USK1 to Input 5 with posX: 0, posY: -3.25, size: 0.3 / USK2 to Input 6 with posX: 10.5, posY: -3.25, size: 0.3, and crop: false";
-"preset-six-left"               = "USK - Six Left";
-"preset-six-left-notes"         = "Enable DVE USK1 to Input 5 with posX: 12.5, posY: -3.50, size: 0.17, and crop: false / USK2 to Input 6 with posX: 12.5, posY: -7.0, size: 0.17, and crop: false";
-
-"presets"                       = "Presets";
-"remove-favorite"               = "Remove Favorite";
-"rename"                        = "Rename";
-"rename-layout-title"           = "Rename SuperSource Layout";
-"rename-layout-description"     = "";
-"replace-preset"                = "A SuperSource layout exists with the same name. Replace this layout?";
-"reset-crop"                    = "Reset Crop";
-"reset-position"                = "Reset Position";
-"reset-presets"                 = "Reset Presets";
-"reset-presets-description"     = "Delete all SuperSource presets and install the default presets? This operation cannot be undone.";
-"reset-size"                    = "Reset Size";
-"new-layout"                    = "New Layout";
-"new-layout-title"              = "New SuperSource Layout";
-"new-layout-description"        = "Enter a name for the new SuperSource preset layout.";
-"save-preset-icon"              = "Save Preset Icon";
-"search-presets"                = "Search Presets";
-"set-preset"                    = "Set Preset Layout";
-"supersource-macro-pause"       = "Add Pause Steps When Recording Macros";
-"show-box-controls"             = "Show Box Controls";
-"show-box-colors"               = "Differentiate Boxes with Colors";
-"show-box-sources"              = "Show Box Sources";
-"show-descriptions"             = "Show Descriptions";
-"speed-extra-slow"              = "Extra Slow";
-"speed-extra-fast"              = "Extra Fast";
-"speed-fast"                    = "Fast";
-"speed-instant"                 = "Instant";
-"speed-normal"                  = "Normal";
-"speed-slow"                    = "Slow";
-"ssrc %lld"                     = "SSRC %lld";
-"ssrc"                          = "SSRC";
-"supersource"                   = "SuperSource";
-"supersource-boxes"             = "SuperSource Boxes";
-"supersource-layouts"           = "SuperSource Layouts";
-"swap-boxes"                    = "Swap Boxes";
-"thumbnail-companion"           = "Companion (72 x 41)";
-"thumbnail-small"               = "Small (96 x 54)";
-"thumbnail-big"                 = "Big (144 x 81)";
-"thumbnail-sd"                  = "SD (640 x 360)";
-"thumbnail-hd720"               = "720p (1280 x 720)";
-"thumbnail-hd1080"              = "1080p (1920 x 1080)";
-"to-all-boxes"                  = "To All Boxes";
-"to"                            = "To";
-"transition-speed"              = "Transition Speed";
-"update-preset"                 = "Update Preset";
-"view-all"                      = "View All";
-"with-box %lld"                 = "With Box %lld";
-
-"interpolation-linear"          = "Linear";
-"interpolation-smooth"          = "Smooth";
-"interpolation-smoother"        = "Smoother";
-"interpolation-squared"         = "Squared";
-"interpolation-inverse-squared" = "Inverse Squared";
-"interpolation-cubed"           = "Cubed";
-"interpolation-inverse-cubed"   = "Inverse Cubed";
-"interpolation-sine"            = "Sine";
-"interpolation-cosine"          = "Cosine";
-
-// Macros
-
-"macro %lld"                    = "Macro %lld";
-"macro-button-edit"             = "Edit Macro";
-"macro-button-menu"             = "Show Options";
-"macro-button-none"             = "Do Nothing";
-"macro-button-plays"            = "Play Macro";
-"macro-choose-index"            = "New Macro at Index";
-"macro-color"                   = "Macro Color";
-"macro-delete %lld"             = "Delete Macro %lld";
-"macro-delete"                  = "Delete Macro";
-"macro-display-buttons"         = "Display as Buttons";
-"macro-display-grid"            = "Display as Grid";
-"macro-display-list"            = "Display as List";
-"macro-display"                 = "Display Macros As";
-"macro-edit %lld"               = "Edit Macro %lld";
-"macro-edit"                    = "Edit Macro";
-"macro-icon-color"              = "Icon Color";
-"macro-insert-pause"            = "Add Pause";
-"macro-label"                   = "Label";
-"macro-loop"                    = "Loop";
-"macro-name"                    = "Macro Name";
-"macro-new-with-details"        = "New Macro with Details";
-"macro-new"                     = "New Macro";
-"macro-pause"                   = "Macro Pause";
-"macro-record"                  = "Record Macro";
-"macro-recording-stop"          = "Stop Recording Macro";
-"macro-recording"               = "Recording:";
-"macro-replace"                 = "Replace Macro";
-"macro-rerecord %lld"           = "Re-record Macro %lld";
-"macro-rerecord"                = "Re-record Macro";
-"macro-run"                     = "Run Macro";
-"macro-running"                 = "Running:";
-"macro-settings"                = "Macros";
-"macro-sort-color"              = "Sort by Color";
-"macro-sort-direction"          = "Sort Direction";
-"macro-sort-icon"               = "Sort by Icon";
-"macro-sort-index"              = "Sort by Index";
-"macro-sort-name"               = "Sort by Name";
-"macro-sort"                    = "Sort Macros By";
-"macro-stop"                    = "Stop Macro";
-"macro-text-color"              = "Text Color";
-"macro-unknown-record"          = "No macro is defined for this index.";
-"macro-unknown"                 = "No Macro Defined";
-"macro-view-options"            = "Macro View Options";
-"macro-wait-for-user-input"     = "Wait For User Input";
-"macro-waiting"                 = "Waiting:";
-"macro"                         = "Macro";
-"on-macro-tap"                  = "On Tap";
-"operation-undone"              = "This operation cannot be undone";
-"unused"                        = "Unused";
-"used"                          = "All";
-"used"                          = "Used";
-
-// Multiview
-
-"multiview"                     = "Multiview";
-"mv"                            = "MV";
-"mv %lld"                       = "MV %lld";
-"window"                        = "Window";
-"view-control"                  = "View Control";
-"audio-meters"                  = "Audio Meters";
-"safe-areas"                    = "Safe Areas";
-"all-off"                       = "All Off";
-"all-on"                        = "All On";
-"mv-default"                    = "Default";
-"mv-top-left-small"             = "Top Left Small";
-"mv-top-right-small"            = "Top Right Small";
-"mv-program-bottom"             = "Program Bottom";
-"mv-bottom-left-small"          = "Bottom Left Small";
-"mv-program-right"              = "Program Right";
-"mv-bottom-right-small"         = "Bottom Right Small";
-"mv-program-left"               = "Program Left";
-"mv-bottom-left-program"        = "Bottom Left Program";
-"mv-program-top"                = "Program Top";
-"mv-top-left-program"           = "Top Left Program (Unsupported)";
-"mv-top-right-program"          = "Top Right Program (Unsupported)";
-"mv-bottom-right-program"       = "Bottom Right Program (Unsupported)";
-"mv-all-small"                  = "All Small";
-"opacity"                       = "Opacity";
-"enable-safe-areas"             = "Enable Safe Areas";
-"swap-program-preview"          = "Swap Program Preview";
-"windows"                       = "Windows";
-
-// Color Generators
-
-"black"                         = "Black";
-"color-bars"                    = "Color Bars";
-"color-generators"              = "Color Generators";
-"color"                         = "Color";
-"hue"                           = "Hue";
-"luminance"                     = "Luminance";
-"saturation"                    = "Saturation";
-
-// Editing Palettes
-
-"border"                        = "Border";
-"bottom"                        = "Bottom";
-"center"                        = "Center";
-"clip %lld"                     = "Clip %lld";
-"clip-duration"                 = "Clip Duration";
-"clip"                          = "Clip";
-"constrain-size"                = "Constrain Size";
-"dip-source"                    = "Dip Source";
-"direction"                     = "Direction";
-"dve-source-wipe"               = "Source Wipe";
-"effects"                       = "Effects";
-"enable-key"                    = "Enable Key";
-"enable-visual-editor"          = "Enable Visual Editor";
-"fill-source"                   = "Fill Source";
-"flip-flop"                     = "Flip Flop";
-"gain"                          = "Gain";
-"invert-key"                    = "Invert Key";
-"key-source"                    = "Key Source";
-"left"                          = "Left";
-"mix-rate"                      = "Mix Rate";
-"padding"                       = "Padding";
-"pattern"                       = "Pattern";
-"position-x"                    = "Pos X";
-"position-y"                    = "Pos Y";
-"pre-multiplied-key-enable"     = "Enable Pre Multiplied";
-"pre-multiplied-key"            = "Pre Multiplied Key";
-"pre-roll"                      = "Pre Roll";
-"preview-scale"                 = "Preview Scale";
-"push"                          = "Push";
-"reverse"                       = "Reverse";
-"right"                         = "Right";
-"set-all-settings"              = "Set All Settings";
-"size-and-position-advanced"    = "Use Advanced Size and Position";
-"size-and-position"             = "Size and Position";
-"softness"                      = "Softness";
-"style"                         = "Style";
-"symmetry"                      = "Symmetry";
-"top"                           = "Top";
-"trigger-point"                 = "Trigger Point";
-"width"                         = "Width";
-
-// Patterns
-
-"pattern-bottomCenterBox"       = "Bottom Center Box";
-"pattern-bottomLeftBox"         = "Bottom Left Box";
-"pattern-bottomRightBox"        = "Bottom Right Box";
-"pattern-circleIris"            = "Circle Iris";
-"pattern-cornersInFourBox"      = "Corners in Four Box";
-"pattern-diamondIris"           = "Diamond Iris";
-"pattern-horizontalBarnDoor"    = "Horizontal Barn Door";
-"pattern-leftCenterBox"         = "Left Center Box";
-"pattern-leftToRightBar"        = "Left to Right Bar";
-"pattern-rectangleIris"         = "Rectangle Iris";
-"pattern-rightCenterBox"        = "Right Center Box";
-"pattern-topCenterBox"          = "Top Center Box";
-"pattern-topLeftBox"            = "Top Left Box";
-"pattern-topLeftDiagonal"       = "Top Left Diagonal";
-"pattern-topRightBox"           = "Top Right Box";
-"pattern-topRightDiagonal"      = "Top Right Diagonal";
-"pattern-topToBottomBar"        = "Top to Bottom Bar";
-"pattern-verticalBarnDoor"      = "Vertical Barn Door";
-
-// DVE Effects
-
-"effect-swooshTopLeft"          = "Swoosh Top Left";
-"effect-swooshTop"              = "Swoosh Top";
-"effect-swooshTopRight"         = "Swoosh Top Right";
-"effect-swooshLeft"             = "Swoosh Left";
-"effect-swooshRight"            = "Swoosh Right";
-"effect-swooshBottomLeft"       = "Swoosh Bottom Left";
-"effect-swooshBottom"           = "Swoosh Bottom";
-"effect-swooshBottomRight"      = "Swoosh Bottom Right";
-"effect-spinCCWTopRight"        = "Spin Counter-Clockwise Top Right";
-"effect-spinCWTopLeft"          = "Spin Clockwise Top Left";
-"effect-spinCCWBottomRight"     = "Spin Counter-Clockwise Bottom Right";
-"effect-spinCWBottomLeft"       = "Spin Clockwise Bottom Left";
-"effect-spinCWTopRight"         = "Spin Clockwise Top Right";
-"effect-spinCCWTopLeft"         = "Spin Counter-Clockwise Top Left";
-"effect-spinCWBottomRight"      = "Spin Clockwise Bottom Right";
-"effect-spinCCWBottomLeft"      = "Spin Counter-Clockwise Bottom Left";
-"effect-squeezeTopLeft"         = "Squeeze Top Left";
-"effect-squeezeTop"             = "Squeeze Top";
-"effect-squeezeTopRight"        = "Squeeze Top Right";
-"effect-squeezeLeft"            = "Squeeze Left";
-"effect-squeezeRight"           = "Squeeze Right";
-"effect-squeezeBottomLeft"      = "Squeeze Bottom Left";
-"effect-squeezeBottom"          = "Squeeze Bottom";
-"effect-squeezeBottomRight"     = "Squeeze Bottom Right";
-"effect-pushTopLeft"            = "Push Top Left";
-"effect-pushTop"                = "Push Top";
-"effect-pushTopRight"           = "Push Top Right";
-"effect-pushLeft"               = "Push Left";
-"effect-pushRight"              = "Push Right";
-"effect-pushBottomLeft"         = "Push Bottom Left";
-"effect-pushBottom"             = "Push Bottom";
-"effect-pushBottomRight"        = "Push Bottom Right";
-"effect-graphicCWSpin"          = "Graphic Clockwise Spin";
-"effect-graphicCCWSpin"         = "Graphic Counter-Clockwise Spin";
-"effect-graphicLogoWipe"        = "Graphic Logo Wipe";
-
-// Connection
-
-"connect"                       = "Connect";
-"connecting"                    = "Connecting";
-"connection-help"               = "Connection Help";
-"default-section"               = "Default Section";
-"disconnect"                    = "Disconnect";
-"edit-switcher"                 = "Edit Switcher";
-"new-atem-switcher"             = "New ATEM Switcher";
-"new-simulator"                 = "New ATEM Simulator";
-"new-switcher"                  = "New Switcher";
-"reconnect"                     = "Reconnect";
-"reconnect-required"            = "Reconnect Required";
-"simulator"                     = "Simulator";
-"switcher-could-not-connect"    = "Could Not Connect to Switcher";
-"switcher-name-example"         = "e.g. My ATEM Mini Pro";
-"switcher-options"              = "Switcher Options";
-"switcher-reconnecting"         = "Reconnecting to Switcher";
-"switcher-settings"             = "Switcher Settings";
-"switcher"                      = "Switcher";
-"try-again"                     = "Try Again";
-
-// Switcher Pages
-
-"add-panel-to %@"               = "Add Panel to %@";
-"add-panel"                     = "Add Panel";
-"available-panels"              = "Available Panels";
-"default-page"                  = "Default Page";
-"delete-page %@"                = "Delete %@";
-"delete-page-message"           = "This page will be deleted from the MixEffect ATEM Switcher. This operation cannot be undone.";
-"delete-page-named %@"          = "Delete \"%@\" Page?";
-"delete-page"                   = "Delete Page";
-"edit-page"                     = "Edit Page";
-"edit-this-page"                = "Edit This Page";
-"layout-ipad"                   = "iPad";
-"layout-landscape"              = "Landscape";
-"layout-portrait"               = "Portrait";
-"layout-type"                   = "Layout";
-"new-page"                      = "New Page";
-"next-page"                     = "Next Page";
-"no-panels"                     = "No Panels Defined for This Page";
-"page-name-example"             = "e.g. Default";
-"panel-landscape-bottom"        = "Landscape Bottom";
-"panel-landscape-left"          = "Landscape Left";
-"panel-landscape-right"         = "Landscape Right";
-"panel-landscape-top"           = "Landscape Top";
-"panel-pad-bottom"              = "iPad Bottom";
-"panel-pad-left"                = "iPad Left";
-"panel-pad-right"               = "iPad Right";
-"panel-pad-sidebar"             = "iPad Sidebar";
-"panel-pad-top"                 = "iPad Top";
-"panel-portrait"                = "Portrait";
-"panel-type"                    = "Panel Type";
-"previous-page"                 = "Previous Page";
-"remove-all-panels-message"     = "Remove all panels from the selected layout. This operation cannot be undone";
-"remove-all-panels"             = "Remove All Panels";
-"remove"                        = "Remove";
-"reset-layout %@"               = "Reset %@ Layout";
-"reset-layout-message"          = "The selected layout will be reverted back to its factory defaults. This operation cannot be undone.";
-"reset-layout"                  = "Reset Layout";
-"set-default-page"              = "Set as Default Page";
-"untitled-page"                 = "Untitled Page";
-"use-landscape-layout"          = "Use Landscape Layout";
-"use-portrait-layout"           = "Use Portrait Layout";
-
-// Streaming Services, Servers, and Profiles
-
-"audio-bitrate"                 = "Audio Bitrate";
-"audio-bitrate1"                = "Audio Bitrate 1";
-"audio-bitrate2"                = "Audio Bitrate 2";
-"audio-bitrates"                = "Audio Bitrates";
-"authentication"                = "Authentication";
-"bitrate"                       = "Bitrate";
-"bitrate1"                      = "Bitrate 1";
-"bitrate2"                      = "Bitrate 2";
-"bitrates"                      = "Bitrates";
-"cache"                         = "Cache";
-"data-rate"                     = "Date Rate Mb/s";
-"default-profile"               = "Default Profile";
-"default-server"                = "Default Server";
-"edit %@"                       = "Edit %@";
-"edit-server"                   = "Edit Server";
-"edit-service"                  = "Edit Service";
-"edit-streaming-services"       = "Edit Streaming Services";
-"error-audio-bitrate-invalid"   = "The audio bitrate is invalid.";
-"error-bitrate-invalid"         = "The bitrate is invalid.";
-"error-fps-invalid"             = "The FPS is invalid.";
-"error-keyframe-interval-invalid" = "The keyframe interval is invalid.";
-"error-resolution-invalid"      = "The resolution is invalid.";
-"fps"                           = "FPS";
-"import-error-title"            = "Import Failed";
-"import-error"                  = "There was an error reading the XML file as a valid Streaming.xml file.";
-"import-export"                 = "Import / Export";
-"import-replace-title"          = "Import";
-"import-replace"                = "Replace existing streaming services, servers, and profiles with the contents of this Streaming file?\n\nThis operation cannot be undone.";
-"import-success-title"          = "Import Complete";
-"import-success"                = "The streaming file was successfully imported into MixEffect.";
-"keyframe-interval"             = "Keyframe Interval";
-"merge"                         = "Merge";
-"new-profile"                   = "New Profile";
-"new-server"                    = "New Server";
-"new-service"                   = "New Service";
-"new-streaming-service"         = "New Streaming Service";
-"password"                      = "Password";
-"profile-error-save-message"    = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
-"profile-error-save"            = "Error Saving Profile";
-"profile-footnote"              = "Note: Resolution, FPS, and Keyframe Interval settings can only be used when imported into ATEM Software Control on macOS or Windows.";
-"profile-name-example"          = "e.g. Streaming Medium";
-"profiles"                      = "Streaming Profiles";
-"quality"                       = "Quality";
-"required"                      = "Required";
-"resolution"                    = "Resolution";
-"server-name"                   = "Name";
-"server-url-example"            = "rtmps://10.0.1.150/live";
-"server-url"                    = "URL";
-"server"                        = "Server";
-"servers"                       = "Servers";
-"service-name-example"          = "e.g. YouTube ";
-"service-name"                  = "Service Name";
-"stream-key"                    = "Stream Key";
-"streaming-config %lld"         = "Streaming Configuration %lld";
-"streaming-quality-default"     = "Default Profile";
-"streaming-servers"             = "Streaming Servers";
-"streaming-service"             = "Streaming Service";
-"streaming-services"            = "Streaming Services";
-"switcher-connections"          = "Switchers";
-"username"                      = "Username";
-
-// Streaming Quality
-
-"streaming-low"                 = "Streaming Low";
-"streaming-medium"              = "Streaming Medium";
-"streaming-high"                = "Streaming High";
-"hyperdeck-high"                = "HyperDeck High";
-"hyperdeck-medium"              = "HyperDeck Medium";
-"hyperdeck-low"                 = "HyperDeck Low";
-"custom"                        = "Custom";
-
-// Output
-
-"capture-still-no-slots"        = "Please remove existing media from 'Stills' to capture new still.";
-"capture-still-short"           = "Still";
-"capture-still"                 = "Capture Still";
-"capture-video-short"           = "Video";
-"capture-video"                 = "Capture Video";
-"drive1"                        = "Drive 1";
-"drive2"                        = "Drive 2";
-"filename"                      = "Filename";
-"iso-rec"                       = "ISO REC";
-"iso-record-all-inputs"         = "ISO Record All Inputs";
-"iso-stop"                      = "ISO Stop";
-"live-stream-short"             = "Stream";
-"live-stream"                   = "Live Stream";
-"output"                        = "Output";
-"rec"                           = "REC";
-"record-in-all-cameras"         = "Record in All Cameras";
-"recording-not-available"       = "Record Stream is not available.\n\nVerify that your ATEM switcher supports recording, your disk or disks are formatted properly, and that they are connected via USB-C to the switcher.";
-"record-stream-short"           = "Record";
-"record-stream"                 = "Record Stream";
-"recording"                     = "Record Stream";
-"stop"                          = "Stop";
-"switch"                        = "Switch";
-"timecode-generator-short"      = "Timecode";
-
-
-// Media
-
-"audio %lld"                    = "Audio %lld";
-"audio-clips"                   = "Audio Clips";
-"audio-delete %lld"             = "Delete Audio %lld";
-"audio-upload"                  = "Upload Audio";
-"clip %lld"                     = "Clip %lld";
-"clip-delete %lld"              = "Delete Clip %lld";
-"clip-length %lld"              = "Clip %lld Length";
-"clip-upload"                   = "Upload Clip";
-"clip"                          = "Clip";
-"clips"                         = "Clips";
-"delete-audio"                  = "Delete Audio Clip";
-"delete-clip"                   = "Delete Clip";
-"delete-still"                  = "Delete Still";
-"distribute"                    = "Distribute Evenly";
-"frames-remaining"              = "Frames Remaining: ";
-"media-open"                    = "Open Media";
-"no-media-selected"             = "No Media Selected";
-"replace-media %lld"            = "Replace Slot %lld";
-"replace-media-alert"           = "This will replace the existing media in the selected slot. This operation cannot be undone.";
-"replace"                       = "Replace";
-"search-media"                  = "Search Media";
-"still %lld"                    = "Still %lld";
-"still-delete %lld"             = "Delete Still %lld";
-"still-select"                  = "Select Still Slot";
-"still-upload"                  = "Upload Still";
-"still-warning-alert"           = "MixEffect will resize your image to fit your switcher's current video output mode.\n\nIn rare instances, uploading a still image from your Photo Library may cause your switcher to become unresponsive and necessitate a reboot.";
-"still-warning"                 = "Uploading Stills";
-"still"                         = "Still";
-"stills"                        = "Stills";
-
-// Switcher Settings
-
-"auto-video-standard"           = "Auto Video Standard";
-"delete-all-macros"                 = "Delete All Macros";
-"delete-all-macros-message %lld"    = "All %lld of your macros will be deleted from this ATEM switcher. This operation cannot be undone.";
-"delete-all-macros-confirm"         = "Are you really sure you want to delete every macro on this ATEM switcher? This operation cannot be undone.";
-"use-cut-bus"                   = "Use Cut Bus";
-"startup-state"                 = "Startup State";
-"startup-state-save"            = "Save Startup State";
-"startup-state-clear"           = "Clear Startup State";
-"startup-state-save-confirm"    = "The current settings will be loaded at startup of the ATEM switcher.";
-"startup-state-clear-confirm"   = "Clear the current state of the ATEM switcher? This operation cannot be undone.";
-"switching-mode"                = "Switching Mode";
-"video-mode"                    = "Video Mode";
-"video-mode-change"             = "Changing the video mode may erase the frames in the media pool.";
-
-// Settings
-
-"advanced"                          = "Advanced";
-"animate-supersource"               = "Animate SuperSource Layout Transitions";
-"animate-supersource-short"         = "Animate When Changing Layouts";
-"audio-follows-video-hard-cut"      = "Hard Cut Audio When Switching";
-"audio-follows-video-transition"    = "Add a Transition to Audio When Switching";
-"automations"                       = "Automations";
-"clear"                         = "Clear";
-"clipboard-streaming-xml"       = "Export Streaming.xml to Clipboard";
-"connection"                    = "Connection";
-"disable-sleep-alert"           = "Device will not auto-lock while MixEffect is active";
-"disable-sleep"                 = "Disable Auto-Lock";
-"enable-atem-simulator"         = "Enable ATEM Simulator";
-"enable-automations"            = "Enable Automations";
-"enable-hot-keys"               = "Enable Switcher Hot Keys";
-"enable-osc"                    = "Enable OSC";
-"enable-osc-server"             = "Enable OSC Server";
-"enable-shortcuts"              = "Enable Shortcuts";
-"enable-video-follows-audio"    = "Enable Video Follows Audio";
-"experimental-settings"         = "Experimental Settings";
-"export-streaming-xml"          = "Export Streaming.xml";
-"faceid"                        = "Face ID";
-"gestures-and-haptics"          = "Gestures and Haptics";
-"haptic-feedback"               = "Haptic Feedback";
-"import-streaming-xml"          = "Import Streaming.xml";
-"input"                         = "Input";
-"label-longname"                = "Name";
-"label-shortname"               = "Label";
-"labels"                        = "Labels";
-"line"                          = "Line";
-"lock-with-faceid-footer"       = "MixEffect will be locked whenever you close the app. When you relaunch MixEffect, you will be prompted with Face ID or your device passcode.";
-"lock-with-faceid"              = "Lock with Face ID & Passcode";
-"media"                         = "Media";
-"microphone-plug-in-power"      = "Microphone + Plug in power (normal)";
-"microphone"                    = "Microphone";
-"minimize-off-audio"            = "Minimize Disabled Audio Sources";
-"osc"                           = "OSC";
-"osc-port"                      = "OSC Port";
-"panel-titles"                  = "Show Panel Titles";
-"port"                          = "Port";
-"pro-line"                      = "Pro Line";
-"protocol-reload"               = "Reconnect When Missing Procotol Detected";
-"protocol-reload-description"   = "Automatically reconnect when an incomplete connection is detected.";
-"reset-source-name"             = "Reset";
-"security"                      = "Security";
-"settings-color-generators"     = "Show All Color Generators";
-"settings-title"                = "Settings";
-"settings"                      = "Settings";
-"shake-to-reload"               = "Shake to Reload";
-"shortcuts"                     = "Shortcuts";
-"show-indicator-recording"      = "Show Recording Indicator";
-"show-indicator-streaming"      = "Show Streaming Indicator";
-"sidebar-full"                  = "Use Full Height Sidebar";
-"simulator-description"         = "Set server IP address to 127.0.0.1";
-"sort-audio-sources"            = "Sort Audio Sources";
-"source-labels"                 = "Source Labels";
-"testing"                       = "Testing";
-"tools"                         = "Tools";
-"unlock-message-failed"         = "Tap above to unlock MixEffect or go Home to exit.";
-"unlock-message"                = "Enter your passcode to access MixEffect.";
-"unlock-mixeffect"              = "Unlock MixEffect";
-"view-only-mode-activated"      = "View Only Mode";
-"view-only-mode-description"    = "Face ID or device passcode required to disable View Only Mode";
-"view-only-mode"                = "Enable View Only Mode";
-
-// Video Follows Audio
-
-"action"                        = "Action";
-"after-running-action"          = "After Running Action";
-"are-greater-than"              = "Are Greater Than";
-"are-less-than"                 = "Are Less Than";
-"change-program-source"         = "Change Program Source To";
-"clear-macro"                   = "Clear Macro";
-"clear-source"                  = "Clear Source";
-"clear-supersource"             = "Clear SuperSource Preset";
-"current-mixeffect"             = "Current M/E";
-"do-nothing"                    = "Do Nothing";
-"enable-for-source"             = "Enable Video Follows Audio";
-"greater-than"                  = "Greater Than";
-"hold-for"                      = "Seconds to Hold";
-"hold"                          = "Hold";
-"less-than"                     = "Less Than";
-"on-bus"                        = "On Mix Effect Bus";
-"on-supersource"                = "On SuperSource";
-"repeat-delay"                  = "Repeat Delay:";
-"revert-to-prior-transition"    = "Revert to Prior Transition";
-"sample-size"                   = "Sample Size";
-"select-macro"                  = "Select Macro";
-"set-threshold"                 = "Set Threshold";
-"supersource-action"            = "SuperSource Action";
-"threshold-decibels"            = "Threshold (Decibels)";
-"threshold"                     = "Threshold";
-"transition"                    = "Transition";
-"vfa"                           = "VFA";
-"video-follows-audio"           = "Video Follows Audio";
-"when-audio-levels"             = "When Audio Levels";
-"when"                          = "When";
-"with-transition"               = "With Transition";
-
-// More Settings
-
-"about"                         = "About MixEffect";
-"app-icon"                      = "App Icon";
-"appearance"                    = "Appearance";
-"contact"                       = "Contact";
-"dark"                          = "Dark";
-"default"                       = "Default";
-"documentation"                 = "Documentation";
-"feedback"                      = "Feedback";
-"licenses"                      = "Licenses";
-"mailing-list"                  = "MixEffect Mailing List";
-"privacy-policy"                = "Privacy Policy";
-"review"                        = "Rate MixEffect";
-"tip-jar"                       = "Tip Jar";
-"twitter"                       = "Twitter";
-"version-history"               = "Version History";
-"website"                       = "Website";
-
-// Reset Settings
-
-"erase-alert"                   = "Are you sure you want to delete all MixEffect content and settings?\n\nAll data will be deleted on all devices connected to this iCloud account.\n\nYour ATEM Switcher settings will be unaffected.";
-"erase-cancel"                  = "Don't Erase";
-"erase-confirm"                 = "Are you ABSOLUTELY SURE you want to delete all MixEffect content and settings?\n\nAll content will be deleted on all devices connected to this iCloud account.\n\nYour ATEM Switcher settings will be unaffected.\n\nThis operation cannot be undone.";
-"erase-content"                 = "Erase Content and Settings";
-"erase-content"                 = "Erase Content and Settings";
-"erase-title"                   = "Erase Content and Settings";
-"reset-alert"                   = "This will reset all MixEffect settings on this device.\n\nYour ATEM Switcher settings will be unaffected.";
-"reset-settings"                = "Reset Settings";
-"reset-title"                   = "Reset All Settings";
-"reset-warnings"                = "Reset Warnings";
-"reset"                         = "Reset";
-
-// Navigation Buttons
-
-"audio"                         = "Audio";
-"keyers"                        = "Keyers";
-"transitions"                   = "Transitions";
-"macros"                        = "Macros";
-"media"                         = "Media";
-"aux"                           = "AUX";
-"auxiliary"                     = "Auxiliary";
-"output"                        = "Output";
-"chat"                          = "Chat";
-
-// Transition Duration Context Menu
-
-"0.5-seconds"                   = "0.5 seconds";
-"1.0-seconds"                   = "1.0 seconds";
-"1.5-seconds"                   = "1.5 seconds";
-"2.0-seconds"                   = "2.0 seconds";
-"custom-rate"                   = "Custom Rate…";
-
-// Text
-
-// Color Scheme and Appearance
-"color-scheme"                  = "Color Scheme";
-"color-scheme-system"           = "System";
-"color-scheme-dark"             = "Dark";
-"color-scheme-light"            = "Light";
-"accent-color"                  = "Accent Color";
-"reset-accent-color"            = "Reset Accent Color";
-
-// Feature
-
-"feature-not-available"         = "Feature not available on this switcher.";
-"legacy-audio-unsupported"      = "Legacy Audio is currently unsupported.";
-"unsupported-feature"           = "This feature is not supported by this switcher.";
-
-// Audio
-
-"afv"                           = "AFV";
-"analog-audio-inputs"           = "Analog Inputs";
-"attack"                        = "Attack";
-"audio-delay"                   = "Audio Delay";
-"balance"                       = "Balance";
-"band %lld"                     = "Band %lld";
-"compressor"                    = "Compressor";
-"db"                            = "db";
-"delay"                         = "Delay";
-"dynamics"                      = "Dynamics";
-"equalizer-enabled"             = "Equalizer Enabled";
-"equalizer-gain"                = "Equalizer Gain";
-"equalizer"                     = "Equalizer";
-"expander"                      = "Expander";
-"fader-gain"                    = "Fader Gain";
-"fader"                         = "Fader";
-"fairlight-audio"               = "Fairlight Audio";
-"frames-delay"                  = "Frames Delay";
-"frames"                        = "Frames";
-"frequency"                     = "Frequency";
-"gain-reduction"                = "Gain Reduction";
-"gate"                          = "Gate";
-"h"                             = "H";
-"headphones"                    = "Headphones";
-"hold"                          = "Hold";
-"hz"                            = "Hz";
-"inf"                           = "-INF";
-"input-gain"                    = "Input Gain";
-"input-master-gain"             = "Input Master Gain";
-"input-settings"                = "Input Settings";
-"input-sidetone-gain"           = "Input Sidetone Gain";
-"input-talkback-gain"           = "Input Talkback Gain";
-"input"                         = "Input";
-"l"                             = "L";
-"limiter"                       = "Limiter";
-"make-up-gain"                  = "Make Up Gain";
-"make-up"                       = "Make Up";
-"master"                        = "Master";
-"max"                           = "Max";
-"mh"                            = "MH";
-"min"                           = "Min";
-"mix-option"                    = "Mix Option";
-"ml"                            = "ML";
-"monitor"                       = "Monitor";
-"ms"                            = "ms";
-"mute"                          = "Mute";
-"output"                        = "Output";
-"pan"                           = "Pan";
-"r"                             = "R";
-"range"                         = "Range";
-"ratio"                         = "Ratio";
-"release"                       = "Release";
-"solo"                          = "Solo";
-"split-audio"                   = "Split Audio";
-"stereo-simulation"             = "Stereo Simulation";
-"threshold"                     = "Threshold";
-
-// Audio Source
-
-"input1"                        = "Input 1";
-"input2"                        = "Input 2";
-"input3"                        = "Input 3";
-"input4"                        = "Input 4";
-"input5"                        = "Input 5";
-"input6"                        = "Input 6";
-"input7"                        = "Input 7";
-"input8"                        = "Input 8";
-"input9"                        = "Input 9";
-"input10"                       = "Input 10";
-"input11"                       = "Input 11";
-"input12"                       = "Input 12";
-"input13"                       = "Input 13";
-"input14"                       = "Input 14";
-"input15"                       = "Input 15";
-"input16"                       = "Input 16";
-"input17"                       = "Input 17";
-"input18"                       = "Input 18";
-"input19"                       = "Input 19";
-"input20"                       = "Input 20";
-"xlr"                           = "XLR";
-"aesbu"                         = "AES/EBU";
-"rca"                           = "RCA";
-"mic1"                          = "MIC 1";
-"mic2"                          = "MIC 2";
-"mp1"                           = "MP 1";
-"mp2"                           = "MP 2";
-"mp3"                           = "MP 3";
-"mp4"                           = "MP 4";
-
-// Error Messages
-
-"error.default"                 = "An error has occurred.";
-"error.defaultTitle"            = "Error";
-"error.fileNotFound"            = "The file could not be found.";
-"error.fileNotReadable"         = "The file could not be read.";
-"error.importFailed"                = "The file could not be imported.";
-"error.importFileNotValid"          = "The file is not a valid Streaming.xml file";
-"error.intent.automationsDisabled"  = "Automations are disabled.";
-"error.intent.empty"                = "Name cannot be empty.";
-"error.intent.failure"              = "The action could not be completed.";
-"error.intent.notConnected"         = "There is no active switcher connection.";
-"error.intent.notFound"             = "Switcher not found.";
-"error.intent.requiresPro"          = "MixEffect Pro is required to run automations.";
-"error.intent.title"                = "Could Not Run Action";
-"error.intent.viewOnlyMode"         = "Automations are disabled in View Only Mode.";
-"error.saveFailed"                  = "The file could not be saved.";
-
-// Shortcuts
-
-"add-to-siri"                           = "Add to Siri";
-"chroma-title-helper-description"       = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
-"chroma-title-helper"                   = "Chroma Title Helper";
-"get-shortcut"                          = "Get";
-"mixeffect-helper-description"          = "Run this shortcut at the start of your MixEffect shortcuts.";
-"mixeffect-helper"                      = "MixEffect Helper";
-"more-shortcuts"                        = "More Shortcuts";
-"more-shortcuts-description"            = "Get more shortcuts from MixEffect.app/shortcuts";
-"sample-shortcuts"                      = "Sample Shortcuts";
-"shortcut-auto-phrase"                  = "Perform Auto Transition";
-"shortcut-auto"                         = "Auto";
-"shortcut-change-layout-phrase"         = "Change Layout";
-"shortcut-change-layout"                = "Change Switcher Page Layout";
-"shortcut-change-section-phrase"        = "Change Section";
-"shortcut-change-section"               = "Change Switcher Section";
-"shortcut-change-transition-phrase"     = "Change Transition Style to Mix";
-"shortcut-change-transition"            = "Change Transition Style";
-"shortcut-connect-description"          = "Connect to one of your switchers in MixEffect.";
-"shortcut-connect"                      = "Connect to MixEffect";
-"shortcut-cut-phrase"                   = "Perform Cut";
-"shortcut-cut"                          = "Cut";
-"shortcut-export-streaming-description" = "Export all or a subset of your streaming services.";
-"shortcut-export-streaming"             = "Export Streaming XML";
-"shortcut-fade-to-black-phrase"         = "Fade to Black";
-"shortcut-fade-to-black"                = "Fade to Black";
-"shortcut-preview-transition-phrase"    = "Toggle Preview Transition Mode";
-"shortcut-preview-transition"           = "Preview Transition";
-"shortcut-run-macro-phrase"             = "Run Macro";
-"shortcut-run-macro"                    = "Run Macro";
-
-// In-App Purchases
-
-"%lld days-remaining"           = "%lld Days Remaining in Trial";
-"buy-later"                     = "Buy Later";
-"pro-about-no-trial"            = "Unlock the following MixEffect Pro features now.";
-"pro-about"                     = "Unlock the following MixEffect Pro features now or start a 30-day free trial.";
-"pro-feature-audio-title"       = "Audio";
-"pro-feature-audio"             = "See and control every audio input into your ATEM switcher.";
-"pro-feature-automation-title"  = "Automations";
-"pro-feature-automation"        = "Control your switcher using Siri and Shortcuts. Automatically switch inputs based on audio levels.";
-"pro-feature-edit-title"        = "Editing Palettes";
-"pro-feature-edit"              = "Conveniently edit your Transitions, Downstream Keyers, Upstream Keyers, and Color Generators.";
-"pro-feature-general-title"     = "ATEM Control";
-"pro-feature-general"           = "Get total control of your ATEM switcher from the palm of your hand.";
-"pro-feature-macros-title"      = "Macros";
-"pro-feature-macros"            = "Quickly run your macros and record new ones. Filter and sort your macros by index, name, color, or icon.";
-"pro-feature-output-title"      = "Output";
-"pro-feature-output"            = "Update your streaming destinations and recording settings.";
-"pro-feature-pages-title"       = "Customization";
-"pro-feature-pages"                 = "Create customized Switcher pages to fit your personal workflow.";
-"pro-feature-supersource-title"     = "SuperSource";
-"pro-feature-supersource"           = "Take SuperSource to the next level with presets, transition animations and box highlighting.";
-"pro"                           = "Pro";
-"purchase-title"                = "Go Pro";
-"purchase"                      = "Purchase";
-"restore-purchases"             = "Restore Purchases";
-"start-trial"                   = "30-Day Trial";
-"start-trial"                   = "Start Trial";
-"trial-expired"                 = "Trial Expired";
-"upgrade-to-pro"                = "Get MixEffect Pro";
-
-// In-App Purchase StoreKit Messages
-
-"store-pro-failure-title"       = "Purchase Error";
-"store-pro-failure"             = "An error occurred during purchase. Please try again";
-"store-pro-success-title"       = "Premium Unlocked";
-"store-pro-success"             = "Thank you for purchasing MixEffect Pro. All features of the application have been unlocked.";
-"store-restore-failure-title"   = "Restore Error";
-"store-restore-failure"         = "There was an error trying to restore your purchase. Please try again later.";
-"store-restore-none-title"      = "Restore Error";
-"store-restore-none"            = "No purchases to restore.";
-"store-restore-success-title"   = "Restore Success";
-"store-restore-success"         = "Your purchase has been restored.";
-"store-tip-failure-title"       = "Purchase Error";
-"store-tip-failure"             = "An error occurred during purchase. Please try again";
-"store-tip-success-title"       = "Thank You";
-"store-tip-success"             = "Your tip is greatly appreciated.";
-"store-trial-expired-title"     = "Trial Expired";
-"store-trial-expired"           = "Your trial of MixEffect Pro has expired.";
-"store-trial-start-title"       = "Trial Begins";
-"store-trial-start"             = "MixEffect Pro features are now unlocked for the next 30 days.";
+"more"                          = "Więcej";
+
+"mix-effects-bus" = "Szyna MixEffect";
+
+"mix-option" = "Opcje miksu";
+
+"mix-rate" = "Szybkość";
+
+"mixeffect-helper" = "Skróty MixEffect";
+
+"mixeffect-helper-description" = "Uruchom ten skrót jako pierwszy ze swoich skrótków MixEffect.";
+
+"ml" = "ML";
+
+"monitor" = "Monitoruj";
+
+"more-shortcuts" = "Więcej skrótów";
+
+"more-shortcuts-description" = "Pobierz więcej skrótów z MixEffect.app/shortcuts";
+
+"mp" = "ODTW";                     // Media Player with index
+"name"                          = "Nazwa";
+
+"mp1" = "ODTW1";
+
+"mp2" = "ODTW2";
+
+"mp3" = "ODTW3";
+
+"mp4" = "ODTW4";
+
+"ms" = "ms";
+
+"multiview" = "Widok studia (Multiview)";
+
+"mute" = "Wycisz";
+
+"mv" = "STDIO";
+
+"mv %lld" = "STDIO%lld";
+
+"mv-all-small" = "Wszystkie małe";
+
+"mv-bottom-left-program" = "Program po lewej na dole";
+
+"mv-bottom-left-small" = "Lewy-dolny mały";
+
+"mv-bottom-right-program" = "Program po prawej na dole (nieaktywne)";
+
+"mv-bottom-right-small" = "Prawy-dolny mały";
+
+"mv-default" = "Domyślnie";
+
+"mv-program-bottom" = "Program na dole";
+
+"mv-program-left" = "Program po lewej";
+
+"mv-program-right" = "Program po prawej";
+
+"mv-program-top" = "Program na górze";
+
+"mv-top-left-program" = "Program po lewej na górze (nieaktywne)";
+
+"mv-top-left-small" = "Lewy-górny mały";
+
+"mv-top-right-program" = "Program po prawej na górze (nieaktywne)";
+
+"mv-top-right-small" = "Prawy-górny mały";
+
+"narrow-chroma-key-range" = "Zmniejsz zakres klucza chromatycznego";
+
+"new-atem-switcher" = "Nowy przełącznik ATEM";
+
+"new-layout" = "Nowy układ";
+
+"new-layout-description" = "Podaj nazwę dla nowego układu SuperŹródła.";
+
+"new-layout-title" = "Nowy układ SuperŹródła";
+
+"new-page" = "Nowa strona";
+
+"new-profile" = "Nowy profil";
+
+"new-server" = "Nowy serwer";
+
+"new-service" = "Nowa usługa";
+
+"new-simulator" = "Nowy symulator przełącznika ATEM";
+
+"new-streaming-service" = "Nowy serwis strumieniowy";
+
+"new-switcher" = "Nowy przełącznik";
+
+"next-page" = "Następna strona";
+
+"next-transition" = "Następne przejście";        // Next Transition section title
+"none"                          = "Brak";
+
+"no-media-selected" = "Nie wybrano mediów";
+
+"no-panels" = "Na tej stronie nie ma żadnego panelu";
+
+"notes" = "Notatki";
+
+"off" = "Wyłączone";
+
+"ok" = "OK";
+
+"on-air" = "Na Żywo";                 // On Air button for DSK and USK
+"on"                            = "Włączone";
+
+"on-bus" = "Na szynie MixEffect";
+
+"on-macro-tap" = "Po naciśnięciu";
+
+"on-supersource" = "Na SuperŹródle";
+
+"opacity" = "Przezroczystość";
+
+"open-supersource" = "Otwórz SuperŹródło";
+
+"operation-undone" = "Tej operacji nie można cofnąć.";
+
+"osc" = "OSC";
+
+"osc-port" = "Port OSC";
+
+"outer-softness" = "Zmiękczenie krawędzi";
+
+"outer-width" = "Szerokość krawędzi";
+
+"output" = "Wyjście";
+
+"padding" = "Wyrównanie";
+
+"page-name-example" = "np. Domyślny";
+
+"pan" = "Balans";
+
+"panel-landscape-bottom" = "Poziomo na dole";
+
+"panel-landscape-left" = "Poziomo po lewej";
+
+"panel-landscape-right" = "Poziomo po prawej";
+
+"panel-landscape-top" = "Poziomo na górze";
+
+"panel-pad-bottom" = "iPad na dole";
+
+"panel-pad-left" = "iPad po lewej";
+
+"panel-pad-right" = "iPad po prawej";
+
+"panel-pad-sidebar" = "iPad pasek boczny";
+
+"panel-pad-top" = "iPad na górze";
+
+"panel-portrait" = "Pionowo";
+
+"panel-titles" = "Pokazuj nazwy paneli";
+
+"panel-type" = "Typ panelu";
+
+"password" = "Hasło";
+
+"paste" = "Skopiuj";
+
+"paste-to-all" = "Skopiuj do wszystkich…";
+
+"pattern" = "Wzór";
+
+"pattern-bottomCenterBox" = "Środek-dół";
+
+"pattern-bottomLeftBox" = "Lewo-dół";
+
+"pattern-bottomRightBox" = "Prawo-dół";
+
+"pattern-circleIris" = "Mrugnięcie";
+
+"pattern-cornersInFourBox" = "Cztery rogi";
+
+"pattern-diamondIris" = "Diamentowe mrugnięcie";
+
+"pattern-horizontalBarnDoor" = "Poziome wrota";
+
+"pattern-leftCenterBox" = "Środek-lewo";
+
+"pattern-leftToRightBar" = "Pasek z lewej do prawej";
+
+"pattern-rectangleIris" = "Kwadratowe mrugięcie";
+
+"pattern-rightCenterBox" = "Środek-prawo";
+
+"pattern-topCenterBox" = "Środek-góra";
+
+"pattern-topLeftBox" = "Lewo-góra";
+
+"pattern-topLeftDiagonal" = "Lewo-góra po przekątnej";
+
+"pattern-topRightBox" = "Prawo-góra";
+
+"pattern-topRightDiagonal" = "Prawo-góra po przekątnej";
+
+"pattern-topToBottomBar" = "Pasek z góry na dół";
+
+"pattern-verticalBarnDoor" = "Pionowe wrota";
+
+"place-in" = "Umieść w";
+
+"port" = "Port";
+
+"position-x" = "Pozycja X";
+
+"position-y" = "Pozycja Y";
+
+"pre-multiplied-key" = "Mnożnik klucza";
+
+"pre-multiplied-key-enable" = "Włącz mnożnik";
+
+"pre-roll" = "Rozbiegówka";
+
+"preset" = "Predefiniowany";
+
+"preset-five-grid-crop" = "GÓRA - Pięć siatka z przycięciem";
+
+"preset-five-grid-crop-notes" = "Włącz DVE GÓRA1 na wejście 5 pozycja X: 10.70, pozycja Y: -4.5, rozmiar: 0.64, przycięcie z góry: 2.0, z dołu: 2.0, z lewej: 7.75, z prawej: 7.75";
+
+"preset-five-left" = "GÓRA - Pięć z lewej";
+
+"preset-five-left-notes" = "Włącz DVE GÓRA1 na wejście 5 pozycja X: 12.00, pozycja Y: -6.5, rozmiar: 0.2, bez przycinania";
+
+"preset-four-grid" = "Cztery siatka";
+
+"preset-four-grid-alt" = "Cztery siatka inaczej";
+
+"preset-four-grid-full" = "Cztery siatka pełny ekran";
+
+"preset-four-horizontal" = "Cztery poziomo";
+
+"preset-four-horizontal-crop" = "Cztery siatka z przycięciem";
+
+"preset-four-horizontal-fill" = "Cztery siatka wypełnienie";
+
+"preset-four-left" = "Cztery z lewej";
+
+"preset-four-left-full" = "Cztery z lewej pełny ekran";
+
+"preset-pad-mini-left" = "iPad Mini po lewej";
+
+"preset-pad-mini-pip" = "iPad Mini okno w oknie (PIP)";
+
+"preset-pad-mini-right" = "iPad Mini po prawej";
+
+"preset-pad-pro-left" = "iPad Pro 12.9 po lewej";
+
+"preset-pad-pro-pip" = "iPad Pro 12.9 okno w oknie (PIP)";
+
+"preset-pad-pro-right" = "iPad Pro 12.9 po prawej";
+
+"preset-phone-pro-max-pip" = "iPhone Pro Max okno w oknie (PIP)";
+
+"preset-pip-over" = "GÓRA - PIP na górze";
+
+"preset-pip-over-note" = "Włącz DVE GÓRA1 na wejście 2 pozycja X: -9.5, pozycja Y: 5.0, rozmiar: 0.35, bez przycinania";
+
+"preset-pip-over-two" = "GÓRA - PIP na górze dwa";
+
+"preset-pip-over-two-note" = "Włącz DVE GÓRA1 na wejście 2 pozycja X: -9.5, pozycja Y: -5.0, rozmiar: 0.35, bez przycinania / GÓRA2 na wejście 3 pozycja X: 9.5, pozycja Y: 5.0, rozmiar: 0.35, bez przycinania";
+
+"preset-pip-under" = "PIP pod spodem";
+
+"preset-six-grid" = "GÓRA - Sześć siatka";
+
+"preset-six-grid-crop" = "GÓRA - Sześć siatka przycięta";
+
+"preset-six-grid-crop-notes" = "Włącz DVE GÓRA1 na wejście 5 pozycja X: 0, pozycja Y: -3.25, rozmiar: 0.3 / GÓRA2 na wejście 6 pozycja X: 10.5, pozycja Y: -3.25, rozmiar: 0.3, bez przycinania";
+
+"preset-six-grid-notes" = "Włącz DVE GÓRA1 na wejście 5 pozycja X: 0, pozycja Y: -3.25, rozmiar: 0.3 / GÓRA2 na wejście 6 pozycja X: 10.5, pozycja Y: -3.25, rozmiar: 0.3, bez przycinania";
+
+"preset-six-left" = "GÓRA - Sześć do lewej";
+
+"preset-six-left-notes" = "Włącz DVE GÓRA1 na wejście 5 pozycja X: 12.5, pozycja Y: -3.50, rozmiar: 0.17, bez przycinania/ GÓRA2 na wejście 6 pozyja X: 12.5, pozycja Y: -7.0, rozmiar: 0.17, bez przycinania";
+
+"preset-standard-four" = "Standard - 4";
+
+"preset-standard-one" = "Standard - 1";
+
+"preset-standard-three" = "Standard - 3";
+
+"preset-standard-two" = "Standard - 2";
+
+"preset-three-horizontal-crop" = "Trzy przycięte w poziomie";
+
+"preset-three-horizontal-fill" = "Trzy pełny ekran";
+
+"preset-three-left" = "Trzy do lewej";
+
+"preset-three-left-crop" = "Trzy przycięte do lewej";
+
+"preset-three-top" = "Trzy na górze";
+
+"preset-two-bottom" = "Dwa z dołu";
+
+"preset-two-diagonal" = "Dwa po przekątnej";
+
+"preset-two-horizontal" = "Dwa poziomo";
+
+"preset-two-horizontal-crop" = "Dwa poziomo przycięte";
+
+"preset-two-horizontal-fill" = "Dwa poziomo pełny ekran";
+
+"preset-two-left" = "Dwa z lewej";
+
+"preset-two-right" = "Dwa z prawej";
+
+"preset-two-top" = "Dwa z góry";
+
+"preset-two-vertical" = "Dwa pionowo";
+
+"preset-two-vertical-fill" = "Dwa pionowo pełny ekran";
+
+"presets" = "Szablony";
+
+"preview-button" = "Poprz";
+
+"preview-scale" = "Skala podglądu";
+
+"preview-transition" = "Poprz Przejście";             // Preview Transition button
+"preview"                       = "Podgląd";                // Preview Bus section title
+"program-button"                = "PRGM";
+
+"previous-page" = "Poprzednia strona";
+
+"privacy-policy" = "Polityka prywatności";
+
+"pro" = "Pro";
+
+"pro-about" = "Odblokuj następujące funkcje MixEffect Pro lub rozpocznij 30-dniowy okres próbny.";
+
+"pro-about-no-trial" = "Odblokuj następujące funkcje MixEffect Pro.";
+
+"pro-feature-audio" = "Śledź i kontroluj wszystkie kanały audio swojego przełącznika ATEM.";
+
+"pro-feature-audio-title" = "Dźwięk";
+
+"pro-feature-automation" = "Kontroluj swój przełącznik przez Skróty i Siri. Automatycznie zmieniaj sceny w zależności od źródła dźwięku.";
+
+"pro-feature-automation-title" = "Automatyzacje";
+
+"pro-feature-edit" = "Wygodnie modyfikuj przejścia, kluczowanie (w górę i w dół) i generatory kolorów.";
+
+"pro-feature-edit-title" = "Pełna paleta edytorów";
+
+"pro-feature-general" = "Uzyskaj całkowitą kontrolę nad swoim przełącznikiem ATEM z poziomu urządzenia mobilnego.";
+
+"pro-feature-general-title" = "Kontroal przełącznika ATEM";
+
+"pro-feature-macros" = "Szybko uruchamiaj makra i nagrywaj nowe. Szukaj i sortuj makra po identyfikatorze, nazwie, kolorze lub ikonie.";
+
+"pro-feature-macros-title" = "Makra";
+
+"pro-feature-output" = "Modyfikuj ustawienia dostawców strumieniowania i nagrywania.";
+
+"pro-feature-output-title" = "Wyjście";
+
+"pro-feature-pages" = "Twórz własne strony przełącznika dopasowane do Twojego stylu pracy.";
+
+"pro-feature-pages-title" = "Dostosowywanie";
+
+"pro-feature-supersource" = "SuperŹródło może być jeszcze potężniejsze dzięki szablonom, animacjom i akcentowaniu aktywnych gości.";
+
+"pro-feature-supersource-title" = "SuperŹródło";
+
+"pro-line" = "Pro Line";
+
+"profile-error-save" = "Błąd przy zapisywaniu";
+
+"profile-error-save-message" = "Profil nie mógł zostać zapisany. Upewnij się, że częstotliwości próbkowania są właściwe i ich wartości mieszczą się w granicach.";
+
+"profile-footnote" = "Uwaga: Rozdzielczość, FPS i interwał klatek kluczowych może być użyty tylko kiedy importujesz przez oficjalną aplikację (Atem Software Control) na macOS lub Windows.";
+
+"profile-name-example" = "np. Mój streaming";
+
+"profiles" = "Profile strumieniowania";
+
+"program" = "Program";                // Program Bus section title
+"program-preview"               = "Program / Podgląd";
+
+"protocol-reload" = "Połącz ponownie przy wykryciu błędów protokołu";
+
+"protocol-reload-description" = "Automatycznie zresetuj połączenie jeśli wykryta zostanie niekompletna komunikacja";
+
+"purchase" = "Zakup";
+
+"purchase-title" = "Kup wersję Pro";
+
+"push" = "Wypchnij";
+
+"quality" = "Jakość";
+
+"r" = "P";
+
+"range" = "Zakres";
+
+"rate" = "Częstotliwość";
+
+"ratio" = "Stosunek";
+
+"rca" = "RCA";
+
+"rec" = "Nagrywa";
+
+"reconnect" = "Ponów połączenie";
+
+"reconnect-required" = "Wymagane jest ponowne połączenie";
+
+"record" = "Nagrywanie";                 // Record
+"reset-mask"                    = "Resetuj Maskę";
+
+"record-in-all-cameras" = "Nagrywaj także w kamerach";
+
+"record-stream" = "Nagrywaj strumień";
+
+"record-stream-short" = "Nagrywaj";
+
+"recording" = "Nagrywam strumień";
+
+"recording-not-available" = "Nagrywanie w przełączniku nie jest dostępne.\n\nUpewnij się, że twój przełącznik potrafi nagrywać, a dyski są poprawnie sformatowane i podłączone do przełącznika dobrej jakości kablem USB-C.";
+
+"red" = "Czerwony";
+
+"release" = "Zwolnij";
+
+"remove" = "Usuń";
+
+"remove-all-panels" = "Usuń wszystkie panele";
+
+"remove-all-panels-message" = "Usuń wszystkie panele z wybranego układu. Tej operacji nie można cofnąć.";
+
+"remove-favorite" = "Usuń ulubione";
+
+"rename" = "Zmień nazwę";
+
+"repeat-delay" = "Powtórz opóźnienie:";
+
+"replace" = "Zastąp";
+
+"replace-media %lld" = "Zmień slot %lld";
+
+"replace-media-alert" = "To zastąpi medium w wybranym slocie. Tej operacji nie można cofnąć.";
+
+"replace-preset" = "Układ SuperŹródła o takiej nazwie już istnieje. Zastąpić bieżącym?";
+
+"required" = "Wymagane";
+
+"reset" = "Resetuj";
+
+"reset-accent-color" = "Resetuj kolor akcentu";
+
+"reset-alert" = "To usunie wszystkie ustawienia aplikacji MixEffect na tym urządzeniu.\n\nUstawienia twojego przełącznika ATEM pozostaną bez zmian.";
+
+"reset-all" = "Zresetuj wszystko";
+
+"reset-contrast" = "Resetuj kontrast";
+
+"reset-crop" = "Resetuj przycięcie";
+
+"reset-gain" = "Resetuj wzmocnienie";
+
+"reset-gamma" = "Resetuj gamma";
+
+"reset-hue" = "Resetuj odcień";
+
+"reset-layout" = "Zresetuj układ";
+
+"reset-layout %@" = "Zresetuj układ %@";
+
+"reset-layout-message" = "Wybrany układ zostanie przywrócony do wartości domyślnych. Tej operacji nie można cofnąć.";
+
+"reset-lift" = "Resetuj przesunięcie";
+
+"reset-luminance" = "Resetuj jasność";
+
+"reset-position" = "Resetuj pozycję";
+
+"reset-presets" = "Resetuj szablony";
+
+"reset-presets-description" = "Skasować wszystkie szablony SuperŹródła i zastąpić je domyślnymi? Tej operacji nie można cofnąć.";
+
+"reset-saturation" = "Resetuj saturację";
+
+"reset-settings" = "Resetuj ustawienia";
+
+"reset-size" = "Resetuj rozmiar";
+
+"reset-source-name" = "Resetuj";
+
+"reset-title" = "Resetuj wszystkie ustawienia";
+
+"reset-warnings" = "Resetuj ostrzeżenia";
+
+"resolution" = "Rozdzielczość";
+
+"restore-purchases" = "Odczytaj wcześniej zakupioną licencję";
+
+"reverse" = "Odwrotnie";
+
+"revert-to-prior-transition" = "Przywróć do poprzedniego przejścia";
+
+"review" = "Oceń MixEffect";
+
+"rgb" = "RGB";
+
+"right" = "Prawo";
+
+"rotation" = "Rotacja";
+
+"run" = "Uruchom";
+
+"run-mode" = "Tryb uruchamiania";
+
+"run-to" = "Idź do";
+
+"run-to-infinite" = "Idź do nieskończoności";
+
+"safe-areas" = "Granice bezpieczeństwa";
+
+"sample-shortcuts" = "Przykładowe skróty";
+
+"sample-size" = "Rozmiar próbki";
+
+"saturation" = "Nasycenie";
+
+"save" = "Zapisz";
+
+"save-preset-icon" = "Zapisz ikonę szablonu";
+
+"search" = "Szukaj";
+
+"search-macros" = "Szukaj w makrach";
+
+"search-media" = "Wyszukuj";
+
+"search-presets" = "Szukaj szablonów";
+
+"second" = "Sekunda";
+
+"seconds" = "Sekundy";
+
+"security" = "Bezpieczeństwo";
+
+"select" = "Wybór";
+
+"select-bus" = "Szyna wyboru";
+
+"select-macro" = "Wybierz makro";
+
+"server" = "Serwer";
+
+"server-name" = "Nazwa";
+
+"server-url" = "URL";
+
+"server-url-example" = "rtmps://10.0.1.150/live";
+
+"servers" = "Serwery";
+
+"service" = "Usługa";
+
+"service-name" = "Nazwa usługi";
+
+"service-name-example" = "np. YouTube ";
+
+"set" = "Ustaw";
+
+"set-a" = "Nastaw A";
+
+"set-all-settings" = "Zapisz wszystkie ustawienia";
+
+"set-b" = "Nastaw B";
+
+"set-default" = "Ustaw domyślne";
+
+"set-default-page" = "Ustaw jako strona domyślna";
+
+"set-preset" = "Zapisz układ jako szablon";
+
+"set-threshold" = "Ustaw próg";
+
+"set-timecode" = "Ustaw timekod";
+
+"set-timecode-device" = "Ustaw czas tego urządzenia";
+
+"settings" = "Ustawienia";
+
+"settings-color-generators" = "Pokazuj wszystkie generatory kolorów";
+
+"settings-title" = "Ustawienia";
+
+"shadow" = "Cień";
+
+"shake-to-reload" = "Potrząśnij aby odświeżyć";
+
+"shortcut-auto" = "Auto";
+
+"shortcut-auto-phrase" = "Wykonaj automatyczne przejście";
+
+"shortcut-change-layout" = "Zmień układ strony przełącznika";
+
+"shortcut-change-layout-phrase" = "Zmień układ";
+
+"shortcut-change-section" = "Zmień sekcję przełącznika";
+
+"shortcut-change-section-phrase" = "Zmień sekcję";
+
+"shortcut-change-transition" = "Zmień styl przejścia";
+
+"shortcut-change-transition-phrase" = "Zmień styl przejścia na miks";
+
+"shortcut-connect" = "Połącz do MixEffect";
+
+"shortcut-connect-description" = "Najpierw połącz się z jednym ze swoich przełączników w MixEffect.";
+
+"shortcut-cut" = "Cięcie";
+
+"shortcut-cut-phrase" = "Wykonaj cięcie";
+
+"shortcut-export-streaming" = "Eksportuj Streaming.xml";
+
+"shortcut-export-streaming-description" = "Eksportuj część lub wszystkie swoje usługi strumieniowe.";
+
+"shortcut-fade-to-black" = "Wygaszenie do czerni (FTB)";
+
+"shortcut-fade-to-black-phrase" = "Wygaszenie do czerni (FTB)";
+
+"shortcut-preview-transition" = "Podgląd przejścia";
+
+"shortcut-preview-transition-phrase" = "Przełącz podgląd trybu przejścia";
+
+"shortcut-run-macro" = "Uruchom makro";
+
+"shortcut-run-macro-phrase" = "Uruchom makro";
+
+"shortcuts" = "Skróty";
+
+"show-box-colors" = "Wyróżnij każde pole innym kolorem";
+
+"show-box-controls" = "Pokaż edycję pola";
+
+"show-box-sources" = "Pokaż źródła dla pól";
+
+"show-color-bars" = "Pokaż kolorowe pasy";
+
+"show-descriptions" = "Pokaż opisy";
+
+"show-indicator-recording" = "Pokaż wskaźnik nagrywania";
+
+"show-indicator-streaming" = "Pokaż wskaźnik strumieniowania";
+
+"show-timecode" = "Pokaż timekod";
+
+"shutter" = "Migawka";
+
+"sidebar-full" = "Używaj pełnej wysokości paska bocznego";
+
+"simulator" = "Symulator";
+
+"simulator-description" = "Ustaw adres IP serwera na 127.0.0.1";
+
+"size" = "Rozmiar";
+
+"size-and-position" = "Rozmiar i pozycja";
+
+"size-and-position-advanced" = "Użyj zaawansowanych rozmiaru i pozycji";
+
+"size-x" = "Rozmiar X";
+
+"size-y" = "Rozmiar Y";
+
+"softness" = "Rozmycie";
+
+"solo" = "Solo";
+
+"sort-ascending" = "Sortuj rosnąco";
+
+"sort-audio-sources" = "Sortuj źródła audio";
+
+"sort-descending" = "Sortuj malejąco";
+
+"source" = "Źródło";
+
+"source-labels" = "Etykiety źródeł";
+
+"speed-extra-fast" = "Bardzo szybko";
+
+"speed-extra-slow" = "Bardzo wolno";
+
+"speed-fast" = "Szybko";
+
+"speed-instant" = "Błyskawicznie";
+
+"speed-normal" = "Normalnie";
+
+"speed-slow" = "Wolno";
+
+"spill-suppression" = "Ograniczenie wylewania";
+
+"split-audio" = "Podziel kanał audio";
+
+"ssrc" = "SŹRD";
+
+"ssrc %lld" = "SŹRD %lld";
+
+"start-trial" = "30-dniowy okres próbny";
+
+"startup-state" = "Stan początkowy";
+
+"startup-state-clear" = "Wyczyść stan początkowy";
+
+"startup-state-clear-confirm" = "Usunąć ustawienia początkowe przełącznika? Tej operacji nie można cofnąć.";
+
+"startup-state-save" = "Zapisz stan początkowy";
+
+"startup-state-save-confirm" = "Bieżące ustawienia będą aktywne po włączeniu przełącznia.";
+
+"stereo-simulation" = "Symulacja stereo";
+
+"still" = "Obraz";
+
+"still %lld" = "Obraz %lld";
+
+"still-delete %lld" = "Usuń obraz %lld";
+
+"still-select" = "Wybierz slot dla obrazu";
+
+"still-upload" = "Prześlij obraz";
+
+"still-warning" = "Przesyłanie obrazów";
+
+"still-warning-alert" = "MixEffect przeskaluje przesyłany obraz do wybranego trybu rozdzielczości przełącznika.\n\nSporadycznie taka operacja na zdjęciach z twojej Rolki może zawiesić przełącznik i konieczny będzie jego restart.";
+
+"stills" = "Obrazy";
+
+"sting" = "Sting";
+
+"stinger" = "Stinger";
+
+"stop" = "Stop";
+
+"stopping" = "Zatrzymywanie";
+
+"store-pro-failure" = "Wystąpił błąd w czasie zakupu. Spróbuj ponownie.";
+
+"store-pro-failure-title" = "Błąd zakupu";
+
+"store-pro-success" = "Dziękuję za zakup MixEffect Pro. Wszystkie funkcje aplikacji zostały odblokowane.";
+
+"store-pro-success-title" = "Wersja Premium została odblokowana";
+
+"store-restore-failure" = "Wystąpił błąd w czasie odczytywania wcześniejszego zakupu. Spróbuj ponownie.";
+
+"store-restore-failure-title" = "Błąd odtwarzania";
+
+"store-restore-none" = "Brak licencji do odtworzenia.";
+
+"store-restore-none-title" = "Błąd odtwarzania";
+
+"store-restore-success" = "Twoja licencja została odtworzona.";
+
+"store-restore-success-title" = "Odtwarzanie zakończone";
+
+"store-tip-failure" = "Wystąpił błąd w czasie zakupu. Spróbuj ponownie.";
+
+"store-tip-failure-title" = "Błąd zakupu";
+
+"store-tip-success" = "Twoje wsparcie wiele dla mnie znaczy.";
+
+"store-tip-success-title" = "Dziękuję";
+
+"store-trial-expired" = "Twój okres próbny dla MixEffect Pro zakończył się.";
+
+"store-trial-expired-title" = "Okres próbny zakończona";
+
+"store-trial-start" = "Funkcje MixEffect Pro zostały odblokowane na okres kolejnych 30 dni.";
+
+"store-trial-start-title" = "Okres próbny rozpoczęty";
+
+"stream-key" = "Klucz strumieniowania";
+
+"streaming" = "Strumieniowanie LIVE";
+
+"streaming-config %lld" = "Konfiguracja strumieniowania %lld";
+
+"streaming-high" = "Wysoka jakość strumienia";
+
+"streaming-low" = "Niska jakość strumienia";
+
+"streaming-medium" = "Średnia jakość strumienia";
+
+"streaming-quality-default" = "Profil domyślny";
+
+"streaming-servers" = "Serwery strumieniowania";
+
+"streaming-service" = "Usługa strumieniowania";
+
+"streaming-services" = "Usługi strumieniowania";
+
+"style" = "Styl";
+
+"supersource" = "SuperŹródło";
+
+"supersource-action" = "Akcja SuperŹródła";
+
+"supersource-boxes" = "Pola SuperŹródła";
+
+"supersource-layouts" = "Układy SuperŹródła";
+
+"supersource-macro-pause" = "Dodawaj pauzy przy nagrywaniu makra";
+
+"swap-boxes" = "Zamień pola";
+
+"swap-program-preview" = "Zamień Program i Podgląd";
+
+"switch" = "Przełącz";
+
+"switch-to" = "Przełącz na";
+
+"switcher" = "Przełącznik";
+
+"switcher-connections" = "Przełączniki";
+
+"switcher-could-not-connect" = "Nie można połączyć się z przełącznikiem";
+
+"switcher-name-example" = "np. Mój ATEM Mini Pro";
+
+"switcher-not-connected" = "Przełącznik nie jest podłączony";
+
+"switcher-options" = "Opcje przełącznika";
+
+"switcher-reconnecting" = "Ponawiam połączenie z przełącznikiem";
+
+"switcher-settings" = "Ustawienia przełącznika";
+
+"switching-mode" = "Tryb przełączania";
+
+"symmetry" = "Symetria";
+
+"tagline" = "Profesjonalna konsoleta dla przełączników ATEM!";
+
+"take-the-tour" = "Pokaż przewodnik";
+
+"telephoto" = "Telefoto";
+
+"testing" = "Testowanie";
+
+"threshold" = "Próg";
+
+"threshold-decibels" = "Próg (dB)";
+
+"thumbnail-big" = "Duże (144 x 81)";
+
+"thumbnail-companion" = "Aplikacja Companion (72 x 41)";
+
+"thumbnail-hd1080" = "1080p (1920 x 1080)";
+
+"thumbnail-hd720" = "720p (1280 x 720)";
+
+"thumbnail-sd" = "SD (640 x 360)";
+
+"thumbnail-small" = "Małe (96 x 54)";
+
+"tie" = "Łącz";
+
+"time-of-day" = "Czas bieżący";
+
+"timecode" = "Timekod";
+
+"timecode-generator" = "Generator timekodu";
+
+"timecode-generator-short" = "Timekod";
+
+"tip-jar" = "Grosik dla autora";
+
+"to" = "Do";
+
+"to-all-boxes" = "Zastosuj do wszystkich pól";
+
+"tools" = "Narzędzia";
+
+"top" = "Góra";
+
+"top-center" = "Środek-góra";
+
+"top-left" = "Lewo-góra";
+
+"top-right" = "Prawo-góra";
+
+"tour" = "Przewodnik";
+
+"transition" = "Przejście";
+
+"transition-button" = "Przejście";                  // Transitions button
+"transition-options"            = "Opcje przejścia…";    // Transition Settings
+"transition-style"              = "Styl przejścia";       // Transition Style section title
+"transition-type"               = "Typ przejścia";        // Transition Type picker
+"turn-off"                      = "Wyłącz";
+
+"transition-speed" = "Szybkość przejścia";
+
+"transitions" = "Przejścia";
+
+"trial-expired" = "Okres próbny dobiegł końca";
+
+"trigger-point" = "Punkt wyzwalania";
+
+"try-again" = "Spróbuj jeszcze raz";
+
+"turn-on" = "Włącz";
+
+"twitter" = "Twitter";
+
+"ukwn" = "ND";                   // Unknown source button
+"unassigned-frames"             = "Nieprzydzielone klatki";
+
+"unknown" = "Nie działa";                // Unknown source button
+"user-interface"                = "Interfejs użytkownika";
+
+"unlock-message" = "Wpisz swój kod aby odblokować MixEffect.";
+
+"unlock-message-failed" = "Naciśnij powyżej aby odblokować MixEffect albo wyjdź.";
+
+"unlock-mixeffect" = "Odblokuj MixEffect";
+
+"unsupported-feature" = "Funkcja nie jest obsługiwana przez ten przełącznik.";
+
+"untitled-page" = "Nienazwana strona";
+
+"unused" = "Nieaktywne";
+
+"update-preset" = "Aktualizuj szablon";
+
+"upgrade-to-pro" = "Zakup wersję MixEffect Pro";
+
+"upstream-key" = "Kluczowanie w górę";
+
+"upstream-keyers" = "Kluczowanie w górę";
+
+"upstream-keys" = "Upstream Keys";
+
+"use-cut-bus" = "Używaj szyny cięć";
+
+"use-landscape-layout" = "Użyj układu poziomego";
+
+"use-portrait-layout" = "Użyj układu pionowego";
+
+"used" = "Wszystkie";
+
+"username" = "Nazwa użytkownika";
+
+"usk" = "GÓRA";
+
+"usk %lld" = "GÓRA%lld";
+
+"usk-settings" = "GÓRA Ustawienia";
+
+"version-history" = "Historia zmian";
+
+"vfa" = "VFA";
+
+"video-follows-audio" = "Wideo podąża za audio";
+
+"video-mode" = "Tryb wideo";
+
+"video-mode-change" = "Zmiana trybu wideo może spowodować wyczyszczenie Biblioteki Mediów.";
+
+"video-out" = "Wyjście wideo";
+
+"view-all" = "Zobacz wszystkie";
+
+"view-control" = "Ustawienia widoku";
+
+"view-only-mode" = "Włącz tryb tylko do odczytu";
+
+"view-only-mode-activated" = "Tryb tylko do odczytu";
+
+"view-only-mode-description" = "Wyłączenie trybu tylko do odczytu wymaga Face ID lub kodu";
+
+"visual-editor" = "Edytor wizualny";
+
+"wb" = "WB";
+
+"website" = "Strona domowa";
+
+"welcome" = "Witaj w MixEffect";
+
+"welcome-tagline" = "Profesjonalna konsoleta dla przełączników ATEM!";
+
+"when" = "Kiedy";
+
+"when-audio-levels" = "Kiedy audio się wyrówna";
+
+"white-balance" = "Balans bieli";
+
+"wide" = "Szeroki kąt";
+
+"width" = "Długość";
+
+"window" = "Okno";
+
+"windows" = "Okna";
+
+"wipe" = "Wymaż";
+
+"with-box %lld" = "przez pole %lld";
+
+"with-transition" = "Dodaj przejście";
+
+"x" = "X";
+
+"xlr" = "XLR";
+
+"y" = "Y";
+
+"y-suppress" = "Zablokuj Y";
+
+"zoom" = "Przybliżenie";
+
+"add-tags" = "";
+
+"auto" = "";
+
+"auto-reconnect" = "";
+
+"aux %lld" = "";
+
+"aux-view-style" = "";
+
+"back" = "";
+
+"compact-controls" = "";
+
+"constrain" = "";
+
+"constrain-horizontally" = "";
+
+"constrain-vertically" = "";
+
+"current-preset" = "";
+
+"delete" = "";
+
+"descending" = "";
+
+"dip" = "";
+
+"display-status" = "";
+
+"done" = "";
+
+"dont-change" = "";
+
+"dsk" = "";
+
+"duplicate" = "";
+
+"dve-picture-in-picture" = "";
+
+"edit-name" = "";
+
+"edit-preset" = "";
+
+"fader-bar" = "";
+
+"fill" = "";
+
+"free-run" = "";
+
+"grid" = "";
+
+"grid-off" = "";
+
+"grid-on" = "";
+
+"key" = "";
+
+"list" = "";
+
+"mask" = "";
+
+"mediaplayer" = "";
+
+"mediaplayer-set" = "";
+
+"mediaplayers" = "";
+
+"mixeffect %lld" = "";
+
+"more" = "";
+
+"name" = "";
+
+"none" = "";
+
+"on" = "";
+
+"panel-cut-auto" = "";
+
+"preview" = "";
+
+"preview-wide" = "";
+
+"program-button" = "";
+
+"program-preview" = "";
+
+"program-preview-wide" = "";
+
+"program-wide" = "";
+
+"record" = "";
+
+"remove-tags" = "";
+
+"repair" = "";
+
+"repair-supersource" = "";
+
+"repair-supersource-alert" = "";
+
+"reset-mask" = "";
+
+"save" = "";
+
+"search" = "";
+
+"second" = "";
+
+"set-grid-size" = "";
+
+"show-transition-speed-menu" = "";
+
+"sticky-current-preset" = "";
+
+"time-of-day" = "";
+
+"transition-options" = "";
+
+"transition-style" = "";
+
+"transition-type" = "";
+
+"turn-off" = "";
+
+"unassigned-frames" = "";
+
+"use-box-sources" = "";
+
+"user-interface" = "";
