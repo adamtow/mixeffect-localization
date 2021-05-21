@@ -334,8 +334,6 @@
 
 "color" = "Farbe";
 
-"color" = "Farbe";
-
 "color %lld" = "Farbe %lld";
 
 "color-adjustments" = "Farbeinstellungen";
@@ -934,8 +932,6 @@
 
 "key-edge" = "Key-Rand";
 
-"key-source" = "Key Source";
-
 "key-source" = "Key Quelle";
 
 "keyer-type" = "Keyer-Typ";
@@ -1159,6 +1155,8 @@
 "mix-option" = "Mix Option";
 
 "mix-rate" = "Mix-Rate";
+
+"mixeffect %lld" = "M/E %lld";
 
 "mixeffect-helper" = "MixEffect Helper";
 
@@ -2208,37 +2206,11 @@
 
 "zoom" = "Zoom";
 
-"auto" = "";
-
-"auto-reconnect" = "";
-
-"aux %lld" = "";
-
-"aux-view-style" = "";
-
-"back" = "";
-
-"compact-controls" = "";
-
-"delete" = "";
-
 "descending" = "";
 
 "dip" = "";
 
 "display-status" = "";
-
-"done" = "";
-
-"dont-change" = "";
-
-"dsk" = "";
-
-"dve" = "";
-
-"dve-full" = "";
-
-"dve-picture-in-picture" = "";
 
 "edit-name" = "";
 
@@ -2248,43 +2220,11 @@
 
 "free-run" = "";
 
-"grid" = "";
-
 "key" = "";
 
 "mask" = "";
 
-"mediaplayer" = "";
-
-"mediaplayer-set" = "";
-
-"mediaplayers" = "";
-
-"mixeffect %lld" = "";
-
 "more" = "";
-
-"name" = "";
-
-"none" = "";
-
-"on" = "";
-
-"preview" = "";
-
-"preview-wide" = "";
-
-"program-preview" = "";
-
-"record" = "";
-
-"reset-mask" = "";
-
-"save" = "";
-
-"search" = "";
-
-"second" = "";
 
 "size" = "";
 
@@ -2292,18 +2232,4 @@
 
 "size-y" = "";
 
-"time-of-day" = "";
-
-"transition-options" = "";
-
-"transition-style" = "";
-
-"transition-type" = "";
-
-"turn-off" = "";
-
-"unassigned-frames" = "";
-
 "use-box-sources" = "";
-
-"user-interface" = "";

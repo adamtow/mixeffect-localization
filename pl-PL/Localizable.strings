@@ -144,11 +144,7 @@
 
 "audio-delete %lld" = "Usuń audio %lld";
 
-"audio-follows-video" = "Audio podąża za wideo (AFV)";    // Audio Follows Video
-"auto-reconnect"                = "Automatycznie wznawiaj połączenie";         // Auto-Reconnect toggle
-"auto"                          = "Auto";                   // Auto button
-"aux %lld"                      = "AUX %lld";               // AUX +index
-"aux-view-style"                = "Styl widoku AUX";
+"audio-follows-video" = "Audio podąża za wideo (AFV)";
 
 "audio-follows-video-hard-cut" = "Przełączaj audio natychmiast";
 
@@ -160,6 +156,10 @@
 
 "authentication" = "Uwierzytelnienie";
 
+"auto" = "Auto";
+
+"auto-reconnect" = "Automatycznie wznawiaj połączenie";
+
 "auto-supersource" = "Automatycznie do SuperŹródła";
 
 "auto-video-standard" = "Automatyczny standard wideo";
@@ -168,14 +168,19 @@
 
 "aux" = "AUX";
 
-"aux%lld" = "AUX%lld";                // AUX +index
-"back"                          = "Wstecz";
+"aux %lld" = "AUX %lld";
+
+"aux%lld" = "AUX%lld";
+
+"aux-view-style" = "Styl widoku AUX";
 
 "auxiliary" = "Zewnętrzne";
 
 "available-panels" = "Dostępne panele";
 
 "b" = "B";
+
+"back" = "Wstecz";
 
 "background" = "Tło";
 
@@ -327,9 +332,7 @@
 
 "color" = "Kolor";
 
-"color %lld" = "Kolor %lld";             // Color Generator
-"color"                         = "Kolor";                  // Cut button
-"compact-controls"              = "Zagęszczenie elementów";
+"color %lld" = "Kolor %lld";
 
 "color-adjustments" = "Korekcja kolorów";
 
@@ -346,6 +349,8 @@
 "color-scheme-light" = "Jasny";
 
 "color-scheme-system" = "Systemowy";
+
+"compact-controls" = "Zagęszczenie elementów";
 
 "compressor" = "Kompresor";
 
@@ -383,9 +388,7 @@
 
 "custom-rate" = "Własny czas…";
 
-"cut" = "Cięcie";                    // Cut button
-"delete"                        = "Usuń";                 //
-"descending"                    = "Malejąco";
+"cut" = "Cięcie";
 
 "cut-supersource" = "Cięcie do SuperŹródła";
 
@@ -408,6 +411,8 @@
 "default-server" = "Domyślny serwer";
 
 "delay" = "Opóźnienie";
+
+"delete" = "Usuń";
 
 "delete-all-macros" = "Usuń wszystkie makra";
 
@@ -437,12 +442,13 @@
 
 "delete-still" = "Usuń obraz";
 
-"description" = "Opis";            //
-"dip-source"                    = "Zanikanie źródła";             //
-"dip"                           = "Zanikanie";                    //
-"display-status"                = "Status wyświetlania";
+"descending" = "Malejąco";
+
+"description" = "Opis";
 
 "detail-off" = "Detal wyłączony";
+
+"dip" = "Zanikanie";
 
 "dip-source" = "Zanurz do źródła";
 
@@ -456,15 +462,19 @@
 
 "dismiss-on-tap" = "Usuń po dotknięciu";
 
-"display" = "Wyświetlanie";                // Display section header
-"done"                          = "Gotowe";                   // Done button
-"dont-change"                   = "Nie zmieniaj";
+"display" = "Wyświetlanie";
+
+"display-status" = "Status wyświetlania";
 
 "distribute" = "Rozłóż równomiernie";
 
 "do-nothing" = "Nic nie rób";
 
 "documentation" = "Dokumentacja (EN)";
+
+"done" = "Gotowe";
+
+"dont-change" = "Nie zmieniaj";
 
 "dont-show-again" = "Nie pokazuj ponownie";
 
@@ -474,14 +484,15 @@
 
 "drive2" = "Dysk 2";
 
-"dsk %lld" = "DÓŁ %lld";               // Downstream Keyer +index
-"dsk"                           = "DÓŁ";
+"dsk" = "DÓŁ";
 
-"dve" = "DVE";                    //
-"edit-name"                     = "Edytuj nazwę";
+"dsk %lld" = "DÓŁ %lld";
 
-"dve-full" = "DVE Pełny ekran";               //
-"dve-picture-in-picture"        = "DVE Okno w oknie (PIP)";
+"dve" = "DVE";
+
+"dve-full" = "DVE Pełny ekran";
+
+"dve-picture-in-picture" = "DVE Okno w oknie (PIP)";
 
 "dve-pip" = "DVE PIP";
 
@@ -494,6 +505,8 @@
 "edit %@" = "Edytuj %@";
 
 "edit-description" = "Edytuj opis";
+
+"edit-name" = "Edytuj nazwę";
 
 "edit-page" = "Edytuj stronę";
 
@@ -729,8 +742,7 @@
 
 "from" = "Od";
 
-"ftb" = "FTB";                    // Fade to Black button
-"grid"                          = "Siatka";
+"ftb" = "FTB";
 
 "full" = "Pełny";
 
@@ -751,6 +763,8 @@
 "greater-than" = "Większy od";
 
 "green" = "Zielony";
+
+"grid" = "Siatka";
 
 "h" = "H";
 
@@ -902,9 +916,9 @@
 
 "iso-stop" = "ISO Stop";
 
-"key %lld" = "Klucz %lld";               // Keyer +index
-"key-source"                    = "Źródło kluczowania";             //
-"key"                           = "Klucz";
+"key" = "Klucz";
+
+"key %lld" = "Klucz %lld";
 
 "key-adjustments" = "Dostosuj klucz";
 
@@ -1084,10 +1098,13 @@
 
 "media-pool-split" = "Zmiana podziału Biblioteki Mediów spowoduje usunięcie wszystkich klipów.\n\nTa operacja jest nieodwracalna.";
 
-"mediaplayer %lld" = "ODTW%lld";                 // Media Player with index
-"mediaplayer-set"               = "Ustaw ODTW";                 // Media Player with index
-"mediaplayer"                   = "Odtwarzacz";           // Media Player
-"mediaplayers"                  = "Odtwarzacze";
+"mediaplayer" = "Odtwarzacz";
+
+"mediaplayer %lld" = "ODTW%lld";
+
+"mediaplayer-set" = "Ustaw ODTW";
+
+"mediaplayers" = "Odtwarzacze";
 
 "medium-detail" = "Detal średni";
 
@@ -1121,15 +1138,15 @@
 
 "minutes" = "Minuty";
 
-"mix" = "Mix";                    //
-"mixeffect %lld"                = "M/E %lld";               // M/E
-"more"                          = "Więcej";
+"mix" = "Mix";
 
 "mix-effects-bus" = "Szyna MixEffect";
 
 "mix-option" = "Opcje miksu";
 
 "mix-rate" = "Szybkość";
+
+"mixeffect %lld" = "M/E %lld";
 
 "mixeffect-helper" = "Skróty MixEffect";
 
@@ -1139,12 +1156,13 @@
 
 "monitor" = "Monitoruj";
 
+"more" = "Więcej";
+
 "more-shortcuts" = "Więcej skrótów";
 
 "more-shortcuts-description" = "Pobierz więcej skrótów z MixEffect.app/shortcuts";
 
-"mp" = "ODTW";                     // Media Player with index
-"name"                          = "Nazwa";
+"mp" = "ODTW";
 
 "mp1" = "ODTW1";
 
@@ -1192,6 +1210,8 @@
 
 "mv-top-right-small" = "Prawy-górny mały";
 
+"name" = "Nazwa";
+
 "narrow-chroma-key-range" = "Zmniejsz zakres klucza chromatycznego";
 
 "new-atem-switcher" = "Nowy przełącznik ATEM";
@@ -1218,12 +1238,13 @@
 
 "next-page" = "Następna strona";
 
-"next-transition" = "Następne przejście";        // Next Transition section title
-"none"                          = "Brak";
+"next-transition" = "Następne przejście";
 
 "no-media-selected" = "Nie wybrano mediów";
 
 "no-panels" = "Na tej stronie nie ma żadnego panelu";
+
+"none" = "Brak";
 
 "notes" = "Notatki";
 
@@ -1231,8 +1252,9 @@
 
 "ok" = "OK";
 
-"on-air" = "Na Żywo";                 // On Air button for DSK and USK
-"on"                            = "Włączone";
+"on" = "Włączone";
+
+"on-air" = "Na Żywo";
 
 "on-bus" = "Na szynie MixEffect";
 
@@ -1446,13 +1468,13 @@
 
 "presets" = "Szablony";
 
+"preview" = "Podgląd";
+
 "preview-button" = "Poprz";
 
 "preview-scale" = "Skala podglądu";
 
-"preview-transition" = "Poprz Przejście";             // Preview Transition button
-"preview"                       = "Podgląd";                // Preview Bus section title
-"program-button"                = "PRGM";
+"preview-transition" = "Poprz Przejście";
 
 "previous-page" = "Poprzednia strona";
 
@@ -1508,8 +1530,11 @@
 
 "profiles" = "Profile strumieniowania";
 
-"program" = "Program";                // Program Bus section title
-"program-preview"               = "Program / Podgląd";
+"program" = "Program";
+
+"program-button" = "PRGM";
+
+"program-preview" = "Program / Podgląd";
 
 "protocol-reload" = "Połącz ponownie przy wykryciu błędów protokołu";
 
@@ -1539,8 +1564,7 @@
 
 "reconnect-required" = "Wymagane jest ponowne połączenie";
 
-"record" = "Nagrywanie";                 // Record
-"reset-mask"                    = "Resetuj Maskę";
+"record" = "Nagrywanie";
 
 "record-in-all-cameras" = "Nagrywaj także w kamerach";
 
@@ -1605,6 +1629,8 @@
 "reset-lift" = "Resetuj przesunięcie";
 
 "reset-luminance" = "Resetuj jasność";
+
+"reset-mask" = "Resetuj Maskę";
 
 "reset-position" = "Resetuj pozycję";
 
@@ -2024,13 +2050,15 @@
 
 "transition" = "Przejście";
 
-"transition-button" = "Przejście";                  // Transitions button
-"transition-options"            = "Opcje przejścia…";    // Transition Settings
-"transition-style"              = "Styl przejścia";       // Transition Style section title
-"transition-type"               = "Typ przejścia";        // Transition Type picker
-"turn-off"                      = "Wyłącz";
+"transition-button" = "Przejście";
+
+"transition-options" = "Opcje przejścia…";
 
 "transition-speed" = "Szybkość przejścia";
+
+"transition-style" = "Styl przejścia";
+
+"transition-type" = "Typ przejścia";
 
 "transitions" = "Przejścia";
 
@@ -2040,15 +2068,17 @@
 
 "try-again" = "Spróbuj jeszcze raz";
 
+"turn-off" = "Wyłącz";
+
 "turn-on" = "Włącz";
 
 "twitter" = "Twitter";
 
-"ukwn" = "ND";                   // Unknown source button
-"unassigned-frames"             = "Nieprzydzielone klatki";
+"ukwn" = "ND";
 
-"unknown" = "Nie działa";                // Unknown source button
-"user-interface"                = "Interfejs użytkownika";
+"unassigned-frames" = "Nieprzydzielone klatki";
+
+"unknown" = "Nie działa";
 
 "unlock-message" = "Wpisz swój kod aby odblokować MixEffect.";
 
@@ -2079,6 +2109,8 @@
 "use-portrait-layout" = "Użyj układu pionowego";
 
 "used" = "Wszystkie";
+
+"user-interface" = "Interfejs użytkownika";
 
 "username" = "Nazwa użytkownika";
 
@@ -2152,18 +2184,6 @@
 
 "add-tags" = "";
 
-"auto" = "";
-
-"auto-reconnect" = "";
-
-"aux %lld" = "";
-
-"aux-view-style" = "";
-
-"back" = "";
-
-"compact-controls" = "";
-
 "constrain" = "";
 
 "constrain-horizontally" = "";
@@ -2172,25 +2192,7 @@
 
 "current-preset" = "";
 
-"delete" = "";
-
-"descending" = "";
-
-"dip" = "";
-
-"display-status" = "";
-
-"done" = "";
-
-"dont-change" = "";
-
-"dsk" = "";
-
 "duplicate" = "";
-
-"dve-picture-in-picture" = "";
-
-"edit-name" = "";
 
 "edit-preset" = "";
 
@@ -2200,49 +2202,21 @@
 
 "free-run" = "";
 
-"grid" = "";
-
 "grid-off" = "";
 
 "grid-on" = "";
-
-"key" = "";
 
 "list" = "";
 
 "mask" = "";
 
-"mediaplayer" = "";
-
-"mediaplayer-set" = "";
-
-"mediaplayers" = "";
-
-"mixeffect %lld" = "";
-
-"more" = "";
-
-"name" = "";
-
-"none" = "";
-
-"on" = "";
-
 "panel-cut-auto" = "";
 
-"preview" = "";
-
 "preview-wide" = "";
-
-"program-button" = "";
-
-"program-preview" = "";
 
 "program-preview-wide" = "";
 
 "program-wide" = "";
-
-"record" = "";
 
 "remove-tags" = "";
 
@@ -2252,32 +2226,10 @@
 
 "repair-supersource-alert" = "";
 
-"reset-mask" = "";
-
-"save" = "";
-
-"search" = "";
-
-"second" = "";
-
 "set-grid-size" = "";
 
 "show-transition-speed-menu" = "";
 
 "sticky-current-preset" = "";
 
-"time-of-day" = "";
-
-"transition-options" = "";
-
-"transition-style" = "";
-
-"transition-type" = "";
-
-"turn-off" = "";
-
-"unassigned-frames" = "";
-
 "use-box-sources" = "";
-
-"user-interface" = "";
