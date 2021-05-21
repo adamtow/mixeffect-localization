@@ -334,8 +334,6 @@
 
 "color" = "Color";
 
-"color" = "Color";
-
 "color %lld" = "Color %lld";
 
 "color-adjustments" = "Color Adjustments";
@@ -949,8 +947,6 @@
 "key-adjustments" = "Key Adjustments";
 
 "key-edge" = "Key Edge";
-
-"key-source" = "Key Source";
 
 "key-source" = "Key Source";
 
