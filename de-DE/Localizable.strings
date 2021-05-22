@@ -2206,30 +2206,42 @@
 
 "zoom" = "Zoom";
 
-"descending" = "";
+// TO TRANSLATE
 
-"dip" = "";
+"descending" = "Descending";
 
-"display-status" = "";
+"dip" = "Dip";
 
-"edit-name" = "";
+"dip-abbreviation" = "Dip";
 
-"edit-preset" = "";
+"display-status" = "Display Status";
 
-"fill" = "";
+"dve-abbreviation" = "DVE";
 
-"free-run" = "";
+"edit-name" = "Edit Name";
 
-"key" = "";
+"edit-preset" = "Edit Preset";
 
-"mask" = "";
+"fill" = "Fill";
 
-"more" = "";
+"free-run" = "Free Run";
 
-"size" = "";
+"key" = "Key";
 
-"size-x" = "";
+"mask" = "Mask";
 
-"size-y" = "";
+"mix-abbreviation" = "Mix";
 
-"use-box-sources" = "";
+"more" = "More";
+
+"size" = "Size";
+
+"size-x" = "Size X";
+
+"size-y" = "Size Y";
+
+"sting-abbreviation" = "Sting";
+
+"use-box-sources" = "Use Box Sources";
+
+"wipe-abbreviation" = "Wipe";

@@ -2182,54 +2182,66 @@
 
 "zoom" = "Przybliżenie";
 
-"add-tags" = "";
+// TO TRANSLATE
 
-"constrain" = "";
+"add-tags" = "Add Tags";
 
-"constrain-horizontally" = "";
+"constrain" = "Constrain";
 
-"constrain-vertically" = "";
+"constrain-horizontally" = "Constrain Horizontally";
 
-"current-preset" = "";
+"constrain-vertically" = "Constrain Vertically";
 
-"duplicate" = "";
+"current-preset" = "Current Preset";
 
-"edit-preset" = "";
+"dip-abbreviation" = "DVE";
 
-"fader-bar" = "";
+"duplicate" = "Duplicate";
 
-"fill" = "";
+"dve-abbreviation" = "DVE";
 
-"free-run" = "";
+"edit-preset" = "Edit Preset";
 
-"grid-off" = "";
+"fader-bar" = "Fader Bar";
 
-"grid-on" = "";
+"fill" = "Fill";
 
-"list" = "";
+"free-run" = "Free Run";
 
-"mask" = "";
+"grid-off" = "Grid Off";
 
-"panel-cut-auto" = "";
+"grid-on" = "Grid On";
 
-"preview-wide" = "";
+"list" = "List";
 
-"program-preview-wide" = "";
+"mask" = "Mask";
 
-"program-wide" = "";
+"mix-abbreviation" = "Mix";
 
-"remove-tags" = "";
+"panel-cut-auto" = "Cut / Auto";
 
-"repair" = "";
+"preview-wide" = "Preview (Wide Input)";
 
-"repair-supersource" = "";
+"program-preview-wide" = "Program / Preview (Wide Input)";
 
-"repair-supersource-alert" = "";
+"program-wide" = "Program (Wide)";
 
-"set-grid-size" = "";
+"remove-tags" = "Remove Tags";
 
-"show-transition-speed-menu" = "";
+"repair" = "Repair";
 
-"sticky-current-preset" = "";
+"repair-supersource" = "Repair SuperSource";
 
-"use-box-sources" = "";
+"repair-supersource-alert" = "This will attempt to repair any problems with your SuperSource layouts.";
+
+"set-grid-size" = "Set Grid Size";
+
+"show-transition-speed-menu" = "Show Transition Speed Menu";
+
+"sticky-current-preset" = "Sticky Current Preset";
+
+"sting-abbreviation" = "Sting";
+
+"use-box-sources" = "Use Box Sources";
+
+"wipe-abbreviation" = "Wipe";

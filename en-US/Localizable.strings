@@ -460,6 +460,8 @@
 
 "dip" = "Dip";
 
+"dip-abbreviation" = "Dip";
+
 "dip-source" = "Dip Source";
 
 "direction" = "Direction";
@@ -501,6 +503,8 @@
 "duplicate" = "Duplicate";
 
 "dve" = "DVE";
+
+"dve-abbreviation" = "DVE";
 
 "dve-full" = "DVE Full";
 
@@ -1168,6 +1172,8 @@
 
 "mix" = "Mix";
 
+"mix-abbreviation" = "Mix";
+
 "mix-effects-bus" = "Mix Effects Bus";
 
 "mix-option" = "Mix Option";
@@ -1506,7 +1512,9 @@
 
 "preview-transition" = "Prev Trans";
 
-"preview-wide" = "Preview Wide Input";
+"preview-transition-abbreviation" = "Prev Trans";
+
+"preview-wide" = "Preview (Wide Input)";
 
 "previous-page" = "Previous Page";
 
@@ -1568,9 +1576,9 @@
 
 "program-preview" = "Program / Preview";
 
-"program-preview-wide" = "Program / Preview Wide";
+"program-preview-wide" = "Program / Preview (Wide Input)";
 
-"program-wide" = "Program Wide Input";
+"program-wide" = "Program (Wide Input)";
 
 "protocol-reload" = "Reconnect When Missing Procotol Detected";
 
@@ -1944,6 +1952,8 @@
 
 "sting" = "Sting";
 
+"sting-abbreviation" = "Sting";
+
 "stinger" = "Stinger";
 
 "stop" = "Stop";
@@ -2219,6 +2229,8 @@
 "windows" = "Windows";
 
 "wipe" = "Wipe";
+
+"wipe-abbreviation" = "Wipe";
 
 "with-box %lld" = "With Box %lld";
 
