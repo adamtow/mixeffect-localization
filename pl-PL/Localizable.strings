@@ -4,45 +4,45 @@
 
 "1.0-seconds" = "1.0 sekunda";
 
-"1.33:1" = "Super 35 (1.33:1)";
+"1.33:1" = "Taśma Super 35 (1.33:1)";
 
-"1.37:1" = "Academy (1.37:1)";
+"1.37:1" = "Format akademii (1.37:1)";
 
-"1.43:1" = "IMAX (1.43:1)";
+"1.43:1" = "Taśma IMAX (1.43:1)";
 
 "1.5-seconds" = "1.5 sekundy";
 
-"1.66:1" = "VistaVision (1.66:1)";
+"1.66:1" = "Format VistaVision (1.66:1)";
 
-"1.85:1" = "Anamorphic Widescreen (1.85:1)";
+"1.85:1" = "Format anamorficzny (1.85:1)";
 
-"1.90:1" = "IMAX (1.90:1)";
+"1.90:1" = "Cyfrowy IMAX (1.90:1)";
 
-"16:9" = "HD (16:9)";
+"16:9" = "Format HD (16:9)";
 
-"1:1" = "Square (1:1)";
+"1:1" = "Kwadrat (1:1)";
 
 "2.0-seconds" = "2.0 sekundy";
 
-"2.35:1" = "Super 35 (2.35:1)";
+"2.35:1" = "Anamorficzne Super 35 (2.35:1)";
 
-"2.59:1" = "Cinerama (2.59:1)";
+"2.59:1" = "Format Cinerama (2.59:1)";
 
-"2.65:1" = "Cinerama (2.65:1)";
+"2.65:1" = "Format Cinerama (2.65:1)";
 
-"2.66:1" = "Cinemascope (2.66:1)";
+"2.66:1" = "Format Cinemascope (2.66:1)";
 
-"2.76:1" = "70mm (2.76:1)";
+"2.76:1" = "Taśma 70mm (2.76:1)";
 
-"2:1" = "VistaVision (2:1)";
+"2:1" = "Format VistaVision (2:1)";
 
-"2:3" = "35mm (2:3)";
+"2:3" = "Format 35mm (2:3)";
 
-"3:2" = "35mm (3:2)";
+"3:2" = "Format 35mm (3:2)";
 
-"3:4" = "SD (3:4)";
+"3:4" = "Format SD (3:4)";
 
-"4:3" = "SD (4:3)";
+"4:3" = "Format SD (4:3)";
 
 "4:5" = "4:5";
 
@@ -84,7 +84,7 @@
 
 "afv" = "AFV";
 
-"all" = "Wszystkie";
+"all" = "Lista";
 
 "all-off" = "Wyłącz wszystko";
 
@@ -488,7 +488,7 @@
 
 "dsk %lld" = "DÓŁ %lld";
 
-"dve" = "DVE";
+"dve" = "Efekt wideo (DVE)";
 
 "dve-full" = "DVE Pełny ekran";
 
@@ -496,7 +496,7 @@
 
 "dve-pip" = "DVE PIP";
 
-"dve-source-wipe" = "Wymaż źródło";
+"dve-source-wipe" = "Wymazanie źródła";
 
 "dynamics" = "Dynamika";
 
@@ -574,7 +574,7 @@
 
 "effect-squeezeTopRight" = "Ściśnij prawo-góra";
 
-"effect-swooshBottom" = "Maziaj dół";
+"effect-swooshBottom" = "Maziaj z dołu";
 
 "effect-swooshBottomLeft" = "Maziaj lewo-dół";
 
@@ -612,7 +612,7 @@
 
 "enable-mask" = "Włącz maskę";
 
-"enable-osc" = "Włącz OSC";
+"enable-osc" = "Włącz zdalne sterowanie (OSC)";
 
 "enable-osc-server" = "Włącz serwer OSC";
 
@@ -940,7 +940,7 @@
 
 "label-shortname" = "Etykieta";
 
-"labels" = "Etykiety";
+"labels" = "Oznaczenia";
 
 "layout" = "Rozkład";
 
@@ -976,7 +976,7 @@
 
 "live-stream-short" = "Strumień";
 
-"lock-with-faceid" = "Blokada przez Face ID i kod";
+"lock-with-faceid" = "Blokada przez Face ID lub kod";
 
 "lock-with-faceid-footer" = "MixEffect zostanie zablokowany kiedy zamkniesz aplikację. Przy ponownym uruchomieniu wymagane będzie Face ID albo wpisanie kodu.";
 
@@ -1052,17 +1052,17 @@
 
 "macro-settings" = "Makra";
 
-"macro-sort" = "Sortuj makra wg.";
+"macro-sort" = "Sortuj makra według";
 
-"macro-sort-color" = "Sortuj wg. koloru";
+"macro-sort-color" = "Kolor sortowania";
 
-"macro-sort-direction" = "Sortuj wg. kierunku";
+"macro-sort-direction" = "Kierunek sortowania";
 
-"macro-sort-icon" = "Sortuj wg. ikony";
+"macro-sort-icon" = "Ikona sortowania";
 
-"macro-sort-index" = "Sortuj wg. identyfikatora";
+"macro-sort-index" = "Indeks sortowania";
 
-"macro-sort-name" = "Sortuj wg. nazwy";
+"macro-sort-name" = "Nazwa sortowania";
 
 "macro-stop" = "Zatrzymaj makro";
 
@@ -1080,7 +1080,7 @@
 
 "macros" = "Makra";
 
-"mailing-list" = "Lista mailingowa MixEffect";
+"mailing-list" = "Lista mailingowa MixEffect (EN)";
 
 "make-up" = "Podnieś";
 
@@ -1138,7 +1138,7 @@
 
 "minutes" = "Minuty";
 
-"mix" = "Mix";
+"mix" = "Miksowanie";
 
 "mix-effects-bus" = "Szyna MixEffect";
 
@@ -1248,11 +1248,11 @@
 
 "notes" = "Notatki";
 
-"off" = "Wyłączone";
+"off" = "Wyłącz";
 
 "ok" = "OK";
 
-"on" = "Włączone";
+"on" = "Włącz";
 
 "on-air" = "Na Żywo";
 
@@ -1474,7 +1474,7 @@
 
 "preview-scale" = "Skala podglądu";
 
-"preview-transition" = "Poprz Przejście";
+"preview-transition" = "Poprz. Przej- ście";
 
 "previous-page" = "Poprzednia strona";
 
@@ -1552,7 +1552,7 @@
 
 "range" = "Zakres";
 
-"rate" = "Częstotliwość";
+"rate" = "Szybkość";
 
 "ratio" = "Stosunek";
 
@@ -1568,11 +1568,11 @@
 
 "record-in-all-cameras" = "Nagrywaj także w kamerach";
 
-"record-stream" = "Nagrywaj strumień";
+"record-stream" = "Nagrywanie strumieni";
 
-"record-stream-short" = "Nagrywaj";
+"record-stream-short" = "Nagrywanie";
 
-"recording" = "Nagrywam strumień";
+"recording" = "Nagrywanie strumieni";
 
 "recording-not-available" = "Nagrywanie w przełączniku nie jest dostępne.\n\nUpewnij się, że twój przełącznik potrafi nagrywać, a dyski są poprawnie sformatowane i podłączone do przełącznika dobrej jakości kablem USB-C.";
 
@@ -1840,7 +1840,7 @@
 
 "source" = "Źródło";
 
-"source-labels" = "Etykiety źródeł";
+"source-labels" = "Oznaczenia źródeł";
 
 "speed-extra-fast" = "Bardzo szybko";
 
@@ -1892,7 +1892,7 @@
 
 "stills" = "Obrazy";
 
-"sting" = "Sting";
+"sting" = "Telewizyjne (Stinger)";
 
 "stinger" = "Stinger";
 
@@ -2072,7 +2072,7 @@
 
 "turn-on" = "Włącz";
 
-"twitter" = "Twitter";
+"twitter" = "Twitter (EN)";
 
 "ukwn" = "ND";
 
@@ -2102,7 +2102,7 @@
 
 "upstream-keys" = "Upstream Keys";
 
-"use-cut-bus" = "Używaj szyny cięć";
+"use-cut-bus" = "Używaj podglądu i cięć (Cut Bus)";
 
 "use-landscape-layout" = "Użyj układu poziomego";
 
@@ -2146,7 +2146,7 @@
 
 "wb" = "WB";
 
-"website" = "Strona domowa";
+"website" = "Strona domowa (EN)";
 
 "welcome" = "Witaj w MixEffect";
 
@@ -2166,7 +2166,7 @@
 
 "windows" = "Okna";
 
-"wipe" = "Wymaż";
+"wipe" = "Wymazywanie";
 
 "with-box %lld" = "przez pole %lld";
 
@@ -2184,64 +2184,65 @@
 
 // TO TRANSLATE
 
-"add-tags" = "Add Tags";
+"add-tags" = "Dodaj tagi";
 
-"constrain" = "Constrain";
+"constrain" = "Ogranicz";
 
-"constrain-horizontally" = "Constrain Horizontally";
+"constrain-horizontally" = "Ogranicz poziomo";
 
-"constrain-vertically" = "Constrain Vertically";
+"constrain-vertically" = "Ogranicz pionowo";
 
-"current-preset" = "Current Preset";
+"current-preset" = "Bieżący szablon";
 
-"dip-abbreviation" = "DVE";
+"dip-abbreviation" = "Zanik";
 
-"duplicate" = "Duplicate";
+"duplicate" = "Zduplikuj";
 
-"dve-abbreviation" = "DVE";
+"dve-abbreviation" = "Wideo- efekt";
 
-"edit-preset" = "Edit Preset";
+"edit-preset" = "Edytuj szablon";
 
-"fader-bar" = "Fader Bar";
+"fader-bar" = "Teownik";
 
-"fill" = "Fill";
+"fill" = "Wypełnienie";
 
-"free-run" = "Free Run";
+"free-run" = "Ruch swobodny";
 
-"grid-off" = "Grid Off";
+"grid-off" = "Wyłącz siatkę";
 
-"grid-on" = "Grid On";
+"grid-on" = "Włącz siatkę";
 
-"list" = "List";
+"list" = "Lista";
 
-"mask" = "Mask";
+"mask" = "Maska";
 
-"mix-abbreviation" = "Mix";
+"mix-abbreviation" = "Miks";
 
-"panel-cut-auto" = "Cut / Auto";
+"panel-cut-auto" = "Cięcie / Auto";
 
-"preview-wide" = "Preview (Wide Input)";
+"preview-wide" = "Duży podgląd wejścia";
 
-"program-preview-wide" = "Program / Preview (Wide Input)";
+"program-preview-wide" = "Duży Podgląd / Program";
 
-"program-wide" = "Program (Wide)";
+"program-wide" = "Duży program wejścia";
 
-"remove-tags" = "Remove Tags";
+"remove-tags" = "Usuń tagi";
 
-"repair" = "Repair";
+"repair" = "Napraw";
 
-"repair-supersource" = "Repair SuperSource";
+"repair-supersource" = "Napraw SuperŹródła";
 
-"repair-supersource-alert" = "This will attempt to repair any problems with your SuperSource layouts.";
+"repair-supersource-alert" = "Ta opcja spróbuje rozwiązać problemy z Twoimi układami SuperŹródeł.";
 
-"set-grid-size" = "Set Grid Size";
+"set-grid-size" = "Rozmiar siatki";
 
-"show-transition-speed-menu" = "Show Transition Speed Menu";
+"show-transition-speed-menu" = "Pokaż menu prędkości animacji";
 
-"sticky-current-preset" = "Sticky Current Preset";
+"sticky-current-preset" = "Przyklej bieżący szablon";
 
 "sting-abbreviation" = "Sting";
 
-"use-box-sources" = "Use Box Sources";
+"use-box-sources" = "Przypisz źródła do pól";
 
-"wipe-abbreviation" = "Wipe";
+"wipe-abbreviation" = "Wymaż";
+
