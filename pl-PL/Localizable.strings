@@ -488,7 +488,7 @@
 
 "dsk %lld" = "DÓŁ %lld";
 
-"dve" = "Efekt wideo (DVE)";
+"dve" = "Wideoefekt (DVE)";
 
 "dve-full" = "DVE Pełny ekran";
 
@@ -1552,7 +1552,7 @@
 
 "range" = "Zakres";
 
-"rate" = "Szybkość";
+"rate" = "Czas";
 
 "ratio" = "Stosunek";
 
