@@ -6,7 +6,7 @@
 
 "1.33:1" = "Super 35 (1.33:1)";
 
-"1.37:1" = "Academy (1.37:1)";
+"1.37:1" = "Normalbild (1.37:1)";
 
 "1.43:1" = "IMAX (1.43:1)";
 
@@ -14,13 +14,13 @@
 
 "1.66:1" = "VistaVision (1.66:1)";
 
-"1.85:1" = "Anamorphic Widescreen (1.85:1)";
+"1.85:1" = "Anamorphotisches Breitbild (1.85:1)";
 
 "1.90:1" = "IMAX (1.90:1)";
 
 "16:9" = "HD (16:9)";
 
-"1:1" = "Square (1:1)";
+"1:1" = "Quadratisch (1:1)";
 
 "2.0-seconds" = "2.0 Sekunden";
 
@@ -150,7 +150,7 @@
 
 "audio-follows-video-hard-cut" = "Harter Schnitt beim Umschalten von Audio";
 
-"audio-follows-video-transition" = "Einen Übnergang beim Umschalten von Audio verwenden";
+"audio-follows-video-transition" = "Einen Übergang beim Umschalten von Audio verwenden";
 
 "audio-meters" = "Pegelanzeigen";
 
@@ -210,7 +210,7 @@
 
 "bitrates" = "Bit-Rate";
 
-"bkgd" = "Hintergrund";
+"bkgd" = "Bkgd";
 
 "black" = "Schwarz";
 
@@ -279,6 +279,8 @@
 "capture-video" = "Video aufzunehmen";
 
 "capture-video-short" = "Video";
+
+"cascade" = "Kaskade";
 
 "center" = "Mitte";
 
@@ -386,7 +388,7 @@
 
 "crop" = "Beschneiden";
 
-"crosspoint-selector" = "Übergangspunkt setzen";
+"crosspoint-selector" = "Übergangspunkt";
 
 "current-mixeffect" = "Aktueller M/E";
 
@@ -396,11 +398,11 @@
 
 "custom" = "Benutzerdefiniert";
 
-"custom-rate" = "Benutzerdefinierte Rate…";
+"custom-rate" = "Benutzerdefinierte Rate …";
 
 "cut" = "CUT";
 
-"cut-supersource" = "Cut nach SuperSource";
+"cut-supersource" = "CUT nach SuperSource";
 
 "dark" = "Dunkel";
 
@@ -452,9 +454,15 @@
 
 "delete-still" = "Standbild löschen";
 
+"descending" = "Absteigend";
+
 "description" = "Beschreibung";
 
 "detail-off" = "Detail Aus";
+
+"dip" = "DIP";
+
+"dip-abbreviation" = "DIP";
 
 "dip-source" = "DIP Quelle";
 
@@ -468,7 +476,9 @@
 
 "dismiss-on-tap" = "Beim Antippen verwerfen";
 
-"display" = "Display";
+"display" = "Anzeige";
+
+"display-status" = "Anzeigestatus";
 
 "distribute" = "Gleichmäßig verteilen";
 
@@ -496,23 +506,31 @@
 
 "dve" = "DVE";
 
+"dve-abbreviation" = "DVE";
+
 "dve-full" = "DVE Vollbild";
 
 "dve-picture-in-picture" = "DVE Bild-in-Bild";
 
-"dve-pip" = "DVE PIP";
+"dve-pip" = "DVE BiB";
 
 "dve-source-wipe" = "WIPE Quelle";
 
-"dynamics" = "Dynamics";
+"dynamics" = "Dynamik";
 
 "edit" = "Bearbeiten";
+
+"edit-abbreviation" = "Edit";
 
 "edit %@" = "%@ bearbeiten";
 
 "edit-description" = "Beschreibung ändern";
 
+"edit-name" = "Namen bearbeiten";
+
 "edit-page" = "Seite bearbeiten";
+
+"edit-preset" = "Edit Preset";
 
 "edit-server" = "Server bearbeiten";
 
@@ -603,6 +621,8 @@
 "enable-border" = "Rahmen aktivieren";
 
 "enable-box" = "Feld aktivieren";
+
+"enable-cascade" = "Kaskade aktivieren";
 
 "enable-crop" = "Beschnitt aktivieren";
 
@@ -702,9 +722,9 @@
 
 "fader" = "Fader";
 
-"fader-bar" = "Blendenhebel";
+"fader-bar" = "Blender";
 
-"fader-gain" = "Fader Gain";
+"fader-gain" = "Lautstärkepegel";
 
 "fairlight-audio" = "Fairlight Audio";
 
@@ -715,6 +735,8 @@
 "feedback" = "Feedback";
 
 "filename" = "Dateiname";
+
+"fill" = "Fill";
 
 "fill-source" = "Fill Quelle";
 
@@ -744,7 +766,9 @@
 
 "frames-remaining" = "Verbleibende Bildsequenzen: ";
 
-"frequency" = "Frequency";
+"free-run" = "ungetaktet";
+
+"frequency" = "Frequenz";
 
 "from" = "Von";
 
@@ -754,7 +778,7 @@
 
 "gain" = "Gain";
 
-"gain-reduction" = "Gain Reduction";
+"gain-reduction" = "Gain Reduzierung";
 
 "gamma" = "Gamma";
 
@@ -844,7 +868,7 @@
 
 "input" = "Eingang";
 
-"input-gain" = "Eingang Gain";
+"input-gain" = "Eingangspegel";
 
 "input-master-gain" = "Eingang Master Gain";
 
@@ -926,6 +950,8 @@
 
 "iso-stop" = "ISO Stop";
 
+"key" = "Key";
+
 "key %lld" = "Key %lld";
 
 "key-adjustments" = "Key Einstellungen";
@@ -978,7 +1004,7 @@
 
 "limiter" = "Limiter";
 
-"line" = "Linie";
+"line" = "Line";
 
 "list" = "Liste";
 
@@ -1012,7 +1038,7 @@
 
 "macro-color" = "Makro Farbe";
 
-"macro-delete" = "Macro löschen";
+"macro-delete" = "Makro löschen";
 
 "macro-delete %lld" = "Makro %lld löschen";
 
@@ -1060,7 +1086,7 @@
 
 "macro-running" = "Wird ausgeführt:";
 
-"macro-settings" = "Makcros";
+"macro-settings" = "Makros";
 
 "macro-sort" = "Makros sortieren nach";
 
@@ -1090,11 +1116,13 @@
 
 "macros" = "Makros";
 
-"mailing-list" = "MixEffect Mailing-Liste";
+"mailing-list" = "Mailing-Liste";
 
 "make-up" = "Make Up";
 
 "make-up-gain" = "Make Up Gain";
+
+"mask" = "Maske";
 
 "master" = "Master";
 
@@ -1150,6 +1178,8 @@
 
 "mix" = "Mix";
 
+"mix-abbreviation" = "Mix";
+
 "mix-effects-bus" = "Mix Effekt Bus";
 
 "mix-option" = "Mix Option";
@@ -1158,13 +1188,15 @@
 
 "mixeffect %lld" = "M/E %lld";
 
-"mixeffect-helper" = "MixEffect Helper";
+"mixeffect-helper" = "Mix Effekt";
 
 "mixeffect-helper-description" = "Diesen Kurzbefehl beim starten der MixEffect Kurzbefehle ausführen.";
 
 "ml" = "ML";
 
 "monitor" = "Monitor";
+
+"more" = "Mehr";
 
 "more-shortcuts" = "Weitere Kurzbefehle";
 
@@ -1240,7 +1272,7 @@
 
 "new-simulator" = "Neuer ATEM Simulator";
 
-"new-streaming-service" = "neuer Streaming-Service";
+"new-streaming-service" = "Neuer Streaming-Service";
 
 "new-switcher" = "New Mischer";
 
@@ -1278,21 +1310,21 @@
 
 "osc" = "OSC";
 
-"osc-port" = "OSC Schnittstelle";
+"osc-port" = "OSC Port";
 
 "outer-softness" = "Weichzeichnung außen";
 
 "outer-width" = "Breite außen";
 
-"output" = "Ausgang";
+"output" = "Ausgabe";
 
 "padding" = "Innenabstand";
 
 "page-name-example" = "Bspw.: Standard";
 
-"pan" = "Pan";
+"pan" = "Pan (L/R)";
 
-"panel-cut-auto" = "Cut / Auto";
+"panel-cut-auto" = "CUT / AUTO";
 
 "panel-landscape-bottom" = "Querformat Unten";
 
@@ -1322,7 +1354,7 @@
 
 "paste" = "Einfügen";
 
-"paste-to-all" = "Auf alle übertragen…";
+"paste-to-all" = "Auf alle übertragen …";
 
 "pattern" = "Muster";
 
@@ -1364,7 +1396,7 @@
 
 "place-in" = "Platzieren";
 
-"port" = "Schnittstelle";
+"port" = "Port";
 
 "position-x" = "X-Pos";
 
@@ -1376,7 +1408,7 @@
 
 "pre-roll" = "Vorlauf";
 
-"preset" = "Vorsinstelung";
+"preset" = "Voreinstellung";
 
 "preset-five-grid-crop" = "USK - 5er Raster mit Beschnitt";
 
@@ -1588,7 +1620,7 @@
 
 "record-stream-short" = "Aufnahme";
 
-"recording" = "Aufnahme läuft";
+"recording" = "Aufnahme";
 
 "recording-not-available" = "Aufzeichnung nicht möglich.\n\nStellen Sie sicher, dass Ihr ATEM Mischer die Aufnahmefunktion unterstützt, alle Fetsplatten korrekt formatiert und über den USB-C Anschluss mit dem Mischer verbunden sind.";
 
@@ -1712,7 +1744,7 @@
 
 "search" = "Suchen";
 
-"search-macros" = "Makros Suchen";
+"search-macros" = "Makro suchen";
 
 "search-media" = "Medien suchen";
 
@@ -1770,7 +1802,7 @@
 
 "settings" = "Einstellungen";
 
-"settings-color-generators" = "Alle Farb-Generatoren anzeigen";
+"settings-color-generators" = "Alle Farbgeneratoren anzeigen";
 
 "settings-title" = "Einstellungen";
 
@@ -1790,9 +1822,9 @@
 
 "shortcut-change-section-phrase" = "Bereich wechseln";
 
-"shortcut-change-transition" = "Art des Übergangs einstellen";
+"shortcut-change-transition" = "Übergangsart einstellen";
 
-"shortcut-change-transition-phrase" = "Art des Übergangs zu Mix einstellen";
+"shortcut-change-transition-phrase" = "Übergangsart zu Mix einstellen";
 
 "shortcut-connect" = "Mit MixEffect verbinden";
 
@@ -1820,11 +1852,11 @@
 
 "shortcuts" = "Tastaturkürzel";
 
-"show-box-colors" = "Boxen mit unterschiedlichen Farben darstellen";
+"show-box-colors" = "Felder mit unterschiedlichen Farben darstellen";
 
-"show-box-controls" = "Box Steuerung anzeigen";
+"show-box-controls" = "Steuerung für Felder anzeigen";
 
-"show-box-sources" = "Quellen der Box anzeigen";
+"show-box-sources" = "Quellen der Felder anzeigen";
 
 "show-color-bars" = "Farbbalken anzeigen";
 
@@ -1846,9 +1878,15 @@
 
 "simulator-description" = "Server IP-Adresse auf 127.0.0.1 einstelen";
 
+"size" = "Größe";
+
 "size-and-position" = "Größe und Position";
 
 "size-and-position-advanced" = "Erweiterte Größe und Position anwenden";
+
+"size-x" = "Größe X";
+
+"size-y" = "Größe Y";
 
 "softness" = "Weichheit";
 
@@ -1912,11 +1950,13 @@
 
 "still-warning" = "Standbild wird hochgeladen";
 
-"still-warning-alert" = "MixEffect passt die Bildgröße an die im Mischer eingestellte Video-Standard an.\n\nIn seltenen Fällen kann es beim hochladen von Median dazu kommen, dass der Mischer nicht mehr reagiert und neu gestartet werden muss.";
+"still-warning-alert" = "MixEffect passt die Bildgröße an den im Mischer eingestellten Video-Standard an.\n\nIn seltenen Fällen kann es beim hochladen von Medien dazu kommen, dass der Mischer nicht mehr reagiert und neu gestartet werden muss.";
 
 "stills" = "Standbilder";
 
 "sting" = "Sting";
+
+"sting-abbreviation" = "Sting";
 
 "stinger" = "Stinger";
 
@@ -1990,7 +2030,7 @@
 
 "supersource-layouts" = "SuperSource Layouts";
 
-"supersource-macro-pause" = "Pausen beim Aufnehmen von Makros hinzufügen";
+"supersource-macro-pause" = "Pausen beim Aufzeichnen von Makros hinzufügen";
 
 "swap-boxes" = "Boxe tauschen";
 
@@ -2012,7 +2052,7 @@
 
 "switcher-options" = "Mischer Optionen";
 
-"switcher-reconnecting" = "Erneutes verbinden mit Mischer";
+"switcher-reconnecting" = "Verbinung mit dem Mischer wird wiederhergestellt …";
 
 "switcher-settings" = "Mischer Einstellungen";
 
@@ -2034,7 +2074,7 @@
 
 "thumbnail-big" = "Groß (144 x 81)";
 
-"thumbnail-companion" = "Companion (72 x 41)";
+"thumbnail-companion" = "Companion (72 x 58)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 
@@ -2076,13 +2116,13 @@
 
 "transition-button" = "Trans";
 
-"transition-options" = "Übergang Optionen…";
+"transition-options" = "Optionen für Übergang …";
 
 "transition-speed" = "Geschwindigkeit des Übergangs";
 
-"transition-style" = "Übergang Art";
+"transition-style" = "Übergangsart";
 
-"transition-type" = "Übergang Typ";
+"transition-type" = "Übergangstyp";
 
 "transitions" = "Übergänge";
 
@@ -2126,7 +2166,9 @@
 
 "upstream-keys" = "Upstream Keys";
 
-"use-cut-bus" = "Cut Bus verwenden";
+"use-box-sources" = "Quellen der Felder verwenden";
+
+"use-cut-bus" = "Cut-Bus verwenden";
 
 "use-landscape-layout" = "Querformat Layout verwenden";
 
@@ -2192,6 +2234,8 @@
 
 "wipe" = "Wischblende";
 
+"wipe-abbreviation" = "Wischen";
+
 "with-box %lld" = "mit Box %lld";
 
 "with-transition" = "mit Übergang";
@@ -2206,42 +2250,6 @@
 
 "zoom" = "Zoom";
 
-// TO TRANSLATE
+"next" = "";
 
-"descending" = "Descending";
-
-"dip" = "Dip";
-
-"dip-abbreviation" = "Dip";
-
-"display-status" = "Display Status";
-
-"dve-abbreviation" = "DVE";
-
-"edit-name" = "Edit Name";
-
-"edit-preset" = "Edit Preset";
-
-"fill" = "Fill";
-
-"free-run" = "Free Run";
-
-"key" = "Key";
-
-"mask" = "Mask";
-
-"mix-abbreviation" = "Mix";
-
-"more" = "More";
-
-"size" = "Size";
-
-"size-x" = "Size X";
-
-"size-y" = "Size Y";
-
-"sting-abbreviation" = "Sting";
-
-"use-box-sources" = "Use Box Sources";
-
-"wipe-abbreviation" = "Wipe";
+"previous" = "";

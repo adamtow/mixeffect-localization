@@ -280,6 +280,8 @@
 
 "capture-video-short" = "Video";
 
+"cascade" = "Cascade";
+
 "center" = "Center";
 
 "center-of-key" = "Center of Key";
@@ -518,6 +520,8 @@
 
 "edit" = "Edit";
 
+"edit-abbreviation" = "Edit";
+
 "edit %@" = "Edit %@";
 
 "edit-description" = "Edit Description";
@@ -617,6 +621,8 @@
 "enable-border" = "Enable Border";
 
 "enable-box" = "Enable Box";
+
+"enable-cascade" = "Enable Cascade";
 
 "enable-crop" = "Enable Crop";
 
@@ -1270,6 +1276,8 @@
 
 "new-switcher" = "New Switcher";
 
+"next" = "Next";
+
 "next-page" = "Next Page";
 
 "next-transition" = "Next Transition";
@@ -1512,9 +1520,9 @@
 
 "preview-transition" = "Prev Trans";
 
-"preview-transition-abbreviation" = "Prev Trans";
-
 "preview-wide" = "Preview (Wide Input)";
+
+"previous" = "Previous";
 
 "previous-page" = "Previous Page";
 
@@ -2070,7 +2078,7 @@
 
 "thumbnail-big" = "Big (144 x 81)";
 
-"thumbnail-companion" = "Companion (72 x 41)";
+"thumbnail-companion" = "Companion (72 x 58)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 

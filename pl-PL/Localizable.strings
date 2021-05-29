@@ -72,6 +72,8 @@
 
 "add-panel-to %@" = "Dodaj panel do %@";
 
+"add-tags" = "Dodaj tagi";
+
 "add-to-siri" = "Dodaj do Siri";
 
 "advanced" = "Zaawansowane";
@@ -166,11 +168,13 @@
 
 "automations" = "Automatyzacje";
 
-"aux" = "AUX";
+"aux" = "Zewnętrzne";
 
 "aux %lld" = "AUX %lld";
 
 "aux%lld" = "AUX%lld";
+
+"aux-abbreviation" = "AUX";
 
 "aux-view-style" = "Styl widoku AUX";
 
@@ -278,6 +282,8 @@
 
 "capture-video-short" = "Wideo";
 
+"cascade" = "Kaskadę";
+
 "center" = "Środek";
 
 "center-of-key" = "Centrum klucza";
@@ -362,7 +368,13 @@
 
 "connection-help" = "Pomoc w połączeniu";
 
+"constrain" = "Ogranicz";
+
+"constrain-horizontally" = "Ogranicz poziomo";
+
 "constrain-size" = "Ogranicz rozmiar";
+
+"constrain-vertically" = "Ogranicz pionowo";
 
 "contact" = "Kontakt";
 
@@ -381,6 +393,8 @@
 "crosspoint-selector" = "Wybór krzyżowy";
 
 "current-mixeffect" = "Bieżący M/E";
+
+"current-preset" = "Bieżący szablon";
 
 "cursor-size" = "Wielkość kursora";
 
@@ -450,6 +464,8 @@
 
 "dip" = "Zanikanie";
 
+"dip-abbreviation" = "Zanik";
+
 "dip-source" = "Zanurz do źródła";
 
 "direction" = "Kierunek";
@@ -488,7 +504,11 @@
 
 "dsk %lld" = "DÓŁ %lld";
 
+"duplicate" = "Zduplikuj";
+
 "dve" = "Wideoefekt (DVE)";
+
+"dve-abbreviation" = "Wideo- efekt";
 
 "dve-full" = "DVE Pełny ekran";
 
@@ -502,6 +522,8 @@
 
 "edit" = "Edytuj";
 
+"edit-abbreviation" = "Edytuj";
+
 "edit %@" = "Edytuj %@";
 
 "edit-description" = "Edytuj opis";
@@ -509,6 +531,8 @@
 "edit-name" = "Edytuj nazwę";
 
 "edit-page" = "Edytuj stronę";
+
+"edit-preset" = "Edytuj szablon";
 
 "edit-server" = "Edytuj serwer";
 
@@ -599,6 +623,8 @@
 "enable-border" = "Włącz ramkę";
 
 "enable-box" = "Włącz pole";
+
+"enable-cascade" = "Włącz kaskadę";
 
 "enable-crop" = "Włącz przycinanie";
 
@@ -698,6 +724,8 @@
 
 "fader" = "Dźwignia";
 
+"fader-bar" = "Teownik";
+
 "fader-gain" = "Dźwignia wzmocnienia";
 
 "fairlight-audio" = "Ustawienia dźwięku Fairlight";
@@ -709,6 +737,8 @@
 "feedback" = "Przekaż opinię";
 
 "filename" = "Plik";
+
+"fill" = "Wypełnienie";
 
 "fill-source" = "Źródło wypełnienia";
 
@@ -738,6 +768,8 @@
 
 "frames-remaining" = "Pozostało klatek: ";
 
+"free-run" = "Ruch swobodny";
+
 "frequency" = "częstotliwość";
 
 "from" = "Od";
@@ -765,6 +797,10 @@
 "green" = "Zielony";
 
 "grid" = "Siatka";
+
+"grid-off" = "Wyłącz siatkę";
+
+"grid-on" = "Włącz siatkę";
 
 "h" = "H";
 
@@ -972,6 +1008,8 @@
 
 "line" = "Linia";
 
+"list" = "Lista";
+
 "live-stream" = "Na Żywo";
 
 "live-stream-short" = "Strumień";
@@ -1086,6 +1124,8 @@
 
 "make-up-gain" = "Podnieś wzmocnienie";
 
+"mask" = "Maska";
+
 "master" = "Master";
 
 "max" = "Maks";
@@ -1139,6 +1179,8 @@
 "minutes" = "Minuty";
 
 "mix" = "Miksowanie";
+
+"mix-abbreviation" = "Miks";
 
 "mix-effects-bus" = "Szyna MixEffect";
 
@@ -1236,6 +1278,8 @@
 
 "new-switcher" = "Nowy przełącznik";
 
+"next" = "Następny";
+
 "next-page" = "Następna strona";
 
 "next-transition" = "Następne przejście";
@@ -1283,6 +1327,8 @@
 "page-name-example" = "np. Domyślny";
 
 "pan" = "Balans";
+
+"panel-cut-auto" = "Cięcie / Auto";
 
 "panel-landscape-bottom" = "Poziomo na dole";
 
@@ -1476,6 +1522,10 @@
 
 "preview-transition" = "Poprz. Przej- ście";
 
+"preview-wide" = "Duży podgląd wejścia";
+
+"previous" = "Poprzedni";
+
 "previous-page" = "Poprzednia strona";
 
 "privacy-policy" = "Polityka prywatności";
@@ -1536,6 +1586,10 @@
 
 "program-preview" = "Program / Podgląd";
 
+"program-preview-wide" = "Duży Podgląd / Program";
+
+"program-wide" = "Duży program wejścia";
+
 "protocol-reload" = "Połącz ponownie przy wykryciu błędów protokołu";
 
 "protocol-reload-description" = "Automatycznie zresetuj połączenie jeśli wykryta zostanie niekompletna komunikacja";
@@ -1588,7 +1642,15 @@
 
 "remove-favorite" = "Usuń ulubione";
 
+"remove-tags" = "Usuń tagi";
+
 "rename" = "Zmień nazwę";
+
+"repair" = "Napraw";
+
+"repair-supersource" = "Napraw SuperŹródła";
+
+"repair-supersource-alert" = "Ta opcja spróbuje rozwiązać problemy z Twoimi układami SuperŹródeł.";
 
 "repeat-delay" = "Powtórz opóźnienie:";
 
@@ -1734,6 +1796,8 @@
 
 "set-default-page" = "Ustaw jako strona domyślna";
 
+"set-grid-size" = "Rozmiar siatki";
+
 "set-preset" = "Zapisz układ jako szablon";
 
 "set-threshold" = "Ustaw próg";
@@ -1810,6 +1874,8 @@
 
 "show-timecode" = "Pokaż timekod";
 
+"show-transition-speed-menu" = "Pokaż menu prędkości animacji";
+
 "shutter" = "Migawka";
 
 "sidebar-full" = "Używaj pełnej wysokości paska bocznego";
@@ -1876,6 +1942,8 @@
 
 "stereo-simulation" = "Symulacja stereo";
 
+"sticky-current-preset" = "Przyklej bieżący szablon";
+
 "still" = "Obraz";
 
 "still %lld" = "Obraz %lld";
@@ -1893,6 +1961,8 @@
 "stills" = "Obrazy";
 
 "sting" = "Telewizyjne (Stinger)";
+
+"sting-abbreviation" = "Sting";
 
 "stinger" = "Stinger";
 
@@ -2010,7 +2080,7 @@
 
 "thumbnail-big" = "Duże (144 x 81)";
 
-"thumbnail-companion" = "Aplikacja Companion (72 x 41)";
+"thumbnail-companion" = "Aplikacja Companion (72 x 58)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 
@@ -2102,6 +2172,8 @@
 
 "upstream-keys" = "Upstream Keys";
 
+"use-box-sources" = "Przypisz źródła do pól";
+
 "use-cut-bus" = "Używaj podglądu i cięć (Cut Bus)";
 
 "use-landscape-layout" = "Użyj układu poziomego";
@@ -2168,6 +2240,8 @@
 
 "wipe" = "Wymazywanie";
 
+"wipe-abbreviation" = "Wymaż";
+
 "with-box %lld" = "przez pole %lld";
 
 "with-transition" = "Dodaj przejście";
@@ -2181,72 +2255,3 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
-
-// TO TRANSLATE
-
-"add-tags" = "Dodaj tagi";
-
-"constrain" = "Ogranicz";
-
-"constrain-horizontally" = "Ogranicz poziomo";
-
-"constrain-vertically" = "Ogranicz pionowo";
-
-"current-preset" = "Bieżący szablon";
-
-"dip-abbreviation" = "Zanik";
-
-"duplicate" = "Zduplikuj";
-
-"dve-abbreviation" = "Wideo- efekt";
-
-"edit-preset" = "Edytuj szablon";
-
-"fader-bar" = "Teownik";
-
-"fill" = "Wypełnienie";
-
-"free-run" = "Ruch swobodny";
-
-"grid-off" = "Wyłącz siatkę";
-
-"grid-on" = "Włącz siatkę";
-
-"list" = "Lista";
-
-"mask" = "Maska";
-
-"mix-abbreviation" = "Miks";
-
-"panel-cut-auto" = "Cięcie / Auto";
-
-"preview-wide" = "Duży podgląd wejścia";
-
-"program-preview-wide" = "Duży Podgląd / Program";
-
-"program-wide" = "Duży program wejścia";
-
-"remove-tags" = "Usuń tagi";
-
-"repair" = "Napraw";
-
-"repair-supersource" = "Napraw SuperŹródła";
-
-"repair-supersource-alert" = "Ta opcja spróbuje rozwiązać problemy z Twoimi układami SuperŹródeł.";
-
-"set-grid-size" = "Rozmiar siatki";
-
-"show-transition-speed-menu" = "Pokaż menu prędkości animacji";
-
-"sticky-current-preset" = "Przyklej bieżący szablon";
-
-"sting-abbreviation" = "Sting";
-
-"use-box-sources" = "Przypisz źródła do pól";
-
-"wipe-abbreviation" = "Wymaż";
-
-"next" = "Następny";
-
-"previous" = "Poprzedni";
-
