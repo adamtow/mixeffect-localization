@@ -168,13 +168,11 @@
 
 "automations" = "Automatyzacje";
 
-"aux" = "Zewnętrzne";
+"aux" = "AUX";
 
 "aux %lld" = "AUX %lld";
 
 "aux%lld" = "AUX%lld";
-
-"aux-abbreviation" = "AUX";
 
 "aux-view-style" = "Styl widoku AUX";
 
