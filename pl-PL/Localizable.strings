@@ -520,9 +520,9 @@
 
 "edit" = "Edytuj";
 
-"edit-abbreviation" = "Edytuj";
-
 "edit %@" = "Edytuj %@";
+
+"edit-abbreviation" = "Edytuj";
 
 "edit-description" = "Edytuj opis";
 
@@ -2253,3 +2253,37 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
+
+"allow-trigger-when-source-off-air" = "";
+
+"auto-roll" = "";
+
+"clip-length" = "";
+
+"hyperdeck" = "";
+
+"hyperdecks" = "";
+
+"jog" = "";
+
+"locked-box-sources" = "";
+
+"offset" = "";
+
+"play" = "";
+
+"playback" = "";
+
+"playback-speed" = "";
+
+"ready" = "";
+
+"remaining" = "";
+
+"remote-hyperdeck-not-available" = "";
+
+"shuttle" = "";
+
+"time-elapsed" = "";
+
+"time-remaining" = "";

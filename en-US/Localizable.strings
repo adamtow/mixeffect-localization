@@ -92,6 +92,8 @@
 
 "all-on" = "All On";
 
+"allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
+
 "analog-audio-inputs" = "Analog Inputs";
 
 "animate-supersource" = "Animate SuperSource Layout Transitions";
@@ -161,6 +163,8 @@
 "auto" = "Auto";
 
 "auto-reconnect" = "Auto-Reconnect";
+
+"auto-roll" = "Auto Roll";
 
 "auto-supersource" = "Auto to SuperSource";
 
@@ -321,6 +325,8 @@
 "clip-delete %lld" = "Delete Clip %lld";
 
 "clip-duration" = "Clip Duration";
+
+"clip-length" = "Clip Length";
 
 "clip-length %lld" = "Clip %lld Length";
 
@@ -520,9 +526,9 @@
 
 "edit" = "Edit";
 
-"edit-abbreviation" = "Edit";
-
 "edit %@" = "Edit %@";
+
+"edit-abbreviation" = "Edit";
 
 "edit-description" = "Edit Description";
 
@@ -824,11 +830,15 @@
 
 "hue" = "Hue";
 
+"hyperdeck" = "HyperDeck";
+
 "hyperdeck-high" = "HyperDeck High";
 
 "hyperdeck-low" = "HyperDeck Low";
 
 "hyperdeck-medium" = "HyperDeck Medium";
+
+"hyperdecks" = "HyperDecks";
 
 "hz" = "Hz";
 
@@ -950,6 +960,8 @@
 
 "iso-stop" = "ISO Stop";
 
+"jog" = "Jog";
+
 "key" = "Key";
 
 "key %lld" = "Key %lld";
@@ -1017,6 +1029,8 @@
 "lock-with-faceid-footer" = "MixEffect will be locked whenever you close the app. When you relaunch MixEffect, you will be prompted with Face ID or your device passcode.";
 
 "locked" = "Locked";
+
+"locked-box-sources" = "Locked Box Sources";
 
 "luma" = "Luma";
 
@@ -1292,6 +1306,8 @@
 
 "off" = "Off";
 
+"offset" = "Offset";
+
 "ok" = "OK";
 
 "on" = "On";
@@ -1397,6 +1413,12 @@
 "pattern-verticalBarnDoor" = "Vertical Barn Door";
 
 "place-in" = "Place In";
+
+"play" = "Play";
+
+"playback" = "Playback";
+
+"playback-speed" = "Playback Speed";
 
 "port" = "Port";
 
@@ -1610,6 +1632,8 @@
 
 "rca" = "RCA";
 
+"ready" = "Ready";
+
 "rec" = "REC";
 
 "reconnect" = "Reconnect";
@@ -1631,6 +1655,10 @@
 "red" = "Red";
 
 "release" = "Release";
+
+"remaining" = "Remaining";
+
+"remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
 
 "remove" = "Remove";
 
@@ -1876,6 +1904,8 @@
 
 "shutter" = "Shutter";
 
+"shuttle" = "Shuttle";
+
 "sidebar-full" = "Use Full Height Sidebar";
 
 "simulator" = "Simulator";
@@ -2090,7 +2120,11 @@
 
 "tie" = "Tie";
 
+"time-elapsed" = "Time Elapsed";
+
 "time-of-day" = "Time of Day";
+
+"time-remaining" = "Time Remaining";
 
 "timecode" = "Timecode";
 
