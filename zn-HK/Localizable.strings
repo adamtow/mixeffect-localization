@@ -92,6 +92,8 @@
 
 "all-on" = "All On";
 
+"allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
+
 "analog-audio-inputs" = "Analog Inputs";
 
 "animate-supersource" = "Animate SuperSource Layout Transitions";
@@ -161,6 +163,8 @@
 "auto" = "Auto";
 
 "auto-reconnect" = "Auto-Reconnect";
+
+"auto-roll" = "Auto Roll";
 
 "auto-supersource" = "Auto to SuperSource";
 
@@ -280,6 +284,8 @@
 
 "capture-video-short" = "Video";
 
+"cascade" = "Cascade";
+
 "center" = "Center";
 
 "center-of-key" = "Center of Key";
@@ -319,6 +325,8 @@
 "clip-delete %lld" = "Delete Clip %lld";
 
 "clip-duration" = "Clip Duration";
+
+"clip-length" = "Clip Length";
 
 "clip-length %lld" = "Clip %lld Length";
 
@@ -460,6 +468,8 @@
 
 "dip" = "Dip";
 
+"dip-abbreviation" = "Dip";
+
 "dip-source" = "Dip Source";
 
 "direction" = "Direction";
@@ -502,6 +512,8 @@
 
 "dve" = "DVE";
 
+"dve-abbreviation" = "DVE";
+
 "dve-full" = "DVE Full";
 
 "dve-picture-in-picture" = "DVE Picture-in-Picture";
@@ -515,6 +527,8 @@
 "edit" = "Edit";
 
 "edit %@" = "Edit %@";
+
+"edit-abbreviation" = "Edit";
 
 "edit-description" = "Edit Description";
 
@@ -613,6 +627,8 @@
 "enable-border" = "Enable Border";
 
 "enable-box" = "Enable Box";
+
+"enable-cascade" = "Enable Cascade";
 
 "enable-crop" = "Enable Crop";
 
@@ -814,11 +830,15 @@
 
 "hue" = "Hue";
 
+"hyperdeck" = "HyperDeck";
+
 "hyperdeck-high" = "HyperDeck High";
 
 "hyperdeck-low" = "HyperDeck Low";
 
 "hyperdeck-medium" = "HyperDeck Medium";
+
+"hyperdecks" = "HyperDecks";
 
 "hz" = "Hz";
 
@@ -940,6 +960,8 @@
 
 "iso-stop" = "ISO Stop";
 
+"jog" = "Jog";
+
 "key" = "Key";
 
 "key %lld" = "Key %lld";
@@ -1007,6 +1029,8 @@
 "lock-with-faceid-footer" = "MixEffect will be locked whenever you close the app. When you relaunch MixEffect, you will be prompted with Face ID or your device passcode.";
 
 "locked" = "Locked";
+
+"locked-box-sources" = "Locked Box Sources";
 
 "luma" = "Luma";
 
@@ -1168,6 +1192,8 @@
 
 "mix" = "Mix";
 
+"mix-abbreviation" = "Mix";
+
 "mix-effects-bus" = "Mix Effects Bus";
 
 "mix-option" = "Mix Option";
@@ -1264,6 +1290,8 @@
 
 "new-switcher" = "New Switcher";
 
+"next" = "Next";
+
 "next-page" = "Next Page";
 
 "next-transition" = "Next Transition";
@@ -1277,6 +1305,8 @@
 "notes" = "Notes";
 
 "off" = "Off";
+
+"offset" = "Offset";
 
 "ok" = "OK";
 
@@ -1383,6 +1413,12 @@
 "pattern-verticalBarnDoor" = "Vertical Barn Door";
 
 "place-in" = "Place In";
+
+"play" = "Play";
+
+"playback" = "Playback";
+
+"playback-speed" = "Playback Speed";
 
 "port" = "Port";
 
@@ -1506,7 +1542,9 @@
 
 "preview-transition" = "Prev Trans";
 
-"preview-wide" = "Preview Wide Input";
+"preview-wide" = "Preview (Wide Input)";
+
+"previous" = "Previous";
 
 "previous-page" = "Previous Page";
 
@@ -1568,9 +1606,9 @@
 
 "program-preview" = "Program / Preview";
 
-"program-preview-wide" = "Program / Preview Wide";
+"program-preview-wide" = "Program / Preview (Wide Input)";
 
-"program-wide" = "Program Wide Input";
+"program-wide" = "Program (Wide Input)";
 
 "protocol-reload" = "Reconnect When Missing Procotol Detected";
 
@@ -1594,6 +1632,8 @@
 
 "rca" = "RCA";
 
+"ready" = "Ready";
+
 "rec" = "REC";
 
 "reconnect" = "Reconnect";
@@ -1615,6 +1655,10 @@
 "red" = "Red";
 
 "release" = "Release";
+
+"remaining" = "Remaining";
+
+"remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
 
 "remove" = "Remove";
 
@@ -1860,6 +1904,8 @@
 
 "shutter" = "Shutter";
 
+"shuttle" = "Shuttle";
+
 "sidebar-full" = "Use Full Height Sidebar";
 
 "simulator" = "Simulator";
@@ -1943,6 +1989,8 @@
 "stills" = "Stills";
 
 "sting" = "Sting";
+
+"sting-abbreviation" = "Sting";
 
 "stinger" = "Stinger";
 
@@ -2060,7 +2108,7 @@
 
 "thumbnail-big" = "Big (144 x 81)";
 
-"thumbnail-companion" = "Companion (72 x 41)";
+"thumbnail-companion" = "Companion (72 x 58)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 
@@ -2072,7 +2120,11 @@
 
 "tie" = "Tie";
 
+"time-elapsed" = "Time Elapsed";
+
 "time-of-day" = "Time of Day";
+
+"time-remaining" = "Time Remaining";
 
 "timecode" = "Timecode";
 
@@ -2219,6 +2271,8 @@
 "windows" = "Windows";
 
 "wipe" = "Wipe";
+
+"wipe-abbreviation" = "Wipe";
 
 "with-box %lld" = "With Box %lld";
 
