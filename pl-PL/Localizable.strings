@@ -2254,36 +2254,36 @@
 
 "zoom" = "Przybliżenie";
 
-"allow-trigger-when-source-off-air" = "";
+"allow-trigger-when-source-off-air" = "Pozwój na wyzwalanie kiedy źródło nie jest pokazywane";
 
-"auto-roll" = "";
+"auto-roll" = "Odtwarzaj automatycznie";
 
-"clip-length" = "";
+"clip-length" = "Długość";
 
-"hyperdeck" = "";
+"hyperdeck" = "HyperDeck";
 
-"hyperdecks" = "";
+"hyperdecks" = "HyperDecki";
 
-"jog" = "";
+"jog" = "Przewijanie";
 
-"locked-box-sources" = "";
+"locked-box-sources" = "Zablokowane źródła dla pól";
 
-"offset" = "";
+"offset" = "Kompensacja";
 
-"play" = "";
+"play" = "Odtwarzaj";
 
-"playback" = "";
+"playback" = "Odtwarzanie";
 
-"playback-speed" = "";
+"playback-speed" = "Tempo";
 
-"ready" = "";
+"ready" = "Gotowy";
 
-"remaining" = "";
+"remaining" = "Pozostało";
 
-"remote-hyperdeck-not-available" = "";
+"remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
 
-"shuttle" = "";
+"shuttle" = "Pomieszaj";
 
-"time-elapsed" = "";
+"time-elapsed" = "Minęło";
 
-"time-remaining" = "";
+"time-remaining" = "Pozostało";
