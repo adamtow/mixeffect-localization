@@ -92,6 +92,8 @@
 
 "all-on" = "Włącz wszystko";
 
+"allow-trigger-when-source-off-air" = "Pozwój na wyzwalanie kiedy źródło nie jest pokazywane";
+
 "analog-audio-inputs" = "Wejścia analogowe";
 
 "animate-supersource" = "Animuj przejścia układów SuperŹródła";
@@ -161,6 +163,8 @@
 "auto" = "Auto";
 
 "auto-reconnect" = "Automatycznie wznawiaj połączenie";
+
+"auto-roll" = "Odtwarzaj automatycznie";
 
 "auto-supersource" = "Automatycznie do SuperŹródła";
 
@@ -321,6 +325,8 @@
 "clip-delete %lld" = "Usuń klip %lld";
 
 "clip-duration" = "Długość Klipu";
+
+"clip-length" = "Długość";
 
 "clip-length %lld" = "Długość klipu %lld";
 
@@ -824,11 +830,15 @@
 
 "hue" = "Odcień";
 
+"hyperdeck" = "HyperDeck";
+
 "hyperdeck-high" = "Wysoka jakość nagrywania";
 
 "hyperdeck-low" = "Niska jakość nagrywania";
 
 "hyperdeck-medium" = "Średnia jakość nagrywania";
+
+"hyperdecks" = "HyperDecki";
 
 "hz" = "Hz";
 
@@ -950,6 +960,8 @@
 
 "iso-stop" = "ISO Stop";
 
+"jog" = "Przewijanie";
+
 "key" = "Klucz";
 
 "key %lld" = "Klucz %lld";
@@ -1017,6 +1029,8 @@
 "lock-with-faceid-footer" = "MixEffect zostanie zablokowany kiedy zamkniesz aplikację. Przy ponownym uruchomieniu wymagane będzie Face ID albo wpisanie kodu.";
 
 "locked" = "Zablokuj";
+
+"locked-box-sources" = "Zablokowane źródła dla pól";
 
 "luma" = "Luma";
 
@@ -1292,6 +1306,8 @@
 
 "off" = "Wyłącz";
 
+"offset" = "Kompensacja";
+
 "ok" = "OK";
 
 "on" = "Włącz";
@@ -1397,6 +1413,12 @@
 "pattern-verticalBarnDoor" = "Pionowe wrota";
 
 "place-in" = "Umieść w";
+
+"play" = "Odtwarzaj";
+
+"playback" = "Odtwarzanie";
+
+"playback-speed" = "Tempo";
 
 "port" = "Port";
 
@@ -1610,6 +1632,8 @@
 
 "rca" = "RCA";
 
+"ready" = "Gotowy";
+
 "rec" = "Nagrywa";
 
 "reconnect" = "Ponów połączenie";
@@ -1631,6 +1655,10 @@
 "red" = "Czerwony";
 
 "release" = "Zwolnij";
+
+"remaining" = "Pozostało";
+
+"remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
 
 "remove" = "Usuń";
 
@@ -1876,6 +1904,8 @@
 
 "shutter" = "Migawka";
 
+"shuttle" = "Pomieszaj";
+
 "sidebar-full" = "Używaj pełnej wysokości paska bocznego";
 
 "simulator" = "Symulator";
@@ -2090,7 +2120,11 @@
 
 "tie" = "Łącz";
 
+"time-elapsed" = "Minęło";
+
 "time-of-day" = "Czas bieżący";
+
+"time-remaining" = "Pozostało";
 
 "timecode" = "Timekod";
 
@@ -2253,37 +2287,3 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
-
-"allow-trigger-when-source-off-air" = "Pozwój na wyzwalanie kiedy źródło nie jest pokazywane";
-
-"auto-roll" = "Odtwarzaj automatycznie";
-
-"clip-length" = "Długość";
-
-"hyperdeck" = "HyperDeck";
-
-"hyperdecks" = "HyperDecki";
-
-"jog" = "Przewijanie";
-
-"locked-box-sources" = "Zablokowane źródła dla pól";
-
-"offset" = "Kompensacja";
-
-"play" = "Odtwarzaj";
-
-"playback" = "Odtwarzanie";
-
-"playback-speed" = "Tempo";
-
-"ready" = "Gotowy";
-
-"remaining" = "Pozostało";
-
-"remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
-
-"shuttle" = "Pomieszaj";
-
-"time-elapsed" = "Minęło";
-
-"time-remaining" = "Pozostało";
