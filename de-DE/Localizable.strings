@@ -916,9 +916,49 @@
 
 "input20" = "Eingang 20";
 
+"input21" = "Eingang 21";
+
+"input22" = "Eingang 22";
+
+"input23" = "Eingang 23";
+
+"input24" = "Eingang 24";
+
+"input25" = "Eingang 25";
+
+"input26" = "Eingang 26";
+
+"input27" = "Eingang 27";
+
+"input28" = "Eingang 28";
+
+"input29" = "Eingang 29";
+
 "input3" = "Eingang 3";
 
+"input30" = "Eingang 30";
+
+"input31" = "Eingang 31";
+
+"input32" = "Eingang 32";
+
+"input33" = "Eingang 33";
+
+"input34" = "Eingang 34";
+
+"input35" = "Eingang 35";
+
+"input36" = "Eingang 36";
+
+"input37" = "Eingang 37";
+
+"input38" = "Eingang 38";
+
+"input39" = "Eingang 39";
+
 "input4" = "Eingang 4";
+
+"input40" = "Eingang 40";
 
 "input5" = "Eingang 5";
 
@@ -1131,6 +1171,8 @@
 "macro-waiting" = "Warten:";
 
 "macros" = "Makros";
+
+"madi" = "MADI";
 
 "mailing-list" = "Mailing-Liste";
 
@@ -2169,6 +2211,8 @@
 "trial-expired" = "Testzeitraum abgelaufen";
 
 "trigger-point" = "Auslöse-Punkt";
+
+"trs" = "TRS";
 
 "try-again" = "Erneut versuchen";
 

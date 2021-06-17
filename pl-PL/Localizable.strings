@@ -916,9 +916,49 @@
 
 "input20" = "Wejście 20";
 
+"input21" = "Wejście 21";
+
+"input22" = "Wejście 22";
+
+"input23" = "Wejście 23";
+
+"input24" = "Wejście 24";
+
+"input25" = "Wejście 25";
+
+"input26" = "Wejście 26";
+
+"input27" = "Wejście 27";
+
+"input28" = "Wejście 28";
+
+"input29" = "Wejście 29";
+
 "input3" = "Wejście 3";
 
+"input30" = "Wejście 30";
+
+"input31" = "Wejście 31";
+
+"input32" = "Wejście 32";
+
+"input33" = "Wejście 33";
+
+"input34" = "Wejście 34";
+
+"input35" = "Wejście 35";
+
+"input36" = "Wejście 36";
+
+"input37" = "Wejście 37";
+
+"input38" = "Wejście 38";
+
+"input39" = "Wejście 39";
+
 "input4" = "Wejście 4";
+
+"input40" = "Wejście 40";
 
 "input5" = "Wejście 5";
 
@@ -1131,6 +1171,8 @@
 "macro-waiting" = "Czekanie:";
 
 "macros" = "Makra";
+
+"madi" = "MADI";
 
 "mailing-list" = "Lista mailingowa MixEffect (EN)";
 
@@ -2169,6 +2211,8 @@
 "trial-expired" = "Okres próbny dobiegł końca";
 
 "trigger-point" = "Punkt wyzwalania";
+
+"trs" = "TRS";
 
 "try-again" = "Spróbuj jeszcze raz";
 
