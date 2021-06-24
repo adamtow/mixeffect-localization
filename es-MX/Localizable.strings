@@ -1,8 +1,8 @@
 "%lld days-remaining" = "%lld Days Remaining in Trial";
 
-"0.5-seconds" = "0.5 seconds";
+"0.5-seconds" = "0.5 segundos";
 
-"1.0-seconds" = "1.0 seconds";
+"1.0-seconds" = "1.0 segundos";
 
 "1.33:1" = "Super 35 (1.33:1)";
 
@@ -10,7 +10,7 @@
 
 "1.43:1" = "IMAX (1.43:1)";
 
-"1.5-seconds" = "1.5 seconds";
+"1.5-seconds" = "1.5 segundos";
 
 "1.66:1" = "VistaVision (1.66:1)";
 
@@ -22,7 +22,7 @@
 
 "1:1" = "Square (1:1)";
 
-"2.0-seconds" = "2.0 seconds";
+"2.0-seconds" = "2.0 segundos";
 
 "2.35:1" = "Super 35 (2.35:1)";
 
@@ -56,27 +56,27 @@
 
 "a" = "A";
 
-"about" = "About MixEffect";
+"about" = "Sobre MixEffect";
 
 "accent-color" = "Accent Color";
 
 "action" = "Action";
 
-"add" = "Add";
+"add" = "Agregar";
 
 "add-default-presets" = "Add Default Presets";
 
-"add-favorite" = "Add Favorite";
+"add-favorite" = "Agregar Favorito";
 
-"add-panel" = "Add Panel";
+"add-panel" = "Agregar Panel";
 
-"add-panel-to %@" = "Add Panel to %@";
+"add-panel-to %@" = "Agregar Panel a %@";
 
-"add-tags" = "Add Tags";
+"add-tags" = "Agregar Tags";
 
-"add-to-siri" = "Add to Siri";
+"add-to-siri" = "Agregar a Siri";
 
-"advanced" = "Advanced";
+"advanced" = "Avanzado";
 
 "aesbu" = "AES/EBU";
 
@@ -86,7 +86,7 @@
 
 "afv" = "AFV";
 
-"all" = "All";
+"all" = "Todo";
 
 "all-off" = "All Off";
 
@@ -100,7 +100,7 @@
 
 "animate-supersource-short" = "Animate When Changing Layouts";
 
-"animation" = "Animation";
+"animation" = "Animacion";
 
 "animation-speed" = "Speed";
 
@@ -114,11 +114,11 @@
 
 "app-name-trial" = "MixEffect Trial";
 
-"appearance" = "Appearance";
+"appearance" = "Aparencia";
 
-"are-greater-than" = "Are Greater Than";
+"are-greater-than" = "Son mas que";
 
-"are-less-than" = "Are Less Than";
+"are-less-than" = "Son menos de";
 
 "art" = "Art";
 
@@ -128,7 +128,7 @@
 
 "atem-switcher" = "ATEM Switcher";
 
-"attack" = "Attack";
+"attack" = "Atacar";
 
 "audio" = "Audio";
 
@@ -182,13 +182,13 @@
 
 "auxiliary" = "Auxiliary";
 
-"available-panels" = "Available Panels";
+"available-panels" = "Paneles Disponibles";
 
 "b" = "B";
 
-"back" = "Back";
+"back" = "Atras";
 
-"background" = "Background";
+"background" = "Fondo";
 
 "balance" = "Balance";
 
@@ -216,11 +216,11 @@
 
 "bkgd" = "Bkgd";
 
-"black" = "Black";
+"black" = "Negro";
 
-"blue" = "Blue";
+"blue" = "Azul";
 
-"border" = "Border";
+"border" = "Bordo";
 
 "border-opacity" = "Border Opacity";
 
@@ -250,11 +250,11 @@
 
 "boxes" = "Boxes";
 
-"brightness" = "Brightness";
+"brightness" = "Brillo";
 
-"button" = "Button";
+"button" = "Boton";
 
-"buttons" = "Buttons";
+"buttons" = "Botones";
 
 "buy-later" = "Buy Later";
 
@@ -286,7 +286,7 @@
 
 "cascade" = "Cascade";
 
-"center" = "Center";
+"center" = "Centro";
 
 "center-of-key" = "Center of Key";
 
@@ -310,7 +310,7 @@
 
 "chroma-title-helper-description" = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
 
-"clear" = "Clear";
+"clear" = "Borrar";
 
 "clear-macro" = "Clear Macro";
 
@@ -336,7 +336,7 @@
 
 "clips" = "Clips";
 
-"close" = "Close";
+"close" = "Cerrar";
 
 "coarse" = "Coarse";
 
@@ -344,7 +344,7 @@
 
 "color %lld" = "Color %lld";
 
-"color-adjustments" = "Color Adjustments";
+"color-adjustments" = "Ajustes de Color";
 
 "color-bars" = "Color Bars";
 
@@ -358,19 +358,19 @@
 
 "color-scheme-light" = "Light";
 
-"color-scheme-system" = "System";
+"color-scheme-system" = "Sistema";
 
 "compact-controls" = "Compact Controls";
 
 "compressor" = "Compressor";
 
-"connect" = "Connect";
+"connect" = "Conectar";
 
-"connecting" = "Connecting";
+"connecting" = "Conectando";
 
-"connection" = "Connection";
+"connection" = "Conexión";
 
-"connection-help" = "Connection Help";
+"connection-help" = "Ayuda de Conexión";
 
 "constrain" = "Constrain";
 
@@ -384,15 +384,15 @@
 
 "contrast" = "Contrast";
 
-"control" = "Control";
+"control" = "Controlar";
 
-"copy" = "Copy";
+"copy" = "Copiar";
 
 "copy-from" = "Copy Box From";
 
 "count-selected %lld" = "Presets Selected: %lld";
 
-"crop" = "Crop";
+"crop" = "Recortar";
 
 "crosspoint-selector" = "Crosspoint Selector";
 
@@ -406,7 +406,7 @@
 
 "custom-rate" = "Custom Rate…";
 
-"cut" = "Cut";
+"cut" = "Cortar";
 
 "cut-supersource" = "Cut to SuperSource";
 
@@ -822,7 +822,7 @@
 
 "hold" = "Hold";
 
-"hold-for" = "Seconds to Hold";
+"hold-for" = "Segundos para Esperar";
 
 "hour" = "Hour";
 
@@ -1230,9 +1230,9 @@
 
 "minimize-off-audio" = "Minimize Disabled Audio Sources";
 
-"minute" = "Minute";
+"minute" = "Minuto";
 
-"minutes" = "Minutes";
+"minutes" = "Minutos";
 
 "mix" = "Mix";
 
@@ -1364,7 +1364,7 @@
 
 "on-supersource" = "On SuperSource";
 
-"opacity" = "Opacity";
+"opacity" = "Opacidad";
 
 "open-supersource" = "Open SuperSource";
 
@@ -1826,11 +1826,11 @@
 
 "search-presets" = "Search Presets";
 
-"second" = "Second";
+"second" = "Segundo";
 
-"seconds" = "Seconds";
+"seconds" = "Segundos";
 
-"security" = "Security";
+"security" = "Seguridad";
 
 "select" = "Select";
 
