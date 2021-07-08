@@ -60,7 +60,7 @@
 
 "accent-color" = "Accent Color";
 
-"action" = "Action";
+"action" = "Accion";
 
 "add" = "Agregar";
 
@@ -88,9 +88,9 @@
 
 "all" = "Todo";
 
-"all-off" = "All Off";
+"all-off" = "Todo Apagado";
 
-"all-on" = "All On";
+"all-on" = "Todo Prendido";
 
 "allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
 
@@ -104,7 +104,7 @@
 
 "animation-speed" = "Speed";
 
-"aperture" = "Aperture";
+"aperture" = "Abertura";
 
 "app-icon" = "App Icon";
 
@@ -122,7 +122,7 @@
 
 "art" = "Art";
 
-"ascending" = "Ascending";
+"ascending" = "Ascendente";
 
 "atem" = "ATEM";
 
@@ -156,9 +156,9 @@
 
 "audio-meters" = "Audio Meters";
 
-"audio-upload" = "Upload Audio";
+"audio-upload" = "Subir Audio";
 
-"authentication" = "Authentication";
+"authentication" = "Autenticacion";
 
 "auto" = "Auto";
 
@@ -256,7 +256,7 @@
 
 "buttons" = "Botones";
 
-"buy-later" = "Buy Later";
+"buy-later" = "Comprar mas tarde";
 
 "cache" = "Cache";
 
@@ -298,7 +298,7 @@
 
 "chat" = "Chat";
 
-"choose" = "Choose";
+"choose" = "Elige";
 
 "chroma" = "Chroma";
 
@@ -382,7 +382,7 @@
 
 "contact" = "Contact";
 
-"contrast" = "Contrast";
+"contrast" = "Contraste";
 
 "control" = "Controlar";
 
@@ -410,7 +410,7 @@
 
 "cut-supersource" = "Cut to SuperSource";
 
-"dark" = "Dark";
+"dark" = "Oscuro";
 
 "data-rate" = "Date Rate Mb/s";
 
@@ -430,9 +430,9 @@
 
 "delay" = "Delay";
 
-"delete" = "Delete";
+"delete" = "Borrar";
 
-"delete-all-macros" = "Delete All Macros";
+"delete-all-macros" = "Borrar todos los macros";
 
 "delete-all-macros-confirm" = "Are you really sure you want to delete every macro on this ATEM switcher? This operation cannot be undone.";
 
@@ -460,9 +460,9 @@
 
 "delete-still" = "Delete Still";
 
-"descending" = "Descending";
+"descending" = "Descendente";
 
-"description" = "Description";
+"description" = "Descripcion";
 
 "detail-off" = "Detail Off";
 
@@ -472,13 +472,13 @@
 
 "dip-source" = "Dip Source";
 
-"direction" = "Direction";
+"direction" = "Direccion";
 
 "disable-sleep" = "Disable Auto-Lock";
 
 "disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
 
-"disconnect" = "Disconnect";
+"disconnect" = "Desconectar";
 
 "dismiss-on-tap" = "Dismiss On Tap";
 
@@ -488,7 +488,7 @@
 
 "distribute" = "Distribute Evenly";
 
-"do-nothing" = "Do Nothing";
+"do-nothing" = "Hacer Nada";
 
 "documentation" = "Documentation";
 
@@ -508,7 +508,7 @@
 
 "dsk %lld" = "DSK %lld";
 
-"duplicate" = "Duplicate";
+"duplicate" = "Duplicar";
 
 "dve" = "DVE";
 
@@ -528,7 +528,7 @@
 
 "edit %@" = "Edit %@";
 
-"edit-abbreviation" = "Edit";
+"edit-abbreviation" = "Editar";
 
 "edit-description" = "Edit Description";
 
@@ -682,7 +682,7 @@
 
 "error-resolution-invalid" = "The resolution is invalid.";
 
-"error.default" = "An error has occurred.";
+"error.default" = "Un error ha occurrido.";
 
 "error.defaultTitle" = "Error";
 
@@ -776,11 +776,11 @@
 
 "frequency" = "Frequency";
 
-"from" = "From";
+"from" = "De";
 
 "ftb" = "FTB";
 
-"full" = "Full";
+"full" = "Lleno";
 
 "gain" = "Gain";
 
@@ -796,9 +796,9 @@
 
 "go-to-switcher" = "Go to Switcher";
 
-"greater-than" = "Greater Than";
+"greater-than" = "Mas que";
 
-"green" = "Green";
+"green" = "Verde";
 
 "grid" = "Grid";
 
@@ -810,7 +810,7 @@
 
 "haptic-feedback" = "Haptic Feedback";
 
-"headphones" = "Headphones";
+"headphones" = "Audifonos";
 
 "hide-descriptions" = "Hide Descriptions";
 
@@ -824,9 +824,9 @@
 
 "hold-for" = "Segundos para Esperar";
 
-"hour" = "Hour";
+"hour" = "Hora";
 
-"hours" = "Hours";
+"hours" = "Horas";
 
 "hue" = "Hue";
 
@@ -1024,7 +1024,7 @@
 
 "l" = "L";
 
-"label-longname" = "Name";
+"label-longname" = "Nombre";
 
 "label-shortname" = "Label";
 
@@ -1040,13 +1040,13 @@
 
 "layout-type" = "Layout";
 
-"left" = "Left";
+"left" = "Izquierdo";
 
 "legacy-audio-unsupported" = "Legacy Audio is currently unsupported.";
 
-"less-than" = "Less Than";
+"less-than" = "Menos que";
 
-"licenses" = "Licenses";
+"licenses" = "Licensias";
 
 "lift" = "Lift";
 
@@ -1060,7 +1060,7 @@
 
 "line" = "Line";
 
-"list" = "List";
+"list" = "Lista";
 
 "live-stream" = "Live Stream";
 
