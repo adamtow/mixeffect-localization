@@ -1,8 +1,8 @@
-"%lld days-remaining" = "%lld Days Remaining in Trial";
+"%lld days-remaining" = "試用剩餘%lld天";
 
-"0.5-seconds" = "0.5 seconds";
+"0.5-seconds" = "0.5秒";
 
-"1.0-seconds" = "1.0 seconds";
+"1.0-seconds" = "1.0秒";
 
 "1.33:1" = "Super 35 (1.33:1)";
 
@@ -10,7 +10,7 @@
 
 "1.43:1" = "IMAX (1.43:1)";
 
-"1.5-seconds" = "1.5 seconds";
+"1.5-seconds" = "1.5秒";
 
 "1.66:1" = "VistaVision (1.66:1)";
 
@@ -56,57 +56,57 @@
 
 "a" = "A";
 
-"about" = "About MixEffect";
+"about" = "有關 MixEffect";
 
-"accent-color" = "Accent Color";
+"accent-color" = "強調色";
 
-"action" = "Action";
+"action" = "動作";
 
-"add" = "Add";
+"add" = "新增";
 
-"add-default-presets" = "Add Default Presets";
+"add-default-presets" = "新增默認預設";
 
-"add-favorite" = "Add Favorite";
+"add-favorite" = "新增最愛";
 
-"add-panel" = "Add Panel";
+"add-panel" = "新增控制板";
 
-"add-panel-to %@" = "Add Panel to %@";
+"add-panel-to %@" = "新增控制板至%@";
 
-"add-tags" = "Add Tags";
+"add-tags" = "新增標籤";
 
-"add-to-siri" = "Add to Siri";
+"add-to-siri" = "新增至Siri";
 
-"advanced" = "Advanced";
+"advanced" = "進階";
 
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
 
-"after-running-action" = "After Running Action";
+"after-running-action" = "觸發動作後";
 
 "afv" = "AFV";
 
-"all" = "All";
+"all" = "所有";
 
-"all-off" = "All Off";
+"all-off" = "關閉所有";
 
-"all-on" = "All On";
+"all-on" = "開啟所有";
 
-"allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
+"allow-trigger-when-source-off-air" = "允許來源為不廣播狀態時觸發";
 
-"analog-audio-inputs" = "Analog Inputs";
+"analog-audio-inputs" = "模擬輸入";
 
-"animate-supersource" = "Animate SuperSource Layout Transitions";
+"animate-supersource" = "轉換 SuperSource 佈局時帶有效果";
 
-"animate-supersource-short" = "Animate When Changing Layouts";
+"animate-supersource-short" = "轉換佈局時帶有效果";
 
-"animation" = "Animation";
+"animation" = "動畫";
 
-"animation-speed" = "Speed";
+"animation-speed" = "速度";
 
-"aperture" = "Aperture";
+"aperture" = "光圈";
 
-"app-icon" = "App Icon";
+"app-icon" = "程式圖示";
 
 "app-name" = "MixEffect";
 
@@ -114,63 +114,63 @@
 
 "app-name-trial" = "MixEffect Trial";
 
-"appearance" = "Appearance";
+"appearance" = "外觀";
 
-"are-greater-than" = "Are Greater Than";
+"are-greater-than" = "大於";
 
-"are-less-than" = "Are Less Than";
+"are-less-than" = "少於";
 
 "art" = "Art";
 
-"ascending" = "Ascending";
+"ascending" = "順序";
 
 "atem" = "ATEM";
 
-"atem-switcher" = "ATEM Switcher";
+"atem-switcher" = "ATEM 控制器";
 
-"attack" = "Attack";
+"attack" = "起音";
 
-"audio" = "Audio";
+"audio" = "音訊";
 
-"audio %lld" = "Audio %lld";
+"audio %lld" = "音訊 %lld";
 
-"audio-bitrate" = "Audio Bitrate";
+"audio-bitrate" = "傳輸位元速率";
 
-"audio-bitrate1" = "Audio Bitrate 1";
+"audio-bitrate1" = "傳輸位元速率 1";
 
-"audio-bitrate2" = "Audio Bitrate 2";
+"audio-bitrate2" = "傳輸位元速率 2";
 
-"audio-bitrates" = "Audio Bitrates";
+"audio-bitrates" = "傳輸位元速率";
 
-"audio-clips" = "Audio Clips";
+"audio-clips" = "音效檔";
 
-"audio-delay" = "Audio Delay";
+"audio-delay" = "音訊延遲";
 
-"audio-delete %lld" = "Delete Audio %lld";
+"audio-delete %lld" = "删除音效檔 %lld";
 
-"audio-follows-video" = "Audio Follows Video";
+"audio-follows-video" = "音訊跟蹤視訊";
 
-"audio-follows-video-hard-cut" = "Hard Cut Audio When Switching";
+"audio-follows-video-hard-cut" = "當切換視訊時立刻切換音訊";
 
-"audio-follows-video-transition" = "Add a Transition to Audio When Switching";
+"audio-follows-video-transition" = "當切換時視訊時加入音訊轉場效果";
 
-"audio-meters" = "Audio Meters";
+"audio-meters" = "音訊儀板";
 
-"audio-upload" = "Upload Audio";
+"audio-upload" = "上傳音訊";
 
-"authentication" = "Authentication";
+"authentication" = "認證";
 
-"auto" = "Auto";
+"auto" = "自動";
 
-"auto-reconnect" = "Auto-Reconnect";
+"auto-reconnect" = "自動重新連接";
 
 "auto-roll" = "Auto Roll";
 
-"auto-supersource" = "Auto to SuperSource";
+"auto-supersource" = "自動 SuperSource";
 
-"auto-video-standard" = "Auto Video Standard";
+"auto-video-standard" = "自動視訊標準";
 
-"automations" = "Automations";
+"automations" = "自動執行";
 
 "aux" = "AUX";
 
@@ -178,19 +178,19 @@
 
 "aux%lld" = "AUX%lld";
 
-"aux-view-style" = "AUX View Style";
+"aux-view-style" = "AUX 觀看模式";
 
-"auxiliary" = "Auxiliary";
+"auxiliary" = "輔助";
 
-"available-panels" = "Available Panels";
+"available-panels" = "可使用控制版";
 
 "b" = "B";
 
-"back" = "Back";
+"back" = "返回";
 
-"background" = "Background";
+"background" = "背景";
 
-"balance" = "Balance";
+"balance" = "平衡";
 
 "band %lld" = "Band %lld";
 
@@ -206,265 +206,265 @@
 
 "bevel-soften" = "Bevel Soften";
 
-"bitrate" = "Bitrate";
+"bitrate" = "位元速率";
 
-"bitrate1" = "Bitrate 1";
+"bitrate1" = "位元速率 1";
 
-"bitrate2" = "Bitrate 2";
+"bitrate2" = "位元速率 2";
 
-"bitrates" = "Bitrates";
+"bitrates" = "位元速率";
 
 "bkgd" = "Bkgd";
 
-"black" = "Black";
+"black" = "黑色";
 
-"blue" = "Blue";
+"blue" = "藍色";
 
-"border" = "Border";
+"border" = "邊框";
 
-"border-opacity" = "Border Opacity";
+"border-opacity" = "邊框透明度";
 
-"bottom" = "Bottom";
+"bottom" = "底";
 
-"bottom-center" = "Bottom Center";
+"bottom-center" = "底置中";
 
-"bottom-left" = "Bottom Left";
+"bottom-left" = "底靠左";
 
-"bottom-right" = "Bottom Right";
+"bottom-right" = "底靠右";
 
-"box" = "Box";
+"box" = "箱";
 
-"box %lld" = "Box %lld";
+"box %lld" = "箱 %lld";
 
-"box-1" = "Box 1";
+"box-1" = "箱 1";
 
-"box-2" = "Box 2";
+"box-2" = "箱 2";
 
-"box-3" = "Box 3";
+"box-3" = "箱 3";
 
-"box-4" = "Box 4";
+"box-4" = "箱 4";
 
-"box-control" = "Box Control";
+"box-control" = "控制箱子";
 
-"box-count" = "Box Count";
+"box-count" = "箱子數相";
 
-"boxes" = "Boxes";
+"boxes" = "箱子";
 
-"brightness" = "Brightness";
+"brightness" = "光度";
 
-"button" = "Button";
+"button" = "按鈕";
 
-"buttons" = "Buttons";
+"buttons" = "按鈕";
 
-"buy-later" = "Buy Later";
+"buy-later" = "稍後購買";
 
-"cache" = "Cache";
+"cache" = "快取";
 
 "cam" = "CAM";
 
 "cam %lld" = "CAM%lld";
 
-"camera" = "Camera";
+"camera" = "相機";
 
-"camera-control" = "Camera Control";
+"camera-control" = "控制相機";
 
-"camera-control-monitoring" = "Use for camera control monitoring";
+"camera-control-monitoring" = "用於監察控制相機";
 
-"camera-control-view-style" = "Camera Control View Style";
+"camera-control-view-style" = "相機控制觀看模式";
 
-"cancel" = "Cancel";
+"cancel" = "取消";
 
-"capture-still" = "Capture Still";
+"capture-still" = "截取靜態圖片";
 
-"capture-still-no-slots" = "Please remove existing media from 'Stills' to capture new still.";
+"capture-still-no-slots" = "請在「靜態圖片」中先移除多於一張圖片";
 
-"capture-still-short" = "Still";
+"capture-still-short" = "靜態圖片";
 
-"capture-video" = "Capture Video";
+"capture-video" = "截取視訊";
 
-"capture-video-short" = "Video";
+"capture-video-short" = "視訊";
 
-"cascade" = "Cascade";
+"cascade" = "串聯";
 
-"center" = "Center";
+"center" = "置中";
 
 "center-of-key" = "Center of Key";
 
-"change" = "Change";
+"change" = "切換";
 
-"change-program-source" = "Change Program Source To";
+"change-program-source" = "切換直播源至";
 
-"change-rate" = "Change Rate";
+"change-rate" = "更換速度";
 
-"chat" = "Chat";
+"chat" = "對話";
 
-"choose" = "Choose";
+"choose" = "選擇";
 
-"chroma" = "Chroma";
+"chroma" = "色度";
 
-"chroma-correction" = "Chroma Correction";
+"chroma-correction" = "色度效正";
 
-"chroma-sample" = "Chroma Sample";
+"chroma-sample" = "色度採樣";
 
-"chroma-title-helper" = "Chroma Title Helper";
+"chroma-title-helper" = "色度標題幫手";
 
-"chroma-title-helper-description" = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
+"chroma-title-helper-description" = "建立動態標題及標題字幕供 Chroma upstream keyer 使用;
 
-"clear" = "Clear";
+"clear" = "清空";
 
-"clear-macro" = "Clear Macro";
+"clear-macro" = "清空巨集";
 
-"clear-source" = "Clear Source";
+"clear-source" = "清空來源";
 
-"clear-supersource" = "Clear SuperSource Preset";
+"clear-supersource" = "清空 SuperSource 預設";
 
-"clip" = "Clip";
+"clip" = "影像";
 
-"clip %lld" = "Clip %lld";
+"clip %lld" = "影像 %lld";
 
-"clip-delete %lld" = "Delete Clip %lld";
+"clip-delete %lld" = "删除影像 %lld";
 
-"clip-duration" = "Clip Duration";
+"clip-duration" = "影像長度";
 
-"clip-length" = "Clip Length";
+"clip-length" = "影像長度";
 
-"clip-length %lld" = "Clip %lld Length";
+"clip-length %lld" = "影像 %lld 長度";
 
-"clip-upload" = "Upload Clip";
+"clip-upload" = "上傳影像";
 
-"clipboard-streaming-xml" = "Export Streaming.xml to Clipboard";
+"clipboard-streaming-xml" = "匯出 Streaming.xml 至剪貼薄";
 
-"clips" = "Clips";
+"clips" = "影像";
 
-"close" = "Close";
+"close" = "關閉";
 
-"coarse" = "Coarse";
+"coarse" = "粗度";
 
-"color" = "Color";
+"color" = "顏色";
 
-"color %lld" = "Color %lld";
+"color %lld" = "顏色 %lld";
 
-"color-adjustments" = "Color Adjustments";
+"color-adjustments" = "色彩調較";
 
-"color-bars" = "Color Bars";
+"color-bars" = "色條";
 
-"color-correction" = "Color Correction";
+"color-correction" = "色彩校正";
 
-"color-generators" = "Color Generators";
+"color-generators" = "色彩產生器";
 
-"color-scheme" = "Color Scheme";
+"color-scheme" = "配色";
 
-"color-scheme-dark" = "Dark";
+"color-scheme-dark" = "深色";
 
-"color-scheme-light" = "Light";
+"color-scheme-light" = "淡色";
 
-"color-scheme-system" = "System";
+"color-scheme-system" = "系統";
 
-"compact-controls" = "Compact Controls";
+"compact-controls" = "密集控制版面";
 
-"compressor" = "Compressor";
+"compressor" = "壓縮效果器";
 
-"connect" = "Connect";
+"connect" = "連接";
 
-"connecting" = "Connecting";
+"connecting" = "連接中";
 
-"connection" = "Connection";
+"connection" = "連接";
 
-"connection-help" = "Connection Help";
+"connection-help" = "連接幫忙";
 
-"constrain" = "Constrain";
+"constrain" = "約束條件";
 
-"constrain-horizontally" = "Constrain Horizontally";
+"constrain-horizontally" = "水平約束";
 
-"constrain-size" = "Constrain Size";
+"constrain-size" = "約束尺寸";
 
-"constrain-vertically" = "Constrain Vertically";
+"constrain-vertically" = "垂直約束";
 
-"contact" = "Contact";
+"contact" = "聯絡";
 
-"contrast" = "Contrast";
+"contrast" = "對比度";
 
-"control" = "Control";
+"control" = "控制";
 
-"copy" = "Copy";
+"copy" = "複製";
 
-"copy-from" = "Copy Box From";
+"copy-from" = "複製盒子";
 
-"count-selected %lld" = "Presets Selected: %lld";
+"count-selected %lld" = "已選擇預設: %lld";
 
-"crop" = "Crop";
+"crop" = "剪裁";
 
 "crosspoint-selector" = "Crosspoint Selector";
 
-"current-mixeffect" = "Current M/E";
+"current-mixeffect" = "目前 M/E";
 
-"current-preset" = "Current Preset";
+"current-preset" = "目前預設";
 
-"cursor-size" = "Cursor Size";
+"cursor-size" = "浮標尺寸";
 
-"custom" = "Custom";
+"custom" = "自訂";
 
-"custom-rate" = "Custom Rate…";
+"custom-rate" = "自訂速度…";
 
-"cut" = "Cut";
+"cut" = "切換";
 
-"cut-supersource" = "Cut to SuperSource";
+"cut-supersource" = "切換至 SuperSource";
 
-"dark" = "Dark";
+"dark" = "深色";
 
 "data-rate" = "Date Rate Mb/s";
 
 "db" = "db";
 
-"default" = "Default";
+"default" = "預置";
 
-"default-detail" = "Default Detail";
+"default-detail" = "預置詳情";
 
-"default-page" = "Default Page";
+"default-page" = "預置頁面";
 
-"default-profile" = "Default Profile";
+"default-profile" = "預置設定檔";
 
-"default-section" = "Default Section";
+"default-section" = "預設章節";
 
-"default-server" = "Default Server";
+"default-server" = "預設伺服器";
 
-"delay" = "Delay";
+"delay" = "延遲";
 
-"delete" = "Delete";
+"delete" = "刪除";
 
-"delete-all-macros" = "Delete All Macros";
+"delete-all-macros" = "刪除所有巨集";
 
-"delete-all-macros-confirm" = "Are you really sure you want to delete every macro on this ATEM switcher? This operation cannot be undone.";
+"delete-all-macros-confirm" = "是否刪除所有巨集? 此動作不能復原";
 
-"delete-all-macros-message %lld" = "All %lld of your macros will be deleted from this ATEM switcher. This operation cannot be undone.";
+"delete-all-macros-message %lld" = "%lld 個巨集將會在這 ATEM SWITCHER 刪除. 此動作不能復原";
 
-"delete-audio" = "Delete Audio Clip";
+"delete-audio" = "刪除聲音檔";
 
-"delete-clip" = "Delete Clip";
+"delete-clip" = "刪除 Clip";
 
-"delete-layout" = "Delete Layout";
+"delete-layout" = "刪除佈局";
 
-"delete-layout-description" = "Delete this layout? This operation cannot be undone.";
+"delete-layout-description" = "是否刪除這佈局? 此動作不能還原";
 
-"delete-layouts" = "Delete Layouts";
+"delete-layouts" = "刪除佈局";
 
-"delete-layouts-description" = "Delete the selected layouts? This operation cannot be undone.";
+"delete-layouts-description" = "是否刪除已選取的佈局? 此動作不能還原";
 
-"delete-page" = "Delete Page";
+"delete-page" = "刪除頁面";
 
-"delete-page %@" = "Delete %@";
+"delete-page %@" = "刪除頁面 %@";
 
-"delete-page-message" = "This page will be deleted from the MixEffect ATEM Switcher. This operation cannot be undone.";
+"delete-page-message" = "這個頁面將會在這 ATEM 控制器上刪除. 此動作不能還原";
 
-"delete-page-named %@" = "Delete \"%@\" Page?";
+"delete-page-named %@" = "是否刪除 \"%@\" 頁面?";
 
-"delete-still" = "Delete Still";
+"delete-still" = "刪除靜態圖片";
 
-"descending" = "Descending";
+"descending" = "倒序";
 
-"description" = "Description";
+"description" = "描述";
 
-"detail-off" = "Detail Off";
+"detail-off" = "關閉詳情";
 
 "dip" = "Dip";
 
@@ -472,31 +472,31 @@
 
 "dip-source" = "Dip Source";
 
-"direction" = "Direction";
+"direction" = "方向";
 
-"disable-sleep" = "Disable Auto-Lock";
+"disable-sleep" = "取消睡眠功能";
 
-"disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
+"disable-sleep-alert" = "裝置在 MixEffect 運行時不會進入睡眠狀態";
 
-"disconnect" = "Disconnect";
+"disconnect" = "中斷連線";
 
-"dismiss-on-tap" = "Dismiss On Tap";
+"dismiss-on-tap" = "點擊後關閉";
 
-"display" = "Display";
+"display" = "顯示";
 
-"display-status" = "Display Status";
+"display-status" = "顯示狀態";
 
-"distribute" = "Distribute Evenly";
+"distribute" = "平均分佈";
 
-"do-nothing" = "Do Nothing";
+"do-nothing" = "不做任何事";
 
-"documentation" = "Documentation";
+"documentation" = "文件";
 
-"done" = "Done";
+"done" = "完成";
 
-"dont-change" = "Don't Change";
+"dont-change" = "不改變";
 
-"dont-show-again" = "Don't Show Again";
+"dont-show-again" = "不再顯示";
 
 "downstream-keyers" = "Downstream Keyers";
 
@@ -508,7 +508,7 @@
 
 "dsk %lld" = "DSK %lld";
 
-"duplicate" = "Duplicate";
+"duplicate" = "複製";
 
 "dve" = "DVE";
 
@@ -516,319 +516,319 @@
 
 "dve-full" = "DVE Full";
 
-"dve-picture-in-picture" = "DVE Picture-in-Picture";
+"dve-picture-in-picture" = "DVE 畫中畫";
 
 "dve-pip" = "DVE PIP";
 
-"dve-source-wipe" = "Source Wipe";
+"dve-source-wipe" = "來源劃像";
 
-"dynamics" = "Dynamics";
+"dynamics" = "動態";
 
-"edit" = "Edit";
+"edit" = "編輯";
 
-"edit %@" = "Edit %@";
+"edit %@" = "編輯 %@";
 
-"edit-abbreviation" = "Edit";
+"edit-abbreviation" = "編輯";
 
-"edit-description" = "Edit Description";
+"edit-description" = "編輯描述";
 
-"edit-name" = "Edit Name";
+"edit-name" = "編輯名字";
 
-"edit-page" = "Edit Page";
+"edit-page" = "編輯頁面";
 
-"edit-preset" = "Edit Preset";
+"edit-preset" = "編輯預設";
 
-"edit-server" = "Edit Server";
+"edit-server" = "編輯伺服器";
 
-"edit-service" = "Edit Service";
+"edit-service" = "編輯服務";
 
-"edit-streaming-services" = "Edit Streaming Services";
+"edit-streaming-services" = "編輯串流服務";
 
-"edit-switcher" = "Edit Switcher";
+"edit-switcher" = "編輯控制器";
 
-"edit-this-page" = "Edit This Page";
+"edit-this-page" = "編輯這頁面";
 
-"effect-graphicCCWSpin" = "Graphic Counter-Clockwise Spin";
+"effect-graphicCCWSpin" = "影像逆時針轉動";
 
-"effect-graphicCWSpin" = "Graphic Clockwise Spin";
+"effect-graphicCWSpin" = "影像順時針轉動";
 
-"effect-graphicLogoWipe" = "Graphic Logo Wipe";
+"effect-graphicLogoWipe" = "影像圖示擦拭";
 
-"effect-pushBottom" = "Push Bottom";
+"effect-pushBottom" = "由底推入";
 
-"effect-pushBottomLeft" = "Push Bottom Left";
+"effect-pushBottomLeft" = "由左下方推入";
 
-"effect-pushBottomRight" = "Push Bottom Right";
+"effect-pushBottomRight" = "由右下方推入";
 
-"effect-pushLeft" = "Push Left";
+"effect-pushLeft" = "由左推入";
 
-"effect-pushRight" = "Push Right";
+"effect-pushRight" = "由右推入";
 
-"effect-pushTop" = "Push Top";
+"effect-pushTop" = "由上推入";
 
-"effect-pushTopLeft" = "Push Top Left";
+"effect-pushTopLeft" = "由左上方推入";
 
-"effect-pushTopRight" = "Push Top Right";
+"effect-pushTopRight" = "由右下方推入";
 
-"effect-spinCCWBottomLeft" = "Spin Counter-Clockwise Bottom Left";
+"effect-spinCCWBottomLeft" = "由左下方轉動";
 
-"effect-spinCCWBottomRight" = "Spin Counter-Clockwise Bottom Right";
+"effect-spinCCWBottomRight" = "由右下方逆時針轉動";
 
-"effect-spinCCWTopLeft" = "Spin Counter-Clockwise Top Left";
+"effect-spinCCWTopLeft" = "由左上方逆時針轉動";
 
-"effect-spinCCWTopRight" = "Spin Counter-Clockwise Top Right";
+"effect-spinCCWTopRight" = "由右上逆時針轉動";
 
-"effect-spinCWBottomLeft" = "Spin Clockwise Bottom Left";
+"effect-spinCWBottomLeft" = "由左下方轉動";
 
-"effect-spinCWBottomRight" = "Spin Clockwise Bottom Right";
+"effect-spinCWBottomRight" = "由右下方轉動";
 
-"effect-spinCWTopLeft" = "Spin Clockwise Top Left";
+"effect-spinCWTopLeft" = "由左上方轉動";
 
-"effect-spinCWTopRight" = "Spin Clockwise Top Right";
+"effect-spinCWTopRight" = "由右上方轉動";
 
-"effect-squeezeBottom" = "Squeeze Bottom";
+"effect-squeezeBottom" = "由底擠壓";
 
-"effect-squeezeBottomLeft" = "Squeeze Bottom Left";
+"effect-squeezeBottomLeft" = "由左下方擠壓";
 
-"effect-squeezeBottomRight" = "Squeeze Bottom Right";
+"effect-squeezeBottomRight" = "由右下方擠壓";
 
-"effect-squeezeLeft" = "Squeeze Left";
+"effect-squeezeLeft" = "由左擠壓";
 
-"effect-squeezeRight" = "Squeeze Right";
+"effect-squeezeRight" = "由右擠壓";
 
-"effect-squeezeTop" = "Squeeze Top";
+"effect-squeezeTop" = "由上擠壓";
 
-"effect-squeezeTopLeft" = "Squeeze Top Left";
+"effect-squeezeTopLeft" = "由左上方擠壓";
 
-"effect-squeezeTopRight" = "Squeeze Top Right";
+"effect-squeezeTopRight" = "由右上方擠壓";
 
-"effect-swooshBottom" = "Swoosh Bottom";
+"effect-swooshBottom" = "由底翻轉";
 
-"effect-swooshBottomLeft" = "Swoosh Bottom Left";
+"effect-swooshBottomLeft" = "由左下方翻轉";
 
-"effect-swooshBottomRight" = "Swoosh Bottom Right";
+"effect-swooshBottomRight" = "由右下方翻轉";
 
-"effect-swooshLeft" = "Swoosh Left";
+"effect-swooshLeft" = "由左翻轉";
 
-"effect-swooshRight" = "Swoosh Right";
+"effect-swooshRight" = "由右翻轉";
 
-"effect-swooshTop" = "Swoosh Top";
+"effect-swooshTop" = "由上翻轉";
 
-"effect-swooshTopLeft" = "Swoosh Top Left";
+"effect-swooshTopLeft" = "由左上翻轉";
 
-"effect-swooshTopRight" = "Swoosh Top Right";
+"effect-swooshTopRight" = "由右上翻轉";
 
-"effects" = "Effects";
+"effects" = "效果";
 
-"enable-atem-simulator" = "Enable ATEM Simulator";
+"enable-atem-simulator" = "啟用 ATEM 模擬器";
 
-"enable-automations" = "Enable Automations";
+"enable-automations" = "啟用自動執行";
 
-"enable-border" = "Enable Border";
+"enable-border" = "啟用邊框";
 
-"enable-box" = "Enable Box";
+"enable-box" = "啟用箱子";
 
-"enable-cascade" = "Enable Cascade";
+"enable-cascade" = "啟用串聯";
 
-"enable-crop" = "Enable Crop";
+"enable-crop" = "啟用剪裁";
 
-"enable-flying-key" = "Enable Flying Key";
+"enable-flying-key" = "啟用 Flying Key";
 
-"enable-for-source" = "Enable Video Follows Audio";
+"enable-for-source" = "啟用聲音跟從影像";
 
-"enable-hot-keys" = "Enable Switcher Hot Keys";
+"enable-hot-keys" = "啟用 Switcher 熱鍵";
 
-"enable-key" = "Enable Key";
+"enable-key" = "啟用 Key";
 
-"enable-mask" = "Enable Mask";
+"enable-mask" = "啟用遮蔽";
 
-"enable-osc" = "Enable OSC";
+"enable-osc" = "啟用 OSC";
 
-"enable-osc-server" = "Enable OSC Server";
+"enable-osc-server" = "啟用 OSC Server";
 
-"enable-safe-areas" = "Enable Safe Areas";
+"enable-safe-areas" = "啟用安全區域";
 
-"enable-shadow" = "Enable Shadow";
+"enable-shadow" = "啟用陰影";
 
-"enable-shortcuts" = "Enable Shortcuts";
+"enable-shortcuts" = "啟用快速鍵";
 
-"enable-video-follows-audio" = "Enable Video Follows Audio";
+"enable-video-follows-audio" = "啟用影像跟從聲音";
 
-"enable-visual-editor" = "Enable Visual Editor";
+"enable-visual-editor" = "啟用視覺編輯器";
 
-"equalizer" = "Equalizer";
+"equalizer" = "等化器";
 
-"equalizer-enabled" = "Equalizer Enabled";
+"equalizer-enabled" = "啟用等化器";
 
-"equalizer-gain" = "Equalizer Gain";
+"equalizer-gain" = "等化器增益";
 
-"erase-alert" = "Are you sure you want to delete all MixEffect content and settings?\n\nAll data will be deleted on all devices connected to this iCloud account.\n\nYour ATEM Switcher settings will be unaffected.";
+"erase-alert" = "是否刪除所有 MixEffect 上的內容及設定?\n\n所有資料會在此 iCloud 帳戶綁定上的裝置刪除\n\nATEM Switcher上的設定不會被影響";
 
 "erase-cancel" = "Don't Erase";
 
-"erase-confirm" = "Are you ABSOLUTELY SURE you want to delete all MixEffect content and settings?\n\nAll content will be deleted on all devices connected to this iCloud account.\n\nYour ATEM Switcher settings will be unaffected.\n\nThis operation cannot be undone.";
+"erase-confirm" = "是否「確定」刪除所有 MixEffect 上的內容及設定?\n\n所有資料會在此 iCloud 帳戶綁定上的裝置刪除\n\nATEM Switcher上的設定不會被影響\n\n此動作不能還原";
 
-"erase-content" = "Erase Content and Settings";
+"erase-content" = "刪除內容及設定";
 
-"erase-title" = "Erase Content and Settings";
+"erase-title" = "刪除內容及設定";
 
-"error-audio-bitrate-invalid" = "The audio bitrate is invalid.";
+"error-audio-bitrate-invalid" = "聲音傳輸位元速率無效";
 
-"error-bitrate-invalid" = "The bitrate is invalid.";
+"error-bitrate-invalid" = "傳輸位元速率無效";
 
-"error-fps-invalid" = "The FPS is invalid.";
+"error-fps-invalid" = "FPS無效";
 
-"error-keyframe-interval-invalid" = "The keyframe interval is invalid.";
+"error-keyframe-interval-invalid" = "關鍵影格間隔無效";
 
-"error-resolution-invalid" = "The resolution is invalid.";
+"error-resolution-invalid" = "解析度無效";
 
-"error.default" = "An error has occurred.";
+"error.default" = "發生了錯誤";
 
-"error.defaultTitle" = "Error";
+"error.defaultTitle" = "錯誤";
 
-"error.fileNotFound" = "The file could not be found.";
+"error.fileNotFound" = "找不到檔案";
 
-"error.fileNotReadable" = "The file could not be read.";
+"error.fileNotReadable" = "無法讀取檔案";
 
-"error.importFailed" = "The file could not be imported.";
+"error.importFailed" = "無法匯入檔案";
 
-"error.importFileNotValid" = "The file is not a valid Streaming.xml file";
+"error.importFileNotValid" = "檔案並非為有效的 Streaming.xml 檔案";
 
-"error.intent.automationsDisabled" = "Automations are disabled.";
+"error.intent.automationsDisabled" = "自動執行為禁用";
 
-"error.intent.empty" = "Name cannot be empty.";
+"error.intent.empty" = "名字不能為空";
 
-"error.intent.failure" = "The action could not be completed.";
+"error.intent.failure" = "此動作未能完成";
 
-"error.intent.notConnected" = "There is no active switcher connection.";
+"error.intent.notConnected" = "目前沒有上線的 ATEM 控制器";
 
-"error.intent.notFound" = "Switcher not found.";
+"error.intent.notFound" = "找不到 ATEM 控制器";
 
-"error.intent.requiresPro" = "MixEffect Pro is required to run automations.";
+"error.intent.requiresPro" = "需要 MixEffect Pro 才運作自動執行";
 
-"error.intent.title" = "Could Not Run Action";
+"error.intent.title" = "無法執行動作";
 
-"error.intent.viewOnlyMode" = "Automations are disabled in View Only Mode.";
+"error.intent.viewOnlyMode" = "唯讀模式上無法啟用自動執行";
 
-"error.saveFailed" = "The file could not be saved.";
+"error.saveFailed" = "檔案無法儲存";
 
-"expander" = "Expander";
+"expander" = "擴大器";
 
-"experimental-settings" = "Experimental Settings";
+"experimental-settings" = "實驗性功能設定";
 
-"export-all-presets" = "Export All Presets";
+"export-all-presets" = "匯出所有預設設定";
 
-"export-presets" = "Export Presets";
+"export-presets" = "匯出預設設定";
 
-"export-streaming-xml" = "Export Streaming.xml";
+"export-streaming-xml" = "匯出 Streaming.xml";
 
 "faceid" = "Face ID";
 
 "fade-to-black" = "Fade to Black";
 
-"fader" = "Fader";
+"fader" = "推扞";
 
 "fader-bar" = "Fader Bar";
 
-"fader-gain" = "Fader Gain";
+"fader-gain" = "漸減增益";
 
 "fairlight-audio" = "Fairlight Audio";
 
-"favorite" = "Favorite";
+"favorite" = "喜愛";
 
-"feature-not-available" = "Feature not available on this switcher.";
+"feature-not-available" = "此控制器並不提供本功能";
 
-"feedback" = "Feedback";
+"feedback" = "意見提供";
 
-"filename" = "Filename";
+"filename" = "檔案名稱";
 
-"fill" = "Fill";
+"fill" = "填充";
 
-"fill-source" = "Fill Source";
+"fill-source" = "填充源";
 
-"filter" = "Filter";
+"filter" = "濾鏡";
 
-"flare-suppression" = "Flare Suppression";
+"flare-suppression" = "耀斑抑制";
 
-"flip-flop" = "Flip Flop";
+"flip-flop" = "反轉";
 
 "flying-key" = "Flying Key";
 
-"flying-key-run" = "Run Flying Key";
+"flying-key-run" = "執行 Flying Key";
 
-"flying-key-run-a" = "Run To A";
+"flying-key-run-a" = "切換至 A";
 
-"flying-key-run-b" = "Run To B";
+"flying-key-run-b" = "切換至 B";
 
-"flying-key-run-full" = "Full";
+"flying-key-run-full" = "全屏";
 
-"foreground" = "Foreground";
+"foreground" = "前景";
 
 "fps" = "FPS";
 
-"frames" = "Frames";
+"frames" = "幀";
 
-"frames-delay" = "Frames Delay";
+"frames-delay" = "幀延遲";
 
-"frames-remaining" = "Frames Remaining: ";
+"frames-remaining" = "剩餘幀數: ";
 
 "free-run" = "Free Run";
 
-"frequency" = "Frequency";
+"frequency" = "頻率";
 
-"from" = "From";
+"from" = "由";
 
 "ftb" = "FTB";
 
 "full" = "Full";
 
-"gain" = "Gain";
+"gain" = "增益";
 
-"gain-reduction" = "Gain Reduction";
+"gain-reduction" = "增益降低";
 
-"gamma" = "Gamma";
+"gamma" = "伽瑪";
 
-"gate" = "Gate";
+"gate" = "閾";
 
-"gestures-and-haptics" = "Gestures and Haptics";
+"gestures-and-haptics" = "手勢及觸控";
 
-"get-shortcut" = "Get";
+"get-shortcut" = "取得";
 
-"go-to-switcher" = "Go to Switcher";
+"go-to-switcher" = "前往控制器";
 
-"greater-than" = "Greater Than";
+"greater-than" = "大於";
 
-"green" = "Green";
+"green" = "綠色";
 
-"grid" = "Grid";
+"grid" = "格線";
 
-"grid-off" = "Grid Off";
+"grid-off" = "關閉格線";
 
-"grid-on" = "Grid On";
+"grid-on" = "開啟格線";
 
 "h" = "H";
 
-"haptic-feedback" = "Haptic Feedback";
+"haptic-feedback" = "觸控反饋";
 
-"headphones" = "Headphones";
+"headphones" = "耳機";
 
-"hide-descriptions" = "Hide Descriptions";
+"hide-descriptions" = "隱藏描述";
 
 "high-detail" = "High Detail";
 
-"highlight" = "Highlight";
+"highlight" = "高亮";
 
-"highlight-by" = "Grow Highlighted Box";
+"highlight-by" = "亮起高亮箱子";
 
-"hold" = "Hold";
+"hold" = "維持";
 
-"hold-for" = "Seconds to Hold";
+"hold-for" = "維持秒數";
 
-"hour" = "Hour";
+"hour" = "時";
 
-"hours" = "Hours";
+"hours" = "時";
 
-"hue" = "Hue";
+"hue" = "色調";
 
 "hyperdeck" = "HyperDeck";
 
@@ -844,131 +844,131 @@
 
 "hz" = "Hz";
 
-"icon" = "Icon";
+"icon" = "圖示";
 
-"icons" = "Icons";
+"icons" = "圖示";
 
-"import" = "Import";
+"import" = "匯入";
 
-"import-error" = "There was an error reading the XML file as a valid Streaming.xml file.";
+"import-error" = "讀取 XML 檔為有效的 Steaming.xml 檔案時出現錯誤";
 
-"import-error-title" = "Import Failed";
+"import-error-title" = "匯入失敗";
 
-"import-export" = "Import / Export";
+"import-export" = "匯入 / 匯出";
 
-"import-presets" = "Import Presets";
+"import-presets" = "匯入預設";
 
-"import-presets-description" = "Presets with the same ID will be replaced. This operation cannot be undone.";
+"import-presets-description" = "預設檔擁有相同的ID會被取代. 此動作不能復原";
 
-"import-replace" = "Replace existing streaming services, servers, and profiles with the contents of this Streaming file?\n\nThis operation cannot be undone.";
+"import-replace" = "確定這串流檔將會取代現有串流服務，伺服器及設定檔中的所有內容?\n\n此動作不能復原";
 
-"import-replace-title" = "Import";
+"import-replace-title" = "匯入";
 
-"import-streaming-xml" = "Import Streaming.xml";
+"import-streaming-xml" = "匯入 Streaming.xml";
 
-"import-success" = "The streaming file was successfully imported into MixEffect.";
+"import-success" = "串流檔案已匯入至 MixEffect.";
 
-"import-success-title" = "Import Complete";
+"import-success-title" = "匯入完成";
 
-"index" = "Index";
+"index" = "索引";
 
 "inf" = "-INF";
 
-"inner-softness" = "Inner Soften";
+"inner-softness" = "內框柔化度";
 
-"inner-width" = "Inner Width";
+"inner-width" = "內框粗度";
 
-"input" = "Input";
+"input" = "輸入";
 
-"input-gain" = "Input Gain";
+"input-gain" = "輸入增益";
 
-"input-master-gain" = "Input Master Gain";
+"input-master-gain" = "總輸入增益";
 
-"input-settings" = "Input Settings";
+"input-settings" = "輸入設定";
 
-"input-sidetone-gain" = "Input Sidetone Gain";
+"input-sidetone-gain" = "輸入側音增益";
 
-"input-talkback-gain" = "Input Talkback Gain";
+"input-talkback-gain" = "輸入對講增益";
 
-"input1" = "Input 1";
+"input1" = "輸入 1";
 
-"input10" = "Input 10";
+"input10" = "輸入 10";
 
-"input11" = "Input 11";
+"input11" = "輸入 11";
 
-"input12" = "Input 12";
+"input12" = "輸入 12";
 
-"input13" = "Input 13";
+"input13" = "輸入 13";
 
-"input14" = "Input 14";
+"input14" = "輸入 14";
 
-"input15" = "Input 15";
+"input15" = "輸入 15";
 
-"input16" = "Input 16";
+"input16" = "輸入 16";
 
-"input17" = "Input 17";
+"input17" = "輸入 17";
 
-"input18" = "Input 18";
+"input18" = "輸入 18";
 
-"input19" = "Input 19";
+"input19" = "輸入 19";
 
-"input2" = "Input 2";
+"input2" = "輸入 2";
 
-"input20" = "Input 20";
+"input20" = "輸入 20";
 
-"input21" = "Input 21";
+"input21" = "輸入 21";
 
-"input22" = "Input 22";
+"input22" = "輸入 22";
 
-"input23" = "Input 23";
+"input23" = "輸入 23";
 
-"input24" = "Input 24";
+"input24" = "輸入 24";
 
-"input25" = "Input 25";
+"input25" = "輸入 25";
 
-"input26" = "Input 26";
+"input26" = "輸入 26";
 
-"input27" = "Input 27";
+"input27" = "輸入 27";
 
-"input28" = "Input 28";
+"input28" = "輸入 28";
 
-"input29" = "Input 29";
+"input29" = "輸入 29";
 
-"input3" = "Input 3";
+"input3" = "輸入 3";
 
-"input30" = "Input 30";
+"input30" = "輸入 30";
 
-"input31" = "Input 31";
+"input31" = "輸入 31";
 
-"input32" = "Input 32";
+"input32" = "輸入 32";
 
-"input33" = "Input 33";
+"input33" = "輸入 33";
 
-"input34" = "Input 34";
+"input34" = "輸入 34";
 
-"input35" = "Input 35";
+"input35" = "輸入 35";
 
-"input36" = "Input 36";
+"input36" = "輸入 36";
 
-"input37" = "Input 37";
+"input37" = "輸入 37";
 
-"input38" = "Input 38";
+"input38" = "輸入 38";
 
-"input39" = "Input 39";
+"input39" = "輸入 39";
 
-"input4" = "Input 4";
+"input4" = "輸入 4";
 
-"input40" = "Input 40";
+"input40" = "輸入 40";
 
-"input5" = "Input 5";
+"input5" = "輸入 5";
 
-"input6" = "Input 6";
+"input6" = "輸入 6";
 
-"input7" = "Input 7";
+"input7" = "輸入 7";
 
-"input8" = "Input 8";
+"input8" = "輸入 8";
 
-"input9" = "Input 9";
+"input9" = "輸入 9";
 
 "interpolation-cosine" = "Cosine";
 
@@ -988,19 +988,19 @@
 
 "interpolation-squared" = "Squared";
 
-"invert-key" = "Invert Key";
+"invert-key" = "反轉 Key";
 
-"invert-pattern" = "Invert Pattern";
+"invert-pattern" = "反轉模形";
 
-"ip-address" = "IP Address";
+"ip-address" = "IP 地址";
 
-"ip-address-example" = "e.g. 10.0.1.100";
+"ip-address-example" = "如 10.0.1.100";
 
-"iso-rec" = "ISO REC";
+"iso-rec" = "錄影 ISO";
 
-"iso-record-all-inputs" = "ISO Record All Inputs";
+"iso-record-all-inputs" = "錄影 ISO 所有輸入";
 
-"iso-stop" = "ISO Stop";
+"iso-stop" = "停止 ISO 錄影";
 
 "jog" = "Jog";
 
@@ -1008,199 +1008,199 @@
 
 "key %lld" = "Key %lld";
 
-"key-adjustments" = "Key Adjustments";
+"key-adjustments" = "調整 Key";
 
-"key-edge" = "Key Edge";
+"key-edge" = "Key 邊綠";
 
-"key-source" = "Key Source";
+"key-source" = "Key 來源";
 
 "keyer-type" = "Keyer Type";
 
 "keyers" = "Keyers";
 
-"keyframe" = "Keyframe";
+"keyframe" = "關鍵影格";
 
-"keyframe-interval" = "Keyframe Interval";
+"keyframe-interval" = "關鍵影格間隔";
 
 "l" = "L";
 
-"label-longname" = "Name";
+"label-longname" = "名字";
 
-"label-shortname" = "Label";
+"label-shortname" = "標籤";
 
-"labels" = "Labels";
+"labels" = "標籤";
 
-"layout" = "Layout";
+"layout" = "佈局";
 
 "layout-ipad" = "iPad";
 
-"layout-landscape" = "Landscape";
+"layout-landscape" = "横向";
 
-"layout-portrait" = "Portrait";
+"layout-portrait" = "縱向";
 
-"layout-type" = "Layout";
+"layout-type" = "佈局";
 
-"left" = "Left";
+"left" = "左";
 
-"legacy-audio-unsupported" = "Legacy Audio is currently unsupported.";
+"legacy-audio-unsupported" = "目前並不支援 Legacy Audio";
 
-"less-than" = "Less Than";
+"less-than" = "少於";
 
-"licenses" = "Licenses";
+"licenses" = "授權";
 
 "lift" = "Lift";
 
-"light-source" = "Light Source";
+"light-source" = "光源";
 
-"light-source-altitude" = "Altitude";
+"light-source-altitude" = "高度";
 
-"light-source-direction" = "Angle";
+"light-source-direction" = "角度";
 
-"limiter" = "Limiter";
+"limiter" = "限制器";
 
-"line" = "Line";
+"line" = "線";
 
-"list" = "List";
+"list" = "列表";
 
-"live-stream" = "Live Stream";
+"live-stream" = "直播";
 
-"live-stream-short" = "Stream";
+"live-stream-short" = "直播";
 
-"lock-with-faceid" = "Lock with Face ID & Passcode";
+"lock-with-faceid" = "使用 Face ID 及密碼進行鎖上功能";
 
-"lock-with-faceid-footer" = "MixEffect will be locked whenever you close the app. When you relaunch MixEffect, you will be prompted with Face ID or your device passcode.";
+"lock-with-faceid-footer" = "當你關閉 MixEffect 時將會鎖上. 當再次開啟 MixEffect 時, 你需要使用 Face ID 或裝置密碼進行解鎖";
 
-"locked" = "Locked";
+"locked" = "已鎖上";
 
-"locked-box-sources" = "Locked Box Sources";
+"locked-box-sources" = "鎖定箱來源";
 
-"luma" = "Luma";
+"luma" = "亮度";
 
-"luminance" = "Luminance";
+"luminance" = "亮度";
 
-"macro" = "Macro";
+"macro" = "巨集";
 
-"macro %lld" = "Macro %lld";
+"macro %lld" = "巨集 %lld";
 
-"macro-button-edit" = "Edit Macro";
+"macro-button-edit" = "編輯巨集";
 
-"macro-button-menu" = "Show Options";
+"macro-button-menu" = "顯示設定";
 
-"macro-button-none" = "Do Nothing";
+"macro-button-none" = "不做任何事";
 
-"macro-button-plays" = "Play Macro";
+"macro-button-plays" = "執行巨集";
 
-"macro-choose-index" = "New Macro at Index";
+"macro-choose-index" = "建立新巨集於";
 
-"macro-color" = "Macro Color";
+"macro-color" = "巨集顏色";
 
-"macro-delete" = "Delete Macro";
+"macro-delete" = "删除巨集";
 
-"macro-delete %lld" = "Delete Macro %lld";
+"macro-delete %lld" = "删除巨集 %lld";
 
-"macro-display" = "Display Macros As";
+"macro-display" = "展示巨集為";
 
-"macro-display-buttons" = "Display as Buttons";
+"macro-display-buttons" = "用按鈕型式展示";
 
-"macro-display-grid" = "Display as Grid";
+"macro-display-grid" = "用網格型式展示";
 
-"macro-display-list" = "Display as List";
+"macro-display-list" = "用列表型式展示";
 
-"macro-edit" = "Edit Macro";
+"macro-edit" = "編輯巨集";
 
-"macro-edit %lld" = "Edit Macro %lld";
+"macro-edit %lld" = "編輯巨集 %lld";
 
-"macro-icon-color" = "Icon Color";
+"macro-icon-color" = "圖示顏色";
 
-"macro-insert-pause" = "Add Pause";
+"macro-insert-pause" = "加入暫停";
 
-"macro-label" = "Label";
+"macro-label" = "標示";
 
-"macro-loop" = "Loop";
+"macro-loop" = "循環";
 
-"macro-name" = "Macro Name";
+"macro-name" = "巨集名稱";
 
-"macro-new" = "New Macro";
+"macro-new" = "建立巨集";
 
-"macro-new-with-details" = "New Macro with Details";
+"macro-new-with-details" = "建立擁有詳情的巨集";
 
-"macro-pause" = "Macro Pause";
+"macro-pause" = "暫時巨集";
 
-"macro-record" = "Record Macro";
+"macro-record" = "錄製巨集";
 
-"macro-recording" = "Recording:";
+"macro-recording" = "錄製中:";
 
-"macro-recording-stop" = "Stop Recording Macro";
+"macro-recording-stop" = "停止錄製巨集";
 
-"macro-replace" = "Replace Macro";
+"macro-replace" = "取代巨集";
 
-"macro-rerecord" = "Re-record Macro";
+"macro-rerecord" = "重新錄製巨集";
 
-"macro-rerecord %lld" = "Re-record Macro %lld";
+"macro-rerecord %lld" = "重新錄製巨集 %lld";
 
-"macro-run" = "Run Macro";
+"macro-run" = "執行巨集";
 
-"macro-running" = "Running:";
+"macro-running" = "執行中:";
 
-"macro-settings" = "Macros";
+"macro-settings" = "巨集";
 
-"macro-sort" = "Sort Macros By";
+"macro-sort" = "排序巨集";
 
-"macro-sort-color" = "Sort by Color";
+"macro-sort-color" = "依顏色排序";
 
-"macro-sort-direction" = "Sort Direction";
+"macro-sort-direction" = "排序方向";
 
-"macro-sort-icon" = "Sort by Icon";
+"macro-sort-icon" = "依圖示排序";
 
-"macro-sort-index" = "Sort by Index";
+"macro-sort-index" = "依指數排序";
 
-"macro-sort-name" = "Sort by Name";
+"macro-sort-name" = "依名字排序";
 
-"macro-stop" = "Stop Macro";
+"macro-stop" = "停止巨集";
 
-"macro-text-color" = "Text Color";
+"macro-text-color" = "文字顏色";
 
-"macro-unknown" = "No Macro Defined";
+"macro-unknown" = "沒有已定義的巨集";
 
-"macro-unknown-record" = "No macro is defined for this index.";
+"macro-unknown-record" = "沒有已定義的巨集在這指數上";
 
-"macro-view-options" = "Macro View Options";
+"macro-view-options" = "巨集查詢設定";
 
-"macro-wait-for-user-input" = "Wait For User Input";
+"macro-wait-for-user-input" = "等待使用者輸入";
 
-"macro-waiting" = "Waiting:";
+"macro-waiting" = "等待中:";
 
-"macros" = "Macros";
+"macros" = "巨集";
 
 "madi" = "MADI";
 
-"mailing-list" = "MixEffect Mailing List";
+"mailing-list" = "MixEffect 郵寄列表";
 
-"make-up" = "Make Up";
+"make-up" = "補償";
 
-"make-up-gain" = "Make Up Gain";
+"make-up-gain" = "音量補償";
 
-"mask" = "Mask";
+"mask" = "遮罩";
 
-"master" = "Master";
+"master" = "主混音";
 
 "max" = "Max";
 
-"media" = "Media";
+"media" = "媒體";
 
-"media-open" = "Open Media";
+"media-open" = "開啟媒體";
 
-"media-pool" = "Media Pool";
+"media-pool" = "媒體池";
 
-"media-pool-split" = "Changing the Media Pool split will erase all clip frames in the Media Pool.\n\nThis operation cannot be undone.";
+"media-pool-split" = "更改媒體池分格將會删除所有剪輯框架\n\n此動作不能復原";
 
-"mediaplayer" = "Media Player";
+"mediaplayer" = "媒體播放器";
 
 "mediaplayer %lld" = "MP%lld";
 
-"mediaplayer-set" = "Set MP";
+"mediaplayer-set" = "設定 MP";
 
-"mediaplayers" = "Media Players";
+"mediaplayers" = "媒體播放器";
 
 "medium-detail" = "Medium Detail";
 
@@ -1212,53 +1212,53 @@
 
 "mic2" = "MIC 2";
 
-"microphone" = "Microphone";
+"microphone" = "麥克風";
 
-"microphone-plug-in-power" = "Microphone + Plug in power (normal)";
+"microphone-plug-in-power" = "麥克風 + 電源輸入(正常)";
 
-"middle-center" = "Middle Center";
+"middle-center" = "中間置中";
 
-"middle-left" = "Middle Left";
+"middle-left" = "中間靠左";
 
-"middle-right" = "Middle Right";
+"middle-right" = "中間靠右";
 
 "min" = "Min";
 
-"minimize" = "Minimize";
+"minimize" = "最小化";
 
-"minimize-by" = "Shrink Others Boxes";
+"minimize-by" = "收縮其他箱";
 
-"minimize-off-audio" = "Minimize Disabled Audio Sources";
+"minimize-off-audio" = "最小化時關閉音訊來源";
 
-"minute" = "Minute";
+"minute" = "分鐘";
 
-"minutes" = "Minutes";
+"minutes" = "分鐘";
 
-"mix" = "Mix";
+"mix" = "混合";
 
-"mix-abbreviation" = "Mix";
+"mix-abbreviation" = "混合";
 
-"mix-effects-bus" = "Mix Effects Bus";
+"mix-effects-bus" = "混合效果排";
 
-"mix-option" = "Mix Option";
+"mix-option" = "混合選項";
 
-"mix-rate" = "Mix Rate";
+"mix-rate" = "混合時長";
 
 "mixeffect %lld" = "M/E %lld";
 
-"mixeffect-helper" = "MixEffect Helper";
+"mixeffect-helper" = "MixEffect 幫助";
 
-"mixeffect-helper-description" = "Run this shortcut at the start of your MixEffect shortcuts.";
+"mixeffect-helper-description" = "在你的 MixEffect 捷徑開始時執行這捷徑";
 
 "ml" = "ML";
 
-"monitor" = "Monitor";
+"monitor" = "監察";
 
-"more" = "More";
+"more" = "更多";
 
-"more-shortcuts" = "More Shortcuts";
+"more-shortcuts" = "更多捷徑";
 
-"more-shortcuts-description" = "Get more shortcuts from MixEffect.app/shortcuts";
+"more-shortcuts-description" = "在 MixEffect.app/shortcuts 取得更多捷徑火";
 
 "mp" = "MP";
 
@@ -1272,85 +1272,85 @@
 
 "ms" = "ms";
 
-"multiview" = "Multiview";
+"multiview" = "多畫面顯示";
 
-"mute" = "Mute";
+"mute" = "靜音";
 
 "mv" = "MV";
 
 "mv %lld" = "MV %lld";
 
-"mv-all-small" = "All Small";
+"mv-all-small" = "全部為小";
 
-"mv-bottom-left-program" = "Bottom Left Program";
+"mv-bottom-left-program" = "左下方節目";
 
-"mv-bottom-left-small" = "Bottom Left Small";
+"mv-bottom-left-small" = "左下方為小";
 
-"mv-bottom-right-program" = "Bottom Right Program (Unsupported)";
+"mv-bottom-right-program" = "右下方節目 (未支援)";
 
-"mv-bottom-right-small" = "Bottom Right Small";
+"mv-bottom-right-small" = "右下方為小";
 
-"mv-default" = "Default";
+"mv-default" = "預設";
 
-"mv-program-bottom" = "Program Bottom";
+"mv-program-bottom" = "節目設於底部";
 
-"mv-program-left" = "Program Left";
+"mv-program-left" = "節目設於左方";
 
-"mv-program-right" = "Program Right";
+"mv-program-right" = "節目設於右方";
 
-"mv-program-top" = "Program Top";
+"mv-program-top" = "節目設於上方";
 
-"mv-top-left-program" = "Top Left Program (Unsupported)";
+"mv-top-left-program" = "左上方節目 (未支援)";
 
-"mv-top-left-small" = "Top Left Small";
+"mv-top-left-small" = "左上為為小";
 
-"mv-top-right-program" = "Top Right Program (Unsupported)";
+"mv-top-right-program" = "右上方節目 (未支援)";
 
-"mv-top-right-small" = "Top Right Small";
+"mv-top-right-small" = "右上方為小";
 
-"name" = "Name";
+"name" = "名稱";
 
-"narrow-chroma-key-range" = "Narrow Chroma Key Range";
+"narrow-chroma-key-range" = "收窄去背合成範圍";
 
-"new-atem-switcher" = "New ATEM Switcher";
+"new-atem-switcher" = "新增 ATEM 控制器";
 
-"new-layout" = "New Layout";
+"new-layout" = "新增佈局";
 
-"new-layout-description" = "Enter a name for the new SuperSource preset layout.";
+"new-layout-description" = "輸入名稱為設定新的 SuperSource 預設佈局";
 
-"new-layout-title" = "New SuperSource Layout";
+"new-layout-title" = "新增 SuperSource 佈局";
 
-"new-page" = "New Page";
+"new-page" = "新增頁面";
 
-"new-profile" = "New Profile";
+"new-profile" = "新增增定檔";
 
-"new-server" = "New Server";
+"new-server" = "新增伺服器";
 
-"new-service" = "New Service";
+"new-service" = "新增服務";
 
-"new-simulator" = "New ATEM Simulator";
+"new-simulator" = "新增 ATEM 模擬器";
 
-"new-streaming-service" = "New Streaming Service";
+"new-streaming-service" = "新增串流服務";
 
-"new-switcher" = "New Switcher";
+"new-switcher" = "新增控制器";
 
-"next" = "Next";
+"next" = "下一個";
 
-"next-page" = "Next Page";
+"next-page" = "下一頁";
 
-"next-transition" = "Next Transition";
+"next-transition" = "下一個轉場";
 
-"no-media-selected" = "No Media Selected";
+"no-media-selected" = "未選擇媒體";
 
-"no-panels" = "No Panels Defined for This Page";
+"no-panels" = "沒有面板在此頁上定義";
 
-"none" = "None";
+"none" = "沒有";
 
-"notes" = "Notes";
+"notes" = "筆記";
 
-"off" = "Off";
+"off" = "關閉";
 
-"offset" = "Offset";
+"offset" = "補償";
 
 "ok" = "OK";
 
@@ -1364,119 +1364,119 @@
 
 "on-supersource" = "On SuperSource";
 
-"opacity" = "Opacity";
+"opacity" = "透明度";
 
-"open-supersource" = "Open SuperSource";
+"open-supersource" = "開啟 SuperSource";
 
-"operation-undone" = "This operation cannot be undone";
+"operation-undone" = "此動作不動復原";
 
 "osc" = "OSC";
 
 "osc-port" = "OSC Port";
 
-"outer-softness" = "Outer Soften";
+"outer-softness" = "外框柔化度";
 
-"outer-width" = "Outer Width";
+"outer-width" = "外框粗度";
 
-"output" = "Output";
+"output" = "輸出";
 
-"padding" = "Padding";
+"padding" = "邊距";
 
-"page-name-example" = "e.g. Default";
+"page-name-example" = "如: 預設";
 
 "pan" = "Pan";
 
 "panel-cut-auto" = "Cut / Auto";
 
-"panel-landscape-bottom" = "Landscape Bottom";
+"panel-landscape-bottom" = "橫向底部";
 
-"panel-landscape-left" = "Landscape Left";
+"panel-landscape-left" = "橫向左方";
 
-"panel-landscape-right" = "Landscape Right";
+"panel-landscape-right" = "橫向右方";
 
-"panel-landscape-top" = "Landscape Top";
+"panel-landscape-top" = "橫向上方";
 
-"panel-pad-bottom" = "iPad Bottom";
+"panel-pad-bottom" = "iPad 底部";
 
-"panel-pad-left" = "iPad Left";
+"panel-pad-left" = "iPad 左方";
 
-"panel-pad-right" = "iPad Right";
+"panel-pad-right" = "iPad 右方";
 
-"panel-pad-sidebar" = "iPad Sidebar";
+"panel-pad-sidebar" = "iPad 並行";
 
-"panel-pad-top" = "iPad Top";
+"panel-pad-top" = "iPad 上方";
 
-"panel-portrait" = "Portrait";
+"panel-portrait" = "縱向";
 
-"panel-titles" = "Show Panel Titles";
+"panel-titles" = "顯示控制板標題";
 
-"panel-type" = "Panel Type";
+"panel-type" = "控制板款項";
 
-"password" = "Password";
+"password" = "密碼";
 
-"paste" = "Paste";
+"paste" = "貼上";
 
-"paste-to-all" = "Paste to All…";
+"paste-to-all" = "全部貼上";
 
-"pattern" = "Pattern";
+"pattern" = "模式";
 
-"pattern-bottomCenterBox" = "Bottom Center Box";
+"pattern-bottomCenterBox" = "底部中間箱子";
 
-"pattern-bottomLeftBox" = "Bottom Left Box";
+"pattern-bottomLeftBox" = "底部左方箱子";
 
-"pattern-bottomRightBox" = "Bottom Right Box";
+"pattern-bottomRightBox" = "底部左右方箱子";
 
-"pattern-circleIris" = "Circle Iris";
+"pattern-circleIris" = "圓形";
 
-"pattern-cornersInFourBox" = "Corners in Four Box";
+"pattern-cornersInFourBox" = "角落四個箱子";
 
-"pattern-diamondIris" = "Diamond Iris";
+"pattern-diamondIris" = "鑽石形";
 
-"pattern-horizontalBarnDoor" = "Horizontal Barn Door";
+"pattern-horizontalBarnDoor" = "側移式滑門";
 
-"pattern-leftCenterBox" = "Left Center Box";
+"pattern-leftCenterBox" = "左方置中箱子";
 
-"pattern-leftToRightBar" = "Left to Right Bar";
+"pattern-leftToRightBar" = "左至右條紋";
 
-"pattern-rectangleIris" = "Rectangle Iris";
+"pattern-rectangleIris" = "長方形";
 
-"pattern-rightCenterBox" = "Right Center Box";
+"pattern-rightCenterBox" = "右方置中箱子";
 
-"pattern-topCenterBox" = "Top Center Box";
+"pattern-topCenterBox" = "上方置中箱子";
 
-"pattern-topLeftBox" = "Top Left Box";
+"pattern-topLeftBox" = "左上方箱子";
 
-"pattern-topLeftDiagonal" = "Top Left Diagonal";
+"pattern-topLeftDiagonal" = "左上方對角形";
 
-"pattern-topRightBox" = "Top Right Box";
+"pattern-topRightBox" = "右上方箱子";
 
-"pattern-topRightDiagonal" = "Top Right Diagonal";
+"pattern-topRightDiagonal" = "右上方對角形";
 
-"pattern-topToBottomBar" = "Top to Bottom Bar";
+"pattern-topToBottomBar" = "上至下條紋";
 
-"pattern-verticalBarnDoor" = "Vertical Barn Door";
+"pattern-verticalBarnDoor" = "垂直式滑門";
 
-"place-in" = "Place In";
+"place-in" = "擺放";
 
-"play" = "Play";
+"play" = "播放";
 
-"playback" = "Playback";
+"playback" = "回放";
 
-"playback-speed" = "Playback Speed";
+"playback-speed" = "回放速度";
 
 "port" = "Port";
 
-"position-x" = "Pos X";
+"position-x" = "X 位置";
 
-"position-y" = "Pos Y";
+"position-y" = "Y 位置";
 
-"pre-multiplied-key" = "Pre Multiplied Key";
+"pre-multiplied-key" = "背景合成";
 
-"pre-multiplied-key-enable" = "Enable Pre Multiplied";
+"pre-multiplied-key-enable" = "啟用背景合成";
 
-"pre-roll" = "Pre Roll";
+"pre-roll" = "預卷";
 
-"preset" = "Preset";
+"preset" = "預設";
 
 "preset-five-grid-crop" = "USK - Five Grid Crop";
 
@@ -1576,579 +1576,579 @@
 
 "preset-two-vertical-fill" = "Two Vertical Fill";
 
-"presets" = "Presets";
+"presets" = "預設";
 
-"preview" = "Preview";
+"preview" = "預覧";
 
-"preview-button" = "Prev";
+"preview-button" = "預覧";
 
-"preview-scale" = "Preview Scale";
+"preview-scale" = "預覧比例";
 
-"preview-transition" = "Prev Trans";
+"preview-transition" = "上一個轉場";
 
-"preview-wide" = "Preview (Wide Input)";
+"preview-wide" = "預覧 (寛輸入)";
 
-"previous" = "Previous";
+"previous" = "上一個";
 
-"previous-page" = "Previous Page";
+"previous-page" = "上一頁";
 
-"privacy-policy" = "Privacy Policy";
+"privacy-policy" = "隱私權聲明";
 
 "pro" = "Pro";
 
-"pro-about" = "Unlock the following MixEffect Pro features now or start a 30-day free trial.";
+"pro-about" = "解鎖以取得 MixEffect Pro 功能或開始 30 天免費使用";
 
-"pro-about-no-trial" = "Unlock the following MixEffect Pro features now.";
+"pro-about-no-trial" = "解鎖並取得 MixEffect Pro 功能";
 
-"pro-feature-audio" = "See and control every audio input into your ATEM switcher.";
+"pro-feature-audio" = "監察及控制所有音源輸入至 ATEM 控制器.";
 
-"pro-feature-audio-title" = "Audio";
+"pro-feature-audio-title" = "音源";
 
-"pro-feature-automation" = "Control your switcher using Siri and Shortcuts. Automatically switch inputs based on audio levels.";
+"pro-feature-automation" = "使用 Siri 及快捷鍵來控制 Atem 控制器. 基於音量自動切換視訊輸入";
 
-"pro-feature-automation-title" = "Automations";
+"pro-feature-automation-title" = "自動執行";
 
-"pro-feature-edit" = "Conveniently edit your Transitions, Downstream Keyers, Upstream Keyers, and Color Generators.";
+"pro-feature-edit" = "隨時隨地更改你的轉場, Downstream Keyers, Upstream Keyers, 及色彩產生器";
 
-"pro-feature-edit-title" = "Editing Palettes";
+"pro-feature-edit-title" = "編輯調色板";
 
-"pro-feature-general" = "Get total control of your ATEM switcher from the palm of your hand.";
+"pro-feature-general" = "在你手中擁有完全控制權, 任何地點也能控制 Atem 控制器";
 
-"pro-feature-general-title" = "ATEM Control";
+"pro-feature-general-title" = "ATEM 控制";
 
-"pro-feature-macros" = "Quickly run your macros and record new ones. Filter and sort your macros by index, name, color, or icon.";
+"pro-feature-macros" = "快速錄製或執行你的自訂巨集. 利用指標，名字，顏色或圖示進行篩選及排序";
 
-"pro-feature-macros-title" = "Macros";
+"pro-feature-macros-title" = "巨集";
 
-"pro-feature-output" = "Update your streaming destinations and recording settings.";
+"pro-feature-output" = "更改你的串流平台及所有錄影設定";
 
-"pro-feature-output-title" = "Output";
+"pro-feature-output-title" = "輸出";
 
-"pro-feature-pages" = "Create customized Switcher pages to fit your personal workflow.";
+"pro-feature-pages" = "建立屬於自己的控制器頁面, 實現工作流程一體化";
 
-"pro-feature-pages-title" = "Customization";
+"pro-feature-pages-title" = "自訂化";
 
-"pro-feature-supersource" = "Take SuperSource to the next level with presets, transition animations and box highlighting.";
+"pro-feature-supersource" = "利用預設設定，過場效果及高亮突出，將 SuperSource 帶進另一境界";
 
 "pro-feature-supersource-title" = "SuperSource";
 
 "pro-line" = "Pro Line";
 
-"profile-error-save" = "Error Saving Profile";
+"profile-error-save" = "儲存設定檔時發生錯誤";
 
-"profile-error-save-message" = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
+"profile-error-save-message" = "儲存設定檔時發生錯誤. 請確保位元速率為有效及在指範圍內";
 
-"profile-footnote" = "Note: Resolution, FPS, and Keyframe Interval settings can only be used when imported into ATEM Software Control on macOS or Windows.";
+"profile-footnote" = "注意: 解像度，FPS 及 關鍵影格間隔設定必須要在 macOS 或 Windows 上的 ATEM Software Control 上匯入才能使用";
 
-"profile-name-example" = "e.g. Streaming Medium";
+"profile-name-example" = "如: Streaming Medium";
 
-"profiles" = "Streaming Profiles";
+"profiles" = "串流設定檔";
 
-"program" = "Program";
+"program" = "節目";
 
-"program-button" = "Prog";
+"program-button" = "節目";
 
-"program-preview" = "Program / Preview";
+"program-preview" = "節目 / 預覧";
 
-"program-preview-wide" = "Program / Preview (Wide Input)";
+"program-preview-wide" = "節目 / 預覧(寛輸入)";
 
-"program-wide" = "Program (Wide Input)";
+"program-wide" = "節目(寛輸入)";
 
-"protocol-reload" = "Reconnect When Missing Procotol Detected";
+"protocol-reload" = "當找不到協議時重新連線";
 
-"protocol-reload-description" = "Automatically reconnect when an incomplete connection is detected.";
+"protocol-reload-description" = "當不完整連線發生時允許重新連線";
 
-"purchase" = "Purchase";
+"purchase" = "購買";
 
 "purchase-title" = "Go Pro";
 
-"push" = "Push";
+"push" = "推";
 
-"quality" = "Quality";
+"quality" = "質素";
 
 "r" = "R";
 
-"range" = "Range";
+"range" = "範圍";
 
-"rate" = "Rate";
+"rate" = "速率";
 
-"ratio" = "Ratio";
+"ratio" = "比例";
 
 "rca" = "RCA";
 
-"ready" = "Ready";
+"ready" = "預備";
 
 "rec" = "REC";
 
-"reconnect" = "Reconnect";
+"reconnect" = "重新連線";
 
-"reconnect-required" = "Reconnect Required";
+"reconnect-required" = "需要重新連線";
 
-"record" = "Record";
+"record" = "錄影";
 
-"record-in-all-cameras" = "Record in All Cameras";
+"record-in-all-cameras" = "錄影所有視訊";
 
-"record-stream" = "Record Stream";
+"record-stream" = "錄影直播";
 
-"record-stream-short" = "Record";
+"record-stream-short" = "錄影";
 
-"recording" = "Record Stream";
+"recording" = "錄影直播";
 
-"recording-not-available" = "Record Stream is not available.\n\nVerify that your ATEM switcher supports recording, your disk or disks are formatted properly, and that they are connected via USB-C to the switcher.";
+"recording-not-available" = "錄影直播失敗\n\n請確保你的 ATEM 控器支援影錄功能，或你的硬碟已格式化，並使用 USB-C 與控制器連接";
 
-"red" = "Red";
+"red" = "紅色";
 
-"release" = "Release";
+"release" = "釋放";
 
-"remaining" = "Remaining";
+"remaining" = "剩餘";
 
-"remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
+"remote-hyperdeck-not-available" = "無法在這 HyperDeck 上進行遠距";
 
-"remove" = "Remove";
+"remove" = "移除";
 
-"remove-all-panels" = "Remove All Panels";
+"remove-all-panels" = "移除所有控制板";
 
-"remove-all-panels-message" = "Remove all panels from the selected layout. This operation cannot be undone";
+"remove-all-panels-message" = "此動作會在已選擇的佈局上移除所有控制板. 此動作不能復原";
 
-"remove-favorite" = "Remove Favorite";
+"remove-favorite" = "移除喜愛";
 
-"remove-tags" = "Remove Tags";
+"remove-tags" = "移除標籤";
 
-"rename" = "Rename";
+"rename" = "重新命名";
 
-"repair" = "Repair";
+"repair" = "修復";
 
-"repair-supersource" = "Repair SuperSource";
+"repair-supersource" = "修復 SuperSource";
 
-"repair-supersource-alert" = "This will attempt to repair any problems with your SuperSource layouts.";
+"repair-supersource-alert" = "此動作將會嘗試修復所有 SuperSource 佈局的問題";
 
-"repeat-delay" = "Repeat Delay:";
+"repeat-delay" = "重覆延遲:";
 
-"replace" = "Replace";
+"replace" = "取代";
 
-"replace-media %lld" = "Replace Slot %lld";
+"replace-media %lld" = "取代槽 %lld";
 
-"replace-media-alert" = "This will replace the existing media in the selected slot. This operation cannot be undone.";
+"replace-media-alert" = "此動作會將已選擇的槽上取代現有的媒體. 此動作不能復原";
 
-"replace-preset" = "A SuperSource layout exists with the same name. Replace this layout?";
+"replace-preset" = "已有存在的 SuperSource 佈局名字. 取代這佈局?";
 
-"required" = "Required";
+"required" = "必須";
 
-"reset" = "Reset";
+"reset" = "重置";
 
-"reset-accent-color" = "Reset Accent Color";
+"reset-accent-color" = "重置強調色";
 
-"reset-alert" = "This will reset all MixEffect settings on this device.\n\nYour ATEM Switcher settings will be unaffected.";
+"reset-alert" = "此動作會重置所有在此裝置上的 MixEffect 設定\n\n你的 ATEM 控制器設定不會影響";
 
-"reset-all" = "Reset All";
+"reset-all" = "重置所有";
 
-"reset-contrast" = "Reset Contrast";
+"reset-contrast" = "重覆對比度";
 
-"reset-crop" = "Reset Crop";
+"reset-crop" = "重設剪裁";
 
-"reset-gain" = "Reset Gain";
+"reset-gain" = "重置增益";
 
-"reset-gamma" = "Reset Gamma";
+"reset-gamma" = "重置伽瑪";
 
-"reset-hue" = "Reset Hue";
+"reset-hue" = "重置色調";
 
-"reset-layout" = "Reset Layout";
+"reset-layout" = "重置佈局";
 
-"reset-layout %@" = "Reset %@ Layout";
+"reset-layout %@" = "重置 %@ 佈局";
 
-"reset-layout-message" = "The selected layout will be reverted back to its factory defaults. This operation cannot be undone.";
+"reset-layout-message" = "已選擇的佈局會重置至原廠設定. 此動作不能復原";
 
-"reset-lift" = "Reset Lift";
+"reset-lift" = "重置 Lift";
 
-"reset-luminance" = "Reset Luminance";
+"reset-luminance" = "重置亮度";
 
-"reset-mask" = "Reset Mask";
+"reset-mask" = "重置遮蔽";
 
-"reset-position" = "Reset Position";
+"reset-position" = "重置位置";
 
-"reset-presets" = "Reset Presets";
+"reset-presets" = "重置預置檔";
 
-"reset-presets-description" = "Delete all SuperSource presets and install the default presets? This operation cannot be undone.";
+"reset-presets-description" = "是否剩除所有 SuperSource 預設及安裝重新預設資料? 此動作不能復原";
 
-"reset-saturation" = "Reset Saturation";
+"reset-saturation" = "重置飽和度";
 
-"reset-settings" = "Reset Settings";
+"reset-settings" = "重置設定";
 
-"reset-size" = "Reset Size";
+"reset-size" = "重置尺寸";
 
-"reset-source-name" = "Reset";
+"reset-source-name" = "重置";
 
-"reset-title" = "Reset All Settings";
+"reset-title" = "重置所有設定";
 
-"reset-warnings" = "Reset Warnings";
+"reset-warnings" = "重置警告";
 
-"resolution" = "Resolution";
+"resolution" = "解像度";
 
-"restore-purchases" = "Restore Purchases";
+"restore-purchases" = "恢復內購";
 
-"reverse" = "Reverse";
+"reverse" = "反轉";
 
-"revert-to-prior-transition" = "Revert to Prior Transition";
+"revert-to-prior-transition" = "還原至上一個過場";
 
-"review" = "Rate MixEffect";
+"review" = "為 MixEffect 評分";
 
 "rgb" = "RGB";
 
-"right" = "Right";
+"right" = "右方";
 
-"rotation" = "Rotation";
+"rotation" = "旋轉";
 
-"run" = "Run";
+"run" = "移動";
 
-"run-mode" = "Run Mode";
+"run-mode" = "移動模式";
 
-"run-to" = "Run To";
+"run-to" = "移動至";
 
-"run-to-infinite" = "Run To Infinite";
+"run-to-infinite" = "移動至無限遠";
 
-"safe-areas" = "Safe Areas";
+"safe-areas" = "安全區域";
 
-"sample-shortcuts" = "Sample Shortcuts";
+"sample-shortcuts" = "快速鍵範本";
 
-"sample-size" = "Sample Size";
+"sample-size" = "範本大小";
 
-"saturation" = "Saturation";
+"saturation" = "飽和度";
 
-"save" = "Save";
+"save" = "儲存";
 
-"save-preset-icon" = "Save Preset Icon";
+"save-preset-icon" = "儲存預設圖示";
 
-"search" = "Search";
+"search" = "搜尋";
 
-"search-macros" = "Search Macros";
+"search-macros" = "搜尋巨集";
 
-"search-media" = "Search Media";
+"search-media" = "搜尋媒體";
 
-"search-presets" = "Search Presets";
+"search-presets" = "搜尋預設";
 
-"second" = "Second";
+"second" = "秒";
 
-"seconds" = "Seconds";
+"seconds" = "秒";
 
-"security" = "Security";
+"security" = "安全性";
 
-"select" = "Select";
+"select" = "選擇";
 
-"select-bus" = "Select Bus";
+"select-bus" = "選擇匯流排";
 
-"select-macro" = "Select Macro";
+"select-macro" = "選擇巨集";
 
-"server" = "Server";
+"server" = "伺服器";
 
-"server-name" = "Name";
+"server-name" = "名稱";
 
 "server-url" = "URL";
 
 "server-url-example" = "rtmps://10.0.1.150/live";
 
-"servers" = "Servers";
+"servers" = "伺服器";
 
-"service" = "Service";
+"service" = "服務";
 
-"service-name" = "Service Name";
+"service-name" = "服務名稱";
 
-"service-name-example" = "e.g. YouTube	";
+"service-name-example" = "如 YouTube	";
 
-"set" = "Set";
+"set" = "設定";
 
-"set-a" = "Set A";
+"set-a" = "設定 A";
 
-"set-all-settings" = "Set All Settings";
+"set-all-settings" = "套用所有設定";
 
-"set-b" = "Set B";
+"set-b" = "設定 B";
 
-"set-default" = "Set Default";
+"set-default" = "設定預設";
 
-"set-default-page" = "Set as Default Page";
+"set-default-page" = "設定為預設頁面";
 
-"set-grid-size" = "Set Grid Size";
+"set-grid-size" = "設定網格大小";
 
-"set-preset" = "Set Preset Layout";
+"set-preset" = "設定預設佈局";
 
-"set-threshold" = "Set Threshold";
+"set-threshold" = "設定臨界點";
 
-"set-timecode" = "Set Timecode";
+"set-timecode" = "設定時間碼";
 
-"set-timecode-device" = "Set to Device Time";
+"set-timecode-device" = "設定系統時間";
 
-"settings" = "Settings";
+"settings" = "設定";
 
-"settings-color-generators" = "Show All Color Generators";
+"settings-color-generators" = "顯示所有色彩產生器";
 
-"settings-title" = "Settings";
+"settings-title" = "設定";
 
-"shadow" = "Shadow";
+"shadow" = "陰影";
 
-"shake-to-reload" = "Shake to Reload";
+"shake-to-reload" = "晃動重新載入";
 
-"shortcut-auto" = "Auto";
+"shortcut-auto" = "自動";
 
-"shortcut-auto-phrase" = "Perform Auto Transition";
+"shortcut-auto-phrase" = "執行自動轉場";
 
-"shortcut-change-layout" = "Change Switcher Page Layout";
+"shortcut-change-layout" = "更改控制器頁面佈局";
 
-"shortcut-change-layout-phrase" = "Change Layout";
+"shortcut-change-layout-phrase" = "更改佈局";
 
-"shortcut-change-section" = "Change Switcher Section";
+"shortcut-change-section" = "更改控制器章節";
 
-"shortcut-change-section-phrase" = "Change Section";
+"shortcut-change-section-phrase" = "更改章節";
 
-"shortcut-change-transition" = "Change Transition Style";
+"shortcut-change-transition" = "更改轉場款式";
 
-"shortcut-change-transition-phrase" = "Change Transition Style to Mix";
+"shortcut-change-transition-phrase" = "更改轉場款式至混合(Mix)";
 
-"shortcut-connect" = "Connect to MixEffect";
+"shortcut-connect" = "連接 MixEffect";
 
-"shortcut-connect-description" = "Connect to one of your switchers in MixEffect.";
+"shortcut-connect-description" = "連接你的控制器至 MixEffect";
 
-"shortcut-cut" = "Cut";
+"shortcut-cut" = "硬切";
 
-"shortcut-cut-phrase" = "Perform Cut";
+"shortcut-cut-phrase" = "執行硬切";
 
-"shortcut-export-streaming" = "Export Streaming XML";
+"shortcut-export-streaming" = "匯出 Streaming XML";
 
-"shortcut-export-streaming-description" = "Export all or a subset of your streaming services.";
+"shortcut-export-streaming-description" = "匯出所有或部分串流服務資料";
 
-"shortcut-fade-to-black" = "Fade to Black";
+"shortcut-fade-to-black" = "淡入黑場";
 
-"shortcut-fade-to-black-phrase" = "Fade to Black";
+"shortcut-fade-to-black-phrase" = "淡入黑場";
 
-"shortcut-preview-transition" = "Preview Transition";
+"shortcut-preview-transition" = "預覧轉場";
 
-"shortcut-preview-transition-phrase" = "Toggle Preview Transition Mode";
+"shortcut-preview-transition-phrase" = "切換預覧轉場模式";
 
-"shortcut-run-macro" = "Run Macro";
+"shortcut-run-macro" = "執行巨集";
 
-"shortcut-run-macro-phrase" = "Run Macro";
+"shortcut-run-macro-phrase" = "執行巨集";
 
-"shortcuts" = "Shortcuts";
+"shortcuts" = "捷徑";
 
-"show-box-colors" = "Differentiate Boxes with Colors";
+"show-box-colors" = "利用顏色區分不同箱子";
 
-"show-box-controls" = "Show Box Controls";
+"show-box-controls" = "顯示箱子控制按鈕";
 
-"show-box-sources" = "Show Box Sources";
+"show-box-sources" = "顯示箱子來源";
 
-"show-color-bars" = "Show Color Bars";
+"show-color-bars" = "顯示色條";
 
-"show-descriptions" = "Show Descriptions";
+"show-descriptions" = "顯示描述";
 
-"show-indicator-recording" = "Show Recording Indicator";
+"show-indicator-recording" = "顯示錄影指標";
 
-"show-indicator-streaming" = "Show Streaming Indicator";
+"show-indicator-streaming" = "顯示串流指標";
 
-"show-timecode" = "Show Timecode";
+"show-timecode" = "顯示時間碼";
 
-"show-transition-speed-menu" = "Show Transition Speed Menu";
+"show-transition-speed-menu" = "顯示轉場速度菜單";
 
-"shutter" = "Shutter";
+"shutter" = "快門";
 
 "shuttle" = "Shuttle";
 
-"sidebar-full" = "Use Full Height Sidebar";
+"sidebar-full" = "使用全高並行";
 
-"simulator" = "Simulator";
+"simulator" = "模擬器";
 
-"simulator-description" = "Set server IP address to 127.0.0.1";
+"simulator-description" = "設定系統 IP 為 127.0.0.1";
 
-"size" = "Size";
+"size" = "尺寸";
 
-"size-and-position" = "Size and Position";
+"size-and-position" = "尺寸及位置";
 
-"size-and-position-advanced" = "Use Advanced Size and Position";
+"size-and-position-advanced" = "使用進階尺寸及位置";
 
-"size-x" = "Size X";
+"size-x" = "位置 X";
 
-"size-y" = "Size Y";
+"size-y" = "位置 Y";
 
-"softness" = "Softness";
+"softness" = "柔和度";
 
-"solo" = "Solo";
+"solo" = "獨奏";
 
-"sort-ascending" = "Sort Ascending";
+"sort-ascending" = "順序";
 
-"sort-audio-sources" = "Sort Audio Sources";
+"sort-audio-sources" = "以音源排序";
 
-"sort-descending" = "Sort Descending";
+"sort-descending" = "倒序";
 
-"source" = "Source";
+"source" = "來源";
 
-"source-labels" = "Source Labels";
+"source-labels" = "來源標籤";
 
-"speed-extra-fast" = "Extra Fast";
+"speed-extra-fast" = "非常快";
 
-"speed-extra-slow" = "Extra Slow";
+"speed-extra-slow" = "非常慢";
 
-"speed-fast" = "Fast";
+"speed-fast" = "快";
 
-"speed-instant" = "Instant";
+"speed-instant" = "立刻";
 
-"speed-normal" = "Normal";
+"speed-normal" = "正常";
 
-"speed-slow" = "Slow";
+"speed-slow" = "慢";
 
-"spill-suppression" = "Spill Suppression";
+"spill-suppression" = "復位溢出";
 
-"split-audio" = "Split Audio";
+"split-audio" = "分拆音訊";
 
 "ssrc" = "SSRC";
 
 "ssrc %lld" = "SSRC %lld";
 
-"start-trial" = "30-Day Trial";
+"start-trial" = "30日試用";
 
-"startup-state" = "Startup State";
+"startup-state" = "開啟時狀態";
 
-"startup-state-clear" = "Clear Startup State";
+"startup-state-clear" = "清除開啟時狀態";
 
-"startup-state-clear-confirm" = "Clear the current state of the ATEM switcher? This operation cannot be undone.";
+"startup-state-clear-confirm" = "清除此 ATEM 控制器開啟時的狀態? 此動作不能復原";
 
-"startup-state-save" = "Save Startup State";
+"startup-state-save" = "儲存開啟時狀態";
 
-"startup-state-save-confirm" = "The current settings will be loaded at startup of the ATEM switcher.";
+"startup-state-save-confirm" = "目前的設定將會載入至 ATEM 控制器的開啟狀態";
 
-"stereo-simulation" = "Stereo Simulation";
+"stereo-simulation" = "立體聲模擬";
 
-"sticky-current-preset" = "Sticky Current Preset";
+"sticky-current-preset" = "跟從目前預設";
 
-"still" = "Still";
+"still" = "靜態圖片";
 
-"still %lld" = "Still %lld";
+"still %lld" = "靜態圖片 %lld";
 
-"still-delete %lld" = "Delete Still %lld";
+"still-delete %lld" = "剩除靜態圖片 %lld";
 
-"still-select" = "Select Still Slot";
+"still-select" = "選擇靜態圖片";
 
-"still-upload" = "Upload Still";
+"still-upload" = "上傳靜態圖片";
 
-"still-warning" = "Uploading Stills";
+"still-warning" = "上傳靜態圖片中";
 
-"still-warning-alert" = "MixEffect will resize your image to fit your switcher's current video output mode.\n\nIn rare instances, uploading a still image from your Photo Library may cause your switcher to become unresponsive and necessitate a reboot.";
+"still-warning-alert" = "MixEffect 將會調整你的圖片以符合你的控制器目前視訊輸出模式\n\n罕見情況下，上傳靜態圖片將會導致控制器無法回應，需要進行重新開啟";
 
-"stills" = "Stills";
+"stills" = "靜態圖片";
 
-"sting" = "Sting";
+"sting" = "軌跡遮罩";
 
-"sting-abbreviation" = "Sting";
+"sting-abbreviation" = "軌跡遮罩";
 
-"stinger" = "Stinger";
+"stinger" = "軌跡遮罩";
 
-"stop" = "Stop";
+"stop" = "停止";
 
-"stopping" = "Stopping";
+"stopping" = "停止中";
 
-"store-pro-failure" = "An error occurred during purchase. Please try again";
+"store-pro-failure" = "購買時發生了錯誤，請稍後嘗試";
 
-"store-pro-failure-title" = "Purchase Error";
+"store-pro-failure-title" = "購買失敗";
 
-"store-pro-success" = "Thank you for purchasing MixEffect Pro. All features of the application have been unlocked.";
+"store-pro-success" = "感謝選購 MixEffect Pro，所有功能已全面開放";
 
-"store-pro-success-title" = "Premium Unlocked";
+"store-pro-success-title" = "高級版已開通";
 
-"store-restore-failure" = "There was an error trying to restore your purchase. Please try again later.";
+"store-restore-failure" = "回復購買狀態時發生了錯誤，請稍後嘗試";
 
-"store-restore-failure-title" = "Restore Error";
+"store-restore-failure-title" = "回復購買狀態失敗";
 
-"store-restore-none" = "No purchases to restore.";
+"store-restore-none" = "沒有已購買的狀態回復";
 
-"store-restore-none-title" = "Restore Error";
+"store-restore-none-title" = "回復失敗";
 
-"store-restore-success" = "Your purchase has been restored.";
+"store-restore-success" = "已回復你的購買狀態";
 
-"store-restore-success-title" = "Restore Success";
+"store-restore-success-title" = "回復成功";
 
-"store-tip-failure" = "An error occurred during purchase. Please try again";
+"store-tip-failure" = "購買時發生了錯誤，請稍後嘗試";
 
-"store-tip-failure-title" = "Purchase Error";
+"store-tip-failure-title" = "購買失敗";
 
-"store-tip-success" = "Your tip is greatly appreciated.";
+"store-tip-success" = "我們十分歡迎你的小費";
 
-"store-tip-success-title" = "Thank You";
+"store-tip-success-title" = "多謝支持";
 
-"store-trial-expired" = "Your trial of MixEffect Pro has expired.";
+"store-trial-expired" = "你的 MixEffect Pro 試用經已過期";
 
-"store-trial-expired-title" = "Trial Expired";
+"store-trial-expired-title" = "試用過期";
 
-"store-trial-start" = "MixEffect Pro features are now unlocked for the next 30 days.";
+"store-trial-start" = "MixEffect Pro 提供30天功能試用";
 
-"store-trial-start-title" = "Trial Begins";
+"store-trial-start-title" = "開始試用";
 
-"stream-key" = "Stream Key";
+"stream-key" = "串流鑰匙";
 
-"streaming" = "Live Stream";
+"streaming" = "串流";
 
-"streaming-config %lld" = "Streaming Configuration %lld";
+"streaming-config %lld" = "串流設定 %lld";
 
-"streaming-high" = "Streaming High";
+"streaming-high" = "串流狀態高";
 
-"streaming-low" = "Streaming Low";
+"streaming-low" = "串流狀態低";
 
-"streaming-medium" = "Streaming Medium";
+"streaming-medium" = "串流狀態中";
 
-"streaming-quality-default" = "Default Profile";
+"streaming-quality-default" = "預設設定檔";
 
-"streaming-servers" = "Streaming Servers";
+"streaming-servers" = "串流伺服器";
 
-"streaming-service" = "Streaming Service";
+"streaming-service" = "串流服務";
 
-"streaming-services" = "Streaming Services";
+"streaming-services" = "串流服務";
 
-"style" = "Style";
+"style" = "風格";
 
 "supersource" = "SuperSource";
 
-"supersource-action" = "SuperSource Action";
+"supersource-action" = "SuperSource 動作";
 
-"supersource-boxes" = "SuperSource Boxes";
+"supersource-boxes" = "SuperSource 箱子";
 
-"supersource-layouts" = "SuperSource Layouts";
+"supersource-layouts" = "SuperSource 佈局";
 
-"supersource-macro-pause" = "Add Pause Steps When Recording Macros";
+"supersource-macro-pause" = "錄製巨集時加入暫停步驟";
 
-"swap-boxes" = "Swap Boxes";
+"swap-boxes" = "對調箱子";
 
-"swap-program-preview" = "Swap Program Preview";
+"swap-program-preview" = "對調節目 / 預覧";
 
-"switch" = "Switch";
+"switch" = "切換";
 
-"switch-to" = "Switch To";
+"switch-to" = "換換至";
 
-"switcher" = "Switcher";
+"switcher" = "控制器";
 
-"switcher-connections" = "Switchers";
+"switcher-connections" = "控制器";
 
-"switcher-could-not-connect" = "Could Not Connect to Switcher";
+"switcher-could-not-connect" = "無法連接至控制器";
 
-"switcher-name-example" = "e.g. My ATEM Mini Pro";
+"switcher-name-example" = "如: ATEM Mini Pro";
 
-"switcher-not-connected" = "No Switcher Connected";
+"switcher-not-connected" = "沒有已連接的控制器";
 
-"switcher-options" = "Switcher Options";
+"switcher-options" = "控制器選項";
 
-"switcher-reconnecting" = "Reconnecting to Switcher";
+"switcher-reconnecting" = "重新連接控制器";
 
-"switcher-settings" = "Switcher Settings";
+"switcher-settings" = "控制器設定";
 
-"switching-mode" = "Switching Mode";
+"switching-mode" = "切換模式";
 
-"symmetry" = "Symmetry";
+"symmetry" = "對稱";
 
-"tagline" = "Professional Control Over Your ATEM Switchers!";
+"tagline" = "專業應用程式控制你的 ATEM 控制器!";
 
-"take-the-tour" = "Take the Tour";
+"take-the-tour" = "了解功能";
 
-"telephoto" = "Telephoto";
+"telephoto" = "遠攝鏡頭";
 
-"testing" = "Testing";
+"testing" = "測試中";
 
-"threshold" = "Threshold";
+"threshold" = "臨界點";
 
-"threshold-decibels" = "Threshold (Decibels)";
+"threshold-decibels" = "臨界點 (分貝)";
 
 "thumbnail-big" = "Big (144 x 81)";
 
@@ -2164,85 +2164,85 @@
 
 "tie" = "Tie";
 
-"time-elapsed" = "Time Elapsed";
+"time-elapsed" = "已經過時間";
 
-"time-of-day" = "Time of Day";
+"time-of-day" = "日子";
 
-"time-remaining" = "Time Remaining";
+"time-remaining" = "剩餘時間";
 
-"timecode" = "Timecode";
+"timecode" = "時間碼";
 
-"timecode-generator" = "Timecode Generator";
+"timecode-generator" = "時間碼產生器";
 
-"timecode-generator-short" = "Timecode";
+"timecode-generator-short" = "時間碼";
 
-"tip-jar" = "Tip Jar";
+"tip-jar" = "小費罐";
 
-"to" = "To";
+"to" = "送至";
 
-"to-all-boxes" = "To All Boxes";
+"to-all-boxes" = "送至所有箱子";
 
-"tools" = "Tools";
+"tools" = "工具";
 
-"top" = "Top";
+"top" = "頂部";
 
-"top-center" = "Top Center";
+"top-center" = "頂部置中";
 
-"top-left" = "Top Left";
+"top-left" = "頂部靠左";
 
-"top-right" = "Top Right";
+"top-right" = "頂部靠右";
 
-"tour" = "Tour";
+"tour" = "導賞";
 
-"transition" = "Transition";
+"transition" = "過場特效";
 
-"transition-button" = "Trans";
+"transition-button" = "過場";
 
-"transition-options" = "Transition Options…";
+"transition-options" = "過場特效選項";
 
-"transition-speed" = "Transition Speed";
+"transition-speed" = "過場特效速度";
 
-"transition-style" = "Transition Style";
+"transition-style" = "過場特效效果";
 
-"transition-type" = "Transition Type";
+"transition-type" = "過場特效款式";
 
-"transitions" = "Transitions";
+"transitions" = "過場特效";
 
-"trial-expired" = "Trial Expired";
+"trial-expired" = "試用期已過";
 
-"trigger-point" = "Trigger Point";
+"trigger-point" = "觸發點";
 
 "trs" = "TRS";
 
-"try-again" = "Try Again";
+"try-again" = "再試";
 
-"turn-off" = "Turn Off";
+"turn-off" = "關閉";
 
-"turn-on" = "Turn On";
+"turn-on" = "開啟";
 
 "twitter" = "Twitter";
 
 "ukwn" = "Ukwn";
 
-"unassigned-frames" = "Unassigned Frames";
+"unassigned-frames" = "未分配幀數";
 
-"unknown" = "Unknown";
+"unknown" = "未知";
 
-"unlock-message" = "Enter your passcode to access MixEffect.";
+"unlock-message" = "輸入密碼進入 MixEffect.";
 
-"unlock-message-failed" = "Tap above to unlock MixEffect or go Home to exit.";
+"unlock-message-failed" = "點擊上方解鎖 MixEffect 或按主頁鍵離開";
 
-"unlock-mixeffect" = "Unlock MixEffect";
+"unlock-mixeffect" = "解鎖 MixEffect";
 
-"unsupported-feature" = "This feature is not supported by this switcher.";
+"unsupported-feature" = "此控制器並不支援此功能";
 
-"untitled-page" = "Untitled Page";
+"untitled-page" = "未命名分頁";
 
-"unused" = "Unused";
+"unused" = "未使用";
 
-"update-preset" = "Update Preset";
+"update-preset" = "更新預設";
 
-"upgrade-to-pro" = "Get MixEffect Pro";
+"upgrade-to-pro" = "取得 MixEffect Pro";
 
 "upstream-key" = "Upstream Key";
 
@@ -2250,79 +2250,79 @@
 
 "upstream-keys" = "Upstream Keys";
 
-"use-box-sources" = "Use Box Sources";
+"use-box-sources" = "使用箱子來源";
 
-"use-cut-bus" = "Use Cut Bus";
+"use-cut-bus" = "使用切換排";
 
-"use-landscape-layout" = "Use Landscape Layout";
+"use-landscape-layout" = "使用橫向佈局";
 
-"use-portrait-layout" = "Use Portrait Layout";
+"use-portrait-layout" = "使用縱向佈局";
 
-"used" = "Used";
+"used" = "已使用";
 
-"user-interface" = "User Interface";
+"user-interface" = "使用者界面";
 
-"username" = "Username";
+"username" = "使用者名稱";
 
 "usk" = "USK";
 
 "usk %lld" = "USK %lld";
 
-"usk-settings" = "USK Settings";
+"usk-settings" = "USK 設定";
 
-"version-history" = "Version History";
+"version-history" = "歷史版本";
 
 "vfa" = "VFA";
 
-"video-follows-audio" = "Video Follows Audio";
+"video-follows-audio" = "視訊跟隨音訊";
 
-"video-mode" = "Video Mode";
+"video-mode" = "視訊模式";
 
-"video-mode-change" = "Changing the video mode may erase the frames in the media pool.";
+"video-mode-change" = "更改視訊模式可能會删除所有在媒體池內的幀";
 
-"video-out" = "Vid Out";
+"video-out" = "視訊輸出";
 
-"view-all" = "View All";
+"view-all" = "查看全部";
 
-"view-control" = "View Control";
+"view-control" = "視圖控制";
 
-"view-only-mode" = "Enable View Only Mode";
+"view-only-mode" = "啟用唯讀模式";
 
-"view-only-mode-activated" = "View Only Mode";
+"view-only-mode-activated" = "唯讀模式";
 
-"view-only-mode-description" = "Face ID or device passcode required to disable View Only Mode";
+"view-only-mode-description" = "需要 Face ID 或 裝置密碼解除唯讀模式";
 
-"visual-editor" = "Visual Editor";
+"visual-editor" = "可視化編輯器";
 
 "wb" = "WB";
 
-"website" = "Website";
+"website" = "網址";
 
-"welcome" = "Welcome to MixEffect";
+"welcome" = "歡迎使用 MixEffect";
 
-"welcome-tagline" = "Professional Control Over Your ATEM Switchers!";
+"welcome-tagline" = "專業應用程式控制你的 ATEM 控制器!";
 
-"when" = "When";
+"when" = "何時";
 
-"when-audio-levels" = "When Audio Levels";
+"when-audio-levels" = "當音量度";
 
-"white-balance" = "White Balance";
+"white-balance" = "白平衡";
 
-"wide" = "Wide";
+"wide" = "寛";
 
-"width" = "Width";
+"width" = "闊";
 
-"window" = "Window";
+"window" = "視窗";
 
-"windows" = "Windows";
+"windows" = "視窗";
 
-"wipe" = "Wipe";
+"wipe" = "劃像";
 
-"wipe-abbreviation" = "Wipe";
+"wipe-abbreviation" = "劃像";
 
-"with-box %lld" = "With Box %lld";
+"with-box %lld" = "有箱子 %lld";
 
-"with-transition" = "With Transition";
+"with-transition" = "有過渡";
 
 "x" = "X";
 
@@ -2330,6 +2330,6 @@
 
 "y" = "Y";
 
-"y-suppress" = "Y Suppress";
+"y-suppress" = "Y 壓制";
 
-"zoom" = "Zoom";
+"zoom" = "放大";
