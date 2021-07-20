@@ -312,6 +312,8 @@
 
 "clear" = "清空";
 
+"clear" = "清除";
+
 "clear-macro" = "清空巨集";
 
 "clear-source" = "清空來源";
@@ -389,6 +391,8 @@
 "copy" = "複製";
 
 "copy-from" = "複製盒子";
+
+"copy-url" = "複製網址";
 
 "count-selected %lld" = "已選擇預設: %lld";
 
@@ -812,6 +816,8 @@
 
 "headphones" = "耳機";
 
+"help" = "幫助";
+
 "hide-descriptions" = "隱藏描述";
 
 "high-detail" = "High Detail";
@@ -1185,6 +1191,8 @@
 "master" = "主混音";
 
 "max" = "Max";
+
+"maximize" = "最大化";
 
 "media" = "媒體";
 
@@ -1703,6 +1711,8 @@
 "remaining" = "剩餘";
 
 "remote-hyperdeck-not-available" = "無法在這 HyperDeck 上進行遠距";
+
+"remote-webview" = "遠端網絡視窗";
 
 "remove" = "移除";
 

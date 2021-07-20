@@ -390,6 +390,8 @@
 
 "copy-from" = "Kopiuj pole z";
 
+"copy-url" = "Kopiuj URL";
+
 "count-selected %lld" = "Wybrany szablon: %lld";
 
 "crop" = "Przytnij";
@@ -812,6 +814,8 @@
 
 "headphones" = "Słuchawki";
 
+"help" = "Wsparcie";
+
 "hide-descriptions" = "Ukryj opisy";
 
 "high-detail" = "Detal wysoki";
@@ -1185,6 +1189,8 @@
 "master" = "Master";
 
 "max" = "Maks";
+
+"maximize" = "Maksymalizuj";
 
 "media" = "Media";
 
@@ -1703,6 +1709,8 @@
 "remaining" = "Pozostało";
 
 "remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
+
+"remote-webview" = "Zdalny podgląd internetowy";
 
 "remove" = "Usuń";
 

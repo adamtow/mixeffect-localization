@@ -390,6 +390,8 @@
 
 "copy-from" = "Copy Box From";
 
+"copy-url" = "Copy URL";
+
 "count-selected %lld" = "Presets Selected: %lld";
 
 "crop" = "Crop";
@@ -812,6 +814,8 @@
 
 "headphones" = "Headphones";
 
+"help" = "Help";
+
 "hide-descriptions" = "Hide Descriptions";
 
 "high-detail" = "High Detail";
@@ -1185,6 +1189,8 @@
 "master" = "Master";
 
 "max" = "Max";
+
+"maximize" = "Maximize";
 
 "media" = "Media";
 
@@ -1703,6 +1709,8 @@
 "remaining" = "Remaining";
 
 "remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
+
+"remote-webview" = "Remote Webview";
 
 "remove" = "Remove";
 
