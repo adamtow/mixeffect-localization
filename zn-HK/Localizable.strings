@@ -308,11 +308,9 @@
 
 "chroma-title-helper" = "色度標題幫手";
 
-"chroma-title-helper-description" = "建立動態標題及標題字幕供 Chroma upstream keyer 使用;
+"chroma-title-helper-description" = "建立動態標題及標題字幕供 Chroma upstream keyer 使用";
 
 "clear" = "清空";
-
-"clear" = "清除";
 
 "clear-macro" = "清空巨集";
 
