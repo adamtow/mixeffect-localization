@@ -766,6 +766,8 @@
 
 "foreground" = "Foreground";
 
+"found-on-network" = "Found On Network";
+
 "fps" = "FPS";
 
 "frames" = "Frames";
@@ -2290,7 +2292,7 @@
 
 "video-out" = "Vid Out";
 
-"view-all" = "View All";
+"view-all" = "View All Presets";
 
 "view-control" = "View Control";
 

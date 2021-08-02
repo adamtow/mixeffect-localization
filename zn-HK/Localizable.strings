@@ -766,6 +766,8 @@
 
 "foreground" = "前景";
 
+"found-on-network" = "在網絡上搜索";
+
 "fps" = "FPS";
 
 "frames" = "幀";
@@ -2290,7 +2292,7 @@
 
 "video-out" = "視訊輸出";
 
-"view-all" = "查看全部";
+"view-all" = "查看全部預設";
 
 "view-control" = "視圖控制";
 

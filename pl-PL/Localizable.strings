@@ -766,6 +766,8 @@
 
 "foreground" = "Pierwszy plan";
 
+"found-on-network" = "Wykryto w sieci";
+
 "fps" = "FPS";
 
 "frames" = "klatek";
@@ -2290,7 +2292,7 @@
 
 "video-out" = "Wyjście wideo";
 
-"view-all" = "Zobacz wszystkie";
+"view-all" = "Zobacz wszystkie szablony";
 
 "view-control" = "Ustawienia widoku";
 

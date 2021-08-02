@@ -766,6 +766,8 @@
 
 "foreground" = "Vordergrund";
 
+"found-on-network" = "Im Netzwerk erkannt";
+
 "fps" = "FPS";
 
 "frames" = "Frames";
@@ -2290,7 +2292,7 @@
 
 "video-out" = "Vid Out";
 
-"view-all" = "Alle anzeigen";
+"view-all" = "Alle Voreinstellungen anzeigen";
 
 "view-control" = "View Control";
 
