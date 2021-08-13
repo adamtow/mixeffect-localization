@@ -466,6 +466,8 @@
 
 "description" = "描述";
 
+"detail" = "详情";
+
 "detail-off" = "关闭详情";
 
 "dip" = "Dip";
@@ -1065,6 +1067,8 @@
 "limiter" = "限制器";
 
 "line" = "线";
+
+"list" = "列表";
 
 "live-stream" = "直播";
 
@@ -2162,6 +2166,8 @@
 
 "thumbnail-companion" = "Companion (72 x 58)";
 
+"thumbnail-detail" = "缩略图详情";
+
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 
 "thumbnail-hd720" = "720p (1280 x 720)";
@@ -2300,6 +2306,8 @@
 
 "view-only-mode-description" = "需要人脸识别或者密码以解除只读模式";
 
+"visual-editor" = "可视化编辑器";
+
 "wb" = "WB";
 
 "website" = "网站";
@@ -2339,11 +2347,3 @@
 "y-suppress" = "Y 抑制";
 
 "zoom" = "变焦";
-
-"detail" = "";
-
-"list" = "";
-
-"thumbnail-detail" = "";
-
-"visual-editor" = "";
