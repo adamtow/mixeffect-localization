@@ -466,6 +466,8 @@
 
 "description" = "Beschreibung";
 
+"detail" = "Detail";
+
 "detail-off" = "Detail Aus";
 
 "dip" = "DIP";
@@ -2140,7 +2142,7 @@
 
 "switcher-options" = "Mischer Optionen";
 
-"switcher-reconnecting" = "Verbinung mit dem Mischer wird wiederhergestellt …";
+"switcher-reconnecting" = "Verbindung mit dem Mischer wird wiederhergestellt …";
 
 "switcher-settings" = "Mischer Einstellungen";
 
@@ -2163,6 +2165,8 @@
 "thumbnail-big" = "Groß (144 x 81)";
 
 "thumbnail-companion" = "Companion (72 x 58)";
+
+"thumbnail-detail" = "Detail (208 x 117)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 

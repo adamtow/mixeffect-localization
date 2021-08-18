@@ -466,6 +466,8 @@
 
 "description" = "描述";
 
+"detail" = "詳情";
+
 "detail-off" = "關閉詳情";
 
 "dip" = "Dip";
@@ -2163,6 +2165,8 @@
 "thumbnail-big" = "Big (144 x 81)";
 
 "thumbnail-companion" = "Companion (72 x 58)";
+
+"thumbnail-detail" = "詳情 (208 x 117)";
 
 "thumbnail-hd1080" = "1080p (1920 x 1080)";
 
