@@ -1260,6 +1260,8 @@
 
 "mixeffect-helper-description" = "Run this shortcut at the start of your MixEffect shortcuts.";
 
+"mixeffect-settings" = "MixEffect Settings";
+
 "ml" = "ML";
 
 "monitor" = "Monitor";
@@ -1296,7 +1298,7 @@
 
 "mv-bottom-left-small" = "Bottom Left Small";
 
-"mv-bottom-right-program" = "Bottom Right Program (Unsupported)";
+"mv-bottom-right-program" = "Bottom Right Program";
 
 "mv-bottom-right-small" = "Bottom Right Small";
 
@@ -1310,13 +1312,17 @@
 
 "mv-program-top" = "Program Top";
 
-"mv-top-left-program" = "Top Left Program (Unsupported)";
+"mv-top-left-program" = "Top Left Program";
 
 "mv-top-left-small" = "Top Left Small";
 
-"mv-top-right-program" = "Top Right Program (Unsupported)";
+"mv-top-left-small-bottom-right-small" = "Top Left Small Bottom Right Small";
+
+"mv-top-right-program" = "Top Right Program";
 
 "mv-top-right-small" = "Top Right Small";
+
+"mv-top-right-small-bottom-left-small" = "Top Right Small Bottom Left Small";
 
 "name" = "Name";
 
@@ -1347,6 +1353,8 @@
 "next" = "Next";
 
 "next-page" = "Next Page";
+
+"next-preset" = "Next Preset";
 
 "next-transition" = "Next Transition";
 
@@ -1602,6 +1610,10 @@
 
 "previous-page" = "Previous Page";
 
+"previous-preset" = "Previous Preset";
+
+"previous-transition" = "Previous Transition";
+
 "privacy-policy" = "Privacy Policy";
 
 "pro" = "Pro";
@@ -1832,6 +1844,8 @@
 
 "search" = "Search";
 
+"search-clear" = "Clear Search";
+
 "search-macros" = "Search Macros";
 
 "search-media" = "Search Media";
@@ -2012,6 +2026,14 @@
 
 "ssrc %lld" = "SSRC %lld";
 
+"ssrc-cycle-speed" = "Cycle Transition Speed";
+
+"ssrc-cycle-style" = "Cycle Transition Style";
+
+"ssrc-faster" = "Increase Transition Speed";
+
+"ssrc-slower" = "Decrease Transition Speed";
+
 "start-trial" = "30-Day Trial";
 
 "startup-state" = "Startup State";
@@ -2033,6 +2055,10 @@
 "still %lld" = "Still %lld";
 
 "still-delete %lld" = "Delete Still %lld";
+
+"still-next" = "Next Still";
+
+"still-previous" = "Previous Still";
 
 "still-select" = "Select Still Slot";
 

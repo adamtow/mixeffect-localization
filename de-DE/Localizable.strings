@@ -1260,6 +1260,8 @@
 
 "mixeffect-helper-description" = "Diesen Kurzbefehl beim starten der MixEffect Kurzbefehle ausführen.";
 
+"mixeffect-settings" = "MixEffect Einstellungen";
+
 "ml" = "ML";
 
 "monitor" = "Monitor";
@@ -1296,7 +1298,7 @@
 
 "mv-bottom-left-small" = "Untern Links klein";
 
-"mv-bottom-right-program" = "Programm Unten Rechts (nicht unterstüzt)";
+"mv-bottom-right-program" = "Programm Unten Rechts";
 
 "mv-bottom-right-small" = "Unten Rechts klein";
 
@@ -1310,13 +1312,17 @@
 
 "mv-program-top" = "Programm Oben";
 
-"mv-top-left-program" = "Programm Oben Links (nicht unterstüzt)";
+"mv-top-left-program" = "Programm Oben Links";
 
 "mv-top-left-small" = "Oben Links klein";
 
-"mv-top-right-program" = "Programm Oben Rechts (nicht unterstüzt)";
+"mv-top-left-small-bottom-right-small" = "Oben links klein Unten rechts klein";
+
+"mv-top-right-program" = "Programm Oben Rechts";
 
 "mv-top-right-small" = "Oben Rechts klein";
+
+"mv-top-right-small-bottom-left-small" = "Oben rechts klein Unten links klein";
 
 "name" = "Name";
 
@@ -1347,6 +1353,8 @@
 "next" = "Nächster";
 
 "next-page" = "Nächste Seite";
+
+"next-preset" = "Nächte Voreinstellung";
 
 "next-transition" = "Nächster Übergang";
 
@@ -1602,6 +1610,10 @@
 
 "previous-page" = "Vorherige Seite";
 
+"previous-preset" = "Vorherige Voreinstellung";
+
+"previous-transition" = "Vorheriger Übergang";
+
 "privacy-policy" = "Datenschutzrichtlinie";
 
 "pro" = "Pro";
@@ -1832,6 +1844,8 @@
 
 "search" = "Suchen";
 
+"search-clear" = "Suche löschen";
+
 "search-macros" = "Makro suchen";
 
 "search-media" = "Medien suchen";
@@ -2012,6 +2026,14 @@
 
 "ssrc %lld" = "SSRC %lld";
 
+"ssrc-cycle-speed" = "Takt Übergangs-Geschwindigkeit";
+
+"ssrc-cycle-style" = "Takt Übergangs-Art";
+
+"ssrc-faster" = "Übergangs-Geschwindigkeit erhöhen";
+
+"ssrc-slower" = "Übergangs-Geschwindigkeit verlangsamen";
+
 "start-trial" = "30-Tage testen";
 
 "startup-state" = "Start-Zustand";
@@ -2033,6 +2055,10 @@
 "still %lld" = "Standbild %lld";
 
 "still-delete %lld" = "Standbild %lld löschen";
+
+"still-next" = "Nächstes Standbild";
+
+"still-previous" = "Voriges Standbild";
 
 "still-select" = "Speicherplatz für Standbild auswählen";
 

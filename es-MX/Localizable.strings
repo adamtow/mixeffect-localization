@@ -2347,3 +2347,29 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
+
+"mixeffect-settings" = "MixEffect Settings";
+
+"mv-top-left-small-bottom-right-small" = "Top Left Small Bottom Right Small";
+
+"mv-top-right-small-bottom-left-small" = "Top Right Small Bottom Left Small";
+
+"next-preset" = "Next Preset";
+
+"previous-preset" = "Previous Preset";
+
+"previous-transition" = "Previous Transition";
+
+"search-clear" = "Clear Search";
+
+"ssrc-cycle-speed" = "Cycle Transition Speed";
+
+"ssrc-cycle-style" = "Cycle Transition Style";
+
+"ssrc-faster" = "Increase Transition Speed";
+
+"ssrc-slower" = "Decrease Transition Speed";
+
+"still-next" = "Next Still";
+
+"still-previous" = "Previous Still";

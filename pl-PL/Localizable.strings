@@ -1260,6 +1260,8 @@
 
 "mixeffect-helper-description" = "Uruchom ten skrót jako pierwszy ze swoich skrótków MixEffect.";
 
+"mixeffect-settings" = "Ustawienia MixEffect";
+
 "ml" = "ML";
 
 "monitor" = "Monitoruj";
@@ -1296,7 +1298,7 @@
 
 "mv-bottom-left-small" = "Lewy-dolny mały";
 
-"mv-bottom-right-program" = "Program po prawej na dole (nieaktywne)";
+"mv-bottom-right-program" = "Program po prawej na dole";
 
 "mv-bottom-right-small" = "Prawy-dolny mały";
 
@@ -1310,13 +1312,17 @@
 
 "mv-program-top" = "Program na górze";
 
-"mv-top-left-program" = "Program po lewej na górze (nieaktywne)";
+"mv-top-left-program" = "Program po lewej na górze";
 
 "mv-top-left-small" = "Lewy-górny mały";
 
-"mv-top-right-program" = "Program po prawej na górze (nieaktywne)";
+"mv-top-left-small-bottom-right-small" = "Małe lewo-góra i prawo-dół";
+
+"mv-top-right-program" = "Program po prawej na górze";
 
 "mv-top-right-small" = "Prawy-górny mały";
+
+"mv-top-right-small-bottom-left-small" = "Małe prawo-góra i lewo-dół";
 
 "name" = "Nazwa";
 
@@ -1347,6 +1353,8 @@
 "next" = "Następny";
 
 "next-page" = "Następna strona";
+
+"next-preset" = "Następny układ";
 
 "next-transition" = "Następne przejście";
 
@@ -1602,6 +1610,10 @@
 
 "previous-page" = "Poprzednia strona";
 
+"previous-preset" = "Poprzedni układ";
+
+"previous-transition" = "Poprzednie przejście";
+
 "privacy-policy" = "Polityka prywatności";
 
 "pro" = "Pro";
@@ -1832,6 +1844,8 @@
 
 "search" = "Szukaj";
 
+"search-clear" = "Wyczyść wyszukiwanie";
+
 "search-macros" = "Szukaj w makrach";
 
 "search-media" = "Wyszukuj";
@@ -2012,6 +2026,14 @@
 
 "ssrc %lld" = "SŹRD %lld";
 
+"ssrc-cycle-speed" = "Zmień czas przejścia";
+
+"ssrc-cycle-style" = "Zmień styl przejścia";
+
+"ssrc-faster" = "Przyspiesz przejście";
+
+"ssrc-slower" = "Zwolnij przejście";
+
 "start-trial" = "30-dniowy okres próbny";
 
 "startup-state" = "Stan początkowy";
@@ -2033,6 +2055,10 @@
 "still %lld" = "Obraz %lld";
 
 "still-delete %lld" = "Usuń obraz %lld";
+
+"still-next" = "Następny obraz";
+
+"still-previous" = "Poprzedni obraz";
 
 "still-select" = "Wybierz slot dla obrazu";
 

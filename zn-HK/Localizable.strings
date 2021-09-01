@@ -1260,6 +1260,8 @@
 
 "mixeffect-helper-description" = "在你的 MixEffect 捷徑開始時執行這捷徑";
 
+"mixeffect-settings" = "MixEffect 設定";
+
 "ml" = "ML";
 
 "monitor" = "監察";
@@ -1296,7 +1298,7 @@
 
 "mv-bottom-left-small" = "左下方為小";
 
-"mv-bottom-right-program" = "右下方節目 (未支援)";
+"mv-bottom-right-program" = "右下方節目";
 
 "mv-bottom-right-small" = "右下方為小";
 
@@ -1310,13 +1312,17 @@
 
 "mv-program-top" = "節目設於上方";
 
-"mv-top-left-program" = "左上方節目 (未支援)";
+"mv-top-left-program" = "左上方節目";
 
 "mv-top-left-small" = "左上為為小";
 
-"mv-top-right-program" = "右上方節目 (未支援)";
+"mv-top-left-small-bottom-right-small" = "左上方及右下方小";
+
+"mv-top-right-program" = "右上方節目";
 
 "mv-top-right-small" = "右上方為小";
+
+"mv-top-right-small-bottom-left-small" = " 右上方及左下方小";
 
 "name" = "名稱";
 
@@ -1347,6 +1353,8 @@
 "next" = "下一個";
 
 "next-page" = "下一頁";
+
+"next-preset" = "下一個預設";
 
 "next-transition" = "下一個轉場";
 
@@ -1602,6 +1610,10 @@
 
 "previous-page" = "上一頁";
 
+"previous-preset" = "上一個預設";
+
+"previous-transition" = "上一個過場";
+
 "privacy-policy" = "隱私權聲明";
 
 "pro" = "Pro";
@@ -1832,6 +1844,8 @@
 
 "search" = "搜尋";
 
+"search-clear" = "清空搜尋";
+
 "search-macros" = "搜尋巨集";
 
 "search-media" = "搜尋媒體";
@@ -2012,6 +2026,14 @@
 
 "ssrc %lld" = "SSRC %lld";
 
+"ssrc-cycle-speed" = "循環過場速度";
+
+"ssrc-cycle-style" = " 循環過場效果";
+
+"ssrc-faster" = "增快過場速度";
+
+"ssrc-slower" = "減慢過場速度";
+
 "start-trial" = "30日試用";
 
 "startup-state" = "開啟時狀態";
@@ -2033,6 +2055,10 @@
 "still %lld" = "靜態圖片 %lld";
 
 "still-delete %lld" = "剩除靜態圖片 %lld";
+
+"still-next" = "下一個靜態圖片";
+
+"still-previous" = "上 一個靜態圖片";
 
 "still-select" = "選擇靜態圖片";
 
