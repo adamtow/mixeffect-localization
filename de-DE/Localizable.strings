@@ -408,6 +408,8 @@
 
 "custom-rate" = "Benutzerdefinierte Rate …";
 
+"custom-speed" = "Individuelle Geschwindigkeit";
+
 "cut" = "CUT";
 
 "cut-supersource" = "CUT nach SuperSource";
@@ -655,6 +657,8 @@
 "enable-shadow" = "Schatten aktivieren";
 
 "enable-shortcuts" = "Short-Cuts aktivieren";
+
+"enable-supersource-macros" = "SuperSource Makros aktivieren";
 
 "enable-video-follows-audio" = "Video-folgt-Audio aktivieren";
 
@@ -1147,6 +1151,8 @@
 "macro-rerecord %lld" = "Makro %lld erneut aufzeichnen";
 
 "macro-run" = "Makro ausführen";
+
+"macro-run-exit" = "Makro im Anschluss ausführen";
 
 "macro-running" = "Wird ausgeführt:";
 
@@ -1722,6 +1728,8 @@
 
 "release" = "Freigeben";
 
+"release-notes" = "Versionshinweise";
+
 "remaining" = "Verbleibend";
 
 "remote-hyperdeck-not-available" = "Fernsteuerung für dieses HyperDeck nicht aktiv.";
@@ -1839,6 +1847,8 @@
 "saturation" = "Sättigung";
 
 "save" = "Speichern";
+
+"save-layout" = "Layout speichern";
 
 "save-preset-icon" = "Symbol für Voreinstellung speichern";
 
@@ -2291,6 +2301,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Quellen der Felder verwenden";
+
+"use-custom-speed" = "Individuelle Geschwindigkeit verwenden";
 
 "use-cut-bus" = "Cut-Bus verwenden";
 

@@ -408,6 +408,8 @@
 
 "custom-rate" = "定制速率…";
 
+"custom-speed" = "自定认速度";
+
 "cut" = "硬切";
 
 "cut-supersource" = "切换至SuperSource";
@@ -655,6 +657,8 @@
 "enable-shadow" = "启用阴影";
 
 "enable-shortcuts" = "启用快捷键";
+
+"enable-supersource-macros" = "启用SuperSource宏";
 
 "enable-video-follows-audio" = "启用视频跟随音频";
 
@@ -1147,6 +1151,8 @@
 "macro-rerecord %lld" = "重新录制宏 %lld";
 
 "macro-run" = "运行宏";
+
+"macro-run-exit" = "退出时运行宏";
 
 "macro-running" = "运行中:";
 
@@ -1722,6 +1728,8 @@
 
 "release" = "释放";
 
+"release-notes" = "发行说明";
+
 "remaining" = "剩余";
 
 "remote-hyperdeck-not-available" = "此HyperDeck远程未激活.";
@@ -1839,6 +1847,8 @@
 "saturation" = "饱和度";
 
 "save" = "保存";
+
+"save-layout" = "保存布局";
 
 "save-preset-icon" = "保存预设图标";
 
@@ -2291,6 +2301,8 @@
 "upstream-keys" = "上游键";
 
 "use-box-sources" = "使用盒子来源";
+
+"use-custom-speed" = "使用自定义速度";
 
 "use-cut-bus" = "使用切换总线";
 

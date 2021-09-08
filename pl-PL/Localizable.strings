@@ -408,6 +408,8 @@
 
 "custom-rate" = "Własny czas…";
 
+"custom-speed" = "Własna szybkość";
+
 "cut" = "Cięcie";
 
 "cut-supersource" = "Cięcie do SuperŹródła";
@@ -655,6 +657,8 @@
 "enable-shadow" = "Włącz cień";
 
 "enable-shortcuts" = "Włącz skróty";
+
+"enable-supersource-macros" = "Włącz SuperŹródła Makra";
 
 "enable-video-follows-audio" = "Włącz wideo podąża za audio (VFA)";
 
@@ -1147,6 +1151,8 @@
 "macro-rerecord %lld" = "Ponownie zarejestruj makro%lld";
 
 "macro-run" = "Uruchom makro";
+
+"macro-run-exit" = "Uruchom makro przy wyjściu";
 
 "macro-running" = "Uruchomione:";
 
@@ -1722,6 +1728,8 @@
 
 "release" = "Zwolnij";
 
+"release-notes" = "Informacje o wydaniu";
+
 "remaining" = "Pozostało";
 
 "remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
@@ -1839,6 +1847,8 @@
 "saturation" = "Nasycenie";
 
 "save" = "Zapisz";
+
+"save-layout" = "Zapisz układ";
 
 "save-preset-icon" = "Zapisz ikonę szablonu";
 
@@ -2291,6 +2301,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Przypisz źródła do pól";
+
+"use-custom-speed" = "Użyj własnej szybkości";
 
 "use-cut-bus" = "Używaj podglądu i cięć (Cut Bus)";
 

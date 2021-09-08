@@ -408,6 +408,8 @@
 
 "custom-rate" = "Custom Rate…";
 
+"custom-speed" = "Custom Speed";
+
 "cut" = "Cut";
 
 "cut-supersource" = "Cut to SuperSource";
@@ -655,6 +657,8 @@
 "enable-shadow" = "Enable Shadow";
 
 "enable-shortcuts" = "Enable Shortcuts";
+
+"enable-supersource-macros" = "Enable SuperSource Macros";
 
 "enable-video-follows-audio" = "Enable Video Follows Audio";
 
@@ -1147,6 +1151,8 @@
 "macro-rerecord %lld" = "Re-record Macro %lld";
 
 "macro-run" = "Run Macro";
+
+"macro-run-exit" = "Run Macro on Exit";
 
 "macro-running" = "Running:";
 
@@ -1722,6 +1728,8 @@
 
 "release" = "Release";
 
+"release-notes" = "Release Notes";
+
 "remaining" = "Remaining";
 
 "remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
@@ -1839,6 +1847,8 @@
 "saturation" = "Saturation";
 
 "save" = "Save";
+
+"save-layout" = "Save Layout";
 
 "save-preset-icon" = "Save Preset Icon";
 
@@ -2291,6 +2301,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Use Box Sources";
+
+"use-custom-speed" = "Use Custom Speed";
 
 "use-cut-bus" = "Use Cut Bus";
 

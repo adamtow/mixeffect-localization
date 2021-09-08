@@ -408,6 +408,8 @@
 
 "custom-rate" = "自訂速度…";
 
+"custom-speed" = "自訂速度";
+
 "cut" = "切換";
 
 "cut-supersource" = "切換至 SuperSource";
@@ -655,6 +657,8 @@
 "enable-shadow" = "啟用陰影";
 
 "enable-shortcuts" = "啟用快速鍵";
+
+"enable-supersource-macros" = "啟用 SuperSource 巨集";
 
 "enable-video-follows-audio" = "啟用影像跟從聲音";
 
@@ -1147,6 +1151,8 @@
 "macro-rerecord %lld" = "重新錄製巨集 %lld";
 
 "macro-run" = "執行巨集";
+
+"macro-run-exit" = "退出時運行宏";
 
 "macro-running" = "執行中:";
 
@@ -1722,6 +1728,8 @@
 
 "release" = "釋放";
 
+"release-notes" = "發行說明";
+
 "remaining" = "剩餘";
 
 "remote-hyperdeck-not-available" = "無法在這 HyperDeck 上進行遠距";
@@ -1839,6 +1847,8 @@
 "saturation" = "飽和度";
 
 "save" = "儲存";
+
+"save-layout" = "儲存佈局";
 
 "save-preset-icon" = "儲存預設圖示";
 
@@ -2291,6 +2301,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "使用箱子來源";
+
+"use-custom-speed" = "使用自訂速度";
 
 "use-cut-bus" = "使用切換排";
 
