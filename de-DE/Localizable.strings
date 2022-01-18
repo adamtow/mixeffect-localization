@@ -156,6 +156,8 @@
 
 "audio-meters" = "Pegelanzeigen";
 
+"audio-monitor" = "Audiomonitor";
+
 "audio-upload" = "Audio hochladen";
 
 "authentication" = "Authentifizierung";
@@ -193,6 +195,8 @@
 "balance" = "Abgleich";
 
 "band %lld" = "Band %lld";
+
+"band-shape" = "Band-Filtern";
 
 "bevel-in" = "Bevel In";
 
@@ -362,6 +366,12 @@
 
 "compact-controls" = "Vereinfachte Bedienung";
 
+"companion" = "Companion";
+
+"companion-ip" = "Companion IP Adresse";
+
+"companion-port" = "Companion Port";
+
 "compressor" = "Compressor";
 
 "connect" = "Verbinden";
@@ -472,6 +482,10 @@
 
 "detail-off" = "Detail Aus";
 
+"dim" = "Verdunkeln";
+
+"dim-level" = "Dimmstufe";
+
 "dip" = "DIP";
 
 "dip-abbreviation" = "DIP";
@@ -479,6 +493,8 @@
 "dip-source" = "DIP Quelle";
 
 "direction" = "Richtung";
+
+"disable-output-long-press" = "Langes Drücken im Ausgabe Bedienfeld  deaktivieren";
 
 "disable-sleep" = "Automatische Sperre deaktivieren";
 
@@ -636,6 +652,8 @@
 
 "enable-cascade" = "Kaskade aktivieren";
 
+"enable-companion-feedback" = "Companion Feedback aktivieren";
+
 "enable-crop" = "Beschnitt aktivieren";
 
 "enable-flying-key" = "Flying-Key aktivieren";
@@ -663,6 +681,8 @@
 "enable-video-follows-audio" = "Video-folgt-Audio aktivieren";
 
 "enable-visual-editor" = "Vorschaueditor";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "Equalizer";
 
@@ -726,6 +746,8 @@
 
 "export-all-presets" = "Alle Voreinstellungen exportieren";
 
+"export-preset" = "Voreinstellung exportieren";
+
 "export-presets" = "Voreinstellungen exportieren";
 
 "export-streaming-xml" = "Streaming.xml exportieren";
@@ -737,6 +759,8 @@
 "fader" = "Fader";
 
 "fader-bar" = "Blender";
+
+"fader-bar-vertical" = "Blender (Vertikal)";
 
 "fader-gain" = "Lautstärkepegel";
 
@@ -785,6 +809,8 @@
 "free-run" = "ungetaktet";
 
 "frequency" = "Frequenz";
+
+"frequency-range" = "Frequenzbereich";
 
 "from" = "Von";
 
@@ -901,6 +927,8 @@
 "input-sidetone-gain" = "Eingang Sidetone Gain";
 
 "input-talkback-gain" = "Eingang Talkback Gain";
+
+"input-talkback-gain-engineering" = "Eingang Engineering Talkback Gain";
 
 "input1" = "Eingang 1";
 
@@ -1044,11 +1072,11 @@
 
 "layout" = "Layout";
 
-"layout-ipad" = "iPad";
+"layout-ipad" = "Groß"; // iPad
 
-"layout-landscape" = "Querformat";
+"layout-landscape" = "Medium"; // Querformat
 
-"layout-portrait" = "Hochformat";
+"layout-portrait" = "Klein"; // Hochformat
 
 "layout-type" = "Layout";
 
@@ -1085,6 +1113,8 @@
 "locked" = "Gesperrt";
 
 "locked-box-sources" = "Verriegelte Boxen-Quellen";
+
+"low-latency" = "Geringe Wartezeit";
 
 "luma" = "Luminanz";
 
@@ -1185,6 +1215,8 @@
 "macro-waiting" = "Warten:";
 
 "macros" = "Makros";
+
+"macros-run-only" = "Nur Makros ausführen";
 
 "madi" = "MADI";
 
@@ -1293,6 +1325,10 @@
 "multiview" = "Multiview";
 
 "mute" = "Mute";
+
+"mute-talkback" = "Talkback Mute";
+
+"mute-talkback-engineering" = "Talkback Engineering Mute";
 
 "mv" = "MV";
 
@@ -1412,23 +1448,23 @@
 
 "panel-cut-auto" = "CUT / AUTO";
 
-"panel-landscape-bottom" = "Querformat Unten";
+"panel-landscape-bottom" = "Unten"; // Querformat Unten
 
-"panel-landscape-left" = "Querformat Links";
+"panel-landscape-left" = "Links"; // Querformat Links
 
-"panel-landscape-right" = "Querformat Rechts";
+"panel-landscape-right" = "Rechts"; // Querformat Rechts
 
-"panel-landscape-top" = "Querformat Oben";
+"panel-landscape-top" = "Oben"; // Querformat Oben
 
-"panel-pad-bottom" = "iPad Unten";
+"panel-pad-bottom" = "Unten"; // iPad Unten
 
-"panel-pad-left" = "iPad Links";
+"panel-pad-left" = "Links"; // iPad Links
 
-"panel-pad-right" = "iPad Rechts";
+"panel-pad-right" = "Rechts"; // iPad Rechts
 
-"panel-pad-sidebar" = "iPad Seitenleiste";
+"panel-pad-sidebar" = "Seitenleiste"; // iPad Seitenleiste
 
-"panel-pad-top" = "iPad Oben";
+"panel-pad-top" = "Oben"; // iPad Oben
 
 "panel-portrait" = "Hochformat";
 
@@ -1479,6 +1515,8 @@
 "pattern-topToBottomBar" = "Ausschnitt von Oben anch Unten";
 
 "pattern-verticalBarnDoor" = "Vertikaler Vorhang";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "Platzieren";
 
@@ -1662,6 +1700,8 @@
 
 "pro-line" = "Pro-Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "Fehler beim Speichern des Profils";
 
 "profile-error-save-message" = "Fehler beim Speichern des Profils. Stellen Sie sicher, dass alle Werte für Bit-Raten innerhab gültiger Bereiche liegen.";
@@ -1691,6 +1731,8 @@
 "purchase-title" = "Zur Pro-Version wechseln";
 
 "push" = "Push";
+
+"q-factor" = "Q-Faktor";
 
 "quality" = "Qualität";
 
@@ -1898,6 +1940,8 @@
 
 "set-b" = "B setzen";
 
+"set-box-settings" = "Box Einstellungen festlegen";
+
 "set-default" = "Standardwert setzen";
 
 "set-default-page" = "Als Standard-Seite einstellen";
@@ -1921,6 +1965,18 @@
 "shadow" = "Schatten";
 
 "shake-to-reload" = "Schütteln, um neu zu laden";
+
+"shape-band-pass" = "Bell";
+
+"shape-high-pass" = "Hochpass";
+
+"shape-high-shelf" = "High-Shelf";
+
+"shape-low-pass" = "Tiefpass";
+
+"shape-low-shelf" = "Low-Shelf";
+
+"shape-notch" = "Notch";
 
 "shortcut-auto" = "Auto";
 
@@ -2130,6 +2186,8 @@
 
 "streaming" = "Live-Stream";
 
+"streaming-bitrate-warning" = "Streaming-Qualität ist nicht eingestellt. Wählen Sie eine im Abschnitt Ausgabe aus, bevor Sie einen Stream oder eine Aufnahme starten.";
+
 "streaming-config %lld" = "Streaming-Konfiguration %lld";
 
 "streaming-high" = "Streaming Hoch";
@@ -2189,6 +2247,8 @@
 "tagline" = "Die professionelle Steuerung für deinen ATEM Mischer!";
 
 "take-the-tour" = "Jetzt kennenlernen";
+
+"talkback" = "Talkback";
 
 "telephoto" = "Teleobjektiv";
 
@@ -2306,9 +2366,9 @@
 
 "use-cut-bus" = "Cut-Bus verwenden";
 
-"use-landscape-layout" = "Querformat Layout verwenden";
+"use-landscape-layout" = "Medium Layout verwenden";
 
-"use-portrait-layout" = "Hochformat Layout verwenden";
+"use-portrait-layout" = "Klein Layout verwenden";
 
 "used" = "Alle";
 
@@ -2345,6 +2405,10 @@
 "view-only-mode-description" = "Face ID or Passwort erforderlich um 'Nur Anzeigemodus' zu deaktivieren";
 
 "visual-editor" = "Vorschau-Editor";
+
+"volume-down" = "Lautstärke runter";
+
+"volume-up" = "Lautstärke erhöhen";
 
 "wb" = "WA";
 

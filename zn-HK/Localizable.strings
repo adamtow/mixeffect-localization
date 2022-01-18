@@ -156,6 +156,8 @@
 
 "audio-meters" = "音訊儀板";
 
+"audio-monitor" = "音訊監察";
+
 "audio-upload" = "上傳音訊";
 
 "authentication" = "認證";
@@ -193,6 +195,8 @@
 "balance" = "平衡";
 
 "band %lld" = "Band %lld";
+
+"band-shape" = "頻段濾波器";
 
 "bevel-in" = "Bevel In";
 
@@ -362,6 +366,12 @@
 
 "compact-controls" = "密集控制版面";
 
+"companion" = "Companion";
+
+"companion-ip" = "Companion IP 地址";
+
+"companion-port" = "Port";
+
 "compressor" = "壓縮效果器";
 
 "connect" = "連接";
@@ -418,7 +428,7 @@
 
 "data-rate" = "Date Rate Mb/s";
 
-"db" = "db";
+"db" = "dB";
 
 "default" = "預置";
 
@@ -472,6 +482,10 @@
 
 "detail-off" = "關閉詳情";
 
+"dim" = "變暗";
+
+"dim-level" = "昏暗的水平";
+
 "dip" = "Dip";
 
 "dip-abbreviation" = "Dip";
@@ -479,6 +493,8 @@
 "dip-source" = "Dip Source";
 
 "direction" = "方向";
+
+"disable-output-long-press" = "在輸出面板中禁用長按";
 
 "disable-sleep" = "取消睡眠功能";
 
@@ -636,6 +652,8 @@
 
 "enable-cascade" = "啟用串聯";
 
+"enable-companion-feedback" = "啟用 Companion 意見提供";
+
 "enable-crop" = "啟用剪裁";
 
 "enable-flying-key" = "啟用 Flying Key";
@@ -663,6 +681,8 @@
 "enable-video-follows-audio" = "啟用影像跟從聲音";
 
 "enable-visual-editor" = "啟用視覺編輯器";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "等化器";
 
@@ -726,7 +746,9 @@
 
 "export-all-presets" = "匯出所有預設設定";
 
-"export-presets" = "匯出預設設定";
+"export-preset" = "匯出預設";
+
+"export-presets" = "匯出預設";
 
 "export-streaming-xml" = "匯出 Streaming.xml";
 
@@ -737,6 +759,8 @@
 "fader" = "推扞";
 
 "fader-bar" = "Fader Bar";
+
+"fader-bar-vertical" = "Fader Bar (垂直)";
 
 "fader-gain" = "漸減增益";
 
@@ -785,6 +809,8 @@
 "free-run" = "Free Run";
 
 "frequency" = "頻率";
+
+"frequency-range" = "的頻率範";
 
 "from" = "由";
 
@@ -901,6 +927,8 @@
 "input-sidetone-gain" = "輸入側音增益";
 
 "input-talkback-gain" = "輸入對講增益";
+
+"input-talkback-gain-engineering" = "輸入對講工程增益";
 
 "input1" = "輸入 1";
 
@@ -1044,11 +1072,11 @@
 
 "layout" = "佈局";
 
-"layout-ipad" = "iPad";
+"layout-ipad" = "最大的"; // iPad
 
-"layout-landscape" = "横向";
+"layout-landscape" = "中等"; // 横向
 
-"layout-portrait" = "縱向";
+"layout-portrait" = "小的"; // 縱向
 
 "layout-type" = "佈局";
 
@@ -1085,6 +1113,8 @@
 "locked" = "已鎖上";
 
 "locked-box-sources" = "鎖定箱來源";
+
+"low-latency" = "低延遲";
 
 "luma" = "亮度";
 
@@ -1152,7 +1182,7 @@
 
 "macro-run" = "執行巨集";
 
-"macro-run-exit" = "退出時運行宏";
+"macro-run-exit" = "離開時執行巨集";
 
 "macro-running" = "執行中:";
 
@@ -1185,6 +1215,8 @@
 "macro-waiting" = "等待中:";
 
 "macros" = "巨集";
+
+"macros-run-only" = "巨集僅運行";
 
 "madi" = "MADI";
 
@@ -1293,6 +1325,10 @@
 "multiview" = "多畫面顯示";
 
 "mute" = "靜音";
+
+"mute-talkback" = "靜音對講";
+
+"mute-talkback-engineering" = "靜音工程對講";
 
 "mv" = "MV";
 
@@ -1412,27 +1448,29 @@
 
 "panel-cut-auto" = "Cut / Auto";
 
-"panel-landscape-bottom" = "橫向底部";
+"panel-landscape-bottom" = "底部"; // 橫向底部
 
-"panel-landscape-left" = "橫向左方";
+"panel-landscape-left" = "左方"; // 橫向左方
 
-"panel-landscape-right" = "橫向右方";
+"panel-landscape-right" = "右方"; // 橫向右方
 
-"panel-landscape-top" = "橫向上方";
+"panel-landscape-top" = "上方"; // 橫向上方
 
-"panel-pad-bottom" = "iPad 底部";
+"panel-pad-bottom" = "底部"; // iPad 底部
 
-"panel-pad-left" = "iPad 左方";
+"panel-pad-left" = "左方"; // iPad 左方
 
-"panel-pad-right" = "iPad 右方";
+"panel-pad-right" = "右方"; // iPad 右方
 
-"panel-pad-sidebar" = "iPad 並行";
+"panel-pad-sidebar" = "並行"; // iPad 並行
 
-"panel-pad-top" = "iPad 上方";
+"panel-pad-top" = "上方"; // iPad 上方
 
-"panel-portrait" = "縱向";
+"panel-portrait" = "縱向"; // 縱向
 
 "panel-titles" = "顯示控制板標題";
+
+"panel-titles" = "顯示面板標題";
 
 "panel-type" = "控制板款項";
 
@@ -1479,6 +1517,8 @@
 "pattern-topToBottomBar" = "上至下條紋";
 
 "pattern-verticalBarnDoor" = "垂直式滑門";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "擺放";
 
@@ -1662,6 +1702,8 @@
 
 "pro-line" = "Pro Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "儲存設定檔時發生錯誤";
 
 "profile-error-save-message" = "儲存設定檔時發生錯誤. 請確保位元速率為有效及在指範圍內";
@@ -1691,6 +1733,8 @@
 "purchase-title" = "Go Pro";
 
 "push" = "推";
+
+"q-factor" = "品質因數";
 
 "quality" = "質素";
 
@@ -1898,6 +1942,8 @@
 
 "set-b" = "設定 B";
 
+"set-box-settings" = "設置框設置";
+
 "set-default" = "設定預設";
 
 "set-default-page" = "設定為預設頁面";
@@ -1921,6 +1967,18 @@
 "shadow" = "陰影";
 
 "shake-to-reload" = "晃動重新載入";
+
+"shape-band-pass" = "鐘型濾波器";
+
+"shape-high-pass" = "高通濾波器";
+
+"shape-high-shelf" = "高架濾波器";
+
+"shape-low-pass" = "低通濾波器";
+
+"shape-low-shelf" = "低架濾波器";
+
+"shape-notch" = "陷波濾波器";
 
 "shortcut-auto" = "自動";
 
@@ -2130,6 +2188,8 @@
 
 "streaming" = "串流";
 
+"streaming-bitrate-warning" = "流媒體質量未設置。 在開始流式傳輸或錄製之前，在“輸出”部分中選擇一個。";
+
 "streaming-config %lld" = "串流設定 %lld";
 
 "streaming-high" = "串流狀態高";
@@ -2189,6 +2249,8 @@
 "tagline" = "專業應用程式控制你的 ATEM 控制器!";
 
 "take-the-tour" = "了解功能";
+
+"talkback" = "對講";
 
 "telephoto" = "遠攝鏡頭";
 
@@ -2306,9 +2368,9 @@
 
 "use-cut-bus" = "使用切換排";
 
-"use-landscape-layout" = "使用橫向佈局";
+"use-landscape-layout" = "使用中等佈局";
 
-"use-portrait-layout" = "使用縱向佈局";
+"use-portrait-layout" = "使用小的佈局";
 
 "used" = "已使用";
 
@@ -2345,6 +2407,10 @@
 "view-only-mode-description" = "需要 Face ID 或 裝置密碼解除唯讀模式";
 
 "visual-editor" = "可視化編輯器";
+
+"volume-down" = "音量減小";
+
+"volume-up" = "提高音量";
 
 "wb" = "WB";
 

@@ -156,6 +156,8 @@
 
 "audio-meters" = "音频表";
 
+"audio-monitor" = "音频监控";
+
 "audio-upload" = "上传音频";
 
 "authentication" = "认证";
@@ -193,6 +195,8 @@
 "balance" = "平衡";
 
 "band %lld" = "Band %lld";
+
+"band-shape" = "频段滤波器";
 
 "bevel-in" = "Bevel In";
 
@@ -362,6 +366,12 @@
 
 "compact-controls" = "紧凑型控制";
 
+"companion" = "Companion";
+
+"companion-ip" = "Companion IP地址";
+
+"companion-port" = "Companion 端口";
+
 "compressor" = "压缩效果器";
 
 "connect" = "连接";
@@ -418,7 +428,7 @@
 
 "data-rate" = "数据速率Mb/s";
 
-"db" = "db";
+"db" = "dB";
 
 "default" = "默认";
 
@@ -472,6 +482,10 @@
 
 "detail-off" = "关闭详情";
 
+"dim" = "变暗";
+
+"dim-level" = "昏暗的水平";
+
 "dip" = "Dip";
 
 "dip-abbreviation" = "Dip";
@@ -479,6 +493,8 @@
 "dip-source" = "Dip Source";
 
 "direction" = "方向";
+
+"disable-output-long-press" = "在输出面板中禁用长按";
 
 "disable-sleep" = "禁止自动锁定";
 
@@ -636,6 +652,8 @@
 
 "enable-cascade" = "启用级联";
 
+"enable-companion-feedback" = "启用 Companion 意见反馈";
+
 "enable-crop" = "启用裁剪";
 
 "enable-flying-key" = "启用飞键";
@@ -663,6 +681,8 @@
 "enable-video-follows-audio" = "启用视频跟随音频";
 
 "enable-visual-editor" = "启用可视化编辑器";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "均衡器";
 
@@ -726,6 +746,8 @@
 
 "export-all-presets" = "导出所有预设";
 
+"export-preset" = "导出预设";
+
 "export-presets" = "导出预设";
 
 "export-streaming-xml" = "导出Streaming.xml文件";
@@ -737,6 +759,8 @@
 "fader" = "推子";
 
 "fader-bar" = "推子条";
+
+"fader-bar-vertical" = "推子条 (垂直)";
 
 "fader-gain" = "推子增益";
 
@@ -785,6 +809,8 @@
 "free-run" = "自由运行";
 
 "frequency" = "帧率";
+
+"frequency-range" = "的频率范";
 
 "from" = "从";
 
@@ -901,6 +927,8 @@
 "input-sidetone-gain" = "输入侧音增益";
 
 "input-talkback-gain" = "输入对讲增益";
+
+"input-talkback-gain-engineering" = "输入对讲工程增益";
 
 "input1" = "输入1";
 
@@ -1044,11 +1072,11 @@
 
 "layout" = "布局";
 
-"layout-ipad" = "iPad";
+"layout-ipad" = "大的"; // iPad
 
-"layout-landscape" = "横向";
+"layout-landscape" = "中等的"; // 横向
 
-"layout-portrait" = "纵向";
+"layout-portrait" = "小的"; // 纵向
 
 "layout-type" = "布局";
 
@@ -1085,6 +1113,8 @@
 "locked" = "已锁定";
 
 "locked-box-sources" = "锁定盒子来源";
+
+"low-latency" = "低延迟";
 
 "luma" = "亮度";
 
@@ -1185,6 +1215,8 @@
 "macro-waiting" = "等待中:";
 
 "macros" = "宏";
+
+"macros-run-only" = "巨集仅运行";
 
 "madi" = "MADI";
 
@@ -1293,6 +1325,10 @@
 "multiview" = "多画面显示";
 
 "mute" = "静音";
+
+"mute-talkback" = "静音对讲";
+
+"mute-talkback-engineering" = "静音工程对讲";
 
 "mv" = "MV";
 
@@ -1412,23 +1448,23 @@
 
 "panel-cut-auto" = "Cut / Auto";
 
-"panel-landscape-bottom" = "横向底部";
+"panel-landscape-bottom" = "底部"; // 横向底部
 
-"panel-landscape-left" = "横向左方";
+"panel-landscape-left" = "左方"; // 横向左方
 
-"panel-landscape-right" = "横向右方";
+"panel-landscape-right" = "右方"; // 横向右方
 
-"panel-landscape-top" = "横向上方";
+"panel-landscape-top" = "上方"; // 横向上方
 
-"panel-pad-bottom" = "iPad底部";
+"panel-pad-bottom" = "底部"; // iPad底部
 
-"panel-pad-left" = "iPad左方";
+"panel-pad-left" = "左方"; // iPad左方
 
-"panel-pad-right" = "iPad右方";
+"panel-pad-right" = "右方"; // iPad右方
 
-"panel-pad-sidebar" = "iPad侧边";
+"panel-pad-sidebar" = "侧边"; // iPad侧边
 
-"panel-pad-top" = "iPad上方";
+"panel-pad-top" = "上方"; // iPad上方
 
 "panel-portrait" = "纵向";
 
@@ -1479,6 +1515,8 @@
 "pattern-topToBottomBar" = "从上至下条纹";
 
 "pattern-verticalBarnDoor" = "垂直式滑门";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "放置";
 
@@ -1662,6 +1700,8 @@
 
 "pro-line" = "Pro Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "保存配置文件发生错误";
 
 "profile-error-save-message" = "保存配置文件时出错。确保比特率都是有效的并且在范围内.";
@@ -1691,6 +1731,8 @@
 "purchase-title" = "Go Pro";
 
 "push" = "推";
+
+"q-factor" = "品质因数";
 
 "quality" = "质量";
 
@@ -1898,6 +1940,8 @@
 
 "set-b" = "设置B";
 
+"set-box-settings" = "设置框设置";
+
 "set-default" = "默认设置";
 
 "set-default-page" = "设置为默认页面";
@@ -1921,6 +1965,18 @@
 "shadow" = "阴影";
 
 "shake-to-reload" = "晃动重新载入";
+
+"shape-band-pass" = "钟型滤波器";
+
+"shape-high-pass" = "高通滤波器";
+
+"shape-high-shelf" = "高架滤波器";
+
+"shape-low-pass" = "低通滤波器";
+
+"shape-low-shelf" = "低架滤波器";
+
+"shape-notch" = "陷波滤波器";
 
 "shortcut-auto" = "自动";
 
@@ -2130,6 +2186,8 @@
 
 "streaming" = "直播";
 
+"streaming-bitrate-warning" = "流媒体质量未设置。 在开始流式传输或录制之前，在“输出”部分中选择一个。";
+
 "streaming-config %lld" = "推流设置%lld";
 
 "streaming-high" = "推流高";
@@ -2189,6 +2247,8 @@
 "tagline" = "专业软件控制您的 ATEM 切换台!";
 
 "take-the-tour" = "了解功能";
+
+"talkback" = "对讲";
 
 "telephoto" = "长焦";
 
@@ -2306,9 +2366,9 @@
 
 "use-cut-bus" = "使用切换总线";
 
-"use-landscape-layout" = "使用横向布局";
+"use-landscape-layout" = "使用中等的布局";
 
-"use-portrait-layout" = "使用纵向布局";
+"use-portrait-layout" = "使用小的布局";
 
 "used" = "已使用";
 
@@ -2345,6 +2405,10 @@
 "view-only-mode-description" = "需要人脸识别或者密码以解除只读模式";
 
 "visual-editor" = "可视化编辑器";
+
+"volume-down" = "音量减小";
+
+"volume-up" = "提高音量";
 
 "wb" = "WB";
 

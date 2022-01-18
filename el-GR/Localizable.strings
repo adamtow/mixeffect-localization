@@ -156,6 +156,8 @@
 
 "audio-meters" = "Audio Meters";
 
+"audio-monitor" = "Audio Monitor";
+
 "audio-upload" = "Upload Audio";
 
 "authentication" = "Authentication";
@@ -193,6 +195,8 @@
 "balance" = "Balance";
 
 "band %lld" = "Band %lld";
+
+"band-shape" = "Band Filter";
 
 "bevel-in" = "Bevel In";
 
@@ -362,6 +366,12 @@
 
 "compact-controls" = "Compact Controls";
 
+"companion" = "Companion";
+
+"companion-ip" = "Companion IP Address";
+
+"companion-port" = "Companion Port";
+
 "compressor" = "Compressor";
 
 "connect" = "Connect";
@@ -418,7 +428,7 @@
 
 "data-rate" = "Date Rate Mb/s";
 
-"db" = "db";
+"db" = "dB";
 
 "default" = "Default";
 
@@ -472,6 +482,10 @@
 
 "detail-off" = "Detail Off";
 
+"dim" = "Dim";
+
+"dim-level" = "Dim Level";
+
 "dip" = "Dip";
 
 "dip-abbreviation" = "Dip";
@@ -479,6 +493,8 @@
 "dip-source" = "Dip Source";
 
 "direction" = "Direction";
+
+"disable-output-long-press" = "Disable Long Press in Output Panel";
 
 "disable-sleep" = "Disable Auto-Lock";
 
@@ -636,6 +652,8 @@
 
 "enable-cascade" = "Enable Cascade";
 
+"enable-companion-feedback" = "Enable Companion Feedback";
+
 "enable-crop" = "Enable Crop";
 
 "enable-flying-key" = "Enable Flying Key";
@@ -663,6 +681,8 @@
 "enable-video-follows-audio" = "Enable Video Follows Audio";
 
 "enable-visual-editor" = "Enable Visual Editor";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "Equalizer";
 
@@ -726,6 +746,8 @@
 
 "export-all-presets" = "Export All Presets";
 
+"export-preset" = "Export Preset";
+
 "export-presets" = "Export Presets";
 
 "export-streaming-xml" = "Export Streaming.xml";
@@ -737,6 +759,8 @@
 "fader" = "Fader";
 
 "fader-bar" = "Fader Bar";
+
+"fader-bar-vertical" = "Fader Bar (Vertical)";
 
 "fader-gain" = "Fader Gain";
 
@@ -785,6 +809,8 @@
 "free-run" = "Free Run";
 
 "frequency" = "Frequency";
+
+"frequency-range" = "Frequency Range";
 
 "from" = "From";
 
@@ -900,7 +926,9 @@
 
 "input-sidetone-gain" = "Input Sidetone Gain";
 
-"input-talkback-gain" = "Input Talkback Gain";
+"input-talkback-gain" = "Talkback Gain";
+
+"input-talkback-gain-engineering" = "Engineering Talkback Gain";
 
 "input1" = "Input 1";
 
@@ -1044,11 +1072,11 @@
 
 "layout" = "Layout";
 
-"layout-ipad" = "iPad";
+"layout-ipad" = "Large"; // iPad
 
-"layout-landscape" = "Landscape";
+"layout-landscape" = "Medium"; // Landscape
 
-"layout-portrait" = "Portrait";
+"layout-portrait" = "Small"; // Portrait
 
 "layout-type" = "Layout";
 
@@ -1085,6 +1113,8 @@
 "locked" = "Locked";
 
 "locked-box-sources" = "Locked Box Sources";
+
+"low-latency" = "Low Latency";
 
 "luma" = "Luma";
 
@@ -1185,6 +1215,8 @@
 "macro-waiting" = "Waiting:";
 
 "macros" = "Macros";
+
+"macros-run-only" = "Macros Run Only";
 
 "madi" = "MADI";
 
@@ -1293,6 +1325,10 @@
 "multiview" = "Multiview";
 
 "mute" = "Mute";
+
+"mute-talkback" = "Talkback Mute";
+
+"mute-talkback-engineering" = "Engineering Talkback Mute";
 
 "mv" = "MV";
 
@@ -1412,23 +1448,23 @@
 
 "panel-cut-auto" = "Cut / Auto";
 
-"panel-landscape-bottom" = "Landscape Bottom";
+"panel-landscape-bottom" = "Bottom"; // Landscape Bottom
 
-"panel-landscape-left" = "Landscape Left";
+"panel-landscape-left" = "Left"; // Landscape Left
 
-"panel-landscape-right" = "Landscape Right";
+"panel-landscape-right" = "Right"; // Landscape Right
 
-"panel-landscape-top" = "Landscape Top";
+"panel-landscape-top" = "Top"; // Landscape Top
 
-"panel-pad-bottom" = "iPad Bottom";
+"panel-pad-bottom" = "Bottom"; // iPad Bottom
 
-"panel-pad-left" = "iPad Left";
+"panel-pad-left" = "Left"; // iPad Left
 
-"panel-pad-right" = "iPad Right";
+"panel-pad-right" = "Right"; // iPad Right
 
-"panel-pad-sidebar" = "iPad Sidebar";
+"panel-pad-sidebar" = "Sidebar"; // iPad Sidebar
 
-"panel-pad-top" = "iPad Top";
+"panel-pad-top" = "Top"; // iPad Top
 
 "panel-portrait" = "Portrait";
 
@@ -1479,6 +1515,8 @@
 "pattern-topToBottomBar" = "Top to Bottom Bar";
 
 "pattern-verticalBarnDoor" = "Vertical Barn Door";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "Place In";
 
@@ -1662,6 +1700,8 @@
 
 "pro-line" = "Pro Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "Error Saving Profile";
 
 "profile-error-save-message" = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
@@ -1691,6 +1731,8 @@
 "purchase-title" = "Go Pro";
 
 "push" = "Push";
+
+"q-factor" = "Q Factor";
 
 "quality" = "Quality";
 
@@ -1898,6 +1940,8 @@
 
 "set-b" = "Set B";
 
+"set-box-settings" = "Set Box Settings";
+
 "set-default" = "Set Default";
 
 "set-default-page" = "Set as Default Page";
@@ -1921,6 +1965,18 @@
 "shadow" = "Shadow";
 
 "shake-to-reload" = "Shake to Reload";
+
+"shape-band-pass" = "Bell";
+
+"shape-high-pass" = "High Pass";
+
+"shape-high-shelf" = "High Shelf";
+
+"shape-low-pass" = "Low Pass";
+
+"shape-low-shelf" = "Low Shelf";
+
+"shape-notch" = "Notch";
 
 "shortcut-auto" = "Auto";
 
@@ -2130,6 +2186,8 @@
 
 "streaming" = "Live Stream";
 
+"streaming-bitrate-warning" = "Streaming quality is not set. Select one in the Output section before starting a stream or recording.";
+
 "streaming-config %lld" = "Streaming Configuration %lld";
 
 "streaming-high" = "Streaming High";
@@ -2189,6 +2247,8 @@
 "tagline" = "Professional Control Over Your ATEM Switchers!";
 
 "take-the-tour" = "Take the Tour";
+
+"talkback" = "Talkback";
 
 "telephoto" = "Telephoto";
 
@@ -2306,9 +2366,9 @@
 
 "use-cut-bus" = "Use Cut Bus";
 
-"use-landscape-layout" = "Use Landscape Layout";
+"use-landscape-layout" = "Use Medium Layout";
 
-"use-portrait-layout" = "Use Portrait Layout";
+"use-portrait-layout" = "Use Small Layout";
 
 "used" = "Used";
 
@@ -2345,6 +2405,10 @@
 "view-only-mode-description" = "Face ID or device passcode required to disable View Only Mode";
 
 "visual-editor" = "Visual Editor";
+
+"volume-down" = "Volume Down";
+
+"volume-up" = "Volume Up";
 
 "wb" = "WB";
 

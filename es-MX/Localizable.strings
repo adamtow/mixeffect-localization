@@ -194,6 +194,8 @@
 
 "band %lld" = "Band %lld";
 
+"band-shape" = "Band Filter";
+
 "bevel-in" = "Bevel In";
 
 "bevel-in-out" = "Bevel In Out";
@@ -362,6 +364,12 @@
 
 "compact-controls" = "Compact Controls";
 
+"companion" = "Companion";
+
+"companion-ip" = "Companion IP Address";
+
+"companion-port" = "Companion Port";
+
 "compressor" = "Compressor";
 
 "connect" = "Conectar";
@@ -408,6 +416,8 @@
 
 "custom-rate" = "Custom Rate…";
 
+"custom-speed" = "Custom Speed";
+
 "cut" = "Cortar";
 
 "cut-supersource" = "Cut to SuperSource";
@@ -416,7 +426,7 @@
 
 "data-rate" = "Date Rate Mb/s";
 
-"db" = "db";
+"db" = "dB";
 
 "default" = "Default";
 
@@ -470,6 +480,10 @@
 
 "detail-off" = "Detail Off";
 
+"dim" = "Dim";
+
+"dim-level" = "Dim Level";
+
 "dip" = "Dip";
 
 "dip-abbreviation" = "Dip";
@@ -477,6 +491,8 @@
 "dip-source" = "Dip Source";
 
 "direction" = "Direccion";
+
+"disable-output-long-press" = "Disable Long Press in Output Panel";
 
 "disable-sleep" = "Disable Auto-Lock";
 
@@ -634,6 +650,8 @@
 
 "enable-cascade" = "Enable Cascade";
 
+"enable-companion-feedback" = "Enable Companion Feedback";
+
 "enable-crop" = "Enable Crop";
 
 "enable-flying-key" = "Enable Flying Key";
@@ -656,9 +674,13 @@
 
 "enable-shortcuts" = "Enable Shortcuts";
 
+"enable-supersource-macros" = "Enable SuperSource Macros";
+
 "enable-video-follows-audio" = "Enable Video Follows Audio";
 
 "enable-visual-editor" = "Enable Visual Editor";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "Equalizer";
 
@@ -722,6 +744,8 @@
 
 "export-all-presets" = "Export All Presets";
 
+"export-preset" = "Export Preset";
+
 "export-presets" = "Export Presets";
 
 "export-streaming-xml" = "Export Streaming.xml";
@@ -733,6 +757,8 @@
 "fader" = "Fader";
 
 "fader-bar" = "Fader Bar";
+
+"fader-bar-vertical" = "Fader Bar (Vertical)";
 
 "fader-gain" = "Fader Gain";
 
@@ -781,6 +807,8 @@
 "free-run" = "Free Run";
 
 "frequency" = "Frequency";
+
+"frequency-range" = "Frequency Range";
 
 "from" = "De";
 
@@ -896,7 +924,9 @@
 
 "input-sidetone-gain" = "Input Sidetone Gain";
 
-"input-talkback-gain" = "Input Talkback Gain";
+"input-talkback-gain" = "Talkback Gain";
+
+"input-talkback-gain-engineering" = "Engineering Talkback Gain";
 
 "input1" = "Input 1";
 
@@ -1082,6 +1112,8 @@
 
 "locked-box-sources" = "Locked Box Sources";
 
+"low-latency" = "Low Latency";
+
 "luma" = "Luma";
 
 "luminance" = "Luminance";
@@ -1148,6 +1180,8 @@
 
 "macro-run" = "Run Macro";
 
+"macro-run-exit" = "Run Macro on Exit";
+
 "macro-running" = "Running:";
 
 "macro-settings" = "Macros";
@@ -1179,6 +1213,8 @@
 "macro-waiting" = "Waiting:";
 
 "macros" = "Macros";
+
+"macros-run-only" = "Macros Run Only";
 
 "madi" = "MADI";
 
@@ -1287,6 +1323,10 @@
 "multiview" = "Multiview";
 
 "mute" = "Mute";
+
+"mute-talkback" = "Talkback Mute";
+
+"mute-talkback-engineering" = "Engineering Talkback Mute";
 
 "mv" = "MV";
 
@@ -1412,17 +1452,17 @@
 
 "panel-landscape-right" = "Landscape Right";
 
-"panel-landscape-top" = "Landscape Top";
+"panel-landscape-top" = "Top"; // Landscape Top
 
 "panel-pad-bottom" = "iPad Bottom";
 
 "panel-pad-left" = "iPad Left";
 
-"panel-pad-right" = "iPad Right";
+"panel-pad-right" = "Right"; // iPad Right
 
-"panel-pad-sidebar" = "iPad Sidebar";
+"panel-pad-sidebar" = "Sidebar"; // iPad Sidebar
 
-"panel-pad-top" = "iPad Top";
+"panel-pad-top" = "Top"; // iPad Top
 
 "panel-portrait" = "Portrait";
 
@@ -1473,6 +1513,8 @@
 "pattern-topToBottomBar" = "Top to Bottom Bar";
 
 "pattern-verticalBarnDoor" = "Vertical Barn Door";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "Place In";
 
@@ -1656,6 +1698,8 @@
 
 "pro-line" = "Pro Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "Error Saving Profile";
 
 "profile-error-save-message" = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
@@ -1685,6 +1729,8 @@
 "purchase-title" = "Go Pro";
 
 "push" = "Push";
+
+"q-factor" = "Q Factor";
 
 "quality" = "Quality";
 
@@ -1721,6 +1767,8 @@
 "red" = "Red";
 
 "release" = "Release";
+
+"release-notes" = "Release Notes";
 
 "remaining" = "Remaining";
 
@@ -1840,6 +1888,8 @@
 
 "save" = "Save";
 
+"save-layout" = "Save Layout";
+
 "save-preset-icon" = "Save Preset Icon";
 
 "search" = "Search";
@@ -1854,7 +1904,7 @@
 
 "second" = "Segundo";
 
-"seconds" = "Segundos";
+"seconds" = "Seconds";
 
 "security" = "Seguridad";
 
@@ -1888,6 +1938,8 @@
 
 "set-b" = "Set B";
 
+"set-box-settings" = "Set Box Settings";
+
 "set-default" = "Set Default";
 
 "set-default-page" = "Set as Default Page";
@@ -1911,6 +1963,18 @@
 "shadow" = "Shadow";
 
 "shake-to-reload" = "Shake to Reload";
+
+"shape-band-pass" = "Bell";
+
+"shape-high-pass" = "High Pass";
+
+"shape-high-shelf" = "High Shelf";
+
+"shape-low-pass" = "Low Pass";
+
+"shape-low-shelf" = "Low Shelf";
+
+"shape-notch" = "Notch";
 
 "shortcut-auto" = "Auto";
 
@@ -2120,6 +2184,8 @@
 
 "streaming" = "Live Stream";
 
+"streaming-bitrate-warning" = "Streaming quality is not set. Select one in the Output section before starting a stream or recording.";
+
 "streaming-config %lld" = "Streaming Configuration %lld";
 
 "streaming-high" = "Streaming High";
@@ -2179,6 +2245,8 @@
 "tagline" = "Professional Control Over Your ATEM Switchers!";
 
 "take-the-tour" = "Take the Tour";
+
+"talkback" = "Talkback";
 
 "telephoto" = "Telephoto";
 
@@ -2292,11 +2360,13 @@
 
 "use-box-sources" = "Use Box Sources";
 
+"use-custom-speed" = "Use Custom Speed";
+
 "use-cut-bus" = "Use Cut Bus";
 
-"use-landscape-layout" = "Use Landscape Layout";
+"use-landscape-layout" = "Use Medium Layout";
 
-"use-portrait-layout" = "Use Portrait Layout";
+"use-portrait-layout" = "Use Small Layout";
 
 "used" = "Used";
 
@@ -2333,6 +2403,10 @@
 "view-only-mode-description" = "Face ID or device passcode required to disable View Only Mode";
 
 "visual-editor" = "Visual Editor";
+
+"volume-down" = "Volume Down";
+
+"volume-up" = "Volume Up";
 
 "wb" = "WB";
 
@@ -2373,15 +2447,3 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
-
-"custom-speed" = "";
-
-"enable-supersource-macros" = "";
-
-"macro-run-exit" = "";
-
-"release-notes" = "";
-
-"save-layout" = "";
-
-"use-custom-speed" = "";

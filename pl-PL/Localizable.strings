@@ -156,6 +156,8 @@
 
 "audio-meters" = "Poziom dźwięku";
 
+"audio-monitor" = "Monitor audio";
+
 "audio-upload" = "Wyślij audio";
 
 "authentication" = "Uwierzytelnienie";
@@ -193,6 +195,8 @@
 "balance" = "Balans";
 
 "band %lld" = "Pasmo %lld";
+
+"band-shape" = "Filtr pasmowy";
 
 "bevel-in" = "Ramka Wejście";
 
@@ -362,6 +366,12 @@
 
 "compact-controls" = "Zagęszczenie elementów";
 
+"companion" = "Companion";
+
+"companion-ip" = "Adres IP Companion";
+
+"companion-port" = "Port Companion";
+
 "compressor" = "Kompresor";
 
 "connect" = "Połącz";
@@ -418,7 +428,7 @@
 
 "data-rate" = "Prędkość wysyłania Mb/s";
 
-"db" = "db";
+"db" = "dB";
 
 "default" = "Domyślny";
 
@@ -472,6 +482,10 @@
 
 "detail-off" = "Detal wyłączony";
 
+"dim" = "Przyciemniać";
+
+"dim-level" = "Poziom przyciemnienia";
+
 "dip" = "Zanikanie";
 
 "dip-abbreviation" = "Zanik";
@@ -479,6 +493,8 @@
 "dip-source" = "Zanurz do źródła";
 
 "direction" = "Kierunek";
+
+"disable-output-long-press" = "Wyłącz długie naciśnięcie w panelu Wyjście";
 
 "disable-sleep" = "Pozostaw aktywne";
 
@@ -636,6 +652,8 @@
 
 "enable-cascade" = "Włącz kaskadę";
 
+"enable-companion-feedback" = "Włącz opinię Companion";
+
 "enable-crop" = "Włącz przycinanie";
 
 "enable-flying-key" = "Włącz klucz pływający";
@@ -663,6 +681,8 @@
 "enable-video-follows-audio" = "Włącz wideo podąża za audio (VFA)";
 
 "enable-visual-editor" = "Włącz edytor wizualny";
+
+"eng-talk" = "Eng Talk";
 
 "equalizer" = "Korektor (EQ)";
 
@@ -726,6 +746,8 @@
 
 "export-all-presets" = "Wyeksportuj wszystkie szablony";
 
+"export-preset" = "Wyeksportuj układ";
+
 "export-presets" = "Wyeksportuj szablony";
 
 "export-streaming-xml" = "Eksportuj Streaming.xml";
@@ -737,6 +759,8 @@
 "fader" = "Dźwignia";
 
 "fader-bar" = "Teownik";
+
+"fader-bar-vertical" = "Teownik (pionowo)";
 
 "fader-gain" = "Dźwignia wzmocnienia";
 
@@ -785,6 +809,8 @@
 "free-run" = "Ruch swobodny";
 
 "frequency" = "częstotliwość";
+
+"frequency-range" = "Zakres częstotliwości";
 
 "from" = "Od";
 
@@ -901,6 +927,8 @@
 "input-sidetone-gain" = "Wzmocnienie samosłyszalności";
 
 "input-talkback-gain" = "Wzmocnienie kanału zwrotnego";
+
+"input-talkback-gain-engineering" = "Wzmocnienie inżynieryjnego kanału zwrotnego";
 
 "input1" = "Wejście 1";
 
@@ -1044,11 +1072,11 @@
 
 "layout" = "Rozkład";
 
-"layout-ipad" = "iPad";
+"layout-ipad" = "Duży"; // iPad
 
-"layout-landscape" = "Poziomo";
+"layout-landscape" = "Średni"; // Poziomo
 
-"layout-portrait" = "Pionowo";
+"layout-portrait" = "Mały"; // Pionowo
 
 "layout-type" = "Układ";
 
@@ -1085,6 +1113,8 @@
 "locked" = "Zablokuj";
 
 "locked-box-sources" = "Zablokowane źródła dla pól";
+
+"low-latency" = "Małe opóźnienia";
 
 "luma" = "Luma";
 
@@ -1185,6 +1215,8 @@
 "macro-waiting" = "Czekanie:";
 
 "macros" = "Makra";
+
+"macros-run-only" = "Makra tylko do uruchamiania";
 
 "madi" = "MADI";
 
@@ -1293,6 +1325,10 @@
 "multiview" = "Widok studia (Multiview)";
 
 "mute" = "Wycisz";
+
+"mute-talkback" = "Wycisz kanału zwrotnego";
+
+"mute-talkback-engineering" = "Wycisz inżynieryjnego kanału zwrotnego";
 
 "mv" = "STDIO";
 
@@ -1412,27 +1448,29 @@
 
 "panel-cut-auto" = "Cięcie / Auto";
 
-"panel-landscape-bottom" = "Poziomo na dole";
+"panel-landscape-bottom" = "Na dole"; // Poziomo na dole
 
-"panel-landscape-left" = "Poziomo po lewej";
+"panel-landscape-left" = "Po lewej"; // Poziomo po lewej
 
-"panel-landscape-right" = "Poziomo po prawej";
+"panel-landscape-right" = "Po prawej"; // Poziomo po prawej
 
-"panel-landscape-top" = "Poziomo na górze";
+"panel-landscape-top" = "Na górze"; // Poziomo na górze
 
-"panel-pad-bottom" = "iPad na dole";
+"panel-pad-bottom" = "Na dole"; // iPad na dole
 
-"panel-pad-left" = "iPad po lewej";
+"panel-pad-left" = "Po lewej"; // iPad po lewej
 
-"panel-pad-right" = "iPad po prawej";
+"panel-pad-right" = "Po prawej"; // iPad po prawej
 
-"panel-pad-sidebar" = "iPad pasek boczny";
+"panel-pad-sidebar" = "Pasek boczny"; // iPad pasek boczny
 
-"panel-pad-top" = "iPad na górze";
+"panel-pad-top" = "Na górze"; // iPad na górze
 
-"panel-portrait" = "Pionowo";
+"panel-portrait" = "Pionowo"; // Pionowo
 
 "panel-titles" = "Pokazuj nazwy paneli";
+
+"panel-titles" = "Pokaż tytuły paneli";
 
 "panel-type" = "Typ panelu";
 
@@ -1479,6 +1517,8 @@
 "pattern-topToBottomBar" = "Pasek z góry na dół";
 
 "pattern-verticalBarnDoor" = "Pionowe wrota";
+
+"pgm-mix" = "PGM Mix";
 
 "place-in" = "Umieść w";
 
@@ -1662,6 +1702,8 @@
 
 "pro-line" = "Pro Line";
 
+"prod-talk" = "Prod Talk";
+
 "profile-error-save" = "Błąd przy zapisywaniu";
 
 "profile-error-save-message" = "Profil nie mógł zostać zapisany. Upewnij się, że częstotliwości próbkowania są właściwe i ich wartości mieszczą się w granicach.";
@@ -1691,6 +1733,8 @@
 "purchase-title" = "Kup wersję Pro";
 
 "push" = "Wypchnij";
+
+"q-factor" = "Współczynnik Q";
 
 "quality" = "Jakość";
 
@@ -1898,6 +1942,8 @@
 
 "set-b" = "Nastaw B";
 
+"set-box-settings" = "Ustaw ustawienia pudełka";
+
 "set-default" = "Ustaw domyślne";
 
 "set-default-page" = "Ustaw jako strona domyślna";
@@ -1921,6 +1967,18 @@
 "shadow" = "Cień";
 
 "shake-to-reload" = "Potrząśnij aby odświeżyć";
+
+"shape-band-pass" = "Dzwon";
+
+"shape-high-pass" = "Wysoka przepustka";
+
+"shape-high-shelf" = "High Shelf";
+
+"shape-low-pass" = "Dolnoprzepustowy";
+
+"shape-low-shelf" = "Low Shelf";
+
+"shape-notch" = "Notch";
 
 "shortcut-auto" = "Auto";
 
@@ -2130,6 +2188,8 @@
 
 "streaming" = "Strumieniowanie LIVE";
 
+"streaming-bitrate-warning" = "Jakość przesyłania strumieniowego nie jest ustawiona. Wybierz jeden w sekcji Wyjście przed rozpoczęciem transmisji lub nagrywania.";
+
 "streaming-config %lld" = "Konfiguracja strumieniowania %lld";
 
 "streaming-high" = "Wysoka jakość strumienia";
@@ -2189,6 +2249,8 @@
 "tagline" = "Profesjonalna konsoleta dla przełączników ATEM!";
 
 "take-the-tour" = "Pokaż przewodnik";
+
+"talkback" = "Kanału zwrotnego";
 
 "telephoto" = "Telefoto";
 
@@ -2306,9 +2368,9 @@
 
 "use-cut-bus" = "Używaj podglądu i cięć (Cut Bus)";
 
-"use-landscape-layout" = "Użyj układu poziomego";
+"use-landscape-layout" = "Użyj średniego układu";
 
-"use-portrait-layout" = "Użyj układu pionowego";
+"use-portrait-layout" = "Użyj małego układu";
 
 "used" = "Wszystkie";
 
@@ -2345,6 +2407,10 @@
 "view-only-mode-description" = "Wyłączenie trybu tylko do odczytu wymaga Face ID lub kodu";
 
 "visual-editor" = "Edytor wizualny";
+
+"volume-down" = "Ściszanie";
+
+"volume-up" = "Zwiększanie głośności";
 
 "wb" = "WB";
 
