@@ -78,6 +78,8 @@
 
 "advanced" = "Advanced";
 
+"advanced-settings" = "Advanced Settings";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
@@ -171,6 +173,10 @@
 "auto-supersource" = "Auto to SuperSource";
 
 "auto-video-standard" = "Auto Video Standard";
+
+"automation" = "Automation";
+
+"automation-create" = "Create Automation";
 
 "automations" = "Automations";
 
@@ -416,6 +422,8 @@
 
 "custom" = "Custom";
 
+"custom-animation" = "Custom Animation";
+
 "custom-rate" = "Custom Rate…";
 
 "custom-speed" = "Custom Speed";
@@ -531,6 +539,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "Duplicate";
+
+"duration" = "Duration";
 
 "dve" = "DVE";
 
@@ -741,8 +751,6 @@
 "error.saveFailed" = "The file could not be saved.";
 
 "expander" = "Expander";
-
-"experimental-settings" = "Experimental Settings";
 
 "export-all-presets" = "Export All Presets";
 
@@ -1013,6 +1021,12 @@
 "interpolation-cosine" = "Cosine";
 
 "interpolation-cubed" = "Cubed";
+
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
 
 "interpolation-inverse-cubed" = "Inverse Cubed";
 
@@ -1432,6 +1446,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "Arguments";
+
+"osc-path" = "OSC Path";
+
 "osc-port" = "OSC Port";
 
 "outer-softness" = "Outer Soften";
@@ -1752,6 +1770,8 @@
 
 "reconnect" = "Reconnect";
 
+"reconnect-forever" = "Unlimited Auto-Reconnect Attempts";
+
 "reconnect-required" = "Reconnect Required";
 
 "record" = "Record";
@@ -1916,6 +1936,8 @@
 
 "select-macro" = "Select Macro";
 
+"send-osc-message" = "Send OSC Message";
+
 "server" = "Server";
 
 "server-name" = "Name";
@@ -1978,6 +2000,8 @@
 
 "shape-notch" = "Notch";
 
+"shortcut" = "Shortcut";
+
 "shortcut-auto" = "Auto";
 
 "shortcut-auto-phrase" = "Perform Auto Transition";
@@ -1994,6 +2018,14 @@
 
 "shortcut-change-transition-phrase" = "Change Transition Style to Mix";
 
+"shortcut-chroma-advanced-phrase" = "Set Chroma Advanced USK";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC Set Chroma Advanced USK";
+
+"shortcut-color-generator-phrase" = "Set Color Generator";
+
+"shortcut-color-generator-phrase-osc" = "OSC Set Color Generator";
+
 "shortcut-connect" = "Connect to MixEffect";
 
 "shortcut-connect-description" = "Connect to one of your switchers in MixEffect.";
@@ -2001,6 +2033,14 @@
 "shortcut-cut" = "Cut";
 
 "shortcut-cut-phrase" = "Perform Cut";
+
+"shortcut-dsk-phrase" = "Set DSK";
+
+"shortcut-dsk-phrase-osc" = "OSC Set DSK";
+
+"shortcut-dve-phrase" = "Set DVE USK";
+
+"shortcut-dve-phrase-osc" = "OSC Set DVE USK";
 
 "shortcut-export-streaming" = "Export Streaming XML";
 
@@ -2010,6 +2050,14 @@
 
 "shortcut-fade-to-black-phrase" = "Fade to Black";
 
+"shortcut-luma-phrase" = "Set Luma USK";
+
+"shortcut-luma-phrase-osc" = "OSC Set Luma USK";
+
+"shortcut-pattern-phrase" = "Set Pattern USK";
+
+"shortcut-pattern-phrase-osc" = "OSC Set Pattern USK";
+
 "shortcut-preview-transition" = "Preview Transition";
 
 "shortcut-preview-transition-phrase" = "Toggle Preview Transition Mode";
@@ -2017,6 +2065,26 @@
 "shortcut-run-macro" = "Run Macro";
 
 "shortcut-run-macro-phrase" = "Run Macro";
+
+"shortcut-transition-dip-phrase" = "Set Dip Transition";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Set Dip Transition";
+
+"shortcut-transition-dve-phrase" = "Set DVE Transition";
+
+"shortcut-transition-dve-phrase-osc" = "OSC Set DVE Transition";
+
+"shortcut-transition-mix-phrase" = "Set Mix Transition";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Set Mix Transition";
+
+"shortcut-transition-sting-phrase" = "Set Sting Transition";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Set Sting Transition";
+
+"shortcut-transition-wipe-phrase" = "Set Wipe Transition";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Set Wipe Transition";
 
 "shortcuts" = "Shortcuts";
 
@@ -2111,6 +2179,8 @@
 "startup-state-save" = "Save Startup State";
 
 "startup-state-save-confirm" = "The current settings will be loaded at startup of the ATEM switcher.";
+
+"stereo" = "Stereo";
 
 "stereo-simulation" = "Stereo Simulation";
 
@@ -2361,6 +2431,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Use Box Sources";
+
+"use-custom-animation" = "Use Custom Animation";
 
 "use-custom-speed" = "Use Custom Speed";
 
