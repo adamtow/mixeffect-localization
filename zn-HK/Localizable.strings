@@ -78,6 +78,8 @@
 
 "advanced" = "進階";
 
+"advanced-settings" = "高級設置";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
@@ -172,7 +174,15 @@
 
 "auto-video-standard" = "自動視訊標準";
 
+"automation" = "自動化";
+
+"automation-create" = "創建自動化";
+
 "automations" = "自動執行";
+
+"automations-box %lld" = "自動執行 - 箱 %lld";
+
+"automations-preset" = "自動執行 - 預設";
 
 "aux" = "AUX";
 
@@ -416,6 +426,8 @@
 
 "custom" = "自訂";
 
+"custom-animation" = "自定義動畫";
+
 "custom-rate" = "自訂速度…";
 
 "custom-speed" = "自訂速度";
@@ -531,6 +543,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "複製";
+
+"duration" = "期間";
 
 "dve" = "DVE";
 
@@ -741,8 +755,6 @@
 "error.saveFailed" = "檔案無法儲存";
 
 "expander" = "擴大器";
-
-"experimental-settings" = "實驗性功能設定";
 
 "export-all-presets" = "匯出所有預設設定";
 
@@ -1013,6 +1025,12 @@
 "interpolation-cosine" = "Cosine";
 
 "interpolation-cubed" = "Cubed";
+
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
 
 "interpolation-inverse-cubed" = "Inverse Cubed";
 
@@ -1432,6 +1450,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "参数";
+
+"osc-path" = "OSC 路徑";
+
 "osc-port" = "OSC Port";
 
 "outer-softness" = "外框柔化度";
@@ -1754,6 +1776,8 @@
 
 "reconnect" = "重新連線";
 
+"reconnect-forever" = "無限次自動重新連接嘗試";
+
 "reconnect-required" = "需要重新連線";
 
 "record" = "錄影";
@@ -1918,6 +1942,8 @@
 
 "select-macro" = "選擇巨集";
 
+"send-osc-message" = "發送 OSC 消息";
+
 "server" = "伺服器";
 
 "server-name" = "名稱";
@@ -1980,6 +2006,8 @@
 
 "shape-notch" = "陷波濾波器";
 
+"shortcut" = "快捷指";
+
 "shortcut-auto" = "自動";
 
 "shortcut-auto-phrase" = "執行自動轉場";
@@ -1996,6 +2024,14 @@
 
 "shortcut-change-transition-phrase" = "更改轉場款式至混合(Mix)";
 
+"shortcut-chroma-advanced-phrase" = "設置色度高級";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC 設置色度高級";
+
+"shortcut-color-generator-phrase" = "設置顏色生成器";
+
+"shortcut-color-generator-phrase-osc" = "OSC 設置顏色生成器";
+
 "shortcut-connect" = "連接 MixEffect";
 
 "shortcut-connect-description" = "連接你的控制器至 MixEffect";
@@ -2003,6 +2039,16 @@
 "shortcut-cut" = "硬切";
 
 "shortcut-cut-phrase" = "執行硬切";
+
+"shortcut-dsk-phrase" = "設置 DSK";
+
+"shortcut-dsk-phrase-osc" = "OSC 設置 DSK";
+
+"shortcut-dve-phrase" = "設置 DVE USK";
+
+"shortcut-dve-phrase-osc" = "OSC 設置 DVE USK";
+
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC 設置尺寸及位置旋轉 DVE USK";
 
 "shortcut-export-streaming" = "匯出 Streaming XML";
 
@@ -2012,6 +2058,14 @@
 
 "shortcut-fade-to-black-phrase" = "淡入黑場";
 
+"shortcut-luma-phrase" = "設置亮度 USK";
+
+"shortcut-luma-phrase-osc" = "OSC 設置亮度 USK";
+
+"shortcut-pattern-phrase" = "設置模式 USK";
+
+"shortcut-pattern-phrase-osc" = "OSC 設置模式 USK";
+
 "shortcut-preview-transition" = "預覧轉場";
 
 "shortcut-preview-transition-phrase" = "切換預覧轉場模式";
@@ -2019,6 +2073,38 @@
 "shortcut-run-macro" = "執行巨集";
 
 "shortcut-run-macro-phrase" = "執行巨集";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC 為盒子設置裁剪";
+
+"shortcut-supersource-box-full-phrase" = "設置框設置";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC 設置框設置";
+
+"shortcut-supersource-box-position-phrase-osc" = "為盒子設置位置";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC 為盒子設置位置";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC 為盒子設置尺寸";
+
+"shortcut-transition-dip-phrase" = "設置傾角過渡";
+
+"shortcut-transition-dip-phrase-osc" = "OSC 設置傾角過渡";
+
+"shortcut-transition-dve-phrase" = "設置 DVE 轉換";
+
+"shortcut-transition-dve-phrase-osc" = "OSC 設置 DVE 轉換";
+
+"shortcut-transition-mix-phrase" = "設置混合過渡";
+
+"shortcut-transition-mix-phrase-osc" = "OSC 設置混合過渡";
+
+"shortcut-transition-sting-phrase" = "設置 Sting 過渡";
+
+"shortcut-transition-sting-phrase-osc" = "OSC 設置 Sting 過渡";
+
+"shortcut-transition-wipe-phrase" = "設置擦除過渡";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC 設置擦除過渡";
 
 "shortcuts" = "捷徑";
 
@@ -2113,6 +2199,8 @@
 "startup-state-save" = "儲存開啟時狀態";
 
 "startup-state-save-confirm" = "目前的設定將會載入至 ATEM 控制器的開啟狀態";
+
+"stereo" = "立體聲";
 
 "stereo-simulation" = "立體聲模擬";
 
@@ -2363,6 +2451,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "使用箱子來源";
+
+"use-custom-animation" = "使用自定義動畫";
 
 "use-custom-speed" = "使用自訂速度";
 

@@ -78,6 +78,8 @@
 
 "advanced" = "Erweitert";
 
+"advanced-settings" = "Erweiterte Einstellungen";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF AN";
@@ -156,7 +158,7 @@
 
 "audio-meters" = "Pegelanzeigen";
 
-"audio-monitor" = "Audiomonitor";
+"audio-monitor" = "Audio-Monitor";
 
 "audio-upload" = "Audio hochladen";
 
@@ -172,7 +174,15 @@
 
 "auto-video-standard" = "Auto Video-Standard";
 
+"automation" = "Automation";
+
+"automation-create" = "Automation erstellen";
+
 "automations" = "Automationen";
+
+"automations-box %lld" = "Automationen - Feld %lld";
+
+"automations-preset" = "Automationen - Voreinstellung";
 
 "aux" = "AUX";
 
@@ -196,7 +206,7 @@
 
 "band %lld" = "Band %lld";
 
-"band-shape" = "Band-Filtern";
+"band-shape" = "Band-Filter";
 
 "bevel-in" = "Bevel In";
 
@@ -416,6 +426,8 @@
 
 "custom" = "Benutzerdefiniert";
 
+"custom-animation" = "Benutzerdefinierte Animation";
+
 "custom-rate" = "Benutzerdefinierte Rate …";
 
 "custom-speed" = "Individuelle Geschwindigkeit";
@@ -482,7 +494,7 @@
 
 "detail-off" = "Detail Aus";
 
-"dim" = "Verdunkeln";
+"dim" = "Dimmen";
 
 "dim-level" = "Dimmstufe";
 
@@ -531,6 +543,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "Duplicate";
+
+"duration" = "Dauer";
 
 "dve" = "DVE";
 
@@ -682,7 +696,7 @@
 
 "enable-visual-editor" = "Vorschaueditor";
 
-"eng-talk" = "Eng Talk";
+"eng-talk" = "Regie-Talkback";
 
 "equalizer" = "Equalizer";
 
@@ -741,8 +755,6 @@
 "error.saveFailed" = "Fehler beim speichern der Datei.";
 
 "expander" = "Expander";
-
-"experimental-settings" = "Versuchseinstellungen";
 
 "export-all-presets" = "Alle Voreinstellungen exportieren";
 
@@ -856,7 +868,7 @@
 
 "highlight" = "Markierung";
 
-"highlight-by" = "Markierte Box vergrößern";
+"highlight-by" = "Markiertes Feld vergrößern";
 
 "hold" = "Halten";
 
@@ -928,7 +940,7 @@
 
 "input-talkback-gain" = "Eingang Talkback Gain";
 
-"input-talkback-gain-engineering" = "Eingang Engineering Talkback Gain";
+"input-talkback-gain-engineering" = "Eingang Regie-Talkback Gain";
 
 "input1" = "Eingang 1";
 
@@ -1013,6 +1025,12 @@
 "interpolation-cosine" = "Cosinus";
 
 "interpolation-cubed" = "Würfelartig";
+
+"interpolation-ease-in-out-elastic" = "Ein-/Ausblenden elastisch";
+
+"interpolation-ease-out-bounce" = "Ausblenden federnd";
+
+"interpolation-ease-out-elastic" = "Ausblenden elastisch";
 
 "interpolation-inverse-cubed" = "Umgekehrt würfelartig";
 
@@ -1112,9 +1130,9 @@
 
 "locked" = "Gesperrt";
 
-"locked-box-sources" = "Verriegelte Boxen-Quellen";
+"locked-box-sources" = "Verriegelte Feld-Quellen";
 
-"low-latency" = "Geringe Wartezeit";
+"low-latency" = "Geringe Verzögerungszeit";
 
 "luma" = "Luminanz";
 
@@ -1274,7 +1292,7 @@
 
 "minimize" = "Minimieren";
 
-"minimize-by" = "Andere Boxen verkleinern";
+"minimize-by" = "Andere Felder verkleinern";
 
 "minimize-off-audio" = "Deaktivierte Audio-Quellen minimieren";
 
@@ -1324,11 +1342,11 @@
 
 "multiview" = "Multiview";
 
-"mute" = "Mute";
+"mute" = "Stummschalten";
 
-"mute-talkback" = "Talkback Mute";
+"mute-talkback" = "Talkback stummschalten";
 
-"mute-talkback-engineering" = "Talkback Engineering Mute";
+"mute-talkback-engineering" = "Regie-Talkback stummschalten";
 
 "mv" = "MV";
 
@@ -1432,6 +1450,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "OSC Parameter";
+
+"osc-path" = "OSC Pfad";
+
 "osc-port" = "OSC Port";
 
 "outer-softness" = "Weichzeichnung außen";
@@ -1480,35 +1502,35 @@
 
 "pattern" = "Muster";
 
-"pattern-bottomCenterBox" = "Box Unten Mitte";
+"pattern-bottomCenterBox" = "Feld Unten Mitte";
 
-"pattern-bottomLeftBox" = "Box Unten Links";
+"pattern-bottomLeftBox" = "Feld Unten Links";
 
-"pattern-bottomRightBox" = "Box Unten Rechts";
+"pattern-bottomRightBox" = "Feld Unten Rechts";
 
 "pattern-circleIris" = "Kreis-Maske";
 
-"pattern-cornersInFourBox" = "Corners in Four Box";
+"pattern-cornersInFourBox" = "Ecken in 4er Feld";
 
 "pattern-diamondIris" = "Rauten-Maske";
 
 "pattern-horizontalBarnDoor" = "Horizontal Barn Door";
 
-"pattern-leftCenterBox" = "Box Links mittig";
+"pattern-leftCenterBox" = "Feld Links mittig";
 
 "pattern-leftToRightBar" = "Ausschnitt von Links nach Rechts";
 
 "pattern-rectangleIris" = "Rechteck-Maske";
 
-"pattern-rightCenterBox" = "Box Rechts mittig";
+"pattern-rightCenterBox" = "Feld Rechts mittig";
 
-"pattern-topCenterBox" = "Box Oben Mitte";
+"pattern-topCenterBox" = "Feld Oben Mitte";
 
-"pattern-topLeftBox" = "Box Oben Links";
+"pattern-topLeftBox" = "Feld Oben Links";
 
 "pattern-topLeftDiagonal" = "Diagonale Oben Links";
 
-"pattern-topRightBox" = "Bos Oben Rechts";
+"pattern-topRightBox" = "Feld Oben Rechts";
 
 "pattern-topRightDiagonal" = "Diagonale Oben Rechts";
 
@@ -1700,7 +1722,7 @@
 
 "pro-line" = "Pro-Line";
 
-"prod-talk" = "Prod Talk";
+"prod-talk" = "Produktion-Talkback";
 
 "profile-error-save" = "Fehler beim Speichern des Profils";
 
@@ -1751,6 +1773,8 @@
 "rec" = "REC";
 
 "reconnect" = "Verbindung wiederherstellen";
+
+"reconnect-forever" = "Permanent wiederverbinden";
 
 "reconnect-required" = "Erneute Verbindung erforderlich";
 
@@ -1916,6 +1940,8 @@
 
 "select-macro" = "Makro auswählen";
 
+"send-osc-message" = "OSC Nachricht senden";
+
 "server" = "Server";
 
 "server-name" = "Name";
@@ -1940,7 +1966,7 @@
 
 "set-b" = "B setzen";
 
-"set-box-settings" = "Box Einstellungen festlegen";
+"set-box-settings" = "Feld-Einstellungen festlegen";
 
 "set-default" = "Standardwert setzen";
 
@@ -1978,6 +2004,8 @@
 
 "shape-notch" = "Notch";
 
+"shortcut" = "Tastaturkürzel";
+
 "shortcut-auto" = "Auto";
 
 "shortcut-auto-phrase" = "Automatischer Übergang";
@@ -1994,6 +2022,14 @@
 
 "shortcut-change-transition-phrase" = "Übergangsart zu Mix einstellen";
 
+"shortcut-chroma-advanced-phrase" = "Chroma erweitert für USK setzen";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC Chroma erweitert für USK setzen";
+
+"shortcut-color-generator-phrase" = "Farbgenerator setzen";
+
+"shortcut-color-generator-phrase-osc" = "OSC Farbgenerator setzen";
+
 "shortcut-connect" = "Mit MixEffect verbinden";
 
 "shortcut-connect-description" = "Mit einem Mischer in MixEffect verbinden.";
@@ -2001,6 +2037,16 @@
 "shortcut-cut" = "Schnitt";
 
 "shortcut-cut-phrase" = "Schnitt ausführen";
+
+"shortcut-dsk-phrase" = "DSK setzen";
+
+"shortcut-dsk-phrase-osc" = "OSC DSK setzen";
+
+"shortcut-dve-phrase" = "DVE für USK setzen";
+
+"shortcut-dve-phrase-osc" = "OSC DVE für USK setzen";
+
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC DVE Größe, Position, und Rotation für USK setzen";
 
 "shortcut-export-streaming" = "Streaming XML Datei exportieren";
 
@@ -2010,6 +2056,14 @@
 
 "shortcut-fade-to-black-phrase" = "Schwarzblende";
 
+"shortcut-luma-phrase" = "Luma für USK setzen";
+
+"shortcut-luma-phrase-osc" = "OSC Luma für USK setzen";
+
+"shortcut-pattern-phrase" = "Muster für USK setzen";
+
+"shortcut-pattern-phrase-osc" = "OSC Muster für USK setzen";
+
 "shortcut-preview-transition" = "Vorschau für Übergang";
 
 "shortcut-preview-transition-phrase" = "Vorschau-Modus für Übergang wechseln";
@@ -2017,6 +2071,38 @@
 "shortcut-run-macro" = "Makro ausführen";
 
 "shortcut-run-macro-phrase" = "Makro ausführen";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Zuschnitt für Feld festlegen";
+
+"shortcut-supersource-box-full-phrase" = "Feld festlegen";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Feld festlegen";
+
+"shortcut-supersource-box-position-phrase-osc" = "Feld-Position festlegen";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Feld-Position, Größe und Zuschnitt festlegen";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC Feld-Größe festlegen";
+
+"shortcut-transition-dip-phrase" = "Dip-Übergang setzen";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Dip-Übergang setzen";
+
+"shortcut-transition-dve-phrase" = "DVE-Übergang setzen";
+
+"shortcut-transition-dve-phrase-osc" = "OSC DVE-Übergang setzen";
+
+"shortcut-transition-mix-phrase" = "Mix-Übergang setzen";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Mix-Übergang setzen";
+
+"shortcut-transition-sting-phrase" = "Stinger-Übergang setzen";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Stinger-Übergang setzen";
+
+"shortcut-transition-wipe-phrase" = "Wisch-Übergang setzen";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Wisch-Übergang setzen";
 
 "shortcuts" = "Tastaturkürzel";
 
@@ -2111,6 +2197,8 @@
 "startup-state-save" = "Start-Zustand speichern";
 
 "startup-state-save-confirm" = "Die aktuellen Einstellungen werden beim Start des ATEM Mischers geladen.";
+
+"stereo" = "Stereo";
 
 "stereo-simulation" = "Stereo Simulation";
 
@@ -2210,13 +2298,13 @@
 
 "supersource-action" = "SuperSource Aktion";
 
-"supersource-boxes" = "SuperSource Boxen";
+"supersource-boxes" = "SuperSource Felder";
 
 "supersource-layouts" = "SuperSource Layouts";
 
 "supersource-macro-pause" = "Pausen beim Aufzeichnen von Makros hinzufügen";
 
-"swap-boxes" = "Boxe tauschen";
+"swap-boxes" = "Felder tauschen";
 
 "swap-program-preview" = "Programm-Vorschau tauschen";
 
@@ -2290,7 +2378,7 @@
 
 "to" = "nach";
 
-"to-all-boxes" = "Für alle Boxen";
+"to-all-boxes" = "Für alle Felder";
 
 "tools" = "Tools";
 
@@ -2361,6 +2449,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Quellen der Felder verwenden";
+
+"use-custom-animation" = "Benutzerdefinierte Animation verwenden";
 
 "use-custom-speed" = "Individuelle Geschwindigkeit verwenden";
 
@@ -2436,7 +2526,7 @@
 
 "wipe-abbreviation" = "Wischen";
 
-"with-box %lld" = "mit Box %lld";
+"with-box %lld" = "mit Feld %lld";
 
 "with-transition" = "mit Übergang";
 

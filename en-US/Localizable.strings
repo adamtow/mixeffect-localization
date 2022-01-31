@@ -180,6 +180,10 @@
 
 "automations" = "Automations";
 
+"automations-box %lld" = "Automations - Box %lld";
+
+"automations-preset" = "Automations - Preset";
+
 "aux" = "AUX";
 
 "aux %lld" = "AUX %lld";
@@ -2042,6 +2046,8 @@
 
 "shortcut-dve-phrase-osc" = "OSC Set DVE USK";
 
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC Set DVE Size Position Rotation USK";
+
 "shortcut-export-streaming" = "Export Streaming XML";
 
 "shortcut-export-streaming-description" = "Export all or a subset of your streaming services.";
@@ -2065,6 +2071,18 @@
 "shortcut-run-macro" = "Run Macro";
 
 "shortcut-run-macro-phrase" = "Run Macro";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Set Position For Box";
+
+"shortcut-supersource-box-full-phrase" = "Set Box";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Set Box";
+
+"shortcut-supersource-box-position-phrase-osc" = "OSC Set Position For Box";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Set Position Size Crop For Box";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC Set Size For Box";
 
 "shortcut-transition-dip-phrase" = "Set Dip Transition";
 

@@ -78,6 +78,8 @@
 
 "advanced" = "高级";
 
+"advanced-settings" = "高级设置";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
@@ -172,7 +174,15 @@
 
 "auto-video-standard" = "自动视频标准";
 
+"automation" = "自动化";
+
+"automation-create" = "创建自动化";
+
 "automations" = "自动执行";
+
+"automations-box %lld" = "自动执行 - 盒子%lld";
+
+"automations-preset" = "自动执行 - 预设";
 
 "aux" = "AUX";
 
@@ -416,6 +426,8 @@
 
 "custom" = "定制";
 
+"custom-animation" = "自定义动画";
+
 "custom-rate" = "定制速率…";
 
 "custom-speed" = "自定认速度";
@@ -531,6 +543,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "复制";
+
+"duration" = "期间";
 
 "dve" = "DVE";
 
@@ -741,8 +755,6 @@
 "error.saveFailed" = "文件无法保存.";
 
 "expander" = "放大器";
-
-"experimental-settings" = "实验性设置";
 
 "export-all-presets" = "导出所有预设";
 
@@ -1013,6 +1025,12 @@
 "interpolation-cosine" = "余弦";
 
 "interpolation-cubed" = "立方体";
+
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
 
 "interpolation-inverse-cubed" = "逆立方";
 
@@ -1432,6 +1450,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "参数";
+
+"osc-path" = "路径";
+
 "osc-port" = "OSC端口";
 
 "outer-softness" = "外框柔化度";
@@ -1752,6 +1774,8 @@
 
 "reconnect" = "重连";
 
+"reconnect-forever" = "无限次自动重新连接尝试";
+
 "reconnect-required" = "需要重新连接";
 
 "record" = "录制";
@@ -1916,6 +1940,8 @@
 
 "select-macro" = "选择宏";
 
+"send-osc-message" = "发送 OSC 消息";
+
 "server" = "服务器";
 
 "server-name" = "名称";
@@ -1978,6 +2004,8 @@
 
 "shape-notch" = "陷波滤波器";
 
+"shortcut" = "快捷指";
+
 "shortcut-auto" = "自动";
 
 "shortcut-auto-phrase" = "执行自动转场";
@@ -1994,6 +2022,14 @@
 
 "shortcut-change-transition-phrase" = "更改转场样式至Mix";
 
+"shortcut-chroma-advanced-phrase" = "设置色度高级";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC 设置色度高级";
+
+"shortcut-color-generator-phrase" = "设置颜色生成器";
+
+"shortcut-color-generator-phrase-osc" = "OSC 设置颜色生成器";
+
 "shortcut-connect" = "连接MixEffect";
 
 "shortcut-connect-description" = "在MixEffect中连接你的切换台.";
@@ -2001,6 +2037,16 @@
 "shortcut-cut" = "硬切";
 
 "shortcut-cut-phrase" = "执行硬切";
+
+"shortcut-dsk-phrase" = "设置 DSK";
+
+"shortcut-dsk-phrase-osc" = "OSC 设置 DSK";
+
+"shortcut-dve-phrase" = "设置 DVE USK";
+
+"shortcut-dve-phrase-osc" = "OSC 设置 DVE USK";
+
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC 设置尺寸及位置旋转 DVE USK";
 
 "shortcut-export-streaming" = "导出Streaming XML";
 
@@ -2010,6 +2056,14 @@
 
 "shortcut-fade-to-black-phrase" = "淡入黑场";
 
+"shortcut-luma-phrase" = "设置亮度 USK";
+
+"shortcut-luma-phrase-osc" = "OSC 设置亮度 USK";
+
+"shortcut-pattern-phrase" = "设置模式 USK";
+
+"shortcut-pattern-phrase-osc" = "OSC 设置模式 USK";
+
 "shortcut-preview-transition" = "预览转场";
 
 "shortcut-preview-transition-phrase" = "切换预览转场模式";
@@ -2017,6 +2071,38 @@
 "shortcut-run-macro" = "运行宏";
 
 "shortcut-run-macro-phrase" = "运行宏";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC 为盒子设置裁剪";
+
+"shortcut-supersource-box-full-phrase" = "设置框设置";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC 设置框设置";
+
+"shortcut-supersource-box-position-phrase-osc" = "为盒子设置位置";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC 为盒子设置位置";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC 为盒子设置尺寸";
+
+"shortcut-transition-dip-phrase" = "设置倾角过渡";
+
+"shortcut-transition-dip-phrase-osc" = "OSC 设置倾角过渡";
+
+"shortcut-transition-dve-phrase" = "设置 DVE 转换";
+
+"shortcut-transition-dve-phrase-osc" = "OSC 设置 DVE 转换";
+
+"shortcut-transition-mix-phrase" = "设置混合过渡";
+
+"shortcut-transition-mix-phrase-osc" = "OSC 设置混合过渡";
+
+"shortcut-transition-sting-phrase" = "设置 Sting 过渡";
+
+"shortcut-transition-sting-phrase-osc" = "OSC 设置 Sting 过渡";
+
+"shortcut-transition-wipe-phrase" = "设置擦除过渡";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC 设置擦除过渡";
 
 "shortcuts" = "Shortcuts";
 
@@ -2111,6 +2197,8 @@
 "startup-state-save" = "保存开启状态";
 
 "startup-state-save-confirm" = "当前设置将在 ATEM 切换台启动时加载.";
+
+"stereo" = "立体声";
 
 "stereo-simulation" = "立体模拟";
 
@@ -2361,6 +2449,8 @@
 "upstream-keys" = "上游键";
 
 "use-box-sources" = "使用盒子来源";
+
+"use-custom-animation" = "使用自定义动画";
 
 "use-custom-speed" = "使用自定义速度";
 

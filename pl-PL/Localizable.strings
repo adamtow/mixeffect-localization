@@ -78,6 +78,8 @@
 
 "advanced" = "Zaawansowane";
 
+"advanced-settings" = "Zaawansowane ustawienia";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "Autofokus";
@@ -172,7 +174,15 @@
 
 "auto-video-standard" = "Automatyczny standard wideo";
 
+"automation" = "Automatyzacja";
+
+"automation-create" = "Utwórz automatyzację";
+
 "automations" = "Automatyzacje";
+
+"automations-box %lld" = "Automatyzacja - Pole %lld";
+
+"automations-preset" = "Automatyzacje - Predefiniowany";
 
 "aux" = "AUX";
 
@@ -416,6 +426,8 @@
 
 "custom" = "Ustawienie użytkownika";
 
+"custom-animation" = "Animacja niestandardowa";
+
 "custom-rate" = "Własny czas…";
 
 "custom-speed" = "Własna szybkość";
@@ -531,6 +543,8 @@
 "dsk %lld" = "DÓŁ %lld";
 
 "duplicate" = "Zduplikuj";
+
+"duration" = "Czas trwania";
 
 "dve" = "Wideoefekt (DVE)";
 
@@ -741,8 +755,6 @@
 "error.saveFailed" = "Nie można zapisać pliku.";
 
 "expander" = "Ekspander";
-
-"experimental-settings" = "Ustawienia eksperymentalne";
 
 "export-all-presets" = "Wyeksportuj wszystkie szablony";
 
@@ -1013,6 +1025,12 @@
 "interpolation-cosine" = "Do cosinusa";
 
 "interpolation-cubed" = "Do sześcianu";
+
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
 
 "interpolation-inverse-cubed" = "Do odwrotności sześcianu";
 
@@ -1432,6 +1450,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "Argumentów";
+
+"osc-path" = "Ścieżka OSC";
+
 "osc-port" = "Port OSC";
 
 "outer-softness" = "Zmiękczenie krawędzi";
@@ -1754,6 +1776,8 @@
 
 "reconnect" = "Ponów połączenie";
 
+"reconnect-forever" = "Nieograniczone automatyczne próby ponownego połączenia";
+
 "reconnect-required" = "Wymagane jest ponowne połączenie";
 
 "record" = "Nagrywanie";
@@ -1918,6 +1942,8 @@
 
 "select-macro" = "Wybierz makro";
 
+"send-osc-message" = "Wyślij wiadomość OSC";
+
 "server" = "Serwer";
 
 "server-name" = "Nazwa";
@@ -1980,6 +2006,8 @@
 
 "shape-notch" = "Notch";
 
+"shortcut" = "Skrót";
+
 "shortcut-auto" = "Auto";
 
 "shortcut-auto-phrase" = "Wykonaj automatyczne przejście";
@@ -1996,6 +2024,14 @@
 
 "shortcut-change-transition-phrase" = "Zmień styl przejścia na miks";
 
+"shortcut-chroma-advanced-phrase" = "Ustaw Chroma Advanced USK";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC Ustaw Chroma Advanced USK";
+
+"shortcut-color-generator-phrase" = "Ustaw generator kolorów";
+
+"shortcut-color-generator-phrase-osc" = "OSC Ustaw generator kolorów";
+
 "shortcut-connect" = "Połącz do MixEffect";
 
 "shortcut-connect-description" = "Najpierw połącz się z jednym ze swoich przełączników w MixEffect.";
@@ -2003,6 +2039,16 @@
 "shortcut-cut" = "Cięcie";
 
 "shortcut-cut-phrase" = "Wykonaj cięcie";
+
+"shortcut-dsk-phrase" = "Ustaw DSK";
+
+"shortcut-dsk-phrase-osc" = "OSC Ustaw DSK";
+
+"shortcut-dve-phrase" = "Ustaw DVE USK";
+
+"shortcut-dve-phrase-osc" = "OSC Ustaw DVE USK";
+
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC Ustaw Rozmiar, pozycja i Rotacja DVE USK";
 
 "shortcut-export-streaming" = "Eksportuj Streaming.xml";
 
@@ -2012,6 +2058,14 @@
 
 "shortcut-fade-to-black-phrase" = "Wygaszenie do czerni (FTB)";
 
+"shortcut-luma-phrase" = "Zestaw Luma USK";
+
+"shortcut-luma-phrase-osc" = "OSC Zestaw Luma USK";
+
+"shortcut-pattern-phrase" = "Ustaw wzór USK";
+
+"shortcut-pattern-phrase-osc" = "OSC Ustaw wzór USK";
+
 "shortcut-preview-transition" = "Podgląd przejścia";
 
 "shortcut-preview-transition-phrase" = "Przełącz podgląd trybu przejścia";
@@ -2019,6 +2073,38 @@
 "shortcut-run-macro" = "Uruchom makro";
 
 "shortcut-run-macro-phrase" = "Uruchom makro";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Ustaw pozycję dla pudełka";
+
+"shortcut-supersource-box-full-phrase" = "Ustaw pudełko";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Ustaw pudełko";
+
+"shortcut-supersource-box-position-phrase-osc" = "OSC Ustaw pozycję dla pudełka";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Ustaw pozycję, rozmiar i przycięcie w polu";
+
+"shortcut-supersource-box-size-phrase-osc" = "Rozmiar zestawu OSC dla pudełka";
+
+"shortcut-transition-dip-phrase" = "Ustaw przejście Zanikanie";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Ustaw przejście Zanikanie";
+
+"shortcut-transition-dve-phrase" = "Ustaw przejście DVE";
+
+"shortcut-transition-dve-phrase-osc" = "OSC Ustaw przejście DVE";
+
+"shortcut-transition-mix-phrase" = "Ustaw przejście miksowanie";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Ustaw przejście miksowanie";
+
+"shortcut-transition-sting-phrase" = "Ustaw przejście telewizyjne";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Ustaw przejście telewizyjne";
+
+"shortcut-transition-wipe-phrase" = "Ustaw przejście wymazywanie";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Ustaw przejście wymazywanie";
 
 "shortcuts" = "Skróty";
 
@@ -2113,6 +2199,8 @@
 "startup-state-save" = "Zapisz stan początkowy";
 
 "startup-state-save-confirm" = "Bieżące ustawienia będą aktywne po włączeniu przełącznia.";
+
+"stereo" = "Stereofoniczny";
 
 "stereo-simulation" = "Symulacja stereo";
 
@@ -2363,6 +2451,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Przypisz źródła do pól";
+
+"use-custom-animation" = "Użyj animacji niestandardowej";
 
 "use-custom-speed" = "Użyj własnej szybkości";
 
