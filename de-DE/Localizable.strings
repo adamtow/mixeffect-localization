@@ -58,6 +58,8 @@
 
 "about" = "Über MixEffect";
 
+"about-pro" = "Über MixEffect Pro";
+
 "accent-color" = "Akzentfarbe";
 
 "action" = "Aktion";
@@ -93,6 +95,8 @@
 "all-off" = "Alle aus";
 
 "all-on" = "Alle an";
+
+"allow-osc-in-view-only-mode" = "OSC im Nur Anzeigemodus aktivieren";
 
 "allow-trigger-when-source-off-air" = "Ansteuern, auch wenn Quelle 'Off Air' ist";
 
@@ -681,6 +685,8 @@
 "enable-mask" = "Maske aktivieren";
 
 "enable-osc" = "OSC aktivieren";
+
+"enable-osc-in-settings" = "OSC muss in MixEffect Einstellungen > Automatisierungen aktiviert sein";
 
 "enable-osc-server" = "OSC Server aktivieren";
 
@@ -1420,6 +1426,8 @@
 
 "no-media-selected" = "Keine Medien ausgewählt";
 
+"no-network-connection" = "Keine Netzwerk Verbindung";
+
 "no-panels" = "Für diese Seite sind keine Bedienelemente definiert";
 
 "none" = "Keine";
@@ -1890,6 +1898,8 @@
 
 "review" = "MixEffect bewerten";
 
+"review-pro" = "MixEffect Pro bewerten";
+
 "rgb" = "RGB";
 
 "right" = "Rechts";
@@ -2150,7 +2160,11 @@
 
 "sort-ascending" = "Aufsteigend sortieren";
 
+"sort-audio-by-state" = "Ordnen Sie Audioquellen nach Bundesland";
+
 "sort-audio-sources" = "Audio-Quellen anordnen";
+
+"sort-audio-sources-edit" = "Sortierreihenfolge von Audio-Quellen bearbeiten";
 
 "sort-descending" = "Absteigend sortieren";
 
@@ -2438,6 +2452,8 @@
 
 "unused" = "Nicht verwendete";
 
+"update-available" = "Update verfügbar";
+
 "update-preset" = "Voreinstellung aktualisieren";
 
 "upgrade-to-pro" = "Jetzt zu MixEffect Pro wechseln";
@@ -2539,3 +2555,75 @@
 "y-suppress" = "Y reduzieren";
 
 "zoom" = "Zoom";
+
+"audio-monitor-outputs" = "";
+
+"countdown" = "";
+
+"counter" = "";
+
+"countup" = "";
+
+"disable" = "";
+
+"disabled" = "";
+
+"display-clock" = "";
+
+"enable" = "";
+
+"enable-counter-overlay" = "";
+
+"enable-mix-minus" = "";
+
+"engineering" = "";
+
+"hide-when-elapsed" = "";
+
+"level-a" = "";
+
+"level-b" = "";
+
+"mix-minus" = "";
+
+"monitor-audio" = "";
+
+"mute-incoming-talkback" = "";
+
+"number-selected %lld" = "";
+
+"production" = "";
+
+"program-audio" = "";
+
+"remote" = "";
+
+"remote-gvg-100" = "";
+
+"remote-header" = "";
+
+"remote-ptz-visca" = "";
+
+"sdi-3g-output" = "";
+
+"sdi-input %lld" = "";
+
+"sdi-output %lld" = "";
+
+"select-all" = "";
+
+"select-none" = "";
+
+"set-counter" = "";
+
+"start" = "";
+
+"start-from" = "";
+
+"talkback %@" = "";
+
+"talkback-enable" = "";
+
+"video-mode-downconvert" = "";
+
+"video-mode-multiview" = "";

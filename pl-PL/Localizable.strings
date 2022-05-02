@@ -58,6 +58,8 @@
 
 "about" = "O aplikacji MixEffect";
 
+"about-pro" = "O aplikacji MixEffect Pro";
+
 "accent-color" = "Kolor akcentu";
 
 "action" = "Akcja";
@@ -78,7 +80,7 @@
 
 "advanced" = "Zaawansowane";
 
-"advanced-settings" = "Zaawansowane ustawienia";
+"advanced-settings" = "Ustawienia zaawansowane";
 
 "aesbu" = "AES/EBU";
 
@@ -93,6 +95,8 @@
 "all-off" = "Wyłącz wszystko";
 
 "all-on" = "Włącz wszystko";
+
+"allow-osc-in-view-only-mode" = "Zezwalaj na OSC w Tryb tylko do odczytu";
 
 "allow-trigger-when-source-off-air" = "Pozwój na wyzwalanie kiedy źródło nie jest pokazywane";
 
@@ -178,7 +182,7 @@
 
 "automation-create" = "Utwórz automatyzację";
 
-"automations" = "Automatyzacje";
+"automations" = "Automatyzacja";
 
 "automations-box %lld" = "Automatyzacja - Pole %lld";
 
@@ -206,7 +210,7 @@
 
 "band %lld" = "Pasmo %lld";
 
-"band-shape" = "Filtr pasmowy";
+"band-shape" = "Filtr pasma";
 
 "bevel-in" = "Ramka Wejście";
 
@@ -376,11 +380,11 @@
 
 "compact-controls" = "Zagęszczenie elementów";
 
-"companion" = "Companion";
+"companion" = "Aplikacja Companion";
 
-"companion-ip" = "Adres IP Companion";
+"companion-ip" = "Adres IP aplikacji Companion";
 
-"companion-port" = "Port Companion";
+"companion-port" = "Port aplikacji Companion";
 
 "compressor" = "Kompresor";
 
@@ -426,7 +430,7 @@
 
 "custom" = "Ustawienie użytkownika";
 
-"custom-animation" = "Animacja niestandardowa";
+"custom-animation" = "Własna animacja";
 
 "custom-rate" = "Własny czas…";
 
@@ -494,9 +498,9 @@
 
 "detail-off" = "Detal wyłączony";
 
-"dim" = "Przyciemniać";
+"dim" = "Podświetlenie";
 
-"dim-level" = "Poziom przyciemnienia";
+"dim-level" = "Poziom podświetlenia";
 
 "dip" = "Zanikanie";
 
@@ -506,7 +510,7 @@
 
 "direction" = "Kierunek";
 
-"disable-output-long-press" = "Wyłącz długie naciśnięcie w panelu Wyjście";
+"disable-output-long-press" = "Wyłącz długie naciśnięcie w panelu wyjścia";
 
 "disable-sleep" = "Pozostaw aktywne";
 
@@ -544,7 +548,7 @@
 
 "duplicate" = "Zduplikuj";
 
-"duration" = "Czas trwania";
+"duration" = "Długość";
 
 "dve" = "Wideoefekt (DVE)";
 
@@ -666,7 +670,7 @@
 
 "enable-cascade" = "Włącz kaskadę";
 
-"enable-companion-feedback" = "Włącz opinię Companion";
+"enable-companion-feedback" = "Włącz komunikaty z aplikacji Companion";
 
 "enable-crop" = "Włącz przycinanie";
 
@@ -682,6 +686,8 @@
 
 "enable-osc" = "Włącz zdalne sterowanie (OSC)";
 
+"enable-osc-in-settings" = "OSC musi być włączone w Ustawienia MixEffect > Automatyzacja";
+
 "enable-osc-server" = "Włącz serwer OSC";
 
 "enable-safe-areas" = "Włącz granice bezpieczeństwa";
@@ -696,7 +702,7 @@
 
 "enable-visual-editor" = "Włącz edytor wizualny";
 
-"eng-talk" = "Eng Talk";
+"eng-talk" = "Czytanie po angielsku";
 
 "equalizer" = "Korektor (EQ)";
 
@@ -758,7 +764,7 @@
 
 "export-all-presets" = "Wyeksportuj wszystkie szablony";
 
-"export-preset" = "Wyeksportuj układ";
+"export-preset" = "Wyeksportuj szablon";
 
 "export-presets" = "Wyeksportuj szablony";
 
@@ -772,7 +778,7 @@
 
 "fader-bar" = "Teownik";
 
-"fader-bar-vertical" = "Teownik (pionowo)";
+"fader-bar-vertical" = "Teownik (Pionowo)";
 
 "fader-gain" = "Dźwignia wzmocnienia";
 
@@ -938,9 +944,9 @@
 
 "input-sidetone-gain" = "Wzmocnienie samosłyszalności";
 
-"input-talkback-gain" = "Wzmocnienie kanału zwrotnego";
+"input-talkback-gain" = "Wzmocnienie dla odsłuchu";
 
-"input-talkback-gain-engineering" = "Wzmocnienie inżynieryjnego kanału zwrotnego";
+"input-talkback-gain-engineering" = "Wzmocnienie dla odsłuchu inżynieryjnego";
 
 "input1" = "Wejście 1";
 
@@ -1026,11 +1032,11 @@
 
 "interpolation-cubed" = "Do sześcianu";
 
-"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+"interpolation-ease-in-out-elastic" = "Wjazd i wyjazd elastyczny";
 
-"interpolation-ease-out-bounce" = "Ease Out Bounce";
+"interpolation-ease-out-bounce" = "Wyjazd z podskokiem";
 
-"interpolation-ease-out-elastic" = "Ease Out Elastic";
+"interpolation-ease-out-elastic" = "Wyjazd elastyczny";
 
 "interpolation-inverse-cubed" = "Do odwrotności sześcianu";
 
@@ -1132,7 +1138,7 @@
 
 "locked-box-sources" = "Zablokowane źródła dla pól";
 
-"low-latency" = "Małe opóźnienia";
+"low-latency" = "Tryb niskiego opóźnienia";
 
 "luma" = "Luma";
 
@@ -1234,7 +1240,7 @@
 
 "macros" = "Makra";
 
-"macros-run-only" = "Makra tylko do uruchamiania";
+"macros-run-only" = "Tylko uruchamianie makr";
 
 "madi" = "MADI";
 
@@ -1344,9 +1350,9 @@
 
 "mute" = "Wycisz";
 
-"mute-talkback" = "Wycisz kanału zwrotnego";
+"mute-talkback" = "Wycisz odsłuch";
 
-"mute-talkback-engineering" = "Wycisz inżynieryjnego kanału zwrotnego";
+"mute-talkback-engineering" = "Wycisz odsłuch inżynieryjny";
 
 "mv" = "STDIO";
 
@@ -1420,6 +1426,8 @@
 
 "no-media-selected" = "Nie wybrano mediów";
 
+"no-network-connection" = "Brak połączenia z siecią";
+
 "no-panels" = "Na tej stronie nie ma żadnego panelu";
 
 "none" = "Brak";
@@ -1450,7 +1458,7 @@
 
 "osc" = "OSC";
 
-"osc-arguments" = "Argumentów";
+"osc-arguments" = "Parametry";
 
 "osc-path" = "Ścieżka OSC";
 
@@ -1470,23 +1478,23 @@
 
 "panel-cut-auto" = "Cięcie / Auto";
 
-"panel-landscape-bottom" = "Na dole"; // Poziomo na dole
+"panel-landscape-bottom" = "Dół"; // Poziomo na dole
 
-"panel-landscape-left" = "Po lewej"; // Poziomo po lewej
+"panel-landscape-left" = "Lewo"; // Poziomo po lewej
 
-"panel-landscape-right" = "Po prawej"; // Poziomo po prawej
+"panel-landscape-right" = "Prawo"; // Poziomo po prawej
 
-"panel-landscape-top" = "Na górze"; // Poziomo na górze
+"panel-landscape-top" = "Góra"; // Poziomo na górze
 
-"panel-pad-bottom" = "Na dole"; // iPad na dole
+"panel-pad-bottom" = "Dół"; // iPad na dole
 
-"panel-pad-left" = "Po lewej"; // iPad po lewej
+"panel-pad-left" = "Lewo"; // iPad po lewej
 
-"panel-pad-right" = "Po prawej"; // iPad po prawej
+"panel-pad-right" = "Prawo"; // iPad po prawej
 
 "panel-pad-sidebar" = "Pasek boczny"; // iPad pasek boczny
 
-"panel-pad-top" = "Na górze"; // iPad na górze
+"panel-pad-top" = "Góra"; // iPad na górze
 
 "panel-portrait" = "Pionowo"; // Pionowo
 
@@ -1756,7 +1764,7 @@
 
 "push" = "Wypchnij";
 
-"q-factor" = "Współczynnik Q";
+"q-factor" = "Aplituda Q";
 
 "quality" = "Jakość";
 
@@ -1776,7 +1784,7 @@
 
 "reconnect" = "Ponów połączenie";
 
-"reconnect-forever" = "Nieograniczone automatyczne próby ponownego połączenia";
+"reconnect-forever" = "Ponawiaj połączenia do skutku";
 
 "reconnect-required" = "Wymagane jest ponowne połączenie";
 
@@ -1892,6 +1900,8 @@
 
 "review" = "Oceń MixEffect";
 
+"review-pro" = "Oceń MixEffect Pro";
+
 "rgb" = "RGB";
 
 "right" = "Prawo";
@@ -1968,7 +1978,7 @@
 
 "set-b" = "Nastaw B";
 
-"set-box-settings" = "Ustaw ustawienia pudełka";
+"set-box-settings" = "Wybór ustawień pola";
 
 "set-default" = "Ustaw domyślne";
 
@@ -1996,15 +2006,15 @@
 
 "shape-band-pass" = "Dzwon";
 
-"shape-high-pass" = "Wysoka przepustka";
+"shape-high-pass" = "Wysokoprzepustowy";
 
-"shape-high-shelf" = "High Shelf";
+"shape-high-shelf" = "Wysoka półka";
 
-"shape-low-pass" = "Dolnoprzepustowy";
+"shape-low-pass" = "Niskoprzepustowy";
 
-"shape-low-shelf" = "Low Shelf";
+"shape-low-shelf" = "Niska półka";
 
-"shape-notch" = "Notch";
+"shape-notch" = "Wcięcie";
 
 "shortcut" = "Skrót";
 
@@ -2024,9 +2034,9 @@
 
 "shortcut-change-transition-phrase" = "Zmień styl przejścia na miks";
 
-"shortcut-chroma-advanced-phrase" = "Ustaw Chroma Advanced USK";
+"shortcut-chroma-advanced-phrase" = "Ustaw zaawansowaną korekcję chromatyczną dla kluczowania w GÓRĘ";
 
-"shortcut-chroma-advanced-phrase-osc" = "OSC Ustaw Chroma Advanced USK";
+"shortcut-chroma-advanced-phrase-osc" = "OSC Ustaw zaawansowaną korekcję chromatyczną dla kluczowania w GÓRĘ";
 
 "shortcut-color-generator-phrase" = "Ustaw generator kolorów";
 
@@ -2040,13 +2050,13 @@
 
 "shortcut-cut-phrase" = "Wykonaj cięcie";
 
-"shortcut-dsk-phrase" = "Ustaw DSK";
+"shortcut-dsk-phrase" = "Ustaw kluczowanie w DÓŁ";
 
-"shortcut-dsk-phrase-osc" = "OSC Ustaw DSK";
+"shortcut-dsk-phrase-osc" = "OSC Ustaw kluczowanie w DÓŁ";
 
-"shortcut-dve-phrase" = "Ustaw DVE USK";
+"shortcut-dve-phrase" = "Ustaw wideoefekt (DVE) dla kluczowania w GÓRĘ";
 
-"shortcut-dve-phrase-osc" = "OSC Ustaw DVE USK";
+"shortcut-dve-phrase-osc" = "OSC Ustaw wideoefekt (DVE) dla kluczowania w GÓRĘ";
 
 "shortcut-dve-size-position-rotation-phrase-osc" = "OSC Ustaw Rozmiar, pozycja i Rotacja DVE USK";
 
@@ -2058,13 +2068,13 @@
 
 "shortcut-fade-to-black-phrase" = "Wygaszenie do czerni (FTB)";
 
-"shortcut-luma-phrase" = "Zestaw Luma USK";
+"shortcut-luma-phrase" = "Ustaw Lumę dla kluczowania w GÓRĘ";
 
-"shortcut-luma-phrase-osc" = "OSC Zestaw Luma USK";
+"shortcut-luma-phrase-osc" = "OSC Ustaw Lumę dla kluczowania w GÓRĘ";
 
-"shortcut-pattern-phrase" = "Ustaw wzór USK";
+"shortcut-pattern-phrase" = "Ustaw wzór dla kluczowania w GÓRĘ";
 
-"shortcut-pattern-phrase-osc" = "OSC Ustaw wzór USK";
+"shortcut-pattern-phrase-osc" = "OSC Ustaw wzór dla kluczowania w GÓRĘ";
 
 "shortcut-preview-transition" = "Podgląd przejścia";
 
@@ -2086,25 +2096,25 @@
 
 "shortcut-supersource-box-size-phrase-osc" = "Rozmiar zestawu OSC dla pudełka";
 
-"shortcut-transition-dip-phrase" = "Ustaw przejście Zanikanie";
+"shortcut-transition-dip-phrase" = "Ustaw przejście na Zanikanie";
 
-"shortcut-transition-dip-phrase-osc" = "OSC Ustaw przejście Zanikanie";
+"shortcut-transition-dip-phrase-osc" = "OSC Ustaw przejście na Zanikanie";
 
-"shortcut-transition-dve-phrase" = "Ustaw przejście DVE";
+"shortcut-transition-dve-phrase" = "Ustaw przejście na DVE";
 
-"shortcut-transition-dve-phrase-osc" = "OSC Ustaw przejście DVE";
+"shortcut-transition-dve-phrase-osc" = "OSC Ustaw przejście na DVE";
 
-"shortcut-transition-mix-phrase" = "Ustaw przejście miksowanie";
+"shortcut-transition-mix-phrase" = "Ustaw przejście na miksowanie";
 
-"shortcut-transition-mix-phrase-osc" = "OSC Ustaw przejście miksowanie";
+"shortcut-transition-mix-phrase-osc" = "OSC Ustaw przejście na miksowanie";
 
 "shortcut-transition-sting-phrase" = "Ustaw przejście telewizyjne";
 
 "shortcut-transition-sting-phrase-osc" = "OSC Ustaw przejście telewizyjne";
 
-"shortcut-transition-wipe-phrase" = "Ustaw przejście wymazywanie";
+"shortcut-transition-wipe-phrase" = "Ustaw przejście na wymazywanie";
 
-"shortcut-transition-wipe-phrase-osc" = "OSC Ustaw przejście wymazywanie";
+"shortcut-transition-wipe-phrase-osc" = "OSC Ustaw przejście na wymazywanie";
 
 "shortcuts" = "Skróty";
 
@@ -2152,7 +2162,11 @@
 
 "sort-ascending" = "Sortuj rosnąco";
 
+"sort-audio-by-state" = "Zamów źródła audio według stanu";
+
 "sort-audio-sources" = "Sortuj źródła audio";
+
+"sort-audio-sources-edit" = "Edytuj kolejność sortowania źródeł audio";
 
 "sort-descending" = "Sortuj malejąco";
 
@@ -2200,7 +2214,7 @@
 
 "startup-state-save-confirm" = "Bieżące ustawienia będą aktywne po włączeniu przełącznia.";
 
-"stereo" = "Stereofoniczny";
+"stereo" = "Stereo";
 
 "stereo-simulation" = "Symulacja stereo";
 
@@ -2276,7 +2290,7 @@
 
 "streaming" = "Strumieniowanie LIVE";
 
-"streaming-bitrate-warning" = "Jakość przesyłania strumieniowego nie jest ustawiona. Wybierz jeden w sekcji Wyjście przed rozpoczęciem transmisji lub nagrywania.";
+"streaming-bitrate-warning" = "Jakość strumieniowania nie jest ustawione. Wybierz jakość w sekcji Wyjścia przed rozpoczęciem strumieniowania/nagrywania.";
 
 "streaming-config %lld" = "Konfiguracja strumieniowania %lld";
 
@@ -2338,7 +2352,7 @@
 
 "take-the-tour" = "Pokaż przewodnik";
 
-"talkback" = "Kanału zwrotnego";
+"talkback" = "Odsłuch";
 
 "telephoto" = "Telefoto";
 
@@ -2440,6 +2454,8 @@
 
 "unused" = "Nieaktywne";
 
+"update-available" = "Dostępna aktualizacja";
+
 "update-preset" = "Aktualizuj szablon";
 
 "upgrade-to-pro" = "Zakup wersję MixEffect Pro";
@@ -2452,15 +2468,15 @@
 
 "use-box-sources" = "Przypisz źródła do pól";
 
-"use-custom-animation" = "Użyj animacji niestandardowej";
+"use-custom-animation" = "Ustaw własną animację";
 
 "use-custom-speed" = "Użyj własnej szybkości";
 
 "use-cut-bus" = "Używaj podglądu i cięć (Cut Bus)";
 
-"use-landscape-layout" = "Użyj średniego układu";
+"use-landscape-layout" = "Ustaw układ średniej wielkości";
 
-"use-portrait-layout" = "Użyj małego układu";
+"use-portrait-layout" = "Ustaw układ małej wielkości";
 
 "used" = "Wszystkie";
 
@@ -2498,9 +2514,9 @@
 
 "visual-editor" = "Edytor wizualny";
 
-"volume-down" = "Ściszanie";
+"volume-down" = "Ciszej";
 
-"volume-up" = "Zwiększanie głośności";
+"volume-up" = "Głośniej";
 
 "wb" = "WB";
 
@@ -2541,3 +2557,75 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
+
+"video-mode-multiview" = "Tryb wideo studia (Multiview)";
+
+"video-mode-downconvert" = "Tryb wideo skalowany w dół";
+
+"sdi-3g-output" = "Wyjście 3G SDI";
+
+"level-a" = "A";
+
+"level-b" = "B (Normalny)";
+
+"talkback-enable" = "Włącz interkom na wszystkich wejściach/wyjściach SDI";
+
+"production" = "Produkcja";
+
+"engineering" = "Inżynieria";
+
+"mute-incoming-talkback" = "Wycisz przychodzący interkom";
+
+"sdi-input %lld" = "Wejście SDI %lld";
+
+"enable-mix-minus" = "Włącz Mix Minus";
+
+"sdi-output %lld" = "Wyjście SDI %lld";
+
+"mix-minus" = "Mix Minus";
+
+"talkback %@" = "Interkom - %@";
+
+"remote" = "Zdalne sterowanie";
+
+"remote-header" = "Użyj zdalnego sterowania RS-422 do";
+
+"disabled" = "Wyłączone";
+
+"remote-ptz-visca" = "Sterowanie PTZ (standard VISCA)";
+
+"remote-gvg-100" = "Sterowanie (standard GVG 100)";
+
+"audio-monitor-outputs" = "Monitorowane wyjścia audio";
+
+"program-audio" = "Audio Programu";
+
+"monitor-audio" = "Audio Monitora";
+
+"select-all" = "Wybierz wszystkie";
+
+"number-selected %lld" = "%lld wybrano";
+
+"select-none" = "Skasuj wybór";
+
+"display-clock" = "Wyświetl zegar";
+
+"counter" = "Odliczanie";
+
+"start-from" = "Rozpocznij od";
+
+"hide-when-elapsed" = "Ukryj po zakończeniu";
+
+"start" = "Start";
+
+"countdown" = "Odliczanie";
+
+"countup" = "Odliczanie w górę";
+
+"enable-counter-overlay" = "Włącz odliczanie (Wyjście 1)";
+
+"set-counter" = "Ustaw odliczanie";
+
+"enable" = "Włącz";
+
+"disable" = "Wyłącz";

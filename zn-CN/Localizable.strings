@@ -56,7 +56,9 @@
 
 "a" = "A";
 
-"about" = "关于MixEffect";
+"about" = "关于 MixEffect";
+
+"about-pro" = "关于 MixEffect Pro";
 
 "accent-color" = "强调色";
 
@@ -78,7 +80,7 @@
 
 "advanced" = "高级";
 
-"advanced-settings" = "高级设置";
+"advanced-settings" = "进阶设定";
 
 "aesbu" = "AES/EBU";
 
@@ -93,6 +95,8 @@
 "all-off" = "全部关闭";
 
 "all-on" = "全部打开";
+
+"allow-osc-in-view-only-mode" = "只读模式中启用OSC";
 
 "allow-trigger-when-source-off-air" = "允许来源为不广播状态时触发";
 
@@ -158,7 +162,7 @@
 
 "audio-meters" = "音频表";
 
-"audio-monitor" = "音频监控";
+"audio-monitor" = "声效监听器";
 
 "audio-upload" = "上传音频";
 
@@ -174,9 +178,9 @@
 
 "auto-video-standard" = "自动视频标准";
 
-"automation" = "自动化";
+"automation" = "自动化程序";
 
-"automation-create" = "创建自动化";
+"automation-create" = "新增自动化程序";
 
 "automations" = "自动执行";
 
@@ -206,7 +210,7 @@
 
 "band %lld" = "Band %lld";
 
-"band-shape" = "频段滤波器";
+"band-shape" = "频谱调整";
 
 "bevel-in" = "Bevel In";
 
@@ -378,9 +382,9 @@
 
 "companion" = "Companion";
 
-"companion-ip" = "Companion IP地址";
+"companion-ip" = "Companion IP 地址";
 
-"companion-port" = "Companion 端口";
+"companion-port" = "Companion 通讯埠";
 
 "compressor" = "压缩效果器";
 
@@ -426,7 +430,7 @@
 
 "custom" = "定制";
 
-"custom-animation" = "自定义动画";
+"custom-animation" = "自订动画";
 
 "custom-rate" = "定制速率…";
 
@@ -494,9 +498,9 @@
 
 "detail-off" = "关闭详情";
 
-"dim" = "变暗";
+"dim" = "暗淡";
 
-"dim-level" = "昏暗的水平";
+"dim-level" = "暗淡程度";
 
 "dip" = "Dip";
 
@@ -544,7 +548,7 @@
 
 "duplicate" = "复制";
 
-"duration" = "期间";
+"duration" = "长度";
 
 "dve" = "DVE";
 
@@ -666,7 +670,7 @@
 
 "enable-cascade" = "启用级联";
 
-"enable-companion-feedback" = "启用 Companion 意见反馈";
+"enable-companion-feedback" = "启用 Companion 回馈";
 
 "enable-crop" = "启用裁剪";
 
@@ -681,6 +685,8 @@
 "enable-mask" = "启用遮罩";
 
 "enable-osc" = "启用OSC";
+
+"enable-osc-in-settings" = "必须在 MixEffect 设定 > 自动执行 中启用 OSC";
 
 "enable-osc-server" = "启用OSC服务器";
 
@@ -758,7 +764,7 @@
 
 "export-all-presets" = "导出所有预设";
 
-"export-preset" = "导出预设";
+"export-preset" = "汇出预设";
 
 "export-presets" = "导出预设";
 
@@ -770,9 +776,9 @@
 
 "fader" = "推子";
 
-"fader-bar" = "推子条";
+"fader-bar" = "推捍";
 
-"fader-bar-vertical" = "推子条 (垂直)";
+"fader-bar-vertical" = "推捍(垂直)";
 
 "fader-gain" = "推子增益";
 
@@ -822,7 +828,7 @@
 
 "frequency" = "帧率";
 
-"frequency-range" = "的频率范";
+"frequency-range" = "频率范围";
 
 "from" = "从";
 
@@ -938,9 +944,9 @@
 
 "input-sidetone-gain" = "输入侧音增益";
 
-"input-talkback-gain" = "输入对讲增益";
+"input-talkback-gain" = "输入对讲器增益";
 
-"input-talkback-gain-engineering" = "输入对讲工程增益";
+"input-talkback-gain-engineering" = "输入工程师对讲器增益";
 
 "input1" = "输入1";
 
@@ -1090,11 +1096,11 @@
 
 "layout" = "布局";
 
-"layout-ipad" = "大的"; // iPad
+"layout-ipad" = "大"; // iPad
 
-"layout-landscape" = "中等的"; // 横向
+"layout-landscape" = "中"; // 横向
 
-"layout-portrait" = "小的"; // 纵向
+"layout-portrait" = "小"; // 纵向
 
 "layout-type" = "布局";
 
@@ -1234,7 +1240,7 @@
 
 "macros" = "宏";
 
-"macros-run-only" = "巨集仅运行";
+"macros-run-only" = "仅运行巨集";
 
 "madi" = "MADI";
 
@@ -1326,7 +1332,7 @@
 
 "more-shortcuts" = "更多快捷方式";
 
-"more-shortcuts-description" = "从MixEffect.app/shortcuts获取更多的快捷方式";
+"more-shortcuts-description" = "在 MixEffect.app/shortcuts 取得更多捷径";
 
 "mp" = "MP";
 
@@ -1344,9 +1350,9 @@
 
 "mute" = "静音";
 
-"mute-talkback" = "静音对讲";
+"mute-talkback" = "静音师对讲器";
 
-"mute-talkback-engineering" = "静音工程对讲";
+"mute-talkback-engineering" = "静音工程师对讲器";
 
 "mv" = "MV";
 
@@ -1420,6 +1426,8 @@
 
 "no-media-selected" = "未选择媒体";
 
+"no-network-connection" = "无网络连接";
+
 "no-panels" = "此页面未定义面板";
 
 "none" = "没有";
@@ -1452,7 +1460,7 @@
 
 "osc-arguments" = "参数";
 
-"osc-path" = "路径";
+"osc-path" = "OSC 路径";
 
 "osc-port" = "OSC端口";
 
@@ -1470,7 +1478,7 @@
 
 "panel-cut-auto" = "Cut / Auto";
 
-"panel-landscape-bottom" = "底部"; // 横向底部
+"panel-landscape-bottom" = "底"; // 横向底部
 
 "panel-landscape-left" = "左方"; // 横向左方
 
@@ -1478,13 +1486,13 @@
 
 "panel-landscape-top" = "上方"; // 横向上方
 
-"panel-pad-bottom" = "底部"; // iPad底部
+"panel-pad-bottom" = "底"; // iPad底部
 
 "panel-pad-left" = "左方"; // iPad左方
 
 "panel-pad-right" = "右方"; // iPad右方
 
-"panel-pad-sidebar" = "侧边"; // iPad侧边
+"panel-pad-sidebar" = "侧边栏"; // iPad侧边
 
 "panel-pad-top" = "上方"; // iPad上方
 
@@ -1538,7 +1546,7 @@
 
 "pattern-verticalBarnDoor" = "垂直式滑门";
 
-"pgm-mix" = "PGM Mix";
+"pgm-mix" = "直播源混合";
 
 "place-in" = "放置";
 
@@ -1754,7 +1762,7 @@
 
 "push" = "推";
 
-"q-factor" = "品质因数";
+"q-factor" = "Q 因子";
 
 "quality" = "质量";
 
@@ -1774,7 +1782,7 @@
 
 "reconnect" = "重连";
 
-"reconnect-forever" = "无限次自动重新连接尝试";
+"reconnect-forever" = "不断自动重新连接";
 
 "reconnect-required" = "需要重新连接";
 
@@ -1888,7 +1896,9 @@
 
 "revert-to-prior-transition" = "恢复到先前的转场";
 
-"review" = "为MixEffect评分";
+"review" = "为 MixEffect 评分";
+
+"review-pro" = "为 MixEffect Pro 评分";
 
 "rgb" = "RGB";
 
@@ -1940,7 +1950,7 @@
 
 "select-macro" = "选择宏";
 
-"send-osc-message" = "发送 OSC 消息";
+"send-osc-message" = "传送 OSC 讯息";
 
 "server" = "服务器";
 
@@ -1966,7 +1976,7 @@
 
 "set-b" = "设置B";
 
-"set-box-settings" = "设置框设置";
+"set-box-settings" = "设置盒设定";
 
 "set-default" = "默认设置";
 
@@ -2004,7 +2014,7 @@
 
 "shape-notch" = "陷波滤波器";
 
-"shortcut" = "快捷指";
+"shortcut" = "捷径";
 
 "shortcut-auto" = "自动";
 
@@ -2022,13 +2032,13 @@
 
 "shortcut-change-transition-phrase" = "更改转场样式至Mix";
 
-"shortcut-chroma-advanced-phrase" = "设置色度高级";
+"shortcut-chroma-advanced-phrase" = "设置进阶 USK 色度";
 
-"shortcut-chroma-advanced-phrase-osc" = "OSC 设置色度高级";
+"shortcut-chroma-advanced-phrase-osc" = "OSC 设置进阶 USK 色度";
 
-"shortcut-color-generator-phrase" = "设置颜色生成器";
+"shortcut-color-generator-phrase" = "设置色彩产生器";
 
-"shortcut-color-generator-phrase-osc" = "OSC 设置颜色生成器";
+"shortcut-color-generator-phrase-osc" = "OSC 设置色彩产生器";
 
 "shortcut-connect" = "连接MixEffect";
 
@@ -2060,9 +2070,9 @@
 
 "shortcut-luma-phrase-osc" = "OSC 设置亮度 USK";
 
-"shortcut-pattern-phrase" = "设置模式 USK";
+"shortcut-pattern-phrase" = "设置模形 USK";
 
-"shortcut-pattern-phrase-osc" = "OSC 设置模式 USK";
+"shortcut-pattern-phrase-osc" = "OSC 设置模形 USK";
 
 "shortcut-preview-transition" = "预览转场";
 
@@ -2084,25 +2094,25 @@
 
 "shortcut-supersource-box-size-phrase-osc" = "OSC 为盒子设置尺寸";
 
-"shortcut-transition-dip-phrase" = "设置倾角过渡";
+"shortcut-transition-dip-phrase" = "设置 Dip 转场效果";
 
-"shortcut-transition-dip-phrase-osc" = "OSC 设置倾角过渡";
+"shortcut-transition-dip-phrase-osc" = "OSC 设置 Dip 转场效果";
 
-"shortcut-transition-dve-phrase" = "设置 DVE 转换";
+"shortcut-transition-dve-phrase" = "设置 DVE 转场效果";
 
-"shortcut-transition-dve-phrase-osc" = "OSC 设置 DVE 转换";
+"shortcut-transition-dve-phrase-osc" = "OSC 设置 DVE 转场效果";
 
-"shortcut-transition-mix-phrase" = "设置混合过渡";
+"shortcut-transition-mix-phrase" = "设置 Mix 转场效果";
 
-"shortcut-transition-mix-phrase-osc" = "OSC 设置混合过渡";
+"shortcut-transition-mix-phrase-osc" = "OSC 设置 Mix 转场效果";
 
-"shortcut-transition-sting-phrase" = "设置 Sting 过渡";
+"shortcut-transition-sting-phrase" = "设置 Sting 转场效果";
 
-"shortcut-transition-sting-phrase-osc" = "OSC 设置 Sting 过渡";
+"shortcut-transition-sting-phrase-osc" = "OSC 设置 Sting 转场效果";
 
-"shortcut-transition-wipe-phrase" = "设置擦除过渡";
+"shortcut-transition-wipe-phrase" = "设置 Wipe 转场效果";
 
-"shortcut-transition-wipe-phrase-osc" = "OSC 设置擦除过渡";
+"shortcut-transition-wipe-phrase-osc" = "OSC 设置 Wipe 转场效果";
 
 "shortcuts" = "Shortcuts";
 
@@ -2150,7 +2160,11 @@
 
 "sort-ascending" = "顺序";
 
+"sort-audio-by-state" = "按州订购音频源";
+
 "sort-audio-sources" = "按音频来源排序";
+
+"sort-audio-sources-edit" = "编辑音频源的排序顺序";
 
 "sort-descending" = "倒序";
 
@@ -2274,7 +2288,7 @@
 
 "streaming" = "直播";
 
-"streaming-bitrate-warning" = "流媒体质量未设置。 在开始流式传输或录制之前，在“输出”部分中选择一个。";
+"streaming-bitrate-warning" = "尚未设置直播质素，请在开始直播/录影前于输出章节内设定";
 
 "streaming-config %lld" = "推流设置%lld";
 
@@ -2336,7 +2350,7 @@
 
 "take-the-tour" = "了解功能";
 
-"talkback" = "对讲";
+"talkback" = "对讲器";
 
 "telephoto" = "长焦";
 
@@ -2438,6 +2452,8 @@
 
 "unused" = "未使用";
 
+"update-available" = "可用更新";
+
 "update-preset" = "更新预设";
 
 "upgrade-to-pro" = "获取MixEffect专业版";
@@ -2450,15 +2466,15 @@
 
 "use-box-sources" = "使用盒子来源";
 
-"use-custom-animation" = "使用自定义动画";
+"use-custom-animation" = "使用自订动画";
 
 "use-custom-speed" = "使用自定义速度";
 
 "use-cut-bus" = "使用切换总线";
 
-"use-landscape-layout" = "使用中等的布局";
+"use-landscape-layout" = "使用中型布局";
 
-"use-portrait-layout" = "使用小的布局";
+"use-portrait-layout" = "使用小型布局";
 
 "used" = "已使用";
 
@@ -2496,9 +2512,9 @@
 
 "visual-editor" = "可视化编辑器";
 
-"volume-down" = "音量减小";
+"volume-down" = "音量下降";
 
-"volume-up" = "提高音量";
+"volume-up" = "音量提升";
 
 "wb" = "WB";
 
@@ -2539,3 +2555,75 @@
 "y-suppress" = "Y 抑制";
 
 "zoom" = "变焦";
+
+"audio-monitor-outputs" = "";
+
+"countdown" = "";
+
+"counter" = "";
+
+"countup" = "";
+
+"disable" = "";
+
+"disabled" = "";
+
+"display-clock" = "";
+
+"enable" = "";
+
+"enable-counter-overlay" = "";
+
+"enable-mix-minus" = "";
+
+"engineering" = "";
+
+"hide-when-elapsed" = "";
+
+"level-a" = "";
+
+"level-b" = "";
+
+"mix-minus" = "";
+
+"monitor-audio" = "";
+
+"mute-incoming-talkback" = "";
+
+"number-selected %lld" = "";
+
+"production" = "";
+
+"program-audio" = "";
+
+"remote" = "";
+
+"remote-gvg-100" = "";
+
+"remote-header" = "";
+
+"remote-ptz-visca" = "";
+
+"sdi-3g-output" = "";
+
+"sdi-input %lld" = "";
+
+"sdi-output %lld" = "";
+
+"select-all" = "";
+
+"select-none" = "";
+
+"set-counter" = "";
+
+"start" = "";
+
+"start-from" = "";
+
+"talkback %@" = "";
+
+"talkback-enable" = "";
+
+"video-mode-downconvert" = "";
+
+"video-mode-multiview" = "";

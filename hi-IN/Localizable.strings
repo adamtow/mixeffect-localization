@@ -58,6 +58,8 @@
 
 "about" = "About MixEffect";
 
+"about-pro" = "About MixEffect Pro";
+
 "accent-color" = "Accent Color";
 
 "action" = "Action";
@@ -93,6 +95,8 @@
 "all-off" = "All Off";
 
 "all-on" = "All On";
+
+"allow-osc-in-view-only-mode" = "Allow OSC in View Only Mode";
 
 "allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
 
@@ -159,6 +163,8 @@
 "audio-meters" = "Audio Meters";
 
 "audio-monitor" = "Audio Monitor";
+
+"audio-monitor-outputs" = "Audio Monitor Outputs Are";
 
 "audio-upload" = "Upload Audio";
 
@@ -414,6 +420,12 @@
 
 "count-selected %lld" = "Presets Selected: %lld";
 
+"countdown" = "Countdown";
+
+"counter" = "Counter";
+
+"countup" = "Countup";
+
 "crop" = "Crop";
 
 "crosspoint-selector" = "Crosspoint Selector";
@@ -506,17 +518,23 @@
 
 "direction" = "Direction";
 
+"disable" = "Disable";
+
 "disable-output-long-press" = "Disable Long Press in Output Panel";
 
 "disable-sleep" = "Disable Auto-Lock";
 
 "disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
 
+"disabled" = "Disabled";
+
 "disconnect" = "Disconnect";
 
 "dismiss-on-tap" = "Dismiss On Tap";
 
 "display" = "Display";
+
+"display-clock" = "Display Clock";
 
 "display-status" = "Display Status";
 
@@ -656,6 +674,8 @@
 
 "effects" = "Effects";
 
+"enable" = "Enable";
+
 "enable-atem-simulator" = "Enable ATEM Simulator";
 
 "enable-automations" = "Enable Automations";
@@ -667,6 +687,8 @@
 "enable-cascade" = "Enable Cascade";
 
 "enable-companion-feedback" = "Enable Companion Feedback";
+
+"enable-counter-overlay" = "Enable Counter (Output 1)";
 
 "enable-crop" = "Enable Crop";
 
@@ -680,7 +702,11 @@
 
 "enable-mask" = "Enable Mask";
 
+"enable-mix-minus" = "Enable Mix Minus On";
+
 "enable-osc" = "Enable OSC";
+
+"enable-osc-in-settings" = "OSC must be enabled in MixEffect Settings > Automations";
 
 "enable-osc-server" = "Enable OSC Server";
 
@@ -697,6 +723,8 @@
 "enable-visual-editor" = "Enable Visual Editor";
 
 "eng-talk" = "Eng Talk";
+
+"engineering" = "Engineering";
 
 "equalizer" = "Equalizer";
 
@@ -774,7 +802,7 @@
 
 "fader-bar-vertical" = "Fader Bar (Vertical)";
 
-"fader-gain" = "Fader Gain";
+"fader-gain" = "Fader Level";
 
 "fairlight-audio" = "Fairlight Audio";
 
@@ -863,6 +891,8 @@
 "help" = "Help";
 
 "hide-descriptions" = "Hide Descriptions";
+
+"hide-when-elapsed" = "Hide When Elapsed";
 
 "high-detail" = "High Detail";
 
@@ -1104,6 +1134,10 @@
 
 "less-than" = "Less Than";
 
+"level-a" = "A";
+
+"level-b" = "B (Normal)";
+
 "licenses" = "Licenses";
 
 "lift" = "Lift";
@@ -1306,6 +1340,8 @@
 
 "mix-effects-bus" = "Mix Effects Bus";
 
+"mix-minus" = "Mix Minus";
+
 "mix-option" = "Mix Option";
 
 "mix-rate" = "Mix Rate";
@@ -1321,6 +1357,8 @@
 "ml" = "ML";
 
 "monitor" = "Monitor";
+
+"monitor-audio" = "Monitor Audio";
 
 "more" = "More";
 
@@ -1343,6 +1381,8 @@
 "multiview" = "Multiview";
 
 "mute" = "Mute";
+
+"mute-incoming-talkback" = "Mute Incoming Talkback On";
 
 "mute-talkback" = "Talkback Mute";
 
@@ -1420,11 +1460,15 @@
 
 "no-media-selected" = "No Media Selected";
 
+"no-network-connection" = "No Network Connection";
+
 "no-panels" = "No Panels Defined for This Page";
 
 "none" = "None";
 
 "notes" = "Notes";
+
+"number-selected %lld" = "%lld Selected";
 
 "off" = "Off";
 
@@ -1724,6 +1768,8 @@
 
 "prod-talk" = "Prod Talk";
 
+"production" = "Production";
+
 "profile-error-save" = "Error Saving Profile";
 
 "profile-error-save-message" = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
@@ -1735,6 +1781,8 @@
 "profiles" = "Streaming Profiles";
 
 "program" = "Program";
+
+"program-audio" = "Program Audio";
 
 "program-button" = "Prog";
 
@@ -1798,7 +1846,15 @@
 
 "remaining" = "Remaining";
 
+"remote" = "Remote";
+
+"remote-gvg-100" = "External Control Via GVG 100";
+
+"remote-header" = "Use RS-422 Control Port To";
+
 "remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
+
+"remote-ptz-visca" = "PTZ Control Via VISCA";
 
 "remote-webview" = "Remote Webview";
 
@@ -1890,6 +1946,8 @@
 
 "review" = "Rate MixEffect";
 
+"review-pro" = "Rate MixEffect Pro";
+
 "rgb" = "RGB";
 
 "right" = "Right";
@@ -1918,6 +1976,12 @@
 
 "save-preset-icon" = "Save Preset Icon";
 
+"sdi-3g-output" = "3G SDI Output";
+
+"sdi-input %lld" = "SDI Input %lld";
+
+"sdi-output %lld" = "SDI Output %lld";
+
 "search" = "Search";
 
 "search-clear" = "Clear Search";
@@ -1936,9 +2000,13 @@
 
 "select" = "Select";
 
+"select-all" = "Select All";
+
 "select-bus" = "Select Bus";
 
 "select-macro" = "Select Macro";
+
+"select-none" = "Select None";
 
 "send-osc-message" = "Send OSC Message";
 
@@ -1967,6 +2035,8 @@
 "set-b" = "Set B";
 
 "set-box-settings" = "Set Box Settings";
+
+"set-counter" = "Set Counter";
 
 "set-default" = "Set Default";
 
@@ -2150,7 +2220,11 @@
 
 "sort-ascending" = "Sort Ascending";
 
+"sort-audio-by-state" = "Order Audio Sources by State";
+
 "sort-audio-sources" = "Sort Audio Sources";
+
+"sort-audio-sources-edit" = "Edit Sort Order of Audio Sources";
 
 "sort-descending" = "Sort Descending";
 
@@ -2185,6 +2259,10 @@
 "ssrc-faster" = "Increase Transition Speed";
 
 "ssrc-slower" = "Decrease Transition Speed";
+
+"start" = "Start";
+
+"start-from" = "Start From";
 
 "start-trial" = "30-Day Trial";
 
@@ -2338,6 +2416,10 @@
 
 "talkback" = "Talkback";
 
+"talkback %@" = "Talkback - %@";
+
+"talkback-enable" = "Enable all talkback on SDI inputs and outputs";
+
 "telephoto" = "Telephoto";
 
 "testing" = "Testing";
@@ -2438,6 +2520,8 @@
 
 "unused" = "Unused";
 
+"update-available" = "Update Available";
+
 "update-preset" = "Update Preset";
 
 "upgrade-to-pro" = "Get MixEffect Pro";
@@ -2481,6 +2565,10 @@
 "video-mode" = "Video Mode";
 
 "video-mode-change" = "Changing the video mode may erase the frames in the media pool.";
+
+"video-mode-downconvert" = "Down Convert Video Mode";
+
+"video-mode-multiview" = "Multiview Video Mode";
 
 "video-out" = "Vid Out";
 
