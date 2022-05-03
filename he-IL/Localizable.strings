@@ -2627,3 +2627,5 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
+
+"macro-highlight-last-run" = "Show Last Run Macro Indicator";
