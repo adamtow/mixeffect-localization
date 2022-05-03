@@ -2629,3 +2629,5 @@
 "enable" = "Włącz";
 
 "disable" = "Wyłącz";
+
+"macro-highlight-last-run" = "";
