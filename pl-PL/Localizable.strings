@@ -164,6 +164,8 @@
 
 "audio-monitor" = "Monitor audio";
 
+"audio-monitor-outputs" = "Monitorowane wyjścia audio";
+
 "audio-upload" = "Wyślij audio";
 
 "authentication" = "Uwierzytelnienie";
@@ -414,9 +416,17 @@
 
 "copy-from" = "Kopiuj pole z";
 
+"copy-settings" = "Kopiuj ustawienia";
+
 "copy-url" = "Kopiuj URL";
 
 "count-selected %lld" = "Wybrany szablon: %lld";
+
+"countdown" = "Odliczanie";
+
+"counter" = "Odliczanie";
+
+"countup" = "Odliczanie w górę";
 
 "crop" = "Przytnij";
 
@@ -510,17 +520,23 @@
 
 "direction" = "Kierunek";
 
+"disable" = "Wyłącz";
+
 "disable-output-long-press" = "Wyłącz długie naciśnięcie w panelu wyjścia";
 
 "disable-sleep" = "Pozostaw aktywne";
 
 "disable-sleep-alert" = "Urządzenie nie będzie wygaszać ekranu kiedy aplikacja MixEffect jest aktywna.";
 
+"disabled" = "Wyłączone";
+
 "disconnect" = "Rozłącz";
 
 "dismiss-on-tap" = "Usuń po dotknięciu";
 
 "display" = "Wyświetlanie";
+
+"display-clock" = "Wyświetl zegar";
 
 "display-status" = "Status wyświetlania";
 
@@ -660,6 +676,8 @@
 
 "effects" = "Efekty";
 
+"enable" = "Włącz";
+
 "enable-atem-simulator" = "Włącz symulację przełącznika ATEM";
 
 "enable-automations" = "Włącz automatyzacje";
@@ -672,6 +690,8 @@
 
 "enable-companion-feedback" = "Włącz komunikaty z aplikacji Companion";
 
+"enable-counter-overlay" = "Włącz odliczanie (Wyjście 1)";
+
 "enable-crop" = "Włącz przycinanie";
 
 "enable-flying-key" = "Włącz klucz pływający";
@@ -683,6 +703,8 @@
 "enable-key" = "Włącz kluczowanie";
 
 "enable-mask" = "Włącz maskę";
+
+"enable-mix-minus" = "Włącz Mix Minus";
 
 "enable-osc" = "Włącz zdalne sterowanie (OSC)";
 
@@ -703,6 +725,8 @@
 "enable-visual-editor" = "Włącz edytor wizualny";
 
 "eng-talk" = "Czytanie po angielsku";
+
+"engineering" = "Inżynieria";
 
 "equalizer" = "Korektor (EQ)";
 
@@ -869,6 +893,8 @@
 "help" = "Wsparcie";
 
 "hide-descriptions" = "Ukryj opisy";
+
+"hide-when-elapsed" = "Ukryj po zakończeniu";
 
 "high-detail" = "Detal wysoki";
 
@@ -1110,6 +1136,10 @@
 
 "less-than" = "Mniejszy od";
 
+"level-a" = "A";
+
+"level-b" = "B (Normalny)";
+
 "licenses" = "Licencje";
 
 "lift" = "Podniesienie";
@@ -1175,6 +1205,8 @@
 "macro-edit" = "Edytuj makro";
 
 "macro-edit %lld" = "Edytuj makro %lld";
+
+"macro-highlight-last-run" = "Oznacz ostatnio uruchomione makro";
 
 "macro-icon-color" = "Kolor ikony";
 
@@ -1312,6 +1344,8 @@
 
 "mix-effects-bus" = "Szyna MixEffect";
 
+"mix-minus" = "Mix Minus";
+
 "mix-option" = "Opcje miksu";
 
 "mix-rate" = "Szybkość";
@@ -1327,6 +1361,8 @@
 "ml" = "ML";
 
 "monitor" = "Monitoruj";
+
+"monitor-audio" = "Audio Monitora";
 
 "more" = "Więcej";
 
@@ -1349,6 +1385,8 @@
 "multiview" = "Widok studia (Multiview)";
 
 "mute" = "Wycisz";
+
+"mute-incoming-talkback" = "Wycisz przychodzący interkom";
 
 "mute-talkback" = "Wycisz odsłuch";
 
@@ -1433,6 +1471,8 @@
 "none" = "Brak";
 
 "notes" = "Notatki";
+
+"number-selected %lld" = "%lld wybrano";
 
 "off" = "Wyłącz";
 
@@ -1734,6 +1774,8 @@
 
 "prod-talk" = "Prod Talk";
 
+"production" = "Produkcja";
+
 "profile-error-save" = "Błąd przy zapisywaniu";
 
 "profile-error-save-message" = "Profil nie mógł zostać zapisany. Upewnij się, że częstotliwości próbkowania są właściwe i ich wartości mieszczą się w granicach.";
@@ -1745,6 +1787,8 @@
 "profiles" = "Profile strumieniowania";
 
 "program" = "Program";
+
+"program-audio" = "Audio Programu";
 
 "program-button" = "PRGM";
 
@@ -1808,7 +1852,15 @@
 
 "remaining" = "Pozostało";
 
+"remote" = "Zdalne sterowanie";
+
+"remote-gvg-100" = "Sterowanie (standard GVG 100)";
+
+"remote-header" = "Użyj zdalnego sterowania RS-422 do";
+
 "remote-hyperdeck-not-available" = "Zdalne zarządzanie nie jest włączone na urządzeniu HyperDeck";
+
+"remote-ptz-visca" = "Sterowanie PTZ (standard VISCA)";
 
 "remote-webview" = "Zdalny podgląd internetowy";
 
@@ -1930,6 +1982,12 @@
 
 "save-preset-icon" = "Zapisz ikonę szablonu";
 
+"sdi-3g-output" = "Wyjście 3G SDI";
+
+"sdi-input %lld" = "Wejście SDI %lld";
+
+"sdi-output %lld" = "Wyjście SDI %lld";
+
 "search" = "Szukaj";
 
 "search-clear" = "Wyczyść wyszukiwanie";
@@ -1948,9 +2006,13 @@
 
 "select" = "Wybór";
 
+"select-all" = "Wybierz wszystkie";
+
 "select-bus" = "Szyna wyboru";
 
 "select-macro" = "Wybierz makro";
+
+"select-none" = "Skasuj wybór";
 
 "send-osc-message" = "Wyślij wiadomość OSC";
 
@@ -1979,6 +2041,8 @@
 "set-b" = "Nastaw B";
 
 "set-box-settings" = "Wybór ustawień pola";
+
+"set-counter" = "Ustaw odliczanie";
 
 "set-default" = "Ustaw domyślne";
 
@@ -2202,6 +2266,10 @@
 
 "ssrc-slower" = "Zwolnij przejście";
 
+"start" = "Start";
+
+"start-from" = "Rozpocznij od";
+
 "start-trial" = "30-dniowy okres próbny";
 
 "startup-state" = "Stan początkowy";
@@ -2354,6 +2422,10 @@
 
 "talkback" = "Odsłuch";
 
+"talkback %@" = "Interkom - %@";
+
+"talkback-enable" = "Włącz interkom na wszystkich wejściach/wyjściach SDI";
+
 "telephoto" = "Telefoto";
 
 "testing" = "Testowanie";
@@ -2500,6 +2572,10 @@
 
 "video-mode-change" = "Zmiana trybu wideo może spowodować wyczyszczenie Biblioteki Mediów.";
 
+"video-mode-downconvert" = "Tryb wideo skalowany w dół";
+
+"video-mode-multiview" = "Tryb wideo studia (Multiview)";
+
 "video-out" = "Wyjście wideo";
 
 "view-all" = "Zobacz wszystkie szablony";
@@ -2557,77 +2633,3 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
-
-"video-mode-multiview" = "Tryb wideo studia (Multiview)";
-
-"video-mode-downconvert" = "Tryb wideo skalowany w dół";
-
-"sdi-3g-output" = "Wyjście 3G SDI";
-
-"level-a" = "A";
-
-"level-b" = "B (Normalny)";
-
-"talkback-enable" = "Włącz interkom na wszystkich wejściach/wyjściach SDI";
-
-"production" = "Produkcja";
-
-"engineering" = "Inżynieria";
-
-"mute-incoming-talkback" = "Wycisz przychodzący interkom";
-
-"sdi-input %lld" = "Wejście SDI %lld";
-
-"enable-mix-minus" = "Włącz Mix Minus";
-
-"sdi-output %lld" = "Wyjście SDI %lld";
-
-"mix-minus" = "Mix Minus";
-
-"talkback %@" = "Interkom - %@";
-
-"remote" = "Zdalne sterowanie";
-
-"remote-header" = "Użyj zdalnego sterowania RS-422 do";
-
-"disabled" = "Wyłączone";
-
-"remote-ptz-visca" = "Sterowanie PTZ (standard VISCA)";
-
-"remote-gvg-100" = "Sterowanie (standard GVG 100)";
-
-"audio-monitor-outputs" = "Monitorowane wyjścia audio";
-
-"program-audio" = "Audio Programu";
-
-"monitor-audio" = "Audio Monitora";
-
-"select-all" = "Wybierz wszystkie";
-
-"number-selected %lld" = "%lld wybrano";
-
-"select-none" = "Skasuj wybór";
-
-"display-clock" = "Wyświetl zegar";
-
-"counter" = "Odliczanie";
-
-"start-from" = "Rozpocznij od";
-
-"hide-when-elapsed" = "Ukryj po zakończeniu";
-
-"start" = "Start";
-
-"countdown" = "Odliczanie";
-
-"countup" = "Odliczanie w górę";
-
-"enable-counter-overlay" = "Włącz odliczanie (Wyjście 1)";
-
-"set-counter" = "Ustaw odliczanie";
-
-"enable" = "Włącz";
-
-"disable" = "Wyłącz";
-
-"macro-highlight-last-run" = "";

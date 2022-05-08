@@ -416,6 +416,8 @@
 
 "copy-from" = "Copy Box From";
 
+"copy-settings" = "Copy Settings";
+
 "copy-url" = "Copy URL";
 
 "count-selected %lld" = "Presets Selected: %lld";
@@ -1203,6 +1205,8 @@
 "macro-edit" = "Edit Macro";
 
 "macro-edit %lld" = "Edit Macro %lld";
+
+"macro-highlight-last-run" = "Show Last Run Macro Indicator";
 
 "macro-icon-color" = "Icon Color";
 
@@ -2627,5 +2631,3 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
-
-"macro-highlight-last-run" = "Show Last Run Macro Indicator";

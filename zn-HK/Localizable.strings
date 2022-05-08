@@ -164,6 +164,8 @@
 
 "audio-monitor" = "聲效監聽器";
 
+"audio-monitor-outputs" = "聲音監察輸出為";
+
 "audio-upload" = "上傳音訊";
 
 "authentication" = "認證";
@@ -414,9 +416,17 @@
 
 "copy-from" = "複製盒子";
 
+"copy-settings" = "複製設置";
+
 "copy-url" = "複製網址";
 
 "count-selected %lld" = "已選擇預設: %lld";
+
+"countdown" = "倒數";
+
+"counter" = "計時器";
+
+"countup" = "順數";
 
 "crop" = "剪裁";
 
@@ -510,17 +520,23 @@
 
 "direction" = "方向";
 
+"disable" = "禁用";
+
 "disable-output-long-press" = "在輸出面板中禁用長按";
 
 "disable-sleep" = "取消睡眠功能";
 
 "disable-sleep-alert" = "裝置在 MixEffect 運行時不會進入睡眠狀態";
 
+"disabled" = "禁用";
+
 "disconnect" = "中斷連線";
 
 "dismiss-on-tap" = "點擊後關閉";
 
 "display" = "顯示";
+
+"display-clock" = "顯示時鐘";
 
 "display-status" = "顯示狀態";
 
@@ -660,6 +676,8 @@
 
 "effects" = "效果";
 
+"enable" = "啟用";
+
 "enable-atem-simulator" = "啟用 ATEM 模擬器";
 
 "enable-automations" = "啟用自動執行";
@@ -672,6 +690,8 @@
 
 "enable-companion-feedback" = "啟用 Companion 回饋";
 
+"enable-counter-overlay" = "啟用計數器(輸出 1)";
+
 "enable-crop" = "啟用剪裁";
 
 "enable-flying-key" = "啟用 Flying Key";
@@ -683,6 +703,8 @@
 "enable-key" = "啟用 Key";
 
 "enable-mask" = "啟用遮蔽";
+
+"enable-mix-minus" = "啟用 Mix Minus";
 
 "enable-osc" = "啟用 OSC";
 
@@ -703,6 +725,8 @@
 "enable-visual-editor" = "啟用視覺編輯器";
 
 "eng-talk" = "Eng Talk";
+
+"engineering" = "工程";
 
 "equalizer" = "等化器";
 
@@ -869,6 +893,8 @@
 "help" = "幫助";
 
 "hide-descriptions" = "隱藏描述";
+
+"hide-when-elapsed" = "當過去後隱藏";
 
 "high-detail" = "High Detail";
 
@@ -1110,6 +1136,10 @@
 
 "less-than" = "少於";
 
+"level-a" = "A";
+
+"level-b" = "B (標準)";
+
 "licenses" = "授權";
 
 "lift" = "Lift";
@@ -1175,6 +1205,8 @@
 "macro-edit" = "編輯巨集";
 
 "macro-edit %lld" = "編輯巨集 %lld";
+
+"macro-highlight-last-run" = "顯示上次運行宏指標";
 
 "macro-icon-color" = "圖示顏色";
 
@@ -1312,6 +1344,8 @@
 
 "mix-effects-bus" = "混合效果排";
 
+"mix-minus" = "Mix Minus";
+
 "mix-option" = "混合選項";
 
 "mix-rate" = "混合時長";
@@ -1327,6 +1361,8 @@
 "ml" = "ML";
 
 "monitor" = "監察";
+
+"monitor-audio" = "監察源聲音";
 
 "more" = "更多";
 
@@ -1349,6 +1385,8 @@
 "multiview" = "多畫面顯示";
 
 "mute" = "靜音";
+
+"mute-incoming-talkback" = "靜音所有輸入對講器";
 
 "mute-talkback" = "靜音師對講器";
 
@@ -1433,6 +1471,8 @@
 "none" = "沒有";
 
 "notes" = "筆記";
+
+"number-selected %lld" = "已選擇 %lld";
 
 "off" = "關閉";
 
@@ -1734,6 +1774,8 @@
 
 "prod-talk" = "Prod Talk";
 
+"production" = "製作";
+
 "profile-error-save" = "儲存設定檔時發生錯誤";
 
 "profile-error-save-message" = "儲存設定檔時發生錯誤. 請確保位元速率為有效及在指範圍內";
@@ -1745,6 +1787,8 @@
 "profiles" = "串流設定檔";
 
 "program" = "節目";
+
+"program-audio" = "直播源聲音";
 
 "program-button" = "節目";
 
@@ -1808,7 +1852,15 @@
 
 "remaining" = "剩餘";
 
+"remote" = "遙控";
+
+"remote-gvg-100" = "外部控制經 GVG 100";
+
+"remote-header" = "使用 RS-422 控器埠至";
+
 "remote-hyperdeck-not-available" = "無法在這 HyperDeck 上進行遠距";
+
+"remote-ptz-visca" = "PTZ 控制經 VISCA";
 
 "remote-webview" = "遠端網絡視窗";
 
@@ -1930,6 +1982,12 @@
 
 "save-preset-icon" = "儲存預設圖示";
 
+"sdi-3g-output" = "3G SDI 輸出";
+
+"sdi-input %lld" = "SDI 輸入 %lld";
+
+"sdi-output %lld" = "SDI 輸出 %lld";
+
 "search" = "搜尋";
 
 "search-clear" = "清空搜尋";
@@ -1948,9 +2006,13 @@
 
 "select" = "選擇";
 
+"select-all" = "全選";
+
 "select-bus" = "選擇匯流排";
 
 "select-macro" = "選擇巨集";
+
+"select-none" = "全部不選";
 
 "send-osc-message" = "傳送 OSC 訊息";
 
@@ -1979,6 +2041,8 @@
 "set-b" = "設定 B";
 
 "set-box-settings" = "設置盒設定";
+
+"set-counter" = "設定計時器";
 
 "set-default" = "設定預設";
 
@@ -2202,6 +2266,10 @@
 
 "ssrc-slower" = "減慢過場速度";
 
+"start" = "開始";
+
+"start-from" = "開始為";
+
 "start-trial" = "30日試用";
 
 "startup-state" = "開啟時狀態";
@@ -2354,6 +2422,10 @@
 
 "talkback" = "對講器";
 
+"talkback %@" = "對講器 - %@";
+
+"talkback-enable" = "啟用所有於SDI 輸入及輸出的對講器";
+
 "telephoto" = "遠攝鏡頭";
 
 "testing" = "測試中";
@@ -2500,6 +2572,10 @@
 
 "video-mode-change" = "更改視訊模式可能會删除所有在媒體池內的幀";
 
+"video-mode-downconvert" = "降頻視訊模式";
+
+"video-mode-multiview" = "多畫面分割模式";
+
 "video-out" = "視訊輸出";
 
 "view-all" = "查看全部預設";
@@ -2557,77 +2633,3 @@
 "y-suppress" = "Y 壓制";
 
 "zoom" = "放大";
-
-"audio-monitor-outputs" = "";
-
-"countdown" = "";
-
-"counter" = "";
-
-"countup" = "";
-
-"disable" = "";
-
-"disabled" = "";
-
-"display-clock" = "";
-
-"enable" = "";
-
-"enable-counter-overlay" = "";
-
-"enable-mix-minus" = "";
-
-"engineering" = "";
-
-"hide-when-elapsed" = "";
-
-"level-a" = "";
-
-"level-b" = "";
-
-"mix-minus" = "";
-
-"monitor-audio" = "";
-
-"mute-incoming-talkback" = "";
-
-"number-selected %lld" = "";
-
-"production" = "";
-
-"program-audio" = "";
-
-"remote" = "";
-
-"remote-gvg-100" = "";
-
-"remote-header" = "";
-
-"remote-ptz-visca" = "";
-
-"sdi-3g-output" = "";
-
-"sdi-input %lld" = "";
-
-"sdi-output %lld" = "";
-
-"select-all" = "";
-
-"select-none" = "";
-
-"set-counter" = "";
-
-"start" = "";
-
-"start-from" = "";
-
-"talkback %@" = "";
-
-"talkback-enable" = "";
-
-"video-mode-downconvert" = "";
-
-"video-mode-multiview" = "";
-
-"macro-highlight-last-run" = "";
