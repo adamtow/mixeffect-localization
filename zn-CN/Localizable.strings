@@ -102,6 +102,12 @@
 
 "analog-audio-inputs" = "模拟输入";
 
+"analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
+
+"analog-audio-inputs-4dbu" = "-10 dBV";
+
+"analog-audio-inputs-set" = "将模拟音频输入电平设置为";
+
 "animate-supersource" = "转换SuperSource布局时带有动画效果";
 
 "animate-supersource-short" = "转换布局时带有动画效果";
@@ -523,6 +529,8 @@
 "disable" = "禁用";
 
 "disable-output-long-press" = "在输出面板中禁用长按";
+
+"disable-sidebar" = "禁用侧边栏";
 
 "disable-sleep" = "禁止自动锁定";
 
@@ -2107,6 +2115,10 @@
 "shortcut-connect" = "连接MixEffect";
 
 "shortcut-connect-description" = "在MixEffect中连接你的切换台.";
+
+"shortcut-counter-overlay-phrase" = "设定计时器";
+
+"shortcut-counter-overlay-phrase-osc" = "OSC 设定计时器";
 
 "shortcut-cut" = "硬切";
 

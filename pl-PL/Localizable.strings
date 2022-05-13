@@ -102,6 +102,12 @@
 
 "analog-audio-inputs" = "Wejścia analogowe";
 
+"analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
+
+"analog-audio-inputs-4dbu" = "-10 dBV";
+
+"analog-audio-inputs-set" = "Ustaw poziom analogowego wejścia audio na";
+
 "animate-supersource" = "Animuj przejścia układów SuperŹródła";
 
 "animate-supersource-short" = "Animuj przejścia układów";
@@ -523,6 +529,8 @@
 "disable" = "Wyłącz";
 
 "disable-output-long-press" = "Wyłącz długie naciśnięcie w panelu wyjścia";
+
+"disable-sidebar" = "Wyłącz pasek boczny";
 
 "disable-sleep" = "Pozostaw aktywne";
 
@@ -2109,6 +2117,10 @@
 "shortcut-connect" = "Połącz do MixEffect";
 
 "shortcut-connect-description" = "Najpierw połącz się z jednym ze swoich przełączników w MixEffect.";
+
+"shortcut-counter-overlay-phrase" = "Ustaw odliczanie";
+
+"shortcut-counter-overlay-phrase-osc" = "OSC Ustaw odliczanie";
 
 "shortcut-cut" = "Cięcie";
 

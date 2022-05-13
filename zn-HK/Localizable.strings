@@ -102,6 +102,12 @@
 
 "analog-audio-inputs" = "模擬輸入";
 
+"analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
+
+"analog-audio-inputs-4dbu" = "-10 dBV";
+
+"analog-audio-inputs-set" = "將模擬音頻輸入電平設置為";
+
 "animate-supersource" = "轉換 SuperSource 佈局時帶有效果";
 
 "animate-supersource-short" = "轉換佈局時帶有效果";
@@ -523,6 +529,8 @@
 "disable" = "禁用";
 
 "disable-output-long-press" = "在輸出面板中禁用長按";
+
+"disable-sidebar" = "禁用側邊欄";
 
 "disable-sleep" = "取消睡眠功能";
 
@@ -2109,6 +2117,10 @@
 "shortcut-connect" = "連接 MixEffect";
 
 "shortcut-connect-description" = "連接你的控制器至 MixEffect";
+
+"shortcut-counter-overlay-phrase" = "設定計時器";
+
+"shortcut-counter-overlay-phrase-osc" = "OSC 設定計時器";
 
 "shortcut-cut" = "硬切";
 

@@ -102,6 +102,12 @@
 
 "analog-audio-inputs" = "Analog Inputs";
 
+"analog-audio-inputs-10dbv" = "-10dBv";
+
+"analog-audio-inputs-4dbu" = "+4dBu (Normal)";
+
+"analog-audio-inputs-set" = "Set analog audio input level to";
+
 "animate-supersource" = "Animate SuperSource Layout Transitions";
 
 "animate-supersource-short" = "Animate When Changing Layouts";
@@ -523,6 +529,8 @@
 "disable" = "Disable";
 
 "disable-output-long-press" = "Disable Long Press in Output Panel";
+
+"disable-sidebar" = "Disable Sidebar";
 
 "disable-sleep" = "Disable Auto-Lock";
 
@@ -2107,6 +2115,10 @@
 "shortcut-connect" = "Connect to MixEffect";
 
 "shortcut-connect-description" = "Connect to one of your switchers in MixEffect.";
+
+"shortcut-counter-overlay-phrase" = "Set Counter";
+
+"shortcut-counter-overlay-phrase-osc" = "OSC Set Counter";
 
 "shortcut-cut" = "Cut";
 
