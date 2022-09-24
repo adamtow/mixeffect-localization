@@ -58,6 +58,8 @@
 
 "about" = "Sobre MixEffect";
 
+"about-pro" = "About MixEffect Pro";
+
 "accent-color" = "Accent Color";
 
 "action" = "Accion";
@@ -78,6 +80,8 @@
 
 "advanced" = "Avanzado";
 
+"advanced-settings" = "Advanced Settings";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
@@ -92,9 +96,19 @@
 
 "all-on" = "Todo Prendido";
 
+"allow-osc-in-view-only-mode" = "Allow OSC in View Only Mode";
+
 "allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
 
+"always-open-to-default-section" = "Always Open the Default Section";
+
 "analog-audio-inputs" = "Analog Inputs";
+
+"analog-audio-inputs-10dbv" = "-10dBv";
+
+"analog-audio-inputs-4dbu" = "+4dBu (Normal)";
+
+"analog-audio-inputs-set" = "Set analog audio input level to";
 
 "animate-supersource" = "Animate SuperSource Layout Transitions";
 
@@ -121,6 +135,8 @@
 "are-less-than" = "Son menos de";
 
 "art" = "Art";
+
+"art-preview" = "Vista previa del arte";
 
 "ascending" = "Ascendente";
 
@@ -156,6 +172,10 @@
 
 "audio-meters" = "Audio Meters";
 
+"audio-monitor" = "Audio Monitor";
+
+"audio-monitor-outputs" = "Audio Monitor Outputs Are";
+
 "audio-upload" = "Subir Audio";
 
 "authentication" = "Autenticacion";
@@ -170,7 +190,15 @@
 
 "auto-video-standard" = "Auto Video Standard";
 
+"automation" = "Automation";
+
+"automation-create" = "Create Automation";
+
 "automations" = "Automations";
+
+"automations-box %lld" = "Automations - Box %lld";
+
+"automations-preset" = "Automations - Preset";
 
 "aux" = "AUX";
 
@@ -398,9 +426,17 @@
 
 "copy-from" = "Copy Box From";
 
+"copy-settings" = "Copy Settings";
+
 "copy-url" = "Copy URL";
 
 "count-selected %lld" = "Presets Selected: %lld";
+
+"countdown" = "Countdown";
+
+"counter" = "Counter";
+
+"countup" = "Countup";
 
 "crop" = "Recortar";
 
@@ -413,6 +449,8 @@
 "cursor-size" = "Cursor Size";
 
 "custom" = "Custom";
+
+"custom-animation" = "Custom Animation";
 
 "custom-rate" = "Custom Rate…";
 
@@ -492,17 +530,27 @@
 
 "direction" = "Direccion";
 
+"disable" = "Disable";
+
 "disable-output-long-press" = "Disable Long Press in Output Panel";
+
+"disable-sidebar" = "Disable Sidebar";
 
 "disable-sleep" = "Disable Auto-Lock";
 
 "disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
+
+"disable-update-banner" = "Ocultar banner de actualización";
+
+"disabled" = "Disabled";
 
 "disconnect" = "Desconectar";
 
 "dismiss-on-tap" = "Dismiss On Tap";
 
 "display" = "Display";
+
+"display-clock" = "Display Clock";
 
 "display-status" = "Display Status";
 
@@ -529,6 +577,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "Duplicar";
+
+"duration" = "Duration";
 
 "dve" = "DVE";
 
@@ -640,6 +690,8 @@
 
 "effects" = "Effects";
 
+"enable" = "Enable";
+
 "enable-atem-simulator" = "Enable ATEM Simulator";
 
 "enable-automations" = "Enable Automations";
@@ -651,6 +703,8 @@
 "enable-cascade" = "Enable Cascade";
 
 "enable-companion-feedback" = "Enable Companion Feedback";
+
+"enable-counter-overlay" = "Enable Counter (Output 1)";
 
 "enable-crop" = "Enable Crop";
 
@@ -664,7 +718,11 @@
 
 "enable-mask" = "Enable Mask";
 
+"enable-mix-minus" = "Enable Mix Minus On";
+
 "enable-osc" = "Enable OSC";
+
+"enable-osc-in-settings" = "OSC must be enabled in MixEffect Settings > Automations";
 
 "enable-osc-server" = "Enable OSC Server";
 
@@ -681,6 +739,8 @@
 "enable-visual-editor" = "Enable Visual Editor";
 
 "eng-talk" = "Eng Talk";
+
+"engineering" = "Engineering";
 
 "equalizer" = "Equalizer";
 
@@ -739,8 +799,6 @@
 "error.saveFailed" = "The file could not be saved.";
 
 "expander" = "Expander";
-
-"experimental-settings" = "Experimental Settings";
 
 "export-all-presets" = "Export All Presets";
 
@@ -824,6 +882,8 @@
 
 "gate" = "Gate";
 
+"gb" = "GB";
+
 "gestures-and-haptics" = "Gestures and Haptics";
 
 "get-shortcut" = "Get";
@@ -850,6 +910,8 @@
 
 "hide-descriptions" = "Hide Descriptions";
 
+"hide-when-elapsed" = "Hide When Elapsed";
+
 "high-detail" = "High Detail";
 
 "highlight" = "Highlight";
@@ -863,6 +925,14 @@
 "hour" = "Hora";
 
 "hours" = "Horas";
+
+"http-server" = "HTTP Server";
+
+"http-server-allow-in-view-only-mode" = "Allow HTTP Server in View Only Mode";
+
+"http-server-enable" = "Enable HTTP Server";
+
+"http-server-port" = "HTTP Server Port";
 
 "hue" = "Hue";
 
@@ -1012,6 +1082,12 @@
 
 "interpolation-cubed" = "Cubed";
 
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
+
 "interpolation-inverse-cubed" = "Inverse Cubed";
 
 "interpolation-inverse-squared" = "Inverse Squared";
@@ -1072,17 +1148,15 @@
 
 "layout-ipad" = "iPad";
 
-"layout-landscape" = "Landscape";
-
-"layout-portrait" = "Portrait";
-
-"layout-type" = "Layout";
-
 "left" = "Izquierdo";
 
 "legacy-audio-unsupported" = "Legacy Audio is currently unsupported.";
 
 "less-than" = "Menos que";
+
+"level-a" = "A";
+
+"level-b" = "B (Normal)";
 
 "licenses" = "Licensias";
 
@@ -1111,6 +1185,8 @@
 "locked" = "Locked";
 
 "locked-box-sources" = "Locked Box Sources";
+
+"loop-media-player" = "Loop Stills and Clips in Media Player";
 
 "low-latency" = "Low Latency";
 
@@ -1149,6 +1225,8 @@
 "macro-edit" = "Edit Macro";
 
 "macro-edit %lld" = "Edit Macro %lld";
+
+"macro-highlight-last-run" = "Show Last Run Macro Indicator";
 
 "macro-icon-color" = "Icon Color";
 
@@ -1232,6 +1310,8 @@
 
 "maximize" = "Maximize";
 
+"mb" = "MB";
+
 "media" = "Media";
 
 "media-open" = "Open Media";
@@ -1243,6 +1323,14 @@
 "mediaplayer" = "Media Player";
 
 "mediaplayer %lld" = "MP%lld";
+
+"mediaplayer-1" = "MP1";
+
+"mediaplayer-2" = "MP2";
+
+"mediaplayer-3" = "MP3";
+
+"mediaplayer-4" = "MP4";
 
 "mediaplayer-set" = "Set MP";
 
@@ -1272,7 +1360,7 @@
 
 "minimize" = "Minimize";
 
-"minimize-by" = "Shrink Others Boxes";
+"minimize-by" = "Shrink Other Boxes";
 
 "minimize-off-audio" = "Minimize Disabled Audio Sources";
 
@@ -1285,6 +1373,8 @@
 "mix-abbreviation" = "Mix";
 
 "mix-effects-bus" = "Mix Effects Bus";
+
+"mix-minus" = "Mix Minus";
 
 "mix-option" = "Mix Option";
 
@@ -1301,6 +1391,8 @@
 "ml" = "ML";
 
 "monitor" = "Monitor";
+
+"monitor-audio" = "Monitor Audio";
 
 "more" = "More";
 
@@ -1323,6 +1415,8 @@
 "multiview" = "Multiview";
 
 "mute" = "Mute";
+
+"mute-incoming-talkback" = "Mute Incoming Talkback On";
 
 "mute-talkback" = "Talkback Mute";
 
@@ -1400,11 +1494,15 @@
 
 "no-media-selected" = "No Media Selected";
 
+"no-network-connection" = "No Network Connection";
+
 "no-panels" = "No Panels Defined for This Page";
 
 "none" = "None";
 
 "notes" = "Notes";
+
+"number-selected %lld" = "%lld Selected";
 
 "off" = "Off";
 
@@ -1430,6 +1528,10 @@
 
 "osc" = "OSC";
 
+"osc-arguments" = "Arguments";
+
+"osc-path" = "OSC Path";
+
 "osc-port" = "OSC Port";
 
 "outer-softness" = "Outer Soften";
@@ -1447,24 +1549,6 @@
 "panel-cut-auto" = "Cut / Auto";
 
 "panel-landscape-bottom" = "Landscape Bottom";
-
-"panel-landscape-left" = "Landscape Left";
-
-"panel-landscape-right" = "Landscape Right";
-
-"panel-landscape-top" = "Top"; // Landscape Top
-
-"panel-pad-bottom" = "iPad Bottom";
-
-"panel-pad-left" = "iPad Left";
-
-"panel-pad-right" = "Right"; // iPad Right
-
-"panel-pad-sidebar" = "Sidebar"; // iPad Sidebar
-
-"panel-pad-top" = "Top"; // iPad Top
-
-"panel-portrait" = "Portrait";
 
 "panel-titles" = "Show Panel Titles";
 
@@ -1700,6 +1784,8 @@
 
 "prod-talk" = "Prod Talk";
 
+"production" = "Production";
+
 "profile-error-save" = "Error Saving Profile";
 
 "profile-error-save-message" = "There was an error saving the profile. Make sure the bitrates are all valid and within bounds.";
@@ -1711,6 +1797,8 @@
 "profiles" = "Streaming Profiles";
 
 "program" = "Program";
+
+"program-audio" = "Program Audio";
 
 "program-button" = "Prog";
 
@@ -1750,6 +1838,8 @@
 
 "reconnect" = "Reconnect";
 
+"reconnect-forever" = "Unlimited Auto-Reconnect Attempts";
+
 "reconnect-required" = "Reconnect Required";
 
 "record" = "Record";
@@ -1772,7 +1862,15 @@
 
 "remaining" = "Remaining";
 
+"remote" = "Remote";
+
+"remote-gvg-100" = "External Control Via GVG 100";
+
+"remote-header" = "Use RS-422 Control Port To";
+
 "remote-hyperdeck-not-available" = "Remote is not active on this HyperDeck.";
+
+"remote-ptz-visca" = "PTZ Control Via VISCA";
 
 "remote-webview" = "Remote Webview";
 
@@ -1864,6 +1962,8 @@
 
 "review" = "Rate MixEffect";
 
+"review-pro" = "Rate MixEffect Pro";
+
 "rgb" = "RGB";
 
 "right" = "Right";
@@ -1871,6 +1971,8 @@
 "rotation" = "Rotation";
 
 "run" = "Run";
+
+"run-in-background" = "Ejecutar en el fondo";
 
 "run-mode" = "Run Mode";
 
@@ -1892,6 +1994,12 @@
 
 "save-preset-icon" = "Save Preset Icon";
 
+"sdi-3g-output" = "3G SDI Output";
+
+"sdi-input %lld" = "SDI Input %lld";
+
+"sdi-output %lld" = "SDI Output %lld";
+
 "search" = "Search";
 
 "search-clear" = "Clear Search";
@@ -1910,9 +2018,15 @@
 
 "select" = "Select";
 
+"select-all" = "Select All";
+
 "select-bus" = "Select Bus";
 
 "select-macro" = "Select Macro";
+
+"select-none" = "Select None";
+
+"send-osc-message" = "Send OSC Message";
 
 "server" = "Server";
 
@@ -1939,6 +2053,8 @@
 "set-b" = "Set B";
 
 "set-box-settings" = "Set Box Settings";
+
+"set-counter" = "Set Counter";
 
 "set-default" = "Set Default";
 
@@ -1976,6 +2092,8 @@
 
 "shape-notch" = "Notch";
 
+"shortcut" = "Shortcut";
+
 "shortcut-auto" = "Auto";
 
 "shortcut-auto-phrase" = "Perform Auto Transition";
@@ -1992,13 +2110,37 @@
 
 "shortcut-change-transition-phrase" = "Change Transition Style to Mix";
 
+"shortcut-chroma-advanced-phrase" = "Set Chroma Advanced USK";
+
+"shortcut-chroma-advanced-phrase-osc" = "OSC Set Chroma Advanced USK";
+
+"shortcut-color-generator-phrase" = "Set Color Generator";
+
+"shortcut-color-generator-phrase-osc" = "OSC Set Color Generator";
+
 "shortcut-connect" = "Connect to MixEffect";
 
 "shortcut-connect-description" = "Connect to one of your switchers in MixEffect.";
 
+"shortcut-counter-overlay-phrase" = "Set Counter";
+
+"shortcut-counter-overlay-phrase-osc" = "OSC Set Counter";
+
+"shortcut-counter-overlay-pso-phrase-osc" = "OSC Set Counter Position Size Opacity";
+
 "shortcut-cut" = "Cut";
 
 "shortcut-cut-phrase" = "Perform Cut";
+
+"shortcut-dsk-phrase" = "Set DSK";
+
+"shortcut-dsk-phrase-osc" = "OSC Set DSK";
+
+"shortcut-dve-phrase" = "Set DVE USK";
+
+"shortcut-dve-phrase-osc" = "OSC Set DVE USK";
+
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC Set DVE Size Position Rotation USK";
 
 "shortcut-export-streaming" = "Export Streaming XML";
 
@@ -2008,6 +2150,14 @@
 
 "shortcut-fade-to-black-phrase" = "Fade to Black";
 
+"shortcut-luma-phrase" = "Set Luma USK";
+
+"shortcut-luma-phrase-osc" = "OSC Set Luma USK";
+
+"shortcut-pattern-phrase" = "Set Pattern USK";
+
+"shortcut-pattern-phrase-osc" = "OSC Set Pattern USK";
+
 "shortcut-preview-transition" = "Preview Transition";
 
 "shortcut-preview-transition-phrase" = "Toggle Preview Transition Mode";
@@ -2015,6 +2165,38 @@
 "shortcut-run-macro" = "Run Macro";
 
 "shortcut-run-macro-phrase" = "Run Macro";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Set Position For Box";
+
+"shortcut-supersource-box-full-phrase" = "Set Box";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Set Box";
+
+"shortcut-supersource-box-position-phrase-osc" = "OSC Set Position For Box";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Set Position Size Crop For Box";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC Set Size For Box";
+
+"shortcut-transition-dip-phrase" = "Set Dip Transition";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Set Dip Transition";
+
+"shortcut-transition-dve-phrase" = "Set DVE Transition";
+
+"shortcut-transition-dve-phrase-osc" = "OSC Set DVE Transition";
+
+"shortcut-transition-mix-phrase" = "Set Mix Transition";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Set Mix Transition";
+
+"shortcut-transition-sting-phrase" = "Set Sting Transition";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Set Sting Transition";
+
+"shortcut-transition-wipe-phrase" = "Set Wipe Transition";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Set Wipe Transition";
 
 "shortcuts" = "Shortcuts";
 
@@ -2062,7 +2244,11 @@
 
 "sort-ascending" = "Sort Ascending";
 
+"sort-audio-by-state" = "Order Audio Sources by State";
+
 "sort-audio-sources" = "Sort Audio Sources";
+
+"sort-audio-sources-edit" = "Edit Sort Order of Audio Sources";
 
 "sort-descending" = "Sort Descending";
 
@@ -2098,6 +2284,10 @@
 
 "ssrc-slower" = "Decrease Transition Speed";
 
+"start" = "Start";
+
+"start-from" = "Start From";
+
 "start-trial" = "30-Day Trial";
 
 "startup-state" = "Startup State";
@@ -2109,6 +2299,8 @@
 "startup-state-save" = "Save Startup State";
 
 "startup-state-save-confirm" = "The current settings will be loaded at startup of the ATEM switcher.";
+
+"stereo" = "Estéreo";
 
 "stereo-simulation" = "Stereo Simulation";
 
@@ -2248,6 +2440,10 @@
 
 "talkback" = "Talkback";
 
+"talkback %@" = "Talkback - %@";
+
+"talkback-enable" = "Enable all talkback on SDI inputs and outputs";
+
 "telephoto" = "Telephoto";
 
 "testing" = "Testing";
@@ -2348,6 +2544,8 @@
 
 "unused" = "Unused";
 
+"update-available" = "Update Available";
+
 "update-preset" = "Update Preset";
 
 "upgrade-to-pro" = "Get MixEffect Pro";
@@ -2358,7 +2556,11 @@
 
 "upstream-keys" = "Upstream Keys";
 
+"url" = "URL";
+
 "use-box-sources" = "Use Box Sources";
+
+"use-custom-animation" = "Use Custom Animation";
 
 "use-custom-speed" = "Use Custom Speed";
 
@@ -2389,6 +2591,10 @@
 "video-mode" = "Video Mode";
 
 "video-mode-change" = "Changing the video mode may erase the frames in the media pool.";
+
+"video-mode-downconvert" = "Down Convert Video Mode";
+
+"video-mode-multiview" = "Multiview Video Mode";
 
 "video-out" = "Vid Out";
 
@@ -2447,3 +2653,27 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
+
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
+"mediaplayer-key %lld" = "Media Player Key %lld";
+
+"multiview %lld" = "Multiview %lld";
+
+"multiview-switcher-1" = "Multiview Switcher 1";
+
+"multiview-switcher-2" = "Multiview Switcher 2";
+
+"multiview-switcher-3" = "Multiview Switcher 3";
+
+"multiview-switcher-4" = "Multiview Switcher 4";
+
+"no-disk" = "No Disk";
+
+"run-in-background-instructions" = "With **Run in Background**, you can keep MixEffect connected to an ATEM switcher while you use other apps.\n\n- Tap the Picture in Picture Start button.\n- The MixEffect PIP window appears in a corner of your screen.\n- You can now navigate and use other applications, and MixEffect will continue to run in the background.\n- While the MixEffect PIP window is visible, you can do the following:\n\n    - **Resize the window**: Use the pinch gesture.\n    - **Show and hide controls**: Tap the window.\n    - **Move the window**: Drag to a different corner.\n    - **Hide the window**: Drag to the screen's left or right edge.\n    - **Close the window**: Tap X.\n    - **Return to MixEffect**: Tap the Picture in Picture button.\n    - **Cut transition**: Tap Skip Backward.\n    - **Auto transition**: Tap Skip Forward.";
+
+"run-in-background-warning" = "If the MixEffect PIP window does not appear, go to another section, come back to Run in Background, and tap Start.";
+
+"source-images" = "Source Images";

@@ -100,6 +100,8 @@
 
 "allow-trigger-when-source-off-air" = "Pozwój na wyzwalanie kiedy źródło nie jest pokazywane";
 
+"always-open-to-default-section" = "Zawsze otwieraj do domyślna sekcja";
+
 "analog-audio-inputs" = "Wejścia analogowe";
 
 "analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
@@ -133,6 +135,8 @@
 "are-less-than" = "Mniejsze od";
 
 "art" = "Grafika";
+
+"art-preview" = "Podgląd sztuki";
 
 "ascending" = "Rosnąco";
 
@@ -536,6 +540,8 @@
 
 "disable-sleep-alert" = "Urządzenie nie będzie wygaszać ekranu kiedy aplikacja MixEffect jest aktywna.";
 
+"disable-update-banner" = "Ukryj baner aktualizacji";
+
 "disabled" = "Wyłączone";
 
 "disconnect" = "Rozłącz";
@@ -876,6 +882,8 @@
 
 "gate" = "Bramka";
 
+"gb" = "GB";
+
 "gestures-and-haptics" = "Gesty i funkcje haptyczne";
 
 "get-shortcut" = "Pobierz";
@@ -917,6 +925,14 @@
 "hour" = "Godzina";
 
 "hours" = "Godziny";
+
+"http-server" = "Serwer HTTP";
+
+"http-server-allow-in-view-only-mode" = "Zezwalaj na HTTP Server w Tryb tylko do odczytu";
+
+"http-server-enable" = "Włącz serwer HTTP";
+
+"http-server-port" = "Port serwera HTTP";
 
 "hue" = "Odcień";
 
@@ -1176,6 +1192,8 @@
 
 "locked-box-sources" = "Zablokowane źródła dla pól";
 
+"loop-media-player" = "Zapętlaj nieruchome obrazy i klipy w odtwarzacza multimedialnego";
+
 "low-latency" = "Tryb niskiego opóźnienia";
 
 "luma" = "Luma";
@@ -1298,6 +1316,8 @@
 
 "maximize" = "Maksymalizuj";
 
+"mb" = "MB";
+
 "media" = "Media";
 
 "media-open" = "Otwórz bibliotekę";
@@ -1309,6 +1329,14 @@
 "mediaplayer" = "Odtwarzacz";
 
 "mediaplayer %lld" = "ODTW%lld";
+
+"mediaplayer-1" = "ODTW1";
+
+"mediaplayer-2" = "ODTW2";
+
+"mediaplayer-3" = "ODTW3";
+
+"mediaplayer-4" = "ODTW4";
 
 "mediaplayer-set" = "Ustaw ODTW";
 
@@ -2122,6 +2150,8 @@
 
 "shortcut-counter-overlay-phrase-osc" = "OSC Ustaw odliczanie";
 
+"shortcut-counter-overlay-pso-phrase-osc" = "OSC Ustaw odliczanie, pozycja, Rozmiar i Przezroczystość";
+
 "shortcut-cut" = "Cięcie";
 
 "shortcut-cut-phrase" = "Wykonaj cięcie";
@@ -2550,6 +2580,8 @@
 
 "upstream-keys" = "Upstream Keys";
 
+"url" = "URL";
+
 "use-box-sources" = "Przypisz źródła do pól";
 
 "use-custom-animation" = "Ustaw własną animację";
@@ -2645,3 +2677,29 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
+
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
+"mediaplayer-key %lld" = "Odtwarzacz Key %lld";
+
+"multiview %lld" = "Widok studia %lld";
+
+"multiview-switcher-1" = "Przełącznik Widok studia 1";
+
+"multiview-switcher-2" = "Przełącznik Widok studia 2";
+
+"multiview-switcher-3" = "Przełącznik Widok studia 3";
+
+"multiview-switcher-4" = "Przełącznik Widok studia 4";
+
+"no-disk" = "Brak dysku";
+
+"run-in-background" = "Uruchom w tle";
+
+"run-in-background-instructions" = "Dzięki **Uruchom w tle** możesz zachować połączenie MixEffect z przełącznikiem ATEM podczas korzystania z innych aplikacji.\n\n- Kliknij przycisk Start Obraz w obrazie.\n- Okno MixEffect PIP pojawi się w rogu ekranie.\n- Możesz teraz nawigować i korzystać z innych aplikacji, a MixEffect będzie nadal działać w tle.\n- Gdy okno MixEffect PIP jest widoczne, możesz wykonać następujące czynności:\n\n    - **Zmień rozmiar okno**: użyj gestu uszczypnięcia.\n    – **Pokaż i ukryj elementy sterujące**: kliknij okno.\n    – **Przenieś okno**: przeciągnij do innego rogu.\n    – **Ukryj okno**: przeciągnij do lewej lub prawej krawędzi ekranu.\n    – **Zamknij okno**: kliknij X.\n    – **Wróć do MixEffect**: kliknij przycisk Obraz w obrazie.\n    – **Wytnij przejście**: kliknij Pomiń do tyłu.\n    – **Automatyczne przejście**: kliknij Pomiń do przodu.";
+
+"run-in-background-warning" = "Jeśli nie widzisz okna MixEffect PIP, przejdź do innej sekcji, wróć do Uruchom w tle i dotknij Start.";
+
+"source-images" = "Obrazy źródłowe";

@@ -100,6 +100,8 @@
 
 "allow-trigger-when-source-off-air" = "Ansteuern, auch wenn Quelle 'Off Air' ist";
 
+"always-open-to-default-section" = "Immer zum Standardbereich öffnen";
+
 "analog-audio-inputs" = "Analoge Eingänge";
 
 "analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
@@ -133,6 +135,8 @@
 "are-less-than" = "Sind weniger als";
 
 "art" = "Art";
+
+"art-preview" = "Art-Vorschau";
 
 "ascending" = "Aufsteigend";
 
@@ -536,6 +540,8 @@
 
 "disable-sleep-alert" = "Das Gerät wird nicht automatisch gesperrt während MixEffect aktiv ist";
 
+"disable-update-banner" = "Update-Banner ausblenden";
+
 "disabled" = "Deaktiviert";
 
 "disconnect" = "Trennen";
@@ -876,6 +882,8 @@
 
 "gate" = "Gate";
 
+"gb" = "GB";
+
 "gestures-and-haptics" = "Gesten und Haptik";
 
 "get-shortcut" = "Laden";
@@ -917,6 +925,14 @@
 "hour" = "Stunde";
 
 "hours" = "Stunden";
+
+"http-server" = "HTTP-Server";
+
+"http-server-allow-in-view-only-mode" = "HTTP-Server im Modus 'Nur Ansicht' zulassen";
+
+"http-server-enable" = "HTTP-Server aktivieren";
+
+"http-server-port" = "HTTP-Server-Port";
 
 "hue" = "Farbton";
 
@@ -1176,6 +1192,8 @@
 
 "locked-box-sources" = "Verriegelte Feld-Quellen";
 
+"loop-media-player" = "Loop Through Standbilder im Media Player";
+
 "low-latency" = "Geringe Verzögerungszeit";
 
 "luma" = "Luminanz";
@@ -1298,6 +1316,8 @@
 
 "maximize" = "Maximieren";
 
+"mb" = "MB";
+
 "media" = "Medien";
 
 "media-open" = "Medien öffnen";
@@ -1309,6 +1329,14 @@
 "mediaplayer" = "Media Player";
 
 "mediaplayer %lld" = "MP%lld";
+
+"mediaplayer-1" = "MP1";
+
+"mediaplayer-2" = "MP2";
+
+"mediaplayer-3" = "MP3";
+
+"mediaplayer-4" = "MP4";
 
 "mediaplayer-set" = "Set MP";
 
@@ -2120,6 +2148,8 @@
 
 "shortcut-counter-overlay-phrase-osc" = "OSC Zähler setzen";
 
+"shortcut-counter-overlay-pso-phrase-osc" = "OSC Set Counter Position Größe Deckkraft";
+
 "shortcut-cut" = "Schnitt";
 
 "shortcut-cut-phrase" = "Schnitt ausführen";
@@ -2548,6 +2578,8 @@
 
 "upstream-keys" = "Upstream Keys";
 
+"url" = "URL";
+
 "use-box-sources" = "Quellen der Felder verwenden";
 
 "use-custom-animation" = "Benutzerdefinierte Animation verwenden";
@@ -2643,3 +2675,29 @@
 "y-suppress" = "Y reduzieren";
 
 "zoom" = "Zoom";
+
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
+"mediaplayer-key %lld" = "Media Player Key %lld";
+
+"multiview %lld" = "Multiview %lld";
+
+"multiview-switcher-1" = "Multiview Mischer 1";
+
+"multiview-switcher-2" = "Multiview Mischer 2";
+
+"multiview-switcher-3" = "Multiview Mischer 3";
+
+"multiview-switcher-4" = "Multiview Mischer 4";
+
+"no-disk" = "Keine Festplatte";
+
+"run-in-background" = "Im Hintergrund ausführen";
+
+"run-in-background-instructions" = "Mit **Im Hintergrund ausführen** können Sie MixEffect mit einem ATEM Mischer verbunden halten, während Sie andere Apps verwenden.\n\n- Tippen Sie auf die Startschaltfläche Bild in Bild.\n- Das MixEffect PIP-Fenster erscheint in einer Ecke Ihres Bildschirm.\n- Sie können jetzt in anderen Anwendungen navigieren und diese verwenden, und MixEffect wird weiterhin im Hintergrund ausgeführt.\n- Während das MixEffect PIP-Fenster sichtbar ist, können Sie Folgendes tun:\n\n -    **Größe ändern Fenster**: Verwenden Sie die Pinch-Geste.\n    - **Steuerelemente ein- und ausblenden**: Tippen Sie auf das Fenster.\n    - **Fenster verschieben**: Ziehen Sie es in eine andere Ecke.\n    - **Fenster ausblenden**: Ziehen Sie zum linken oder rechten Bildschirmrand.\n    - **Schließen Sie das Fenster**: Tippen Sie auf X.\n    - **Zurück zu MixEffect**: Tippen Sie auf die Schaltfläche Bild-in-Bild.\n    - **Ausschneiden Übergang**: Tippen Sie auf „Zurück springen“.\n    - **Automatischer Übergang**: Tippen Sie auf „Vorwärts springen“.";
+
+"run-in-background-warning" = "Wenn Sie das MixEffect PIP-Fenster nicht sehen, wechseln Sie zu einem anderen Abschnitt, kehren Sie zu Im Hintergrund ausführen zurück und tippen Sie auf Start.";
+
+"source-images" = "Quellbilder";

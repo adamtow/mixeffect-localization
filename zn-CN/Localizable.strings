@@ -100,6 +100,8 @@
 
 "allow-trigger-when-source-off-air" = "允许来源为不广播状态时触发";
 
+"always-open-to-default-section" = "始终打开默认部分";
+
 "analog-audio-inputs" = "模拟输入";
 
 "analog-audio-inputs-10dbv" = "+4 dBu (Standard)";
@@ -133,6 +135,8 @@
 "are-less-than" = "小于";
 
 "art" = "Art";
+
+"art-preview" = "艺术预览";
 
 "ascending" = "顺序";
 
@@ -536,6 +540,8 @@
 
 "disable-sleep-alert" = "当MixEffect运行时禁止设备自动锁定";
 
+"disable-update-banner" = "隐藏更新横幅";
+
 "disabled" = "禁用";
 
 "disconnect" = "断开连接";
@@ -876,6 +882,8 @@
 
 "gate" = "门";
 
+"gb" = "GB";
+
 "gestures-and-haptics" = "手势及触控";
 
 "get-shortcut" = "获取";
@@ -917,6 +925,14 @@
 "hour" = "小时";
 
 "hours" = "小时";
+
+"http-server" = "HTTP 服务器";
+
+"http-server-allow-in-view-only-mode" = "只读模式中启用 HTTP 服务器";
+
+"http-server-enable" = "启用 HTTP 服务器";
+
+"http-server-port" = "HTTP 通讯埠";
 
 "hue" = "色调";
 
@@ -1176,6 +1192,8 @@
 
 "locked-box-sources" = "锁定盒子来源";
 
+"loop-media-player" = "在媒体播放器中循环播放静止图像和剪辑";
+
 "low-latency" = "低延迟";
 
 "luma" = "亮度";
@@ -1298,6 +1316,8 @@
 
 "maximize" = "最大化";
 
+"mb" = "MB";
+
 "media" = "媒体";
 
 "media-open" = "打开媒体";
@@ -1309,6 +1329,14 @@
 "mediaplayer" = "媒体播放器";
 
 "mediaplayer %lld" = "MP%lld";
+
+"mediaplayer-1" = "MP1";
+
+"mediaplayer-2" = "MP2";
+
+"mediaplayer-3" = "MP3";
+
+"mediaplayer-4" = "MP4";
 
 "mediaplayer-set" = "设置MP";
 
@@ -2120,6 +2148,8 @@
 
 "shortcut-counter-overlay-phrase-osc" = "OSC 设定计时器";
 
+"shortcut-counter-overlay-pso-phrase-osc" = "OSC 设定计时器位置尺寸及透明度";
+
 "shortcut-cut" = "硬切";
 
 "shortcut-cut-phrase" = "执行硬切";
@@ -2548,6 +2578,8 @@
 
 "upstream-keys" = "上游键";
 
+"url" = "URL";
+
 "use-box-sources" = "使用盒子来源";
 
 "use-custom-animation" = "使用自订动画";
@@ -2643,3 +2675,29 @@
 "y-suppress" = "Y 抑制";
 
 "zoom" = "变焦";
+
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
+"mediaplayer-key %lld" = "媒體播放器 Key %lld";
+
+"multiview %lld" = "多畫面顯示控 %lld";
+
+"multiview-switcher-1" = "多畫面顯示控制器 1";
+
+"multiview-switcher-2" = "多畫面顯示控制器 2";
+
+"multiview-switcher-3" = "多畫面顯示控制器 3";
+
+"multiview-switcher-4" = "多畫面顯示控制器 4";
+
+"no-disk" = "沒有磁盤";
+
+"run-in-background" = "在后台运行";
+
+"run-in-background-instructions" = "借助**在后台运行**，您可以在使用其他应用程序时保持 MixEffect 连接到 ATEM 切换台。\n\n- 点击画中画开始按钮。\n- MixEffect PIP 窗口出现在您的一角 屏幕。\n- 您现在可以导航和使用其他应用程序，并且 MixEffect 将继续在后台运行。\n- 当 MixEffect PIP 窗口可见时，您可以执行以下操作：\n\n    - **调整 窗口**：使用捏合手势。\n    - **显示和隐藏控件**：点击窗口。\n    - **移动窗口**：拖动到其他角落。\n    - **隐藏窗口**：拖动到屏幕的左边缘或右边缘。\n    - **关闭窗口**：点击 X。\n    - **返回 MixEffect**：点击画中画按钮。\n    - **剪切 过渡**：点击向后跳过。\n    - **自动过渡**：点击向前跳过。";
+
+"run-in-background-warning" = "如果您沒有看到 MixEffect PIP 窗口，請轉到另一部分，返回在後台運行，然後單擊開始。";
+
+"source-images" = "源圖像";

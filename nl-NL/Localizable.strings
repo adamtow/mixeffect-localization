@@ -100,6 +100,8 @@
 
 "allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
 
+"always-open-to-default-section" = "Always Open to the Default Section";
+
 "analog-audio-inputs" = "Analog Inputs";
 
 "analog-audio-inputs-10dbv" = "-10dBv";
@@ -133,6 +135,8 @@
 "are-less-than" = "Are Less Than";
 
 "art" = "Art";
+
+"art-preview" = "Art Preview";
 
 "ascending" = "Ascending";
 
@@ -336,6 +340,10 @@
 
 "chroma-title-helper-description" = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
 
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
 "clear" = "Clear";
 
 "clear-macro" = "Clear Macro";
@@ -535,6 +543,8 @@
 "disable-sleep" = "Disable Auto-Lock";
 
 "disable-sleep-alert" = "Device will not auto-lock while MixEffect is active";
+
+"disable-update-banner" = "Hide Update Banner";
 
 "disabled" = "Disabled";
 
@@ -876,6 +886,8 @@
 
 "gate" = "Gate";
 
+"gb" = "GB";
+
 "gestures-and-haptics" = "Gestures and Haptics";
 
 "get-shortcut" = "Get";
@@ -917,6 +929,14 @@
 "hour" = "Hour";
 
 "hours" = "Hours";
+
+"http-server" = "HTTP Server";
+
+"http-server-allow-in-view-only-mode" = "Allow HTTP Server in View Only Mode";
+
+"http-server-enable" = "Enable HTTP Server";
+
+"http-server-port" = "HTTP Server Port";
 
 "hue" = "Hue";
 
@@ -1176,6 +1196,8 @@
 
 "locked-box-sources" = "Locked Box Sources";
 
+"loop-media-player" = "Loop Stills and Clips in Media Player";
+
 "low-latency" = "Low Latency";
 
 "luma" = "Luma";
@@ -1298,6 +1320,8 @@
 
 "maximize" = "Maximize";
 
+"mb" = "MB";
+
 "media" = "Media";
 
 "media-open" = "Open Media";
@@ -1309,6 +1333,16 @@
 "mediaplayer" = "Media Player";
 
 "mediaplayer %lld" = "MP%lld";
+
+"mediaplayer-1" = "MP1";
+
+"mediaplayer-2" = "MP2";
+
+"mediaplayer-3" = "MP3";
+
+"mediaplayer-4" = "MP4";
+
+"mediaplayer-key %lld" = "MP%lld Key";
 
 "mediaplayer-set" = "Set MP";
 
@@ -1338,7 +1372,7 @@
 
 "minimize" = "Minimize";
 
-"minimize-by" = "Shrink Others Boxes";
+"minimize-by" = "Shrink Other Boxes";
 
 "minimize-off-audio" = "Minimize Disabled Audio Sources";
 
@@ -1391,6 +1425,16 @@
 "ms" = "ms";
 
 "multiview" = "Multiview";
+
+"multiview %lld" = "Multiview %lld";
+
+"multiview-switcher-1" = "Multiview Switcher 1";
+
+"multiview-switcher-2" = "Multiview Switcher 2";
+
+"multiview-switcher-3" = "Multiview Switcher 3";
+
+"multiview-switcher-4" = "Multiview Switcher 4";
 
 "mute" = "Mute";
 
@@ -1469,6 +1513,8 @@
 "next-preset" = "Next Preset";
 
 "next-transition" = "Next Transition";
+
+"no-disk" = "No Disk";
 
 "no-media-selected" = "No Media Selected";
 
@@ -1968,6 +2014,12 @@
 
 "run" = "Run";
 
+"run-in-background" = "Run in Background";
+
+"run-in-background-instructions" = "With **Run in Background**, you can keep MixEffect connected to an ATEM switcher while you use other apps.\n\n- Tap the Picture in Picture Start button.\n- The MixEffect PIP window appears in a corner of your screen.\n- You can now navigate and use other applications, and MixEffect will continue to run in the background.\n- While the MixEffect PIP window is visible, you can do the following:\n\n    - **Resize the window**: Use the pinch gesture.\n    - **Show and hide controls**: Tap the window.\n    - **Move the window**: Drag to a different corner.\n    - **Hide the window**: Drag to the screen's left or right edge.\n    - **Close the window**: Tap X.\n    - **Return to MixEffect**: Tap the Picture in Picture button.\n    - **Cut transition**: Tap Skip Backward.\n    - **Auto transition**: Tap Skip Forward.";
+
+"run-in-background-warning" = "If the MixEffect PIP window does not appear, go to another section, come back to Run in Background, and tap Start.";
+
 "run-mode" = "Run Mode";
 
 "run-to" = "Run To";
@@ -2120,6 +2172,8 @@
 
 "shortcut-counter-overlay-phrase-osc" = "OSC Set Counter";
 
+"shortcut-counter-overlay-pso-phrase-osc" = "OSC Set Counter Position Size Opacity";
+
 "shortcut-cut" = "Cut";
 
 "shortcut-cut-phrase" = "Perform Cut";
@@ -2245,6 +2299,8 @@
 "sort-descending" = "Sort Descending";
 
 "source" = "Source";
+
+"source-images" = "Source Images";
 
 "source-labels" = "Source Labels";
 
@@ -2547,6 +2603,8 @@
 "upstream-keyers" = "Upstream Keyers";
 
 "upstream-keys" = "Upstream Keys";
+
+"url" = "URL";
 
 "use-box-sources" = "Use Box Sources";
 
