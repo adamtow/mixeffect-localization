@@ -2678,28 +2678,28 @@
 
 "zoom" = "Przybliżenie";
 
-"clean-feed" = "Clean Feed";
+"clean-feed" = "Czysty obraz";
 
-"clean-feed %lld" = "Clean Feed %lld";
+"clean-feed %lld" = "Czysty obraz %lld";
 
-"mediaplayer-key %lld" = "Odtwarzacz Key %lld";
+"mediaplayer-key %lld" = "Kluczowanie odtwarzacza %lld";
 
 "multiview %lld" = "Widok studia %lld";
 
-"multiview-switcher-1" = "Przełącznik Widok studia 1";
+"multiview-switcher-1" = "Przełącznik widoku studia 1";
 
-"multiview-switcher-2" = "Przełącznik Widok studia 2";
+"multiview-switcher-2" = "Przełącznik widoku studia 2";
 
-"multiview-switcher-3" = "Przełącznik Widok studia 3";
+"multiview-switcher-3" = "Przełącznik widoku studia 3";
 
-"multiview-switcher-4" = "Przełącznik Widok studia 4";
+"multiview-switcher-4" = "Przełącznik widoku studia 4";
 
 "no-disk" = "Brak dysku";
 
 "run-in-background" = "Uruchom w tle";
 
-"run-in-background-instructions" = "Dzięki **Uruchom w tle** możesz zachować połączenie MixEffect z przełącznikiem ATEM podczas korzystania z innych aplikacji.\n\n- Kliknij przycisk Start Obraz w obrazie.\n- Okno MixEffect PIP pojawi się w rogu ekranie.\n- Możesz teraz nawigować i korzystać z innych aplikacji, a MixEffect będzie nadal działać w tle.\n- Gdy okno MixEffect PIP jest widoczne, możesz wykonać następujące czynności:\n\n    - **Zmień rozmiar okno**: użyj gestu uszczypnięcia.\n    – **Pokaż i ukryj elementy sterujące**: kliknij okno.\n    – **Przenieś okno**: przeciągnij do innego rogu.\n    – **Ukryj okno**: przeciągnij do lewej lub prawej krawędzi ekranu.\n    – **Zamknij okno**: kliknij X.\n    – **Wróć do MixEffect**: kliknij przycisk Obraz w obrazie.\n    – **Wytnij przejście**: kliknij Pomiń do tyłu.\n    – **Automatyczne przejście**: kliknij Pomiń do przodu.";
+"run-in-background-instructions" = "Opcja **Uruchom w tle** umożliwia zachowanie połączenia aplikacji MixEffect z przełącznikiem ATEM w czasie korzystania z innych aplikacji.\n\n- Kliknij przycisk Start Obraz w obrazie;\n- Wyskakujące okienko MixEffect pojawi się w rogu ekranu;\n- Możesz teraz nawigować i korzystać z innych aplikacji, a MixEffect będzie nadal działać w tle.\n- Kiedy wyskakujące okienko MixEffect jest widoczne, możesz wykonać następujące czynności:\n\n    - **Zmiana rozmiaru okna**: użyj gestu uszczypnięcia;\n    – **Pokaż i ukryj elementy sterujące**: stuknij w okno;\n    – **Przenoszenie okna**: przeciągnij do innego rogu;\n    – **Ukryj okno**: przeciągnij do lewej lub prawej krawędzi ekranu;\n    – **Zamknij okno**: kliknij X;\n    – **Wróć do MixEffect**: kliknij przycisk Obraz w obrazie.\n    – **Przejście typu cięcie**: kliknij Do tyłu.\n    – **Przejście typu automatycznego**: kliknij Do przodu.";
 
-"run-in-background-warning" = "Jeśli nie widzisz okna MixEffect PIP, przejdź do innej sekcji, wróć do Uruchom w tle i dotknij Start.";
+"run-in-background-warning" = "Jeśli nie widzisz wyskakującego okienka MixEffect, przejdź do innej sekcji, a następnie wróć do Uruchom w tle i naciśnij Start.";
 
 "source-images" = "Obrazy źródłowe";
