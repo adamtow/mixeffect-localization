@@ -340,6 +340,10 @@
 
 "chroma-title-helper-description" = "Utwórz dynamiczne tytuły i podpisy do użycia z kluczowaniem w górę.";
 
+"clean-feed" = "Czysty obraz";
+
+"clean-feed %lld" = "Czysty obraz %lld";
+
 "clear" = "Wyczyść";
 
 "clear-macro" = "Usuń makro";
@@ -391,6 +395,14 @@
 "color-scheme-system" = "Systemowy";
 
 "compact-controls" = "Zagęszczenie elementów";
+
+"compact-controls-me-1" = "M/E 1: Zagęszczenie elementów";
+
+"compact-controls-me-2" = "M/E 2: Zagęszczenie elementów";
+
+"compact-controls-me-3" = "M/E 3: Zagęszczenie elementów";
+
+"compact-controls-me-4" = "M/E 4: Zagęszczenie elementów";
 
 "companion" = "Aplikacja Companion";
 
@@ -816,7 +828,23 @@
 
 "fader-bar" = "Teownik";
 
+"fader-bar-me-1" = "M/E 1: Teownik";
+
+"fader-bar-me-2" = "M/E 2: Teownik";
+
+"fader-bar-me-3" = "M/E 3: Teownik";
+
+"fader-bar-me-4" = "M/E 4: Teownik";
+
 "fader-bar-vertical" = "Teownik (Pionowo)";
+
+"fader-bar-vertical-me-1" = "M/E 1: Teownik (Pionowo)";
+
+"fader-bar-vertical-me-2" = "M/E 2: Teownik (Pionowo)";
+
+"fader-bar-vertical-me-3" = "M/E 3: Teownik (Pionowo)";
+
+"fader-bar-vertical-me-4" = "M/E 4: Teownik (Pionowo)";
 
 "fader-gain" = "Dźwignia wzmocnienia";
 
@@ -841,6 +869,14 @@
 "flip-flop" = "Ping-pong";
 
 "flying-key" = "Klucz pływający";
+
+"flying-key-me-1" = "M/E 1: Klucz pływający";
+
+"flying-key-me-2" = "M/E 2: Klucz pływający";
+
+"flying-key-me-3" = "M/E 3: Klucz pływający";
+
+"flying-key-me-4" = "M/E 4: Klucz pływający";
 
 "flying-key-run" = "Idź do klucza";
 
@@ -871,6 +907,14 @@
 "from" = "Od";
 
 "ftb" = "FTB";
+
+"ftb-me-1" = "M/E 1: FTB";
+
+"ftb-me-2" = "M/E 2: FTB";
+
+"ftb-me-3" = "M/E 3: FTB";
+
+"ftb-me-4" = "M/E 4: FTB";
 
 "full" = "Pełny";
 
@@ -1318,13 +1362,21 @@
 
 "mb" = "MB";
 
+"me-menu-in-switcher-section" = "Pokaż selektor Szyna MixEffect miksowania jako menu";
+
 "media" = "Media";
+
+"media-error" = "Błąd dysku";
+
+"media-full" = "Dysk jest pełny";
 
 "media-open" = "Otwórz bibliotekę";
 
 "media-pool" = "Biblioteka Mediów";
 
 "media-pool-split" = "Zmiana podziału Biblioteki Mediów spowoduje usunięcie wszystkich klipów.\n\nTa operacja jest nieodwracalna.";
+
+"media-unformatted" = "Dysk niesformatowany";
 
 "mediaplayer" = "Odtwarzacz";
 
@@ -1337,6 +1389,8 @@
 "mediaplayer-3" = "ODTW3";
 
 "mediaplayer-4" = "ODTW4";
+
+"mediaplayer-key %lld" = "Kluczowanie odtwarzacza %lld";
 
 "mediaplayer-set" = "Ustaw ODTW";
 
@@ -1420,6 +1474,20 @@
 
 "multiview" = "Widok studia (Multiview)";
 
+"multiview %lld" = "Widok studia %lld";
+
+"multiview-switcher" = "Przełącznik widoku studia";
+
+"multiview-switcher-1" = "Przełącznik widoku studia 1";
+
+"multiview-switcher-2" = "Przełącznik widoku studia 2";
+
+"multiview-switcher-3" = "Przełącznik widoku studia 3";
+
+"multiview-switcher-4" = "Przełącznik widoku studia 4";
+
+"multiview-switcher-auto-on-tap" = "Wykonaj automatyczne przejście po dotknięciu";
+
 "mute" = "Wycisz";
 
 "mute-incoming-talkback" = "Wycisz przychodzący interkom";
@@ -1498,6 +1566,16 @@
 
 "next-transition" = "Następne przejście";
 
+"next-transition-me-1" = "M/E 1: Następne przejście";
+
+"next-transition-me-2" = "M/E 2: Następne przejście";
+
+"next-transition-me-3" = "M/E 3: Następne przejście";
+
+"next-transition-me-4" = "M/E 4: Następne przejście";
+
+"no-disk" = "Brak dysku";
+
 "no-media-selected" = "Nie wybrano mediów";
 
 "no-network-connection" = "Brak połączenia z siecią";
@@ -1553,6 +1631,14 @@
 "pan" = "Balans";
 
 "panel-cut-auto" = "Cięcie / Auto";
+
+"panel-cut-auto-me-1" = "M/E 1: Cięcie / Auto";
+
+"panel-cut-auto-me-2" = "M/E 2: Cięcie / Auto";
+
+"panel-cut-auto-me-3" = "M/E 3: Cięcie / Auto";
+
+"panel-cut-auto-me-4" = "M/E 4: Cięcie / Auto";
 
 "panel-landscape-bottom" = "Dół"; // Poziomo na dole
 
@@ -1752,11 +1838,27 @@
 
 "preview-button" = "Poprz";
 
+"preview-me-1" = "M/E 1: Podgląd";
+
+"preview-me-2" = "M/E 2: Podgląd";
+
+"preview-me-3" = "M/E 3: Podgląd";
+
+"preview-me-4" = "M/E 4: Podgląd";
+
 "preview-scale" = "Skala podglądu";
 
 "preview-transition" = "Poprz. Przej- ście";
 
 "preview-wide" = "Duży podgląd wejścia";
+
+"preview-wide-me-1" = "M/E 1: Duży podgląd wejścia";
+
+"preview-wide-me-2" = "M/E 2: Duży podgląd wejścia";
+
+"preview-wide-me-3" = "M/E 3: Duży podgląd wejścia";
+
+"preview-wide-me-4" = "M/E 4: Duży podgląd wejścia";
 
 "previous" = "Poprzedni";
 
@@ -1828,11 +1930,43 @@
 
 "program-button" = "PRGM";
 
+"program-me-1" = "M/E 1: Program";
+
+"program-me-2" = "M/E 2: Program";
+
+"program-me-3" = "M/E 3: Program";
+
+"program-me-4" = "M/E 4: Program";
+
 "program-preview" = "Program / Podgląd";
+
+"program-preview-me-1" = "M/E 1: Program / Podgląd";
+
+"program-preview-me-2" = "M/E 2: Program / Podgląd";
+
+"program-preview-me-3" = "M/E 3: Program / Podgląd";
+
+"program-preview-me-4" = "M/E 4: Program / Podgląd";
 
 "program-preview-wide" = "Duży Podgląd / Program";
 
+"program-preview-wide-me-1" = "M/E 1: Zamień Program i Podgląd";
+
+"program-preview-wide-me-2" = "M/E 2: Zamień Program i Podgląd";
+
+"program-preview-wide-me-3" = "M/E 3: Zamień Program i Podgląd";
+
+"program-preview-wide-me-4" = "M/E 4: Zamień Program i Podgląd";
+
 "program-wide" = "Duży program wejścia";
+
+"program-wide-me-1" = "M/E 1: Duży program wejścia";
+
+"program-wide-me-2" = "M/E 2: Duży program wejścia";
+
+"program-wide-me-3" = "M/E 3: Duży program wejścia";
+
+"program-wide-me-4" = "M/E 4: Duży program wejścia";
 
 "protocol-reload" = "Połącz ponownie przy wykryciu błędów protokołu";
 
@@ -1998,6 +2132,12 @@
 
 "run" = "Uruchom";
 
+"run-in-background" = "Uruchom w tle";
+
+"run-in-background-instructions" = "Opcja **Uruchom w tle** umożliwia zachowanie połączenia aplikacji MixEffect z przełącznikiem ATEM w czasie korzystania z innych aplikacji.\n\n- Kliknij przycisk Start Obraz w obrazie;\n- Wyskakujące okienko MixEffect pojawi się w rogu ekranu;\n- Możesz teraz nawigować i korzystać z innych aplikacji, a MixEffect będzie nadal działać w tle.\n- Kiedy wyskakujące okienko MixEffect jest widoczne, możesz wykonać następujące czynności:\n\n    - **Zmiana rozmiaru okna**: użyj gestu uszczypnięcia;\n    – **Pokaż i ukryj elementy sterujące**: stuknij w okno;\n    – **Przenoszenie okna**: przeciągnij do innego rogu;\n    – **Ukryj okno**: przeciągnij do lewej lub prawej krawędzi ekranu;\n    – **Zamknij okno**: kliknij X;\n    – **Wróć do MixEffect**: kliknij przycisk Obraz w obrazie.\n    – **Przejście typu cięcie**: kliknij Do tyłu.\n    – **Przejście typu automatycznego**: kliknij Do przodu.";
+
+"run-in-background-warning" = "Jeśli nie widzisz wyskakującego okienka MixEffect, przejdź do innej sekcji, a następnie wróć do Uruchom w tle i naciśnij Start.";
+
 "run-mode" = "Tryb uruchamiania";
 
 "run-to" = "Idź do";
@@ -2023,6 +2163,8 @@
 "sdi-input %lld" = "Wejście SDI %lld";
 
 "sdi-output %lld" = "Wyjście SDI %lld";
+
+"sdi-output-source %lld %@" = "Wyjście SDI %lld: %@";
 
 "search" = "Szukaj";
 
@@ -2278,6 +2420,8 @@
 
 "source" = "Źródło";
 
+"source-images" = "Obrazy źródłowe";
+
 "source-labels" = "Oznaczenia źródeł";
 
 "speed-extra-fast" = "Bardzo szybko";
@@ -2532,6 +2676,14 @@
 
 "transition-style" = "Styl przejścia";
 
+"transition-style-me-1" = "M/E 1: Styl przejścia";
+
+"transition-style-me-2" = "M/E 2: Styl przejścia";
+
+"transition-style-me-3" = "M/E 3: Styl przejścia";
+
+"transition-style-me-4" = "M/E 4: Styl przejścia";
+
 "transition-type" = "Typ przejścia";
 
 "transitions" = "Przejścia";
@@ -2563,6 +2715,8 @@
 "unlock-mixeffect" = "Odblokuj MixEffect";
 
 "unsupported-feature" = "Funkcja nie jest obsługiwana przez ten przełącznik.";
+
+"unsupported-feature-mixeffect" = "Funkcja nie jest obsługiwana przez tę wersję MixEffect.";
 
 "untitled-page" = "Nienazwana strona";
 
@@ -2677,29 +2831,3 @@
 "y-suppress" = "Zablokuj Y";
 
 "zoom" = "Przybliżenie";
-
-"clean-feed" = "Czysty obraz";
-
-"clean-feed %lld" = "Czysty obraz %lld";
-
-"mediaplayer-key %lld" = "Kluczowanie odtwarzacza %lld";
-
-"multiview %lld" = "Widok studia %lld";
-
-"multiview-switcher-1" = "Przełącznik widoku studia 1";
-
-"multiview-switcher-2" = "Przełącznik widoku studia 2";
-
-"multiview-switcher-3" = "Przełącznik widoku studia 3";
-
-"multiview-switcher-4" = "Przełącznik widoku studia 4";
-
-"no-disk" = "Brak dysku";
-
-"run-in-background" = "Uruchom w tle";
-
-"run-in-background-instructions" = "Opcja **Uruchom w tle** umożliwia zachowanie połączenia aplikacji MixEffect z przełącznikiem ATEM w czasie korzystania z innych aplikacji.\n\n- Kliknij przycisk Start Obraz w obrazie;\n- Wyskakujące okienko MixEffect pojawi się w rogu ekranu;\n- Możesz teraz nawigować i korzystać z innych aplikacji, a MixEffect będzie nadal działać w tle.\n- Kiedy wyskakujące okienko MixEffect jest widoczne, możesz wykonać następujące czynności:\n\n    - **Zmiana rozmiaru okna**: użyj gestu uszczypnięcia;\n    – **Pokaż i ukryj elementy sterujące**: stuknij w okno;\n    – **Przenoszenie okna**: przeciągnij do innego rogu;\n    – **Ukryj okno**: przeciągnij do lewej lub prawej krawędzi ekranu;\n    – **Zamknij okno**: kliknij X;\n    – **Wróć do MixEffect**: kliknij przycisk Obraz w obrazie.\n    – **Przejście typu cięcie**: kliknij Do tyłu.\n    – **Przejście typu automatycznego**: kliknij Do przodu.";
-
-"run-in-background-warning" = "Jeśli nie widzisz wyskakującego okienka MixEffect, przejdź do innej sekcji, a następnie wróć do Uruchom w tle i naciśnij Start.";
-
-"source-images" = "Obrazy źródłowe";

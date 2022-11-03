@@ -340,6 +340,10 @@
 
 "chroma-title-helper-description" = "建立動態標題及標題字幕供 Chroma upstream keyer 使用";
 
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
 "clear" = "清空";
 
 "clear-macro" = "清空巨集";
@@ -391,6 +395,14 @@
 "color-scheme-system" = "系統";
 
 "compact-controls" = "密集控制版面";
+
+"compact-controls-me-1" = "M/E 1: 密集控制版面";
+
+"compact-controls-me-2" = "M/E 2: 密集控制版面";
+
+"compact-controls-me-3" = "M/E 3: 密集控制版面";
+
+"compact-controls-me-4" = "M/E 4: 密集控制版面";
 
 "companion" = "Companion";
 
@@ -816,7 +828,23 @@
 
 "fader-bar" = "推扞";
 
+"fader-bar-me-1" = "M/E 1: 推扞";
+
+"fader-bar-me-2" = "M/E 2: 推扞";
+
+"fader-bar-me-3" = "M/E 3: 推扞";
+
+"fader-bar-me-4" = "M/E 4: 推扞";
+
 "fader-bar-vertical" = "推扞(垂直)";
+
+"fader-bar-vertical-me-1" = "M/E 1: 推扞(垂直)";
+
+"fader-bar-vertical-me-2" = "M/E 2: 推扞(垂直)";
+
+"fader-bar-vertical-me-3" = "M/E 3: 推扞(垂直)";
+
+"fader-bar-vertical-me-4" = "M/E 4: 推扞(垂直)";
 
 "fader-gain" = "漸減增益";
 
@@ -841,6 +869,14 @@
 "flip-flop" = "反轉";
 
 "flying-key" = "Flying Key";
+
+"flying-key-me-1" = "M/E 1: Flying Key";
+
+"flying-key-me-2" = "M/E 2: Flying Key";
+
+"flying-key-me-3" = "M/E 3: Flying Key";
+
+"flying-key-me-4" = "M/E 4: Flying Key";
 
 "flying-key-run" = "執行 Flying Key";
 
@@ -871,6 +907,14 @@
 "from" = "由";
 
 "ftb" = "FTB";
+
+"ftb-me-1" = "M/E 1: FTB";
+
+"ftb-me-2" = "M/E 2: FTB";
+
+"ftb-me-3" = "M/E 3: FTB";
+
+"ftb-me-4" = "M/E 4: FTB";
 
 "full" = "Full";
 
@@ -1318,13 +1362,21 @@
 
 "mb" = "MB";
 
+"me-menu-in-switcher-section" = "將 MixEffect Bus Picker 顯示為菜單";
+
 "media" = "媒體";
+
+"media-error" = "磁盤錯誤";
+
+"media-full" = "磁盤已滿";
 
 "media-open" = "開啟媒體";
 
 "media-pool" = "媒體池";
 
 "media-pool-split" = "更改媒體池分格將會删除所有剪輯框架\n\n此動作不能復原";
+
+"media-unformatted" = "磁盤未格式化";
 
 "mediaplayer" = "媒體播放器";
 
@@ -1337,6 +1389,8 @@
 "mediaplayer-3" = "MP3";
 
 "mediaplayer-4" = "MP4";
+
+"mediaplayer-key %lld" = "媒體播放器 Key %lld";
 
 "mediaplayer-set" = "設定 MP";
 
@@ -1420,6 +1474,20 @@
 
 "multiview" = "多畫面顯示";
 
+"multiview %lld" = "多畫面顯示 %lld";
+
+"multiview-switcher" = "多畫面顯示控制器";
+
+"multiview-switcher-1" = "多畫面顯示控制器 1";
+
+"multiview-switcher-2" = "多畫面顯示控制器 2";
+
+"multiview-switcher-3" = "多畫面顯示控制器 3";
+
+"multiview-switcher-4" = "多畫面顯示控制器 4";
+
+"multiview-switcher-auto-on-tap" = "單擊時執行自動轉換";
+
 "mute" = "靜音";
 
 "mute-incoming-talkback" = "靜音所有輸入對講器";
@@ -1498,6 +1566,16 @@
 
 "next-transition" = "下一個轉場";
 
+"next-transition-me-1" = "M/E 1: 下一個轉場";
+
+"next-transition-me-2" = "M/E 2: 下一個轉場";
+
+"next-transition-me-3" = "M/E 3: 下一個轉場";
+
+"next-transition-me-4" = "M/E 4: 下一個轉場";
+
+"no-disk" = "沒有磁盤";
+
 "no-media-selected" = "未選擇媒體";
 
 "no-network-connection" = "無網絡連接";
@@ -1553,6 +1631,14 @@
 "pan" = "Pan";
 
 "panel-cut-auto" = "Cut / Auto";
+
+"panel-cut-auto-me-1" = "M/E 1: Cut / Auto";
+
+"panel-cut-auto-me-2" = "M/E 2: Cut / Auto";
+
+"panel-cut-auto-me-3" = "M/E 3: Cut / Auto";
+
+"panel-cut-auto-me-4" = "M/E 4: Cut / Auto";
 
 "panel-landscape-bottom" = "底"; // 橫向底部
 
@@ -1752,11 +1838,27 @@
 
 "preview-button" = "預覧";
 
+"preview-me-1" = "M/E 1: 預覧";
+
+"preview-me-2" = "M/E 2: 預覧";
+
+"preview-me-3" = "M/E 3: 預覧";
+
+"preview-me-4" = "M/E 4: 預覧";
+
 "preview-scale" = "預覧比例";
 
 "preview-transition" = "上一個轉場";
 
 "preview-wide" = "預覧 (寛輸入)";
+
+"preview-wide-me-1" = "M/E 1: 預覧 (寛輸入)";
+
+"preview-wide-me-2" = "M/E 2: 預覧 (寛輸入)";
+
+"preview-wide-me-3" = "M/E 3: 預覧 (寛輸入)";
+
+"preview-wide-me-4" = "M/E 4: 預覧 (寛輸入)";
 
 "previous" = "上一個";
 
@@ -1828,11 +1930,43 @@
 
 "program-button" = "節目";
 
+"program-me-1" = "M/E 1: 節目";
+
+"program-me-2" = "M/E 2: 節目";
+
+"program-me-3" = "M/E 3: 節目";
+
+"program-me-4" = "M/E 4: 節目";
+
 "program-preview" = "節目 / 預覧";
+
+"program-preview-me-1" = "M/E 1: 節目 / 預覧";
+
+"program-preview-me-2" = "M/E 2: 節目 / 預覧";
+
+"program-preview-me-3" = "M/E 3: 節目 / 預覧";
+
+"program-preview-me-4" = "M/E 4: 節目 / 預覧";
 
 "program-preview-wide" = "節目 / 預覧(寛輸入)";
 
+"program-preview-wide-me-1" = "M/E 1: 節目 / 預覧(寛輸入)";
+
+"program-preview-wide-me-2" = "M/E 2: 節目 / 預覧(寛輸入)";
+
+"program-preview-wide-me-3" = "M/E 3: 節目 / 預覧(寛輸入)";
+
+"program-preview-wide-me-4" = "M/E 4: 節目 / 預覧(寛輸入)";
+
 "program-wide" = "節目(寛輸入)";
+
+"program-wide-me-1" = "M/E 1: 節目(寛輸入)";
+
+"program-wide-me-2" = "M/E 2: 節目(寛輸入)";
+
+"program-wide-me-3" = "M/E 3: 節目(寛輸入)";
+
+"program-wide-me-4" = "M/E 4: 節目(寛輸入)";
 
 "protocol-reload" = "當找不到協議時重新連線";
 
@@ -1998,6 +2132,12 @@
 
 "run" = "移動";
 
+"run-in-background" = "在後台運行";
+
+"run-in-background-instructions" = "借助**在後台運行**，您可以在使用其他應用程序時保持 MixEffect 連接到 ATEM 切換台。\n\n- 點擊畫中畫開始按鈕。\n- MixEffect PIP 窗口出現在您的一角 屏幕。\n- 您現在可以導航和使用其他應用程序，並且 MixEffect 將繼續在後台運行。\n- 當 MixEffect PIP 窗口可見時，您可以執行以下操作：\n\n    - **調整 窗口**：使用捏合手勢。\n    - **顯示和隱藏控件**：點擊窗口。\n    - **移動窗口**：拖動到其他角落。\n    - **隱藏窗口**：拖動到屏幕的左邊緣或右邊緣。\n    - **關閉窗口**：點擊 X。\n    - **返回 MixEffect**：點擊畫中畫按鈕。\n    - **剪切 過渡**：點擊向後跳過。\n    - **自動過渡**：點擊向前跳過。";
+
+"run-in-background-warning" = "如果您沒有看到 MixEffect PIP 窗口，請轉到另一部分，返回在後台運行，然後單擊開始。";
+
 "run-mode" = "移動模式";
 
 "run-to" = "移動至";
@@ -2023,6 +2163,8 @@
 "sdi-input %lld" = "SDI 輸入 %lld";
 
 "sdi-output %lld" = "SDI 輸出 %lld";
+
+"sdi-output-source %lld %@" = "SDI 輸出 %lld: %@";
 
 "search" = "搜尋";
 
@@ -2278,6 +2420,8 @@
 
 "source" = "來源";
 
+"source-images" = "源圖像";
+
 "source-labels" = "來源標籤";
 
 "speed-extra-fast" = "非常快";
@@ -2532,6 +2676,14 @@
 
 "transition-style" = "過場特效效果";
 
+"transition-style-me-1" = "M/E 1: 過場特效效果";
+
+"transition-style-me-2" = "M/E 2: 過場特效效果";
+
+"transition-style-me-3" = "M/E 3: 過場特效效果";
+
+"transition-style-me-4" = "M/E 4: 過場特效效果";
+
 "transition-type" = "過場特效款式";
 
 "transitions" = "過場特效";
@@ -2563,6 +2715,8 @@
 "unlock-mixeffect" = "解鎖 MixEffect";
 
 "unsupported-feature" = "此控制器並不支援此功能";
+
+"unsupported-feature-mixeffect" = "此版本的 MixEffect 不支持此功能。";
 
 "untitled-page" = "未命名分頁";
 
@@ -2677,29 +2831,3 @@
 "y-suppress" = "Y 壓制";
 
 "zoom" = "放大";
-
-"clean-feed" = "Clean Feed";
-
-"clean-feed %lld" = "Clean Feed %lld";
-
-"mediaplayer-key %lld" = "媒體播放器 Key %lld";
-
-"multiview %lld" = "多畫面顯示 %lld";
-
-"multiview-switcher-1" = "多畫面顯示控制器 1";
-
-"multiview-switcher-2" = "多畫面顯示控制器 2";
-
-"multiview-switcher-3" = "多畫面顯示控制器 3";
-
-"multiview-switcher-4" = "多畫面顯示控制器 4";
-
-"no-disk" = "沒有磁盤";
-
-"run-in-background" = "在後台運行";
-
-"run-in-background-instructions" = "借助**在後台運行**，您可以在使用其他應用程序時保持 MixEffect 連接到 ATEM 切換台。\n\n- 點擊畫中畫開始按鈕。\n- MixEffect PIP 窗口出現在您的一角 屏幕。\n- 您現在可以導航和使用其他應用程序，並且 MixEffect 將繼續在後台運行。\n- 當 MixEffect PIP 窗口可見時，您可以執行以下操作：\n\n    - **調整 窗口**：使用捏合手勢。\n    - **顯示和隱藏控件**：點擊窗口。\n    - **移動窗口**：拖動到其他角落。\n    - **隱藏窗口**：拖動到屏幕的左邊緣或右邊緣。\n    - **關閉窗口**：點擊 X。\n    - **返回 MixEffect**：點擊畫中畫按鈕。\n    - **剪切 過渡**：點擊向後跳過。\n    - **自動過渡**：點擊向前跳過。";
-
-"run-in-background-warning" = "如果您沒有看到 MixEffect PIP 窗口，請轉到另一部分，返回在後台運行，然後單擊開始。";
-
-"source-images" = "源圖像";

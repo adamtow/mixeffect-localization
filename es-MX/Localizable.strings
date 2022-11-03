@@ -340,6 +340,10 @@
 
 "chroma-title-helper-description" = "Create dynamic titles and lower-thirds for use with the Chroma upstream keyer.";
 
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
 "clear" = "Borrar";
 
 "clear-macro" = "Clear Macro";
@@ -391,6 +395,14 @@
 "color-scheme-system" = "Sistema";
 
 "compact-controls" = "Compact Controls";
+
+"compact-controls-me-1" = "M/E 1: Compact Controls";
+
+"compact-controls-me-2" = "M/E 2: Compact Controls";
+
+"compact-controls-me-3" = "M/E 3: Compact Controls";
+
+"compact-controls-me-4" = "M/E 4: Compact Controls";
 
 "companion" = "Companion";
 
@@ -816,7 +828,23 @@
 
 "fader-bar" = "Fader Bar";
 
+"fader-bar-me-1" = "M/E 1: Fader Bar";
+
+"fader-bar-me-2" = "M/E 2: Fader Bar";
+
+"fader-bar-me-3" = "M/E 3: Fader Bar";
+
+"fader-bar-me-4" = "M/E 4: Fader Bar";
+
 "fader-bar-vertical" = "Fader Bar (Vertical)";
+
+"fader-bar-vertical-me-1" = "M/E 1: Fader Bar (Vertical)";
+
+"fader-bar-vertical-me-2" = "M/E 2: Fader Bar (Vertical)";
+
+"fader-bar-vertical-me-3" = "M/E 3: Fader Bar (Vertical)";
+
+"fader-bar-vertical-me-4" = "M/E 4: Fader Bar (Vertical)";
 
 "fader-gain" = "Fader Gain";
 
@@ -841,6 +869,14 @@
 "flip-flop" = "Flip Flop";
 
 "flying-key" = "Flying Key";
+
+"flying-key-me-1" = "M/E 1: Flying Key";
+
+"flying-key-me-2" = "M/E 2: Flying Key";
+
+"flying-key-me-3" = "M/E 3: Flying Key";
+
+"flying-key-me-4" = "M/E 4: Flying Key";
 
 "flying-key-run" = "Run Flying Key";
 
@@ -871,6 +907,14 @@
 "from" = "De";
 
 "ftb" = "FTB";
+
+"ftb-me-1" = "M/E 1: FTB";
+
+"ftb-me-2" = "M/E 2: FTB";
+
+"ftb-me-3" = "M/E 3: FTB";
+
+"ftb-me-4" = "M/E 4: FTB";
 
 "full" = "Lleno";
 
@@ -1312,13 +1356,21 @@
 
 "mb" = "MB";
 
+"me-menu-in-switcher-section" = "Show Mix Effects Bus Picker as Menu";
+
 "media" = "Media";
+
+"media-error" = "Media Error";
+
+"media-full" = "Media Full";
 
 "media-open" = "Open Media";
 
 "media-pool" = "Media Pool";
 
 "media-pool-split" = "Changing the Media Pool split will erase all clip frames in the Media Pool.\n\nThis operation cannot be undone.";
+
+"media-unformatted" = "Media Unformatted";
 
 "mediaplayer" = "Media Player";
 
@@ -1331,6 +1383,8 @@
 "mediaplayer-3" = "MP3";
 
 "mediaplayer-4" = "MP4";
+
+"mediaplayer-key %lld" = "Media Player Key %lld";
 
 "mediaplayer-set" = "Set MP";
 
@@ -1414,6 +1468,20 @@
 
 "multiview" = "Multiview";
 
+"multiview %lld" = "Multiview %lld";
+
+"multiview-switcher" = "Multiview Switcher";
+
+"multiview-switcher-1" = "Multiview Switcher 1";
+
+"multiview-switcher-2" = "Multiview Switcher 2";
+
+"multiview-switcher-3" = "Multiview Switcher 3";
+
+"multiview-switcher-4" = "Multiview Switcher 4";
+
+"multiview-switcher-auto-on-tap" = "Perform Auto Transition on Tap";
+
 "mute" = "Mute";
 
 "mute-incoming-talkback" = "Mute Incoming Talkback On";
@@ -1492,6 +1560,16 @@
 
 "next-transition" = "Next Transition";
 
+"next-transition-me-1" = "M/E 1: Next Transition";
+
+"next-transition-me-2" = "M/E 2: Next Transition";
+
+"next-transition-me-3" = "M/E 3: Next Transition";
+
+"next-transition-me-4" = "M/E 4: Next Transition";
+
+"no-disk" = "No Disk";
+
 "no-media-selected" = "No Media Selected";
 
 "no-network-connection" = "No Network Connection";
@@ -1547,6 +1625,14 @@
 "pan" = "Pan";
 
 "panel-cut-auto" = "Cut / Auto";
+
+"panel-cut-auto-me-1" = "M/E 1: Cut / Auto";
+
+"panel-cut-auto-me-2" = "M/E 2: Cut / Auto";
+
+"panel-cut-auto-me-3" = "M/E 3: Cut / Auto";
+
+"panel-cut-auto-me-4" = "M/E 4: Cut / Auto";
 
 "panel-landscape-bottom" = "Landscape Bottom";
 
@@ -1726,11 +1812,27 @@
 
 "preview-button" = "Prev";
 
+"preview-me-1" = "M/E 1: Preview";
+
+"preview-me-2" = "M/E 2: Preview";
+
+"preview-me-3" = "M/E 3: Preview";
+
+"preview-me-4" = "M/E 4: Preview";
+
 "preview-scale" = "Preview Scale";
 
 "preview-transition" = "Prev Trans";
 
 "preview-wide" = "Preview (Wide Input)";
+
+"preview-wide-me-1" = "M/E 1: Preview (Wide Input)";
+
+"preview-wide-me-2" = "M/E 2: Preview (Wide Input)";
+
+"preview-wide-me-3" = "M/E 3: Preview (Wide Input)";
+
+"preview-wide-me-4" = "M/E 4: Preview (Wide Input)";
 
 "previous" = "Previous";
 
@@ -1802,11 +1904,43 @@
 
 "program-button" = "Prog";
 
+"program-me-1" = "M/E 1: Program";
+
+"program-me-2" = "M/E 2: Program";
+
+"program-me-3" = "M/E 3: Program";
+
+"program-me-4" = "M/E 4: Program";
+
 "program-preview" = "Program / Preview";
+
+"program-preview-me-1" = "M/E 1: Program / Preview";
+
+"program-preview-me-2" = "M/E 2: Program / Preview";
+
+"program-preview-me-3" = "M/E 3: Program / Preview";
+
+"program-preview-me-4" = "M/E 4: Program / Preview";
 
 "program-preview-wide" = "Program / Preview (Wide Input)";
 
+"program-preview-wide-me-1" = "M/E 1: Program / Preview (Wide Input)";
+
+"program-preview-wide-me-2" = "M/E 2: Program / Preview (Wide Input)";
+
+"program-preview-wide-me-3" = "M/E 3: Program / Preview (Wide Input)";
+
+"program-preview-wide-me-4" = "M/E 4: Program / Preview (Wide Input)";
+
 "program-wide" = "Program (Wide Input)";
+
+"program-wide-me-1" = "M/E 1: Program (Wide Input)";
+
+"program-wide-me-2" = "M/E 2: Program (Wide Input)";
+
+"program-wide-me-3" = "M/E 3: Program (Wide Input)";
+
+"program-wide-me-4" = "M/E 4: Program (Wide Input)";
 
 "protocol-reload" = "Reconnect When Missing Procotol Detected";
 
@@ -1974,6 +2108,10 @@
 
 "run-in-background" = "Ejecutar en el fondo";
 
+"run-in-background-instructions" = "With **Run in Background**, you can keep MixEffect connected to an ATEM switcher while you use other apps.\n\n- Tap the Picture in Picture Start button.\n- The MixEffect PIP window appears in a corner of your screen.\n- You can now navigate and use other applications, and MixEffect will continue to run in the background.\n- While the MixEffect PIP window is visible, you can do the following:\n\n    - **Resize the window**: Use the pinch gesture.\n    - **Show and hide controls**: Tap the window.\n    - **Move the window**: Drag to a different corner.\n    - **Hide the window**: Drag to the screen's left or right edge.\n    - **Close the window**: Tap X.\n    - **Return to MixEffect**: Tap the Picture in Picture button.\n    - **Cut transition**: Tap Skip Backward.\n    - **Auto transition**: Tap Skip Forward.";
+
+"run-in-background-warning" = "If the MixEffect PIP window does not appear, go to another section, come back to Run in Background, and tap Start.";
+
 "run-mode" = "Run Mode";
 
 "run-to" = "Run To";
@@ -1999,6 +2137,8 @@
 "sdi-input %lld" = "SDI Input %lld";
 
 "sdi-output %lld" = "SDI Output %lld";
+
+"sdi-output-source %lld %@" = "SDI Output %lld: %@";
 
 "search" = "Search";
 
@@ -2254,6 +2394,8 @@
 
 "source" = "Source";
 
+"source-images" = "Source Images";
+
 "source-labels" = "Source Labels";
 
 "speed-extra-fast" = "Extra Fast";
@@ -2508,6 +2650,14 @@
 
 "transition-style" = "Transition Style";
 
+"transition-style-me-1" = "M/E 1: Transition Style";
+
+"transition-style-me-2" = "M/E 2: Transition Style";
+
+"transition-style-me-3" = "M/E 3: Transition Style";
+
+"transition-style-me-4" = "M/E 4: Transition Style";
+
 "transition-type" = "Transition Type";
 
 "transitions" = "Transitions";
@@ -2539,6 +2689,8 @@
 "unlock-mixeffect" = "Unlock MixEffect";
 
 "unsupported-feature" = "This feature is not supported by this switcher.";
+
+"unsupported-feature-mixeffect" = "This feature is not supported by this version of MixEffect.";
 
 "untitled-page" = "Untitled Page";
 
@@ -2653,27 +2805,3 @@
 "y-suppress" = "Y Suppress";
 
 "zoom" = "Zoom";
-
-"clean-feed" = "Clean Feed";
-
-"clean-feed %lld" = "Clean Feed %lld";
-
-"mediaplayer-key %lld" = "Media Player Key %lld";
-
-"multiview %lld" = "Multiview %lld";
-
-"multiview-switcher-1" = "Multiview Switcher 1";
-
-"multiview-switcher-2" = "Multiview Switcher 2";
-
-"multiview-switcher-3" = "Multiview Switcher 3";
-
-"multiview-switcher-4" = "Multiview Switcher 4";
-
-"no-disk" = "No Disk";
-
-"run-in-background-instructions" = "With **Run in Background**, you can keep MixEffect connected to an ATEM switcher while you use other apps.\n\n- Tap the Picture in Picture Start button.\n- The MixEffect PIP window appears in a corner of your screen.\n- You can now navigate and use other applications, and MixEffect will continue to run in the background.\n- While the MixEffect PIP window is visible, you can do the following:\n\n    - **Resize the window**: Use the pinch gesture.\n    - **Show and hide controls**: Tap the window.\n    - **Move the window**: Drag to a different corner.\n    - **Hide the window**: Drag to the screen's left or right edge.\n    - **Close the window**: Tap X.\n    - **Return to MixEffect**: Tap the Picture in Picture button.\n    - **Cut transition**: Tap Skip Backward.\n    - **Auto transition**: Tap Skip Forward.";
-
-"run-in-background-warning" = "If the MixEffect PIP window does not appear, go to another section, come back to Run in Background, and tap Start.";
-
-"source-images" = "Source Images";

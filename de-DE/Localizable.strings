@@ -340,6 +340,10 @@
 
 "chroma-title-helper-description" = "Erstellen Sie dynamische Titel und Bauchbinden (lower-thirds) zur Verwendung mit dem Chroma-Upstream-Keyer.";
 
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
 "clear" = "Bereinigen";
 
 "clear-macro" = "Makro bereinigen";
@@ -391,6 +395,14 @@
 "color-scheme-system" = "System";
 
 "compact-controls" = "Vereinfachte Bedienung";
+
+"compact-controls-me-1" = "M/E 1: Vereinfachte Bedienung";
+
+"compact-controls-me-2" = "M/E 2: Vereinfachte Bedienung";
+
+"compact-controls-me-3" = "M/E 3: Vereinfachte Bedienung";
+
+"compact-controls-me-4" = "M/E 4: Vereinfachte Bedienung";
 
 "companion" = "Companion";
 
@@ -816,7 +828,23 @@
 
 "fader-bar" = "Blender";
 
+"fader-bar-me-1" = "M/E 1: Blender";
+
+"fader-bar-me-2" = "M/E 2: Blender";
+
+"fader-bar-me-3" = "M/E 3: Blender";
+
+"fader-bar-me-4" = "M/E 4: Blender";
+
 "fader-bar-vertical" = "Blender (Vertikal)";
+
+"fader-bar-vertical-me-1" = "M/E 1: Blender (Vertikal)";
+
+"fader-bar-vertical-me-2" = "M/E 2: Blender (Vertikal)";
+
+"fader-bar-vertical-me-3" = "M/E 3: Blender (Vertikal)";
+
+"fader-bar-vertical-me-4" = "M/E 4: Blender (Vertikal)";
 
 "fader-gain" = "Lautstärkepegel";
 
@@ -841,6 +869,14 @@
 "flip-flop" = "Flip Flop";
 
 "flying-key" = "Flying-Key";
+
+"flying-key-me-1" = "M/E 1: Flying-Key";
+
+"flying-key-me-2" = "M/E 2: Flying-Key";
+
+"flying-key-me-3" = "M/E 3: Flying-Key";
+
+"flying-key-me-4" = "M/E 4: Flying-Key";
 
 "flying-key-run" = "Flying-Key starten";
 
@@ -871,6 +907,14 @@
 "from" = "Von";
 
 "ftb" = "FTB";
+
+"ftb-me-1" = "M/E 1: FTB";
+
+"ftb-me-2" = "M/E 2: FTB";
+
+"ftb-me-3" = "M/E 3: FTB";
+
+"ftb-me-4" = "M/E 4: FTB";
 
 "full" = "Voll";
 
@@ -1318,13 +1362,21 @@
 
 "mb" = "MB";
 
+"me-menu-in-switcher-section" = "Show Mix Effect Bus Picker als Menü";
+
 "media" = "Medien";
+
+"media-error" = "Festplattenfehler";
+
+"media-full" = "Medienfehler";
 
 "media-open" = "Medien öffnen";
 
 "media-pool" = "Medien-Pool";
 
 "media-pool-split" = "Wenn Sie die Aufteilung des Medien-Pools ändern, werden alle enthaltenen Bildsequenzen gelöscht.\n\nDieser Vorgang kann nicht rückgängig gemacht werden.";
+
+"media-unformatted" = "Festplatte unformatiert";
 
 "mediaplayer" = "Media Player";
 
@@ -1337,6 +1389,8 @@
 "mediaplayer-3" = "MP3";
 
 "mediaplayer-4" = "MP4";
+
+"mediaplayer-key %lld" = "Media Player Key %lld";
 
 "mediaplayer-set" = "Set MP";
 
@@ -1420,6 +1474,20 @@
 
 "multiview" = "Multiview";
 
+"multiview %lld" = "Multiview %lld";
+
+"multiview-switcher" = "Multiview Mischer";
+
+"multiview-switcher-1" = "Multiview Mischer 1";
+
+"multiview-switcher-2" = "Multiview Mischer 2";
+
+"multiview-switcher-3" = "Multiview Mischer 3";
+
+"multiview-switcher-4" = "Multiview Mischer 4";
+
+"multiview-switcher-auto-on-tap" = "Automatischer Übergang beim antippen";
+
 "mute" = "Stummschalten";
 
 "mute-incoming-talkback" = "Talkback-Eingang stummschalten";
@@ -1498,6 +1566,16 @@
 
 "next-transition" = "Nächster Übergang";
 
+"next-transition-me-1" = "M/E 1: Nächster Übergang";
+
+"next-transition-me-2" = "M/E 2: Nächster Übergang";
+
+"next-transition-me-3" = "M/E 3: Nächster Übergang";
+
+"next-transition-me-4" = "M/E 4: Nächster Übergang";
+
+"no-disk" = "Keine Festplatte";
+
 "no-media-selected" = "Keine Medien ausgewählt";
 
 "no-network-connection" = "Keine Netzwerk-Verbindung";
@@ -1553,6 +1631,14 @@
 "pan" = "Pan (L/R)";
 
 "panel-cut-auto" = "CUT / AUTO";
+
+"panel-cut-auto-me-1" = "M/E 1: CUT / AUTO";
+
+"panel-cut-auto-me-2" = "M/E 2: CUT / AUTO";
+
+"panel-cut-auto-me-3" = "M/E 3: CUT / AUTO";
+
+"panel-cut-auto-me-4" = "M/E 4: CUT / AUTO";
 
 "panel-landscape-bottom" = "Unten"; // Querformat Unten
 
@@ -1750,11 +1836,27 @@
 
 "preview-button" = "Prev";
 
+"preview-me-1" = "M/E 1: Vorschau";
+
+"preview-me-2" = "M/E 2: Vorschau";
+
+"preview-me-3" = "M/E 3: Vorschau";
+
+"preview-me-4" = "M/E 4: Vorschau";
+
 "preview-scale" = "Vorschau Skalierung";
 
 "preview-transition" = "Prev Trans";
 
 "preview-wide" = "Preview Wide Input";
+
+"preview-wide-me-1" = "M/E 1: Vorschau Wide Input";
+
+"preview-wide-me-2" = "M/E 2: Vorschau Wide Input";
+
+"preview-wide-me-3" = "M/E 3: Vorschau Wide Input";
+
+"preview-wide-me-4" = "M/E 4: Vorschau Wide Input";
 
 "previous" = "Voriger";
 
@@ -1826,11 +1928,43 @@
 
 "program-button" = "Prog";
 
+"program-me-1" = "M/E 1: Programm";
+
+"program-me-2" = "M/E 2: Programm";
+
+"program-me-3" = "M/E 3: Programm";
+
+"program-me-4" = "M/E 4: Programm";
+
 "program-preview" = "Programm / Vorschau";
+
+"program-preview-me-1" = "M/E 1: Programm / Vorschau";
+
+"program-preview-me-2" = "M/E 2: Programm / Vorschau";
+
+"program-preview-me-3" = "M/E 3: Programm / Vorschau";
+
+"program-preview-me-4" = "M/E 4: Programm / Vorschau";
 
 "program-preview-wide" = "Program / Preview Wide";
 
+"program-preview-wide-me-1" = "M/E 1: Programm / Vorschau Wide Input";
+
+"program-preview-wide-me-2" = "M/E 2: Programm / Vorschau Wide Input";
+
+"program-preview-wide-me-3" = "M/E 3: Programm / Vorschau Wide Input";
+
+"program-preview-wide-me-4" = "M/E 4: Programm / Vorschau Wide Input";
+
 "program-wide" = "Program Wide Input";
+
+"program-wide-me-1" = "M/E 1: Programm Wide Input";
+
+"program-wide-me-2" = "M/E 2: Programm Wide Input";
+
+"program-wide-me-3" = "M/E 3: Programm Wide Input";
+
+"program-wide-me-4" = "M/E 4: Programm Wide Input";
 
 "protocol-reload" = "Automatisch neu verbinden, wenn ein fehlendes Protokoll erkannt wird.";
 
@@ -1996,6 +2130,12 @@
 
 "run" = "Run";
 
+"run-in-background" = "Im Hintergrund ausführen";
+
+"run-in-background-instructions" = "Mit **Im Hintergrund ausführen** können Sie MixEffect mit einem ATEM Mischer verbunden halten, während Sie andere Apps verwenden.\n\n- Tippen Sie auf die Startschaltfläche Bild in Bild.\n- Das MixEffect PIP-Fenster erscheint in einer Ecke Ihres Bildschirm.\n- Sie können jetzt in anderen Anwendungen navigieren und diese verwenden, und MixEffect wird weiterhin im Hintergrund ausgeführt.\n- Während das MixEffect PIP-Fenster sichtbar ist, können Sie Folgendes tun:\n\n -    **Größe ändern Fenster**: Verwenden Sie die Pinch-Geste.\n    - **Steuerelemente ein- und ausblenden**: Tippen Sie auf das Fenster.\n    - **Fenster verschieben**: Ziehen Sie es in eine andere Ecke.\n    - **Fenster ausblenden**: Ziehen Sie zum linken oder rechten Bildschirmrand.\n    - **Schließen Sie das Fenster**: Tippen Sie auf X.\n    - **Zurück zu MixEffect**: Tippen Sie auf die Schaltfläche Bild-in-Bild.\n    - **Ausschneiden Übergang**: Tippen Sie auf „Zurück springen“.\n    - **Automatischer Übergang**: Tippen Sie auf „Vorwärts springen“.";
+
+"run-in-background-warning" = "Wenn Sie das MixEffect PIP-Fenster nicht sehen, wechseln Sie zu einem anderen Abschnitt, kehren Sie zu Im Hintergrund ausführen zurück und tippen Sie auf Start.";
+
 "run-mode" = "Run Mode";
 
 "run-to" = "Wechseln zu";
@@ -2021,6 +2161,8 @@
 "sdi-input %lld" = "SDI-Eingang %lld";
 
 "sdi-output %lld" = "SDI-Ausgang %lld";
+
+"sdi-output-source %lld %@" = "SDI-Ausgang %lld:  %@";
 
 "search" = "Suchen";
 
@@ -2276,6 +2418,8 @@
 
 "source" = "Quelle";
 
+"source-images" = "Quellbilder";
+
 "source-labels" = "Eingangs-Bezeichnungen";
 
 "speed-extra-fast" = "Extra scnhell";
@@ -2530,6 +2674,14 @@
 
 "transition-style" = "Übergangsart";
 
+"transition-style-me-1" = "M/E 1: Übergangsart";
+
+"transition-style-me-2" = "M/E 2: Übergangsart";
+
+"transition-style-me-3" = "M/E 3: Übergangsart";
+
+"transition-style-me-4" = "M/E 4: Übergangsart";
+
 "transition-type" = "Übergangstyp";
 
 "transitions" = "Übergänge";
@@ -2561,6 +2713,8 @@
 "unlock-mixeffect" = "MixEffect entsperren";
 
 "unsupported-feature" = "Funktion ist in diesem Mischer nicht verfügbar.";
+
+"unsupported-feature-mixeffect" = "Funktion ist in diesem version von MixEffect nicht unterstützt.";
 
 "untitled-page" = "Seite ohne Titel";
 
@@ -2675,29 +2829,3 @@
 "y-suppress" = "Y reduzieren";
 
 "zoom" = "Zoom";
-
-"clean-feed" = "Clean Feed";
-
-"clean-feed %lld" = "Clean Feed %lld";
-
-"mediaplayer-key %lld" = "Media Player Key %lld";
-
-"multiview %lld" = "Multiview %lld";
-
-"multiview-switcher-1" = "Multiview Mischer 1";
-
-"multiview-switcher-2" = "Multiview Mischer 2";
-
-"multiview-switcher-3" = "Multiview Mischer 3";
-
-"multiview-switcher-4" = "Multiview Mischer 4";
-
-"no-disk" = "Keine Festplatte";
-
-"run-in-background" = "Im Hintergrund ausführen";
-
-"run-in-background-instructions" = "Mit **Im Hintergrund ausführen** können Sie MixEffect mit einem ATEM Mischer verbunden halten, während Sie andere Apps verwenden.\n\n- Tippen Sie auf die Startschaltfläche Bild in Bild.\n- Das MixEffect PIP-Fenster erscheint in einer Ecke Ihres Bildschirm.\n- Sie können jetzt in anderen Anwendungen navigieren und diese verwenden, und MixEffect wird weiterhin im Hintergrund ausgeführt.\n- Während das MixEffect PIP-Fenster sichtbar ist, können Sie Folgendes tun:\n\n -    **Größe ändern Fenster**: Verwenden Sie die Pinch-Geste.\n    - **Steuerelemente ein- und ausblenden**: Tippen Sie auf das Fenster.\n    - **Fenster verschieben**: Ziehen Sie es in eine andere Ecke.\n    - **Fenster ausblenden**: Ziehen Sie zum linken oder rechten Bildschirmrand.\n    - **Schließen Sie das Fenster**: Tippen Sie auf X.\n    - **Zurück zu MixEffect**: Tippen Sie auf die Schaltfläche Bild-in-Bild.\n    - **Ausschneiden Übergang**: Tippen Sie auf „Zurück springen“.\n    - **Automatischer Übergang**: Tippen Sie auf „Vorwärts springen“.";
-
-"run-in-background-warning" = "Wenn Sie das MixEffect PIP-Fenster nicht sehen, wechseln Sie zu einem anderen Abschnitt, kehren Sie zu Im Hintergrund ausführen zurück und tippen Sie auf Start.";
-
-"source-images" = "Quellbilder";

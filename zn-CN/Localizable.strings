@@ -340,6 +340,10 @@
 
 "chroma-title-helper-description" = "创建动态标题及标题字幕供色度上游键使用";
 
+"clean-feed" = "Clean Feed";
+
+"clean-feed %lld" = "Clean Feed %lld";
+
 "clear" = "清空";
 
 "clear-macro" = "清空所有宏";
@@ -391,6 +395,14 @@
 "color-scheme-system" = "系统";
 
 "compact-controls" = "紧凑型控制";
+
+"compact-controls-me-1" = "M/E 1: 紧凑型控制";
+
+"compact-controls-me-2" = "M/E 2: 紧凑型控制";
+
+"compact-controls-me-3" = "M/E 3: 紧凑型控制";
+
+"compact-controls-me-4" = "M/E 4: 紧凑型控制";
 
 "companion" = "Companion";
 
@@ -816,7 +828,23 @@
 
 "fader-bar" = "推捍";
 
+"fader-bar-me-1" = "M/E 1: 推捍";
+
+"fader-bar-me-2" = "M/E 2: 推捍";
+
+"fader-bar-me-3" = "M/E 3: 推捍";
+
+"fader-bar-me-4" = "M/E 4: 推捍";
+
 "fader-bar-vertical" = "推捍(垂直)";
+
+"fader-bar-vertical-me-1" = "M/E 1: 推捍(垂直)";
+
+"fader-bar-vertical-me-2" = "M/E 2: 推捍(垂直)";
+
+"fader-bar-vertical-me-3" = "M/E 3: 推捍(垂直)";
+
+"fader-bar-vertical-me-4" = "M/E 4: 推捍(垂直)";
 
 "fader-gain" = "推子增益";
 
@@ -841,6 +869,14 @@
 "flip-flop" = "反转";
 
 "flying-key" = "飞键";
+
+"flying-key-me-1" = "M/E 1: 飞键";
+
+"flying-key-me-2" = "M/E 2: 飞键";
+
+"flying-key-me-3" = "M/E 3: 飞键";
+
+"flying-key-me-4" = "M/E 4: 飞键";
 
 "flying-key-run" = "运行飞键";
 
@@ -871,6 +907,14 @@
 "from" = "从";
 
 "ftb" = "FTB";
+
+"ftb-me-1" = "M/E 1: FTB";
+
+"ftb-me-2" = "M/E 2: FTB";
+
+"ftb-me-3" = "M/E 3: FTB";
+
+"ftb-me-4" = "M/E 4: FTB";
 
 "full" = "全部";
 
@@ -1318,13 +1362,21 @@
 
 "mb" = "MB";
 
+"me-menu-in-switcher-section" = "将 MixEffect Bus Picker 显示为菜单";
+
 "media" = "媒体";
+
+"media-error" = "磁盘错误";
+
+"media-full" = "磁盘已满";
 
 "media-open" = "打开媒体";
 
 "media-pool" = "媒体池";
 
 "media-pool-split" = "更改媒体池拆分将删除媒体池中的所有剪辑帧.\n\n此操作无法撤销.";
+
+"media-unformatted" = "磁盘未格式化";
 
 "mediaplayer" = "媒体播放器";
 
@@ -1337,6 +1389,8 @@
 "mediaplayer-3" = "MP3";
 
 "mediaplayer-4" = "MP4";
+
+"mediaplayer-key %lld" = "媒體播放器 Key %lld";
 
 "mediaplayer-set" = "设置MP";
 
@@ -1420,6 +1474,20 @@
 
 "multiview" = "多画面显示";
 
+"multiview %lld" = "多畫面顯示控 %lld";
+
+"multiview-switcher" = "多畫面顯示控制器";
+
+"multiview-switcher-1" = "多畫面顯示控制器 1";
+
+"multiview-switcher-2" = "多畫面顯示控制器 2";
+
+"multiview-switcher-3" = "多畫面顯示控制器 3";
+
+"multiview-switcher-4" = "多畫面顯示控制器 4";
+
+"multiview-switcher-auto-on-tap" = "单击时执行自动转换";
+
 "mute" = "静音";
 
 "mute-incoming-talkback" = "静音所有输入对讲器";
@@ -1498,6 +1566,16 @@
 
 "next-transition" = "下一个转场";
 
+"next-transition-me-1" = "M/E 1: 下一个转场";
+
+"next-transition-me-2" = "M/E 2: 下一个转场";
+
+"next-transition-me-3" = "M/E 3: 下一个转场";
+
+"next-transition-me-4" = "M/E 4: 下一个转场";
+
+"no-disk" = "沒有磁盤";
+
 "no-media-selected" = "未选择媒体";
 
 "no-network-connection" = "无网络连接";
@@ -1553,6 +1631,14 @@
 "pan" = "Pan";
 
 "panel-cut-auto" = "Cut / Auto";
+
+"panel-cut-auto-me-1" = "M/E 1: Cut / Auto";
+
+"panel-cut-auto-me-2" = "M/E 2: Cut / Auto";
+
+"panel-cut-auto-me-3" = "M/E 3: Cut / Auto";
+
+"panel-cut-auto-me-4" = "M/E 4: Cut / Auto";
 
 "panel-landscape-bottom" = "底"; // 横向底部
 
@@ -1750,11 +1836,27 @@
 
 "preview-button" = "预览";
 
+"preview-me-1" = "M/E 1: 预览";
+
+"preview-me-2" = "M/E 2: 预览";
+
+"preview-me-3" = "M/E 3: 预览";
+
+"preview-me-4" = "M/E 4: 预览";
+
 "preview-scale" = "预览比例";
 
 "preview-transition" = "上一个转场";
 
 "preview-wide" = "预览 (宽输入)";
+
+"preview-wide-me-1" = "M/E 1: 预览 (宽输入)";
+
+"preview-wide-me-2" = "M/E 2: 预览 (宽输入)";
+
+"preview-wide-me-3" = "M/E 3: 预览 (宽输入)";
+
+"preview-wide-me-4" = "M/E 4: 预览 (宽输入)";
 
 "previous" = "上一个";
 
@@ -1826,11 +1928,43 @@
 
 "program-button" = "节目";
 
+"program-me-1" = "M/E 1: 节目";
+
+"program-me-2" = "M/E 2: 节目";
+
+"program-me-3" = "M/E 3: 节目";
+
+"program-me-4" = "M/E 4: 节目";
+
 "program-preview" = "节目 / 预览";
+
+"program-preview-me-1" = "M/E 1: 节目 / 预览";
+
+"program-preview-me-2" = "M/E 2: 节目 / 预览";
+
+"program-preview-me-3" = "M/E 3: 节目 / 预览";
+
+"program-preview-me-4" = "M/E 4: 节目 / 预览";
 
 "program-preview-wide" = "节目 / 预览 (宽输入)";
 
+"program-preview-wide-me-1" = "M/E 1: 节目 / 预览 (宽输入)";
+
+"program-preview-wide-me-2" = "M/E 2: 节目 / 预览 (宽输入)";
+
+"program-preview-wide-me-3" = "M/E 3: 节目 / 预览 (宽输入)";
+
+"program-preview-wide-me-4" = "M/E 4: 节目 / 预览 (宽输入)";
+
 "program-wide" = "节目 (宽输入)";
+
+"program-wide-me-1" = "M/E 1: 节目 (宽输入)";
+
+"program-wide-me-2" = "M/E 2: 节目 (宽输入)";
+
+"program-wide-me-3" = "M/E 3: 节目 (宽输入)";
+
+"program-wide-me-4" = "M/E 4: 节目 (宽输入)";
 
 "protocol-reload" = "检测到协议丢失时重新连接";
 
@@ -1996,6 +2130,12 @@
 
 "run" = "运行";
 
+"run-in-background" = "在后台运行";
+
+"run-in-background-instructions" = "借助**在后台运行**，您可以在使用其他应用程序时保持 MixEffect 连接到 ATEM 切换台。\n\n- 点击画中画开始按钮。\n- MixEffect PIP 窗口出现在您的一角 屏幕。\n- 您现在可以导航和使用其他应用程序，并且 MixEffect 将继续在后台运行。\n- 当 MixEffect PIP 窗口可见时，您可以执行以下操作：\n\n    - **调整 窗口**：使用捏合手势。\n    - **显示和隐藏控件**：点击窗口。\n    - **移动窗口**：拖动到其他角落。\n    - **隐藏窗口**：拖动到屏幕的左边缘或右边缘。\n    - **关闭窗口**：点击 X。\n    - **返回 MixEffect**：点击画中画按钮。\n    - **剪切 过渡**：点击向后跳过。\n    - **自动过渡**：点击向前跳过。";
+
+"run-in-background-warning" = "如果您沒有看到 MixEffect PIP 窗口，請轉到另一部分，返回在後台運行，然後單擊開始。";
+
 "run-mode" = "运行模式";
 
 "run-to" = "运行至";
@@ -2021,6 +2161,8 @@
 "sdi-input %lld" = "SDI 输入 %lld";
 
 "sdi-output %lld" = "SDI 输出 %lld";
+
+"sdi-output-source %lld %@" = "SDI 输出 %lld: %@";
 
 "search" = "搜索";
 
@@ -2276,6 +2418,8 @@
 
 "source" = "来源";
 
+"source-images" = "源圖像";
+
 "source-labels" = "来源标签";
 
 "speed-extra-fast" = "非常快";
@@ -2530,6 +2674,14 @@
 
 "transition-style" = "转场效果";
 
+"transition-style-me-1" = "M/E 1: 转场效果";
+
+"transition-style-me-2" = "M/E 2: 转场效果";
+
+"transition-style-me-3" = "M/E 3: 转场效果";
+
+"transition-style-me-4" = "M/E 4: 转场效果";
+
 "transition-type" = "转场类型";
 
 "transitions" = "转场";
@@ -2561,6 +2713,8 @@
 "unlock-mixeffect" = "解锁MixEffect";
 
 "unsupported-feature" = "此切换台不支持此功能.";
+
+"unsupported-feature-mixeffect" = "此版本的 MixEffect 不支持此功能。";
 
 "untitled-page" = "未命名页面";
 
@@ -2675,29 +2829,3 @@
 "y-suppress" = "Y 抑制";
 
 "zoom" = "变焦";
-
-"clean-feed" = "Clean Feed";
-
-"clean-feed %lld" = "Clean Feed %lld";
-
-"mediaplayer-key %lld" = "媒體播放器 Key %lld";
-
-"multiview %lld" = "多畫面顯示控 %lld";
-
-"multiview-switcher-1" = "多畫面顯示控制器 1";
-
-"multiview-switcher-2" = "多畫面顯示控制器 2";
-
-"multiview-switcher-3" = "多畫面顯示控制器 3";
-
-"multiview-switcher-4" = "多畫面顯示控制器 4";
-
-"no-disk" = "沒有磁盤";
-
-"run-in-background" = "在后台运行";
-
-"run-in-background-instructions" = "借助**在后台运行**，您可以在使用其他应用程序时保持 MixEffect 连接到 ATEM 切换台。\n\n- 点击画中画开始按钮。\n- MixEffect PIP 窗口出现在您的一角 屏幕。\n- 您现在可以导航和使用其他应用程序，并且 MixEffect 将继续在后台运行。\n- 当 MixEffect PIP 窗口可见时，您可以执行以下操作：\n\n    - **调整 窗口**：使用捏合手势。\n    - **显示和隐藏控件**：点击窗口。\n    - **移动窗口**：拖动到其他角落。\n    - **隐藏窗口**：拖动到屏幕的左边缘或右边缘。\n    - **关闭窗口**：点击 X。\n    - **返回 MixEffect**：点击画中画按钮。\n    - **剪切 过渡**：点击向后跳过。\n    - **自动过渡**：点击向前跳过。";
-
-"run-in-background-warning" = "如果您沒有看到 MixEffect PIP 窗口，請轉到另一部分，返回在後台運行，然後單擊開始。";
-
-"source-images" = "源圖像";
